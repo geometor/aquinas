@@ -1,0 +1,2277 @@
+{
+  "title": "Hoenen–Aquinas–Aristotle–Euclid–GEOMETOR Master Concordance",
+  "description": "Complete critical concordance mapping 100% of the 78 Thomistic and Pseudo-Thomistic citation keys in Peter Hoenen S.J.'s De Noetica Geometriae (1954)—together with Luca Pacioli's De Divina Proportione (1509), Hoenen's La théorie du jugement d'après St. Thomas d'Aquin (1946/1953), and Bernard Lonergan's Verbum (1946/1967)—to their critical editions, underlying Aristotelian loci, Euclidean counterparts, and GEOMETOR symbolic architecture.",
+  "summary_counts": {
+    "total_hoenen_thomistic_keys": 78,
+    "authentic_aquinas_keys": 76,
+    "pseudo_thomas_keys": 2,
+    "full_text_in_codex_keys": 39,
+    "complementary_loci_keys": 39
+  },
+  "sister_codex_bridges": [
+    {
+      "repository": "geometor-hoenen",
+      "work": "P. H. J. Hoenen, S.J., De Noetica Geometriae: Origine Theoriae Cognitionis (Romae: Apud Aedes Universitatis Gregorianae, 1954)",
+      "bridge_summary": "Cites St. Thomas Aquinas across 78 distinct locus keys to establish that geometric axioms and theorems arise through intuitive formal abstraction (*abstractio intuitiva formalis*) within spatial phantasms (*materia intelligibilis*) prior to propositional judgment."
+    },
+    {
+      "repository": "geometor-pacioli",
+      "work": "Fra Luca Pacioli, O.F.M., De Divina Proportione (Venice: Paganino Paganini, 1509), Pars I, Capp. II–VII",
+      "bridge_summary": "Echoes the Aristotelian-Thomistic hierarchy of speculative sciences (*Super Boetium De Trinitate* qq. 5–6 and *Posterior Analytics* I.1): mathematical science stands in the *primo grado di certezza* ('first degree of certainty'), abstracting continuous and discrete quantity to contemplate the Divine Proportion ($\\phi$) and the five regular Platonic solids."
+    },
+    {
+      "repository": "geometor-euclid / geometor-elements",
+      "work": "Euclid, Elements (Books I–XIII; Byrne 1847 color diagrams & symbolic DAGs)",
+      "bridge_summary": "Supplies every concrete geometric paradigm analyzed by Aquinas: Definitions of point, line, surface, circle (*Metaph.* VII.10–11); Postulates & Common Notions (*Anal. Post.* I.5, I.18–19); equilateral construction I.1 (*Anal. Post.* I.2); congruence I.4 (*Phys.* IV.7); triangle angle-sum I.32 & semicircle right angle III.31 (*Metaph.* IX.10); and diagonal incommensurability (*Metaph.* V.9)."
+    },
+    {
+      "repository": "geometor-model / geometor-explorer / geometor-divine",
+      "work": "GEOMETOR Symbolic Engine, Interactive Phantasm Canvas, and Golden Ratio Discovery",
+      "bridge_summary": "Computationally embodies Thomistic geometric noetics: `geometor.model` encodes pure *materia intelligibilis* in exact SymPy algebraic fields; `geometor.explorer` renders the determinate visual *phantasma* required by *conversio ad phantasmata*; and `geometor.divine` performs *inventio per divisionem in actu* to uncover emergent golden sections."
+    }
+  ],
+  "entries": [
+    {
+      "key": "aquinas:anal-post",
+      "slug": "aquinas-anal-post",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "In Aristotelis Libros Posteriorum Analyticorum Expositio",
+      "locus": "passim",
+      "critical_edition_ref": "Leonine I* 2, Expositio libri Posteriorum Analyticorum, Lib. I–II",
+      "codex_status": "full_text",
+      "codex_part": "pars-2",
+      "codex_ref": "pars-2-s1-en",
+      "aristotle_source": "Posterior Analytics I–II (71a1–100b17)",
+      "euclid_elements_link": "Axiomatic architecture of Euclid's *Elements* as paradigm of *scientia demonstrativa*",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0187",
+          "page": "187",
+          "book": "Caput V",
+          "section": "05_caput_5",
+          "display": "S. Th."
+        }
+      ],
+      "hoenen_sample_context_en": "In cases where we are dealing with the disposition of things \"of which there is no phantasm\" (:cite:`St. Thomas <aquinas:anal-post>`), concerning those, namely, that \"are in our soul,\" the utility, indeed the necessity, of employing verbal formulas having \"stability\" will be even greater. In order that we may truly understand such dispositions of things, we must arouse them in our mind, just as to understand in act in geometric matters we must inspect the phantasm; and such a vital action is alr",
+      "hoenen_sample_context_la": "In casibus ubi agitur de dispositione rerum « quorum non est phantasma » (:cite:`S. Th. <aquinas:anal-post>`), de eis scilicet quae « sunt in anima nostra », etiam maior erit utilitas, immo necessitas adhibendi formulas verbales, quae « stabilitatem » habent. Ut tales dispositiones rerum revera intelligamus, debemus eas suscitare in mente nostra, sicut ad intelligendum actu in geometricis debemus inspicere phantasma ; et talis actio vitalis iam est magis dynamica quam statica. Insuper talis oper",
+      "hoenen_thesis": "Cites Aquinas's *Posterior Analytics* commentary as the overarching scholastic synthesis of Aristotelian demonstrative science and Euclidean axiomatics against modern pure formalism.",
+      "geometor_relevance": "Provides the logical meta-theory for constructive DAGs and axiomatic derivation in `geometor.elements`."
+    },
+    {
+      "key": "aquinas:anal-post:I.1.10",
+      "slug": "aquinas-anal-post-i-1-10",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "In Aristotelis Libros Posteriorum Analyticorum Expositio",
+      "locus": "I.1.10",
+      "critical_edition_ref": "Leonine I* 2, Lib. I, lect. 1, n. 10–12",
+      "codex_status": "full_text",
+      "codex_part": "pars-2",
+      "codex_ref": "pars-2-s1-en",
+      "aristotle_source": "Posterior Analytics I.1, 71a1–11",
+      "euclid_elements_link": "Euclid's *Elements* as the canonical realization of *certissimus modus demonstrationis*",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0011",
+          "page": "11",
+          "book": "Caput I",
+          "section": "01_caput_1",
+          "display": "Anal. Post. I lect, 1 n. 10"
+        }
+      ],
+      "hoenen_sample_context_en": "Hence :person:`Aristotle <aristotle>`, in these investigations, almost always keeps before his eyes as the archetype of science: geometry—both when he treats of demonstrative science in general, and, as is self-evident, in the very numerous cases in which he draws examples from geometry. :person:`St. Thomas <aquinas>` notes this at the very beginning of his commentary; he says (:cite:`*Anal. Post.* I, lect. 1, n. 10 <aquinas:anal-post:I.1.10>`): \"[:person:`Aristotle <aristotle>`] manifests the p",
+      "hoenen_sample_context_la": "Unde :person:`Aristoteles <aristotle>` in his inquisitionibus fere semper ante oculos habet tanquam typum scientiae : geometriam ; tum ubi in genere de scientia demonstrativa agit, tum, ut per se patet, in permultis casibus in quibus exempla ex geometria desumit. :person:`S. Thomas <aquinas>` id iam in initio sui commentarii animadvertit ; ait (:cite:`*Anal. Post.* I lect, 1 n. 10 <aquinas:anal-post:I.1.10>`) : « Manifestat [:person:`Aristoteles <aristotle>`] propositionem praemissam per inducti",
+      "hoenen_thesis": "Establishes that mathematics alone among human sciences attains the 'most certain mode of demonstration' (*certissimum modum*) because it abstracts from sensible flux without transcending imaginative verification.",
+      "geometor_relevance": "Justifies exact symbolic computation (SymPy exact algebraic fields) over probabilistic or floating-point heuristics."
+    },
+    {
+      "key": "aquinas:anal-post:I.10.7",
+      "slug": "aquinas-anal-post-i-10-7",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "In Aristotelis Libros Posteriorum Analyticorum Expositio",
+      "locus": "I.10.7",
+      "critical_edition_ref": "Leonine I* 2, Lib. I, lect. 10, n. 7",
+      "codex_status": "concordance_locus",
+      "codex_part": "concordance",
+      "codex_ref": "conc-aquinas-anal-post-i-10-7",
+      "aristotle_source": "Posterior Analytics I.4, 73b25–74a3",
+      "euclid_elements_link": "Elements I.32 (interior angles equal to two right angles belonging *per se* and *secundum quod ipsum* to triangle qua triangle, not qua isosceles)",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0057",
+          "page": "57",
+          "book": "Caput II",
+          "section": "02_caput_2",
+          "display": "S. Thomas Analyt. Post. I lect. 10 n. 7"
+        }
+      ],
+      "hoenen_sample_context_en": "Cases exist in which from the very form of the subject the form of the predicate *flows*; for example, \"the extended is divisible,\" \"multitude is divisible,\" \"this specific number (5040) can be divided into pairs, triads, etc.\" In such a case in any suppositum that is informed by the form of the subject, the form of the predicate is *necessarily* present. This is had especially in the \"fourth mode of per se predication,\" \"according to which this preposition *per* designates the relation of an ef",
+      "hoenen_sample_context_la": "Adsunt casus in quibus ex ipsa forma subiecti forma praedicati *profluat* ; v. g. « extensum est divisibile », « multitudo est divisibilis », hic specifice numerus (5040) dividi potest in duades, triades etc. ». In tali casu in quovis supposito, quod informatur per formam subiecti, *necessario* adest forma praedicati. Id praesertim habetur in « quarto modo dicendi per se », « secundum quem haec praepositio *per* designat habitudinem causae efficientis vel cuiusque alterius » (:cite:`S. Thomas *A",
+      "hoenen_thesis": "Defines *universale / secundum quod ipsum* (*commensurate universal*) predication: the geometer proves two right angles of triangle universally only when abstracting from equilateral, isosceles, or scalene particularities.",
+      "geometor_relevance": "Models structural invariance across parametric configurations in `geometor.model` and `geometor.explorer`."
+    },
+    {
+      "key": "aquinas:anal-post:I.15",
+      "slug": "aquinas-anal-post-i-15",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "In Aristotelis Libros Posteriorum Analyticorum Expositio",
+      "locus": "I.15",
+      "critical_edition_ref": "Leonine I* 2, Lib. I, lect. 15",
+      "codex_status": "concordance_locus",
+      "codex_part": "concordance",
+      "codex_ref": "conc-aquinas-anal-post-i-15",
+      "aristotle_source": "Posterior Analytics I.7, 75a38–b20",
+      "euclid_elements_link": "Prohibition of *metabasis eis allo genos* between arithmetic (Book VII–IX) and continuous magnitude (Book I–VI), bridged only by proportion (Book V)",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0223",
+          "page": "223",
+          "book": "Caput VII",
+          "section": "07_caput_7",
+          "display": "Anal. Post. I l. 15"
+        }
+      ],
+      "hoenen_sample_context_en": "We were saying, therefore, that the fundamental subject of geometry is extension. This is not infrequently expressed by :person:`St. Thomas <aquinas>` in this way: the \"subject genus\" (*genus subiectum*) or even simply the \"subject\" of geometry is magnitude (*magnitudo*; :cite:`*In I Anal. Post.*, lect. 15 <aquinas:anal-post:I.15>`). Where there is discourse concerning such a subject of a science, there is often also added: the subject's \"proper passions or *per se* accidents\" (*propriae passion",
+      "hoenen_sample_context_la": "Subiectum igitur fundamentale geometriae dicebamus esse extensionem. Id a :person:`S. Thoma <aquinas>` non raro ita exprimitur : « genus subiectum » vel etiam simpliciter « subiectum » geometriae est magnitudo (:cite:`*Anal. Post.* I l. 15 <aquinas:anal-post:I.15>`). Ubi de tali subiecto scientiae sermo est saepe etiam additur : subiecti « propriae passiones vel per se accidentia ». Addebamus vocem « fundamentale », ut id distingueremus a subiectis quasi secundariis scientiae. Nam etiam figurae,",
+      "hoenen_thesis": "Examines why demonstrations cannot cross from one *genus subiectum* to an unrelated genus except where a superior mathematical science supplies the *propter quid* to a subalternate science.",
+      "geometor_relevance": "Clarifies the algebraic bridge between discrete integer ratios and continuous quadratic/radical extensions in `geometor.divine`."
+    },
+    {
+      "key": "aquinas:anal-post:I.17.4",
+      "slug": "aquinas-anal-post-i-17-4",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "In Aristotelis Libros Posteriorum Analyticorum Expositio",
+      "locus": "I.17.4",
+      "critical_edition_ref": "Leonine I* 2, Lib. I, lect. 17, n. 4–5",
+      "codex_status": "full_text",
+      "codex_part": "pars-2",
+      "codex_ref": "pars-2-s7-en",
+      "aristotle_source": "Posterior Analytics I.9, 76a16–25",
+      "euclid_elements_link": "Why geometry assumes its own Postulates and Common Notions while leaving their ultimate epistemological defense to First Philosophy",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0012",
+          "page": "12",
+          "book": "Caput I",
+          "section": "01_caput_1",
+          "display": "lect. 17 n. 4"
+        }
+      ],
+      "hoenen_sample_context_en": "This doctrine reappears, as it seems, in a more developed form in :person:`Aristotle <aristotle>`. He distinguishes (:cite:`*Anal. Post.* I, ch. 2 <aristotle:anal-post:I.2>`) among the propositions that serve as principles of the sciences: those that are :term:`ἀξιώματα <axioma>` (common conceptions of the mind, dignities) from those that are either :term:`ὑποθέσεις <hypothesis>` (suppositions) or :term:`αἰτήματα <aitema>` (petitions, postulates). The difference may be briefly described thus: an",
+      "hoenen_sample_context_la": "Haec doctrina magis evoluta, ut videtur, apud :person:`Aristotelem <aristotle>` redit. Distinguit (:cite:`*Anal. Post.* I cap. 2 <aristotle:anal-post:I.2>`) inter propositiones, quae sunt principia scientiarum, illas quae sunt :term:`ἀξιώματα <axioma>` (communes animi conceptiones, dignitates) ab eis quae sunt sive :term:`ὑποθέσεις <hypothesis>` (suppositiones) sive :term:`αἰτήματα <aitema>` (petitiones, postulata). Differentia brevi ita describi potest : :term:`ἀξίωμα <axioma>` est cuilibet evi",
+      "hoenen_thesis": "Shows why the geometer qua geometer does not dispute with one who denies geometric principles, whereas metaphysics (*philosophia prima*) sapientially defends the objective validity of first principles.",
+      "geometor_relevance": "Situates `geometor-aquinas` and `geometor-hoenen` as the foundational epistemological meta-layer of the GEOMETOR ecosystem."
+    },
+    {
+      "key": "aquinas:anal-post:I.19.2",
+      "slug": "aquinas-anal-post-i-19-2",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "In Aristotelis Libros Posteriorum Analyticorum Expositio",
+      "locus": "I.19.2",
+      "critical_edition_ref": "Leonine I* 2, Lib. I, lect. 19, n. 2–3",
+      "codex_status": "full_text",
+      "codex_part": "pars-2",
+      "codex_ref": "pars-2-s9-en",
+      "aristotle_source": "Posterior Analytics I.10, 76b23–34",
+      "euclid_elements_link": "Euclid's Postulates 1–5 (*petitiones*) vs. Hypotheses (*suppositiones*) vs. Common Notions (*dignitates*)",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0144",
+          "page": "144",
+          "book": "Caput IV",
+          "section": "04_caput_4",
+          "display": "S. Th. lect."
+        },
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0145",
+          "page": "145",
+          "book": "Caput IV",
+          "section": "04_caput_4",
+          "display": "19 n. 2"
+        }
+      ],
+      "hoenen_sample_context_en": "It is manifest, therefore, that in classical geometry certain truths are employed as \"first principles\" that are not immediately evident, that require deduction and can be deduced. Observing this, we remember the things that we were taught earlier (§ 1) by :person:`Aristotle <aristotle>`. Let us resume them according to the explanation of :person:`St. Thomas <aquinas>`. In :cite:`*Anal. Post.* I 2 <aristotle:anal-post:I.2>` and :cite:`10 <aristotle:anal-post:I.10>`, :person:`Aristotle <aristotle",
+      "hoenen_sample_context_la": "Manifestum igitur est, in geometria classica quasdam veritates ut « principia prima » adhiberi, quae non sunt immediate evidentia, quae deductione indigent et deduci possunt. Id animadvertentes, meminimus eorum quae antea (§ 1) ab :person:`Aristotele <aristotle>` edocti sumus. Resumamus ea secundum explicationem :person:`S. Thomae <aquinas>`. In :cite:`*Anal. Post.* I 2 <aristotle:anal-post:I.2>` et :cite:`10 <aristotle:anal-post:I.10>` :person:`Aristoteles <aristotle>` distinguit « :term:`axiom",
+      "hoenen_thesis": "Distinguishes *suppositiones* (propositions to which the learner assents) from *petitiones* (postulates assumed even without prior opinion of the learner) and self-evident *communes animi conceptiones*.",
+      "geometor_relevance": "Directly illuminates Postulates 1–3 (line and circle constructors) and Postulate 5 (parallel postulate) in `geometor.elements`."
+    },
+    {
+      "key": "aquinas:anal-post:I.19.4",
+      "slug": "aquinas-anal-post-i-19-4",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "In Aristotelis Libros Posteriorum Analyticorum Expositio",
+      "locus": "I.19.4",
+      "critical_edition_ref": "Leonine I* 2, Lib. I, lect. 19, n. 4–6",
+      "codex_status": "full_text",
+      "codex_part": "pars-2",
+      "codex_ref": "pars-2-s9-en",
+      "aristotle_source": "Posterior Analytics I.10, 76b39–77a3",
+      "euclid_elements_link": "Geometric diagrams drawn in dust/chalk vs. the intelligible lines signified by them",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0145",
+          "page": "145",
+          "book": "Caput IV",
+          "section": "04_caput_4",
+          "display": "ibid. lect. 19 n. 4"
+        },
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0145",
+          "page": "145",
+          "book": "Caput IV",
+          "section": "04_caput_4",
+          "display": "S. Th. ibid."
+        }
+      ],
+      "hoenen_sample_context_en": "It is manifest, therefore, that in classical geometry certain truths are employed as \"first principles\" that are not immediately evident, that require deduction and can be deduced. Observing this, we remember the things that we were taught earlier (§ 1) by :person:`Aristotle <aristotle>`. Let us resume them according to the explanation of :person:`St. Thomas <aquinas>`. In :cite:`*Anal. Post.* I 2 <aristotle:anal-post:I.2>` and :cite:`10 <aristotle:anal-post:I.10>`, :person:`Aristotle <aristotle",
+      "hoenen_sample_context_la": "Manifestum igitur est, in geometria classica quasdam veritates ut « principia prima » adhiberi, quae non sunt immediate evidentia, quae deductione indigent et deduci possunt. Id animadvertentes, meminimus eorum quae antea (§ 1) ab :person:`Aristotele <aristotle>` edocti sumus. Resumamus ea secundum explicationem :person:`S. Thomae <aquinas>`. In :cite:`*Anal. Post.* I 2 <aristotle:anal-post:I.2>` et :cite:`10 <aristotle:anal-post:I.10>` :person:`Aristoteles <aristotle>` distinguit « :term:`axiom",
+      "hoenen_thesis": "Refutes the accusation that the geometer reasons from falsehoods when calling a rough line drawn in dust 'one foot long' or 'straight': the geometer demonstrates not of the sensible trace, but of the intelligible continuum signified through it.",
+      "geometor_relevance": "Core charter of GEOMETOR: an SVG rendering on a finite screen (`geometor.explorer`) is only the sensible/imaginative sign; the demonstration operates upon exact SymPy algebraic entities (`geometor.model`)."
+    },
+    {
+      "key": "aquinas:anal-post:I.2.5",
+      "slug": "aquinas-anal-post-i-2-5",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "In Aristotelis Libros Posteriorum Analyticorum Expositio",
+      "locus": "I.2.5",
+      "critical_edition_ref": "Leonine I* 2, Lib. I, lect. 2, n. 5",
+      "codex_status": "full_text",
+      "codex_part": "pars-2",
+      "codex_ref": "pars-2-s2-en",
+      "aristotle_source": "Posterior Analytics I.1, 71a11–17",
+      "euclid_elements_link": "Elements I.def.19–20 (nominal/quidditative definition of triangle) vs. Elements I.1 (demonstrative construction proving *quia est*)",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0146",
+          "page": "146",
+          "book": "Caput IV",
+          "section": "04_caput_4",
+          "display": "Anal. Post. I lect. 2 n. 5"
+        },
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0223",
+          "page": "223",
+          "book": "Caput VII",
+          "section": "07_caput_7",
+          "display": "Anal. Post. I lect. 2 n. 5"
+        }
+      ],
+      "hoenen_sample_context_en": ":person:`Euclid <euclid>` is carped at because *without argument* he assumes that those two circles intersect each other; which he manifestly does, for he speaks simply of \"the point *C*, in which the circles intersect each other.\" Next, :person:`Russell <russell>` (with many others) affirms that :person:`Euclid <euclid>` in this proposition wishes only to demonstrate the mathematical existence of an equilateral triangle (upon a straight line of any length whatever in any site whatever, as a sid",
+      "hoenen_sample_context_la": ":person:`Euclides <euclid>` carpitur ex eo quod *sine argumento* assumit, duos illos circulos inter se secare ; id quod manifeste facit, nam loquitur simpliciter de « puncto *C*, in quo circuli inter se secant ». Dein :person:`Russell <russell>` (cum aliis multis) affirmat, :person:`Euclidem <euclid>` in hac propositione tantum velle demonstrare existentiam mathematicam trianguli aequilateri (supra rectam cuiusvis longitudinis in quovis situ, tanquam latus). [#fnote]_ Id verissimum esse, nobis q",
+      "hoenen_thesis": "Distinguishes the twofold foreknowledge (*praecognitio*): regarding principles one must foreknow *quia verum est*; regarding the subject-genus (unit, magnitude) both *quid est* and *quia est*; regarding derived figures and attributes (triangle, angle-sum) first *quid nominis* and then *quia est* via construction.",
+      "geometor_relevance": "Explains why Euclid I.1 constructs an equilateral triangle before assuming triangles exist: in `geometor.model`, geometric existence (*quia est*) is established by constructive intersection."
+    },
+    {
+      "key": "aquinas:anal-post:I.42.7",
+      "slug": "aquinas-anal-post-i-42-7",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "In Aristotelis Libros Posteriorum Analyticorum Expositio",
+      "locus": "I.42.7",
+      "critical_edition_ref": "Leonine I* 2, Lib. I, lect. 42, n. 3–7",
+      "codex_status": "full_text",
+      "codex_part": "pars-2",
+      "codex_ref": "pars-2-s10-en",
+      "aristotle_source": "Posterior Analytics I.27, 87a31–37",
+      "euclid_elements_link": "Elements I.def.1 (point as indivisible having position in the continuum) vs. VII.def.1 (unit without position)",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0066",
+          "page": "66",
+          "book": "Caput III",
+          "section": "03_caput_3",
+          "display": "lect. 42 n. 7"
+        }
+      ],
+      "hoenen_sample_context_en": "The principal point to which we must now attend is not the consequent of this conditional, namely that for *science* (on account of the necessity and universality of this proposition concerning the triangle) demonstration would be required; but rather let us attend to this: :person:`Aristotle <aristotle>` indicates very well the diversity that exists between sensitive data, which never indicate exactly the sum of the angles, and geometric truth, manifest to the intellect. And :person:`St. Thomas",
+      "hoenen_sample_context_la": "Principale, ad quod nunc attendendum, non est consequens huius conditionalis, scil. quod ad *scientiam* (propter necessitatem et universalitatem huius propositionis de triangulo) requireretur demonstratio ; sed potius ad hoc attendamus : :person:`Aristoteles <aristotle>` optime indicat diversitatem quae est inter data sensitiva, quae nunquam exacte indicant summam angulorum, et veritatem geometricam, intellectui manifestam. Et :person:`S. Thomas <aquinas>` in suo commentario (:cite:`lect. 42 n. ",
+      "hoenen_thesis": "Demonstrates how geometry adds *positio* (spatial situs in *materia intelligibilis*) to the arithmetical unit: *unitas est substantia non posita, punctus autem est substantia posita*.",
+      "geometor_relevance": "Explains why every `Point(x, y)` in `geometor.model` is defined by exact algebraic coordinates encoding *positio* within the plane."
+    },
+    {
+      "key": "aquinas:anal-post:I.5.7",
+      "slug": "aquinas-anal-post-i-5-7",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "In Aristotelis Libros Posteriorum Analyticorum Expositio",
+      "locus": "I.5.7",
+      "critical_edition_ref": "Leonine I* 2, Lib. I, lect. 5, n. 7",
+      "codex_status": "full_text",
+      "codex_part": "pars-2",
+      "codex_ref": "pars-2-s5-en",
+      "aristotle_source": "Posterior Analytics I.2, 72a14–24",
+      "euclid_elements_link": "Division of Euclidean first principles into Common Notions (*dignitates*), Definitions (*positiones quid est*), and Postulates/Hypotheses (*suppositiones*)",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0012",
+          "page": "12",
+          "book": "Caput I",
+          "section": "01_caput_1",
+          "display": "Anal. Post. I lect. 5 n. 7"
+        },
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0012",
+          "page": "12",
+          "book": "Caput I",
+          "section": "01_caput_1",
+          "display": "ibid. lect. 5 n. 7"
+        }
+      ],
+      "hoenen_sample_context_en": "This doctrine reappears, as it seems, in a more developed form in :person:`Aristotle <aristotle>`. He distinguishes (:cite:`*Anal. Post.* I, ch. 2 <aristotle:anal-post:I.2>`) among the propositions that serve as principles of the sciences: those that are :term:`ἀξιώματα <axioma>` (common conceptions of the mind, dignities) from those that are either :term:`ὑποθέσεις <hypothesis>` (suppositions) or :term:`αἰτήματα <aitema>` (petitions, postulates). The difference may be briefly described thus: an",
+      "hoenen_sample_context_la": "Haec doctrina magis evoluta, ut videtur, apud :person:`Aristotelem <aristotle>` redit. Distinguit (:cite:`*Anal. Post.* I cap. 2 <aristotle:anal-post:I.2>`) inter propositiones, quae sunt principia scientiarum, illas quae sunt :term:`ἀξιώματα <axioma>` (communes animi conceptiones, dignitates) ab eis quae sunt sive :term:`ὑποθέσεις <hypothesis>` (suppositiones) sive :term:`αἰτήματα <aitema>` (petitiones, postulata). Differentia brevi ita describi potest : :term:`ἀξίωμα <axioma>` est cuilibet evi",
+      "hoenen_thesis": "Clarifies the rigorous epistemic hierarchy separating per se self-evident axioms (*dignitates*) known to every intellect upon grasping their terms from theses (*positiones*) divided into definitions and existential hypotheses.",
+      "geometor_relevance": "Maps directly onto the separation in `geometor.elements` between algebraic equivalence axioms (Common Notions) and generative construction primitives (Postulates 1–3)."
+    },
+    {
+      "key": "aquinas:anal-post:I.6",
+      "slug": "aquinas-anal-post-i-6",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "In Aristotelis Libros Posteriorum Analyticorum Expositio",
+      "locus": "I.6",
+      "critical_edition_ref": "Leonine I* 2, Lib. I, lect. 6",
+      "codex_status": "full_text",
+      "codex_part": "pars-2",
+      "codex_ref": "pars-2-s6-en",
+      "aristotle_source": "Posterior Analytics I.3, 72b5–73a20",
+      "euclid_elements_link": "Acyclicity of Euclidean proof DAGs grounded in indemonstrable first principles",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0010",
+          "page": "10",
+          "book": "Caput I",
+          "section": "01_caput_1",
+          "display": "Anal. Post. I lect. 6"
+        }
+      ],
+      "hoenen_sample_context_en": "The general epistemology of :person:`Aristotle <aristotle>` is set forth primarily in his *Analytics*, and for our specific subject, above all in the *Posterior Analytics*. These treat principally of \"science\" in the strict sense (:term:`ἐπιστήμη <episteme>`), which constructs apodictic demonstrations, and which is contradistinguished from \"intellect\" in the proper sense (:term:`νοῦς <nous>`), which apprehends the *first principles* from which demonstrations take their start. The *Prior Analytic",
+      "hoenen_sample_context_la": "Epistemologia generalis :person:`Aristotelis <aristotle>` praesertim in eius *Analyticis* exponitur, et pro nostra materia speciali, praesertim in *Analyticis Posterioribus*. Haec principaliter agunt de « scientia » sensu stricto (:term:`ἐπιστήμη <episteme>`) quae construit demonstrationes apodicticas, quae contradistinguitur ab « intellectu » sensu proprio (:term:`νοῦς <nous>`) qui *principia prima*, ex quibus demonstrationes initium sumunt, spectat. *Analytica Priora* student mediis demonstrat",
+      "hoenen_thesis": "Refutes both radical skepticism (infinite regress) and coherentist circularity (*demonstratio circularis*): demonstration requires immediate, intrinsically evident principles grasped by *intellectus*.",
+      "geometor_relevance": "Guarantees that every construction in `geometor.model` and `geometor.elements` forms a strictly well-founded Directed Acyclic Graph (DAG) rooted in initial given points."
+    },
+    {
+      "key": "aquinas:anal-post:II.20",
+      "slug": "aquinas-anal-post-ii-20",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "In Aristotelis Libros Posteriorum Analyticorum Expositio",
+      "locus": "II.20",
+      "critical_edition_ref": "Leonine I* 2, Lib. II, lect. 20, n. 1–14",
+      "codex_status": "full_text",
+      "codex_part": "pars-2",
+      "codex_ref": "pars-2-s11-en",
+      "aristotle_source": "Posterior Analytics II.19, 99b15–100b17",
+      "euclid_elements_link": "Cognitive genesis of Euclid's Common Notions and Postulates from sense, memory, and *experimentum* via *intellectus*",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0051",
+          "page": "51",
+          "book": "Caput II",
+          "section": "02_caput_2",
+          "display": "Anal. Post. in ultima lectione"
+        }
+      ],
+      "hoenen_sample_context_en": "This is the doctrine that :person:`St. Thomas <aquinas>` professes, where he attributes the origin of principles no less than of notions to the abstraction of the agent intellect, as we proved in the article :cite:`*De origine primorum principiorum scientiae* <hoenen:1933:153-184>`, already cited above. This he also sets forth in his commentary on :cite:`*Anal. Post.* in the final lecture <aquinas:anal-post:II.20>`. It is helpful to cite here certain of his words, because they lead to institutin",
+      "hoenen_sample_context_la": "Haec est doctrina quam :person:`S. Thomas <aquinas>` profitetur, ubi originem principiorum non minus ac notionum abstractioni intellectus agentis tribuit, ut probavimus in articulo :cite:`*De origine primorum principiorum scientiae* <hoenen:1933:153-184>`, supra iam citato. Hanc quoque exponit in commentario in :cite:`*Anal. Post.* in ultima lectione <aquinas:anal-post:II.20>`. Iuvat hic citare quaedam eius verba, quia ad utilem comparationem iterum instituendam ducunt. In :cite:`I *Sent.* Dist.",
+      "hoenen_thesis": "Traces the genetic emergence of the habit of first principles (*intellectus*) from sense perception, memory, and *experimentum*—showing that *inductio* here is not statistical enumeration, but intellectual insight into necessary intelligible nexus within singular experience.",
+      "geometor_relevance": "Parallel to how visual exploration in `geometor.explorer` and pattern synthesis in `geometor.seer` uncover universal structural laws from concrete exemplars."
+    },
+    {
+      "key": "aquinas:de-anima:2.16",
+      "slug": "aquinas-de-anima-2-16",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "Sentencia Libri De Anima",
+      "locus": "2.16",
+      "critical_edition_ref": "Leonine XLV.1, Lib. II, lect. 16; ed. Pirotta (Marietti), nos. 439–450",
+      "codex_status": "full_text",
+      "codex_part": "pars-3",
+      "codex_ref": "pars-3-s2-en",
+      "aristotle_source": "De Anima II.8, 419b4–420b4",
+      "euclid_elements_link": "Successive *esse fluens* of acoustic motion vs. permanent geometric extension (and harmonic ratios in music)",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0287",
+          "page": "287",
+          "book": "Appendix",
+          "section": "08_appendix",
+          "display": "De Anim. II l. 16"
+        }
+      ],
+      "hoenen_sample_context_en": "Such periodic, oscillatory structures are found in sounds. :person:`St. Thomas <aquinas>` (:cite:`*In II de Anima*, lect. 16 <aquinas:de-anima:2.16>`) with :person:`Aristotle <aristotle>` holds that sound, in opposition to other proper sensibles, does not have a \"fixed and resting esse in the subject.\" Thence sound in act has a fluent *esse*, and according to variation in this *esse*, that is, according to one velocity and another, diverse qualities in sound arise. The same today is to be applie",
+      "hoenen_sample_context_la": "Tales structurae periodicae, oscillatoriae, inveniuntur in sonis. :person:`S. Thomas <aquinas>` (:cite:`*De Anim.* II l. 16 <aquinas:de-anima:2.16>`) cum :person:`Aristotele <aristotle>` tenet sonum, in oppositione ad alia sensibilia propria, non habere « esse fixum et quiescens in subiecto ». Inde sonus in actu habet esse fluens et secundum variationem in hoc esse, i. e. secundum velocitatem aliam et aliam, oriuntur diversae qualitates in sono. Idem hodie applicandum est ad radios lucis secundu",
+      "hoenen_thesis": "Cited in Hoenen's Appendix on successive duration: contrasts permanent spatial continua (whose parts coexist simultaneously) with fluent realities like sound and motion whose *esse* consists in becoming.",
+      "geometor_relevance": "Bridges GEOMETOR's spatial proportions (`divine`) with temporal/acoustic proportions (`harmonic-resonance`)."
+    },
+    {
+      "key": "aquinas:de-anima:III.12.770-777",
+      "slug": "aquinas-de-anima-iii-12-770-777",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "Sentencia Libri De Anima",
+      "locus": "III.12.770-777",
+      "critical_edition_ref": "Leonine XLV.1, Lib. III, lect. 12; ed. Pirotta (Marietti), nos. 770–777",
+      "codex_status": "full_text",
+      "codex_part": "pars-3",
+      "codex_ref": "pars-3-s4-en",
+      "aristotle_source": "De Anima III.7, 431a14–b19",
+      "euclid_elements_link": "Demonstrating universal properties of an indeterminate triangle by placing a determinate finite triangle before the eyes",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0014",
+          "page": "14",
+          "book": "Caput I",
+          "section": "01_caput_1",
+          "display": "S. Thomas lect. 12 ; Pirotta n. 770-772, n. 777"
+        }
+      ],
+      "hoenen_sample_context_en": "Up to roughly the middle of the preceding century, the common opinion both of philosophers and of mathematicians—and indeed of the entire human race—was this: that mathematical knowledge is ultimately drawn from the data of sensibility, whether from the external senses or from the imagination. In further explanation, to be sure, there was a diversity of opinions. For :person:`Plato <plato>`, on account of the imperfection of sensibility, the data of the senses were nothing more than the occasion",
+      "hoenen_sample_context_la": "Usque ad medium fere saeculum praecedens, communis opinio tum philosophorum tum mathematicorum — tum humani generis integri — haec erat : cognitionem mathematicam ultimatim hauriri ex datis sensibilitatis, sive ex sensibus externis sive ex imaginatione. In explicatione ulteriori utique erat diversitas sententiarum. Pro :person:`Platone <plato>`, propter imperfectionem sensibilitatis, data sensuum non erant nisi occasio vel praeparatio requisita ad hoc ut mens sibi reminisceret ea quae antea intu",
+      "hoenen_thesis": "Key psychological text of *De Noetica Geometriae* Caput I: *nequaquam sine phantasmate intelligit anima*—even in abstract geometry, the intellect beholds universal mathematical objects in phantasms, abstracting from determinate size while drawing a determinate magnitude.",
+      "geometor_relevance": "Explains why every abstract proof benefits from a concrete coordinate instantiation rendered in `geometor.explorer`."
+    },
+    {
+      "key": "aquinas:de-anima:III.13.791",
+      "slug": "aquinas-de-anima-iii-13-791",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "Sentencia Libri De Anima",
+      "locus": "III.13.791",
+      "critical_edition_ref": "Leonine XLV.1, Lib. III, lect. 13; ed. Pirotta (Marietti), nos. 787–794 (esp. n. 791)",
+      "codex_status": "full_text",
+      "codex_part": "pars-3",
+      "codex_ref": "pars-3-s5-en",
+      "aristotle_source": "De Anima III.8, 431b20–432a14",
+      "euclid_elements_link": "Intellect as *species specierum* and hand as *organum organorum* wielding compass and straightedge",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0014",
+          "page": "14",
+          "book": "Caput I",
+          "section": "01_caput_1",
+          "display": "S. Thomas lect. 13 ; Pirotta n. 791"
+        }
+      ],
+      "hoenen_sample_context_en": "Up to roughly the middle of the preceding century, the common opinion both of philosophers and of mathematicians—and indeed of the entire human race—was this: that mathematical knowledge is ultimately drawn from the data of sensibility, whether from the external senses or from the imagination. In further explanation, to be sure, there was a diversity of opinions. For :person:`Plato <plato>`, on account of the imperfection of sensibility, the data of the senses were nothing more than the occasion",
+      "hoenen_sample_context_la": "Usque ad medium fere saeculum praecedens, communis opinio tum philosophorum tum mathematicorum — tum humani generis integri — haec erat : cognitionem mathematicam ultimatim hauriri ex datis sensibilitatis, sive ex sensibus externis sive ex imaginatione. In explicatione ulteriori utique erat diversitas sententiarum. Pro :person:`Platone <plato>`, propter imperfectionem sensibilitatis, data sensuum non erant nisi occasio vel praeparatio requisita ad hoc ut mens sibi reminisceret ea quae antea intu",
+      "hoenen_thesis": "Synthesizes the noetic hierarchy: intelligible objects exist inside sensible forms—even mathematical abstractions—so whoever lacked sense could neither learn nor use geometric science without turning to phantasms.",
+      "geometor_relevance": "Celebrates both the constructive instrument (the hand/compass/symbolic engine as *organum organorum*) and the intellect (*species specierum*)."
+    },
+    {
+      "key": "aquinas:de-anima:III.8",
+      "slug": "aquinas-de-anima-iii-8",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "Sentencia Libri De Anima",
+      "locus": "III.8",
+      "critical_edition_ref": "Leonine XLV.1, Lib. III, lect. 8; ed. Pirotta (Marietti), nos. 705–719",
+      "codex_status": "full_text",
+      "codex_part": "pars-3",
+      "codex_ref": "pars-3-s3-en",
+      "aristotle_source": "De Anima III.4, 429b10–22",
+      "euclid_elements_link": "The straight (*rectum*, Euclid I.def.4) in the intelligible continuum vs. the snub (*simum*) in sensible flesh",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0062",
+          "page": "62",
+          "book": "Caput II",
+          "section": "02_caput_2",
+          "display": "De anim. III lect. 8"
+        }
+      ],
+      "hoenen_sample_context_en": "\"Yet they [those quantities] cannot be considered without the understanding of substance subject to quantity, which would be to abstract them from common intelligible matter.\" See also :cite:`*In Phys.* II, lect. 3 <aquinas:phys:II.3>`; :cite:`*De Anima* III, lect. 8 <aquinas:de-anima:III.8>`. Matter, therefore, from which abstraction is made, is not always physical matter, just as the form that is abstracted is not always physical form.",
+      "hoenen_sample_context_la": "« Non tamen possunt [quantitates illae] considerari sine intellectu substantiae quantitati subiectae, quod esset illas abstrahi a materia intelligibili communi ». Vide etiam :cite:`*In Phys.* II lect. 3 <aquinas:phys:II.3>`; :cite:`*De anim.* III lect. 8 <aquinas:de-anima:III.8>`. Materia igitur, a qua abstrahitur, non est semper materia physica, sicut forma, quae abstrahitur, non est semper forma physica.",
+      "hoenen_thesis": "Expounds Aristotle's proportion *carnes et ossa : simum :: continuum : rectum*: just as natural forms require sensible matter, geometric forms (*rectum*, *curvum*) require continuous extension (*materia intelligibilis*) apprehended by turning back upon phantasms.",
+      "geometor_relevance": "Shows why geometric forms cannot be reduced to non-spatial logicism (Russell): straightness intrinsically presupposes continuous extension."
+    },
+    {
+      "key": "aquinas:de-anima:b1-l11",
+      "slug": "aquinas-de-anima-b1-l11",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "Sentencia Libri De Anima",
+      "locus": "b1-l11",
+      "critical_edition_ref": "Leonine XLV.1, Lib. I, lect. 11; ed. Pirotta (Marietti), nos. 168–177 (esp. n. 170)",
+      "codex_status": "full_text",
+      "codex_part": "pars-3",
+      "codex_ref": "pars-3-s1-en",
+      "aristotle_source": "De Anima I.4, 409a3–7",
+      "euclid_elements_link": "Kinematic generation of a line by a flowing point vs. Euclid I.def.2–4",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0107",
+          "page": "107",
+          "book": "Caput IV",
+          "section": "04_caput_4",
+          "display": "lect. 11, ed. Pirotta n. 170"
+        }
+      ],
+      "hoenen_sample_context_en": ".. [#f8] :person:`Trendelenburg <trendelenburg>` in his edition notes (on loc. cit.): \"Who are those who say this? Whether all geometers? Or the :person:`Pythagoreans <pythagoras>`? Concerning which there is nothing in the commentators.\" :person:`St. Thomas <aquinas>` on this passage (:cite:`lect. 11, ed. Pirotta, no. 170 <aquinas:de-anima:b1-l11>`) says that they are the Platonists; the same is affirmed by :person:`A. E. Taylor <taylor>` in his work :cite:`*Plato: The Man and His Work* (2nd ed.",
+      "hoenen_sample_context_la": ".. [#f8] :person:`Trendelenburg <trendelenburg>` in sua editione adnotat (in loc. cit.) « Quinam sunt qui dicant ? Utrum universi geometrae ? An :person:`Pythagorei <pythagoras>` ? De quo nihil apud commentatores ». :person:`S. Thomas <aquinas>` i. h. l. (:cite:`lect. 11, ed. Pirotta n. 170 <aquinas:de-anima:b1-l11>`) dicit eos esse Platonicos ; idem affirmat :person:`A. E. Taylor <taylor>` in opere :cite:`*Plato the man and his work* (ed. 2) 1927) pag. 506 <taylor:1927:p506>`. Geminus apud :per",
+      "hoenen_thesis": "Analyzes Democritus's parallel with geometers who imagine a moving point describing a line: motion belongs not to abstract mathematical essence in itself, but to the constructive *imaginatio* tracing spatial continuity.",
+      "geometor_relevance": "Mirrors animated compass-and-straightedge sweeps in `geometor.explorer` tracing static algebraic loci."
+    },
+    {
+      "key": "aquinas:de-caelo:b1-l2",
+      "slug": "aquinas-de-caelo-b1-l2",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "In Libros Aristotelis De Caelo et Mundo Expositio",
+      "locus": "b1-l2",
+      "critical_edition_ref": "Leonine III, Lib. I, lect. 2, n. 9",
+      "codex_status": "full_text",
+      "codex_part": "pars-4",
+      "codex_ref": "pars-4-s5-en",
+      "aristotle_source": "De Caelo I.1, 268a1–b10",
+      "euclid_elements_link": "Perfection of three-dimensional solid geometry (Books XI–XIII) and kinematic generation of line/surface/solid",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0108",
+          "page": "108",
+          "book": "Caput IV",
+          "section": "04_caput_4",
+          "display": "De Caelo I lect. 2 n. 9"
+        }
+      ],
+      "hoenen_sample_context_en": ".. [#f9] :cite:`*De Caelo* I, lect. 2, no. 9 <aquinas:de-caelo:b1-l2>`: \"He uses the mode of speaking that geometers use, imagining that a point moved makes a line, while a line moved makes a surface, and a surface a body\"; cf. :cite:`ibid., II, lect. 2, no. 11 <aquinas:de-caelo:b2-l2>`, :cite:`*Phys.* IV, lect. 18, no. 4 <aquinas:phys:b4-l18>`. .. _caput-4-en-fn10:",
+      "hoenen_sample_context_la": ".. [#f9] :cite:`*De Caelo* I lect. 2 n. 9 <aquinas:de-caelo:b1-l2>` « Utitur modo loquendi quo utuntur geometrae, imaginantes quod punctus motus facit lineam, linea vero mota facit superficiem, superficies autem corpus » ; cfr. :cite:`ibid. II lect. 2 n. 11 <aquinas:de-caelo:b2-l2>`, :cite:`*Phys.* IV lect. 18 n. 4 <aquinas:phys:b4-l18>`. .. [#f10] :cite:`H. POINCARÉ, *La science et l'hypothèse* pag. 80 <poincare:science-hypothese:p80>` ; cfr. :cite:`ibid. pag. 60 <poincare:science-hypothese:p60",
+      "hoenen_thesis": "Establishes that three dimensions exhaust continuous spatial extension (line -> surface -> body) and clarifies that geometers speak of a moving point generating a line *imaginando* for pedagogical manifestation, not physical causation.",
+      "geometor_relevance": "Connects planar geometry (`model`) to the five regular Platonic solids of Euclid Book XIII and Luca Pacioli (`pacioli`)."
+    },
+    {
+      "key": "aquinas:de-caelo:b2-l2",
+      "slug": "aquinas-de-caelo-b2-l2",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "In Libros Aristotelis De Caelo et Mundo Expositio",
+      "locus": "b2-l2",
+      "critical_edition_ref": "Leonine III, Lib. II, lect. 2, n. 11",
+      "codex_status": "full_text",
+      "codex_part": "pars-4",
+      "codex_ref": "pars-4-s6-en",
+      "aristotle_source": "De Caelo II.2, 284b6–285b33",
+      "euclid_elements_link": "Orientation, chirality, and positional directions (above/below, right/left) in geometric figures",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0108",
+          "page": "108",
+          "book": "Caput IV",
+          "section": "04_caput_4",
+          "display": "ibid. II lect. 2 n. 11"
+        }
+      ],
+      "hoenen_sample_context_en": ".. [#f9] :cite:`*De Caelo* I, lect. 2, no. 9 <aquinas:de-caelo:b1-l2>`: \"He uses the mode of speaking that geometers use, imagining that a point moved makes a line, while a line moved makes a surface, and a surface a body\"; cf. :cite:`ibid., II, lect. 2, no. 11 <aquinas:de-caelo:b2-l2>`, :cite:`*Phys.* IV, lect. 18, no. 4 <aquinas:phys:b4-l18>`. .. _caput-4-en-fn10:",
+      "hoenen_sample_context_la": ".. [#f9] :cite:`*De Caelo* I lect. 2 n. 9 <aquinas:de-caelo:b1-l2>` « Utitur modo loquendi quo utuntur geometrae, imaginantes quod punctus motus facit lineam, linea vero mota facit superficiem, superficies autem corpus » ; cfr. :cite:`ibid. II lect. 2 n. 11 <aquinas:de-caelo:b2-l2>`, :cite:`*Phys.* IV lect. 18 n. 4 <aquinas:phys:b4-l18>`. .. [#f10] :cite:`H. POINCARÉ, *La science et l'hypothèse* pag. 80 <poincare:science-hypothese:p80>` ; cfr. :cite:`ibid. pag. 60 <poincare:science-hypothese:p60",
+      "hoenen_thesis": "Shows that while abstract mathematical figures lack intrinsic natural powers of 'up' or 'right', they acquire positional orientation (*secundum positionem ad nos*) through our imaginative perspective.",
+      "geometor_relevance": "Directly models oriented cycles, signed angles, and viewport orientation in `geometor.model` and `geometor.explorer`."
+    },
+    {
+      "key": "aquinas:de-malo:6.1.ad18",
+      "slug": "aquinas-de-malo-6-1-ad18",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "Quaestiones Disputatae de Malo",
+      "locus": "6.1.ad18",
+      "critical_edition_ref": "Leonine XXIII, De Malo, q. 6, a. 1, ad 18",
+      "codex_status": "concordance_locus",
+      "codex_part": "concordance",
+      "codex_ref": "conc-aquinas-de-malo-6-1-ad18",
+      "aristotle_source": "Metaphysics VI.4, 1027b25–27; De Anima III.6",
+      "euclid_elements_link": "Necessity of assenting to demonstrated Euclidean theorems once resolved back to first principles",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0241",
+          "page": "241",
+          "book": "Caput VII",
+          "section": "07_caput_7",
+          "display": "Q. D. de Malo q. 6 a. 1 ad 18"
+        }
+      ],
+      "hoenen_sample_context_en": "Intellection itself does not have a representation in sense (as mathematics and physics do), but its nature is known from the intellection of mathematical entities whose dispositions of the thing are assumed from the senses. In this sense :person:`St. Thomas <aquinas>` (like :person:`Leibniz <leibniz>` after him, to whom this adage is accustomed to be attributed), to the well-known adage \"nothing is in the intellect which was not first in sense,\" adds \"except the intellect itself\" (*« nisi ipse ",
+      "hoenen_sample_context_la": "Intellectio ipsa non habet repraesentationem in sensu (sicut mathematica et physica) sed eius natura cognoscitur ex intellectione mathematicorum quorum dispositiones rei ex sensibus assumuntur. In hoc sensu :person:`S. Thomas <aquinas>` (sicut postea :person:`Leibniz <leibniz>` cui hoc effatum tribui solet) noto adagio « nihil est in intellectu quod non prius fuerit in sensu », addit « nisi ipse intellectus » (:cite:`*Q. D. de Malo* q. 6 a. 1 ad 18 <aquinas:de-malo:6.1.ad18>` cfr. :cite:`*Th. du",
+      "hoenen_thesis": "Explains how the intellect is moved of necessity by objective evidence both in first indemonstrable principles and in demonstrated geometric conclusions rigorously reduced to them.",
+      "geometor_relevance": "Corresponds to deterministic symbolic verification in `geometor.model` and `geometor.elements`."
+    },
+    {
+      "key": "aquinas:de-potentia:7.2.ad9",
+      "slug": "aquinas-de-potentia-7-2-ad9",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "Quaestiones Disputatae de Potentia Dei",
+      "locus": "7.2.ad9",
+      "critical_edition_ref": "ed. Bazzi (Marietti), De Potentia, q. 7, a. 2, co. & ad 9",
+      "codex_status": "full_text",
+      "codex_part": "pars-5",
+      "codex_ref": "pars-5-s8-en",
+      "aristotle_source": "Metaphysics V.7 & IX.8",
+      "euclid_elements_link": "Existential actuality (*esse*) grounding the reality of mathematical subjects and the truth of geometric judgments",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0279",
+          "page": "279",
+          "book": "Appendix",
+          "section": "08_appendix",
+          "display": "de Pot. q. 7, a. 2, ad 9"
+        },
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0279",
+          "page": "279",
+          "book": "Appendix",
+          "section": "08_appendix",
+          "display": "loc. cit."
+        },
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0283",
+          "page": "283",
+          "book": "Appendix",
+          "section": "08_appendix",
+          "display": "De Pot. q. 7 a. 2 ad 9"
+        },
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0286",
+          "page": "286",
+          "book": "Appendix",
+          "section": "08_appendix",
+          "display": "Pot. 7, 2 ad 9"
+        }
+      ],
+      "hoenen_sample_context_en": "Many propositions concerning this \"ipsum esse\" are enunciated; as we saw above, principles are also enunciated that assert relations between diverse \"esse.\" In these propositions the conception of \"ipsum esse\" seems to be presupposed, or at least detected. Let us take an example from :cite:`*De Potentia*, q. 7, a. 2, ad 9 <aquinas:de-potentia:7.2.ad9>` (concerning this place immediately more). There the term \"esse\" is described: \"this that I say (that is, call) esse\"; and such \"utterances,\" as i",
+      "hoenen_sample_context_la": "Multae propositiones de hoc « ipso esse » enuntiantur ; ut supra videbamus etiam principia enuntiantur, quae asserunt relationes inter diversa « esse ». In his propositionibus conceptio « ipsius esse » praesupponi videtur, vel saltem detegi. Sumamus exemplum ex :cite:`*de Pot.* q. 7, a. 2, ad 9 <aquinas:de-potentia:7.2.ad9>` (de hoc loco statim plura). Ibi terminus « esse » describitur : « hoc quod dico (i. e. voco) esse » ; et tales « dictiones », ut saepius dicitur (id sumitur ex :cite:`« prin",
+      "hoenen_thesis": "Classic Thomistic milestone: *hoc quod dico esse est inter omnia perfectissimum... actualitas omnium actuum, et propter hoc est perfectio omnium perfectionum*—form relates to *esse* as potency to act.",
+      "geometor_relevance": "Grounds Hoenen's existential theory of judgment: even mathematical necessity is rooted in intelligible compatibility with *esse*."
+    },
+    {
+      "key": "aquinas:de-potentia:8.1",
+      "slug": "aquinas-de-potentia-8-1",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "Quaestiones Disputatae de Potentia Dei",
+      "locus": "8.1",
+      "critical_edition_ref": "ed. Bazzi (Marietti), De Potentia, q. 8, a. 1, co.",
+      "codex_status": "concordance_locus",
+      "codex_part": "concordance",
+      "codex_ref": "conc-aquinas-de-potentia-8-1",
+      "aristotle_source": "De Anima III.4–6",
+      "euclid_elements_link": "Fourfold distinction: intelligible geometric object (*res intellecta*), species, act of understanding, and *conceptio / verbum mentis* (Euclidean definition or proposition)",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0277",
+          "page": "277",
+          "book": "Appendix",
+          "section": "08_appendix",
+          "display": "de Pot. q. 8 a. 1"
+        },
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0278",
+          "page": "278",
+          "book": "Appendix",
+          "section": "08_appendix",
+          "display": "Pot. 8, 1"
+        }
+      ],
+      "hoenen_sample_context_en": "In :cite:`*De Potentia*, q. 8, a. 1 <aquinas:de-potentia:8.1>`, he establishes the distinction of the \"conception of the intellect\" *a*) from the \"thing understood,\" *b*) \"from the intelligible species by which the intellect is made in act,\" *c*) \"from the action of the intellect,\" of which it is the \"term\" and \"as it were a certain thing constituted by it.\" And this conception is found not only in the first operation of the intellect, but also in the second: \"for the intellect by its action for",
+      "hoenen_sample_context_la": "In :cite:`*de Pot.* q. 8 a. 1 <aquinas:de-potentia:8.1>`, statuit distinctionem « conceptionis intellectus » *a*) a « re intellecta », *b*) « a specie intelligibili, qua fit intellectus in actu », *c*) « ab actione intellectus », cuius est « terminus » et « quasi quoddam ab ipsa constitutum ». Et haec conceptio non tantum invenitur in prima operatione intellectus, sed etiam in secunda : « intellectus enim sua actione format rei definitionem, vel etiam propositionem affirmativam vel negativam. Ha",
+      "hoenen_thesis": "Cited with Lonergan's *Verbum*: distinguishes the impressed intelligible species (principle of understanding) from the expressed *conceptio intellectus* (the definition or theorem formed by the mind).",
+      "geometor_relevance": "Maps cleanly onto input geometric data -> solver reasoning -> expressed canonical symbolic theorem in `geometor.model` and `geometor.seer`."
+    },
+    {
+      "key": "aquinas:de-potentia:9.5",
+      "slug": "aquinas-de-potentia-9-5",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "Quaestiones Disputatae de Potentia Dei",
+      "locus": "9.5",
+      "critical_edition_ref": "ed. Bazzi (Marietti), De Potentia, q. 9, a. 5, co.",
+      "codex_status": "concordance_locus",
+      "codex_part": "concordance",
+      "codex_ref": "conc-aquinas-de-potentia-9-5",
+      "aristotle_source": "De Anima III.6, 430a26–b6",
+      "euclid_elements_link": "Twofold *verbum mentis*: the definition (*incomplexum*, Euclid Defs.) and the proposition/judgment (*complexum*, Euclid Props.)",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0277",
+          "page": "277",
+          "book": "Appendix",
+          "section": "08_appendix",
+          "display": "ibid. q. 9"
+        },
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0278",
+          "page": "278",
+          "book": "Appendix",
+          "section": "08_appendix",
+          "display": "a. 5"
+        },
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0279",
+          "page": "279",
+          "book": "Appendix",
+          "section": "08_appendix",
+          "display": "9, 5"
+        },
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0279",
+          "page": "279",
+          "book": "Appendix",
+          "section": "08_appendix",
+          "display": "Pot. 9, 5"
+        }
+      ],
+      "hoenen_sample_context_en": "In :cite:`*De Potentia*, q. 8, a. 1 <aquinas:de-potentia:8.1>`, he establishes the distinction of the \"conception of the intellect\" *a*) from the \"thing understood,\" *b*) \"from the intelligible species by which the intellect is made in act,\" *c*) \"from the action of the intellect,\" of which it is the \"term\" and \"as it were a certain thing constituted by it.\" And this conception is found not only in the first operation of the intellect, but also in the second: \"for the intellect by its action for",
+      "hoenen_sample_context_la": "In :cite:`*de Pot.* q. 8 a. 1 <aquinas:de-potentia:8.1>`, statuit distinctionem « conceptionis intellectus » *a*) a « re intellecta », *b*) « a specie intelligibili, qua fit intellectus in actu », *c*) « ab actione intellectus », cuius est « terminus » et « quasi quoddam ab ipsa constitutum ». Et haec conceptio non tantum invenitur in prima operatione intellectus, sed etiam in secunda : « intellectus enim sua actione format rei definitionem, vel etiam propositionem affirmativam vel negativam. Ha",
+      "hoenen_thesis": "Shows that the inner word (*verbum*) arises in both operations of the intellect: first as definition of essence, second as affirmative/negative propositional judgment.",
+      "geometor_relevance": "Corresponds to `Element` constructors (definitions) vs. `Invariant` / theorem assertions (propositions) in GEOMETOR."
+    },
+    {
+      "key": "aquinas:de-trin:5.1.ad3",
+      "slug": "aquinas-de-trin-5-1-ad3",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "Expositio super Librum Boethii De Trinitate",
+      "locus": "5.1.ad3",
+      "critical_edition_ref": "Leonine L, q. 5 a. 1 ad 3; ed. Decker, p. 170",
+      "codex_status": "full_text",
+      "codex_part": "pars-1",
+      "codex_ref": "pars-1-s1-en",
+      "aristotle_source": "Metaphysics VI.1, 1026a13–19; Ethics VI.7",
+      "euclid_elements_link": "Elements Books I–XIII as pure speculative geometry vs. applied mensuration",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0225",
+          "page": "225",
+          "book": "Caput VII",
+          "section": "07_caput_7",
+          "display": "Boet. de Trin. q. 5 a. 1 ad 3"
+        }
+      ],
+      "hoenen_sample_context_en": "We note: 1) The two exact figures, subjects of their own proper passions, which are named, the equilateral triangle and the square, are the most familiar specimens of figures whose \"existence\" must be proved, and is proved by :person:`Euclid <euclid>` (:cite:`I, 1 and 46 <euclid:elements:I.1,I.46>`) through demonstrative construction. 2) These belong to \"certain other things\" that are not supposed, but are demonstrated in geometry itself through construction. 3) Such a demonstration is called \"q",
+      "hoenen_sample_context_la": "Notamus : 1) duae figurae exactae, subiecta propriarum passionum, quae nominantur, triangulus aequilaterus et quadratum, sunt notissima specimina figurarum, quarum « existentia » probari debet, et probatur ab :person:`Euclide <euclid>` (:cite:`I 1 et 46 <euclid:elements:I.1,I.46>`) per constructionem demonstrativam. 2) Haec pertinent ad « quaedam alia » quae non supponuntur, sed in ipsa geometria per constructionem demonstrantur. 3) Talis demonstratio « quasi operativa » dicitur ; ubi iam videtu",
+      "hoenen_thesis": "Distinguishes pure speculative mathematics from practical operational rules: mathematical objects cannot be fabricated by human action yet serve as canonical measures for art and nature.",
+      "geometor_relevance": "Grounds GEOMETOR's distinction between exact algebraic invariants in `geometor.model` and physical or pixel approximations."
+    },
+    {
+      "key": "aquinas:de-trin:q5-a3",
+      "slug": "aquinas-de-trin-q5-a3",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "Expositio super Librum Boethii De Trinitate",
+      "locus": "q5-a3",
+      "critical_edition_ref": "Leonine L, q. 5 a. 3 co. & ad 3; ed. Decker, pp. 181–189",
+      "codex_status": "full_text",
+      "codex_part": "pars-1",
+      "codex_ref": "pars-1-s3-en",
+      "aristotle_source": "De Anima III.7, 431b12–17; Physics II.2, 193b22–194a12; Metaphysics VII.10, 1036a9–12",
+      "euclid_elements_link": "Elements I.def.1–23 (continuous magnitudes abstracted from sensible qualities while retaining spatial extension)",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0101",
+          "page": "101",
+          "book": "Caput IV",
+          "section": "04_caput_4",
+          "display": "In Boet. de Trin. q. 5 a. 3 ad 3"
+        }
+      ],
+      "hoenen_sample_context_en": ".. [#f2] Let it be permitted here to transcribe a text of :person:`St. Thomas <aquinas>`. He says (:cite:`*In Boet. de Trin.* q. 5 a. 3 ad 3 <aquinas:de-trin:q5-a3>`): \"Matter is not the principle of diversity according to number, except insofar as, divided into many parts, and receiving in the individual parts a form of the same nature, it constitutes several individuals of the same species. Matter, however, cannot be divided except from presupposed quantity, upon the removal of which every sub",
+      "hoenen_sample_context_la": ".. [#f2] Liceat hic exscribere textum :person:`S. Thomae <aquinas>`. Ait (:cite:`*In Boet. de Trin.* q. 5 a. 3 ad 3 <aquinas:de-trin:q5-a3>`) « Materia non est principium diversitatis secundum numerum, nisi secundum quod in multas partes divisa, in singulis partibus formam recipiens eiusdem rationis, plura individua eiusdem speciei constituit. Materia autem dividi non potest nisi ex praesupposita quantitate, qua remota, substantia omnis indivisibilis remanet, et sic prima ratio diversificandi ea",
+      "hoenen_thesis": "Foundational locus for the twofold operation of the intellect: separation (negative judgment of esse in metaphysics) vs. abstraction of the whole (physics) vs. abstraction of form from sensible matter leaving *materia intelligibilis* (substance as subject of continuous quantity).",
+      "geometor_relevance": "Defines the exact ontological domain of `geometor.model`: pure continuous spatial extension stripped of sensible noise yet individuated by distinct algebraic positions."
+    },
+    {
+      "key": "aquinas:de-trin:q6.a1",
+      "slug": "aquinas-de-trin-q6-a1",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "Expositio super Librum Boethii De Trinitate",
+      "locus": "q6.a1",
+      "critical_edition_ref": "Leonine L, q. 6 a. 1 (q. 2) & q. 6 a. 2; ed. Decker, pp. 205–218",
+      "codex_status": "full_text",
+      "codex_part": "pars-1",
+      "codex_ref": "pars-1-s5-en",
+      "aristotle_source": "Posterior Analytics I.2, 71b16–25; Ethics I.3, 1094b23–27",
+      "euclid_elements_link": "Deductive *disciplinalis* order of Euclid's Definitions, Postulates, Common Notions, and Propositions",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0167",
+          "page": "167",
+          "book": "Caput V",
+          "section": "05_caput_5",
+          "display": "In Boet. de Trin. q. 6 a. 1"
+        }
+      ],
+      "hoenen_sample_context_en": "These logical laws treat universally of things themselves, of any disposition of things whatever; hence they have the same subject as metaphysics, which considers all being, according to the words of :person:`St. Thomas <aquinas>` (:cite:`*In Boeth. de Trin.*, q. 6, a. 1 <aquinas:de-trin:q6.a1>`): \"both sciences (metaphysics and logic) are common, and in a certain way concerning the same subject\" (text according to the Wyser recension). It is what :person:`Riehl <riehl>` (*loc. cit.*) expresses ",
+      "hoenen_sample_context_la": "Hae leges logicae universaliter agunt de ipsis rebus, de quavis dispositione rei ; inde habent idem subiectum ac metaphysica quae omne ens considerat iuxta verba :person:`S. Thomae <aquinas>` (:cite:`*In Boet. de Trin.* q. 6 a. 1 <aquinas:de-trin:q6.a1>`) : « utraque scientia (metaphysica et logica) communis est, et circa idem subiectum quodammodo » (textus iuxta recensionem Wyser). Est id quod :person:`Riehl <riehl>` (loc. cit.) exprimit dicendo « Denkgesetze sind Gesetze des Gedachten, des Geg",
+      "hoenen_thesis": "Explains why mathematics proceeds *disciplinaliter* (with supreme pedagogical certainty between sense-bound physics and purely intellectual metaphysics) and why mathematical judgment terminates at the imagination (*terminari ad imaginationem*, q. 6 a. 2).",
+      "geometor_relevance": "Illuminates the synergy between deductive symbolic proof (`geometor.elements`) and imaginative visual verification (`geometor.explorer`)."
+    },
+    {
+      "key": "aquinas:de-veritate:10.12.ad7",
+      "slug": "aquinas-de-veritate-10-12-ad7",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "Quaestiones Disputatae de Veritate",
+      "locus": "10.12.ad7",
+      "critical_edition_ref": "Leonine XXII.2, De Veritate, q. 10, a. 12, ad 7",
+      "codex_status": "concordance_locus",
+      "codex_part": "concordance",
+      "codex_ref": "conc-aquinas-de-veritate-10-12-ad7",
+      "aristotle_source": "Posterior Analytics I.2, 72a25–b4",
+      "euclid_elements_link": "Self-evidence (*per se notum*) of geometric and metaphysical axioms upon understanding their terms",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0255",
+          "page": "255",
+          "book": "Appendix",
+          "section": "08_appendix",
+          "display": "Q. D. de Ver. q. 10 a. 12 ad 7"
+        }
+      ],
+      "hoenen_sample_context_en": ":person:`St. Thomas <aquinas>` says of \":term:`I think, therefore I am <cogito-ergo-sum>`\": I can think that I am not, just as I can think that I was not; but the former I cannot assert by affirming; behold his words (:cite:`*Q. D. de Veritate*, q. 10, a. 12, ad 7 <aquinas:de-veritate:10.12.ad7>`): \"To think that something is not can be understood in two ways. In one way, so that these two fall simultaneously into apprehension; and thus nothing prevents someone from thinking that he is not, just",
+      "hoenen_sample_context_la": ":person:`S. Thomas <aquinas>` de « :term:`cogito ergo sum <cogito-ergo-sum>` » dicit : possum cogitare me non esse, sicut possum cogitare me non fuisse ; sed prius non possum affirmando asserere ; en eius verba (:cite:`*Q. D. de Ver.* q. 10 a. 12 ad 7 <aquinas:de-veritate:10.12.ad7>`) : « Cogitare aliquid non esse, potest intelligi dupliciter. Uno modo ut haec duo simul in apprehensione cadant ; et sic nihil prohibet quod quis cogitat se non esse, sicut cogitat se aliquando non fuisse ... Alio",
+      "hoenen_thesis": "Distinguishes propositions *per se notae secundum se* from those *per se notae quoad nos* whose predicate is immediately grasped inside the ratio of the subject.",
+      "geometor_relevance": "Clarifies why elementary axioms require zero proof steps whereas deep properties (like golden ratio emergences) require constructive mediation."
+    },
+    {
+      "key": "aquinas:de-veritate:10.6.sc2",
+      "slug": "aquinas-de-veritate-10-6-sc2",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "Quaestiones Disputatae de Veritate",
+      "locus": "10.6.sc2",
+      "critical_edition_ref": "Leonine XXII.2, De Veritate, q. 10, a. 6, sed contra 2 & co.",
+      "codex_status": "full_text",
+      "codex_part": "pars-5",
+      "codex_ref": "pars-5-s9-en",
+      "aristotle_source": "Posterior Analytics II.19, 99b35–100b17",
+      "euclid_elements_link": "Euclid Common Notion 5 (*omne totum est maius sua parte*) known through singular sensible experience illuminated by agent intellect",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0038",
+          "page": "38",
+          "book": "Caput II",
+          "section": "02_caput_2",
+          "display": "(Q. D. de Ver. q. 10 a. 6 sed contra 2)"
+        },
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0236",
+          "page": "236",
+          "book": "Caput VII",
+          "section": "07_caput_7",
+          "display": "Q. D. de Ver. q. 10 a. 6 « sed contra » 2"
+        }
+      ],
+      "hoenen_sample_context_en": "The theory of :person:`Aristotle <aristotle>` denies the universality of this principle, and admits the empirical origin of necessary judgments. As we have already heard, mathematical relations are \"seen,\" but through the intellect, :term:`νοῦν <nous>`. And in general concerning the principles of particular sciences he says :cite:`(*Anal. Pr.* I, 30, 46a17) <aristotle:anal-prior:46a17>` that they must be handed down by experience. In the article cited above (:cite:`*De origine primorum principio",
+      "hoenen_sample_context_la": "Theoria :person:`Aristotelis <aristotle>` negat universalitatem huius principii, admittit originem empiricam iudiciorum necessariorum. Sicut iam audivimus, relationes mathematicae « videntur », sed per intellectum, :term:`νοῦν <nous>`. Et in genere de principiis scientiarum particularium dicit :cite:`(*Anal. Pri.* I, 30, 46 a 17) <aristotle:anal-prior:46a17>`, ea tradi debere ab experientia. In articulo supra citato (:cite:`*De origine primorum principiorum*, « Gregor. » 1933 <hoenen:1933:153-18",
+      "hoenen_thesis": "Twice cited by Hoenen (Caput II & Caput VII): *omnis nostra cognitio originaliter consistit in notitia primorum principiorum indemonstrabilium; horum autem cognitio in nobis a sensu oritur*.",
+      "geometor_relevance": "Explains how Euclid's Common Notion 5 ('the whole is greater than the part') is immediately intuited in any concrete segment division (including the golden section!)."
+    },
+    {
+      "key": "aquinas:de-veritate:4.2",
+      "slug": "aquinas-de-veritate-4-2",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "Quaestiones Disputatae de Veritate",
+      "locus": "4.2",
+      "critical_edition_ref": "Leonine XXII.1, De Veritate, q. 4, a. 2",
+      "codex_status": "concordance_locus",
+      "codex_part": "concordance",
+      "codex_ref": "conc-aquinas-de-veritate-4-2",
+      "aristotle_source": "Peri Hermeneias I.1, 16a3–8",
+      "euclid_elements_link": "Interior mental formulation of a geometric theorem prior to vocal or symbolic notation",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0278",
+          "page": "278",
+          "book": "Appendix",
+          "section": "08_appendix",
+          "display": "de Ver. q. 4 a. 2"
+        },
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0279",
+          "page": "279",
+          "book": "Appendix",
+          "section": "08_appendix",
+          "display": "Ver. 4, 2"
+        }
+      ],
+      "hoenen_sample_context_en": "In :cite:`*De Potentia*, q. 8, a. 1 <aquinas:de-potentia:8.1>`, he establishes the distinction of the \"conception of the intellect\" *a*) from the \"thing understood,\" *b*) \"from the intelligible species by which the intellect is made in act,\" *c*) \"from the action of the intellect,\" of which it is the \"term\" and \"as it were a certain thing constituted by it.\" And this conception is found not only in the first operation of the intellect, but also in the second: \"for the intellect by its action for",
+      "hoenen_sample_context_la": "In :cite:`*de Pot.* q. 8 a. 1 <aquinas:de-potentia:8.1>`, statuit distinctionem « conceptionis intellectus » *a*) a « re intellecta », *b*) « a specie intelligibili, qua fit intellectus in actu », *c*) « ab actione intellectus », cuius est « terminus » et « quasi quoddam ab ipsa constitutum ». Et haec conceptio non tantum invenitur in prima operatione intellectus, sed etiam in secunda : « intellectus enim sua actione format rei definitionem, vel etiam propositionem affirmativam vel negativam. Ha",
+      "hoenen_thesis": "Analyzes the interior *verbum cordis* as the luminous expression of intellectual insight into truth.",
+      "geometor_relevance": "Distinguishes the invariant mathematical insight from its external Python, SymPy, RST, or SVG serialization."
+    },
+    {
+      "key": "aquinas:de-veritate:q10-a6",
+      "slug": "aquinas-de-veritate-q10-a6",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "Quaestiones Disputatae de Veritate",
+      "locus": "q10-a6",
+      "critical_edition_ref": "Leonine XXII.2, De Veritate, q. 10, a. 6 (entire article)",
+      "codex_status": "full_text",
+      "codex_part": "pars-5",
+      "codex_ref": "pars-5-s9-en",
+      "aristotle_source": "De Anima III.4–8; Posterior Analytics II.19",
+      "euclid_elements_link": "Cooperation of phantasms and *lumen intellectus agentis* in generating Euclidean axioms and theorems",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0097",
+          "page": "97",
+          "book": "Caput IV",
+          "section": "04_caput_4",
+          "display": "Q. D. de Ver. q. 10 a. 6 « sed contra » 2"
+        }
+      ],
+      "hoenen_sample_context_en": "We must diligently examine the processes that are completed in the human mind while it intends to constitute elementary geometry from its first principles. There may lie hidden there operations of the intellect, operations that are simultaneously abstractive—for they have their origin from the phantasm—and intuitive; for by a simple intuition of the mind we can intuit and affirm both the necessity of certain connections and their exactitude. We say these operations \"lie hidden\" there; not as tho",
+      "hoenen_sample_context_la": "Diligenter examinandi sunt processus qui in mente humana absolvuntur, dum geometriam elementarem, inde a primis eius principiis, constituere intendit. Ibi possunt latere operationes intellectus, operationes quae simul abstractivae sunt — nam originem habent a phantasmate — et intuitivae ; nam simplici mentis intuitu tum necessitatem quorundam nexuum tum eorum exactitudinem intueri et affirmare possumus. Has operationes ibi « latere » dicimus ; non quasi essent inconsciae, e contra cognoscitivae ",
+      "hoenen_thesis": "Demonstrates that sensible phantasms do not infuse purely spiritual truth on their own, but determine the specific intelligible content rendered actual by the light of the agent intellect.",
+      "geometor_relevance": "Models the interplay between concrete geometric configurations and universal symbolic deduction."
+    },
+    {
+      "key": "aquinas:de-veritate:q12-a3",
+      "slug": "aquinas-de-veritate-q12-a3",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "Quaestiones Disputatae de Veritate",
+      "locus": "q12-a3",
+      "critical_edition_ref": "Leonine XXII.2, De Veritate, q. 12, a. 3, ad 2",
+      "codex_status": "concordance_locus",
+      "codex_part": "concordance",
+      "codex_ref": "conc-aquinas-de-veritate-q12-a3",
+      "aristotle_source": "Posterior Analytics I.18, 81a38–b9",
+      "euclid_elements_link": "Indispensability of spatial sense/imagination for acquiring geometric science (*deficientibus sensibus deficit scientia*)",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0098",
+          "page": "98",
+          "book": "Caput IV",
+          "section": "04_caput_4",
+          "display": "Q. D. de Ver. q. 12 a. 3 ad 2"
+        }
+      ],
+      "hoenen_sample_context_en": "We are dealing with *all* our cognition considered in its origin, \"originally\"; the principles, however, in which this origin is said to consist, are indemonstrable principles that regard the \"proper object\" of the human mind, i.e., the form that is in matter; and the first principles of this are above all geometric principles, for these are first and best known to us. In order that we may have clear insight into the mode of operation of our mind, we must institute a \"resolution\" (*resolutio*) t",
+      "hoenen_sample_context_la": "Agitur de *omni* nostra cognitione in eius origine, « originaliter », considerata ; principia autem, in quibus haec origo consistere dicitur, sunt principia indemonstrabilia, quae spectant « obiectum proprium » mentis humanae i. e. formam quae est in materia ; et huius principia prima sunt praesertim principia geometrica, nam haec sunt nobis primo et optime nota. Ut modum operationis mentis nostrae perspectum habeamus debemus instituere « resolutionem » ad prima principia : et ideo (:cite:`*Q. D",
+      "hoenen_thesis": "Shows that intellectual light without imaginative data yields no determinate natural or mathematical science: imagination supplies the determinate figure in which universal ratios are read.",
+      "geometor_relevance": "Affirms the essential place of visual rendering (`geometor.explorer`) in mathematical discovery."
+    },
+    {
+      "key": "aquinas:eth-nic:IX.11",
+      "slug": "aquinas-eth-nic-ix-11",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "Sententia Libri Ethicorum",
+      "locus": "IX.11",
+      "critical_edition_ref": "Leonine XLVII.2, Sententia libri Ethicorum, Lib. IX, lect. 11",
+      "codex_status": "concordance_locus",
+      "codex_part": "concordance",
+      "codex_ref": "conc-aquinas-eth-nic-ix-11",
+      "aristotle_source": "Nicomachean Ethics IX.9, 1170a25–b10",
+      "euclid_elements_link": "Reflexive intellectual awareness (*percipimus nos intelligere*) during geometric contemplation",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0260",
+          "page": "260",
+          "book": "Appendix",
+          "section": "08_appendix",
+          "display": "i. h. l. (lect. 11)"
+        }
+      ],
+      "hoenen_sample_context_en": ".. [#f9] This clause is part of a rather intricate argumentation that is developed in the whole of chapter 9 and treats of friendship. In the English version (Oxford) there is read a note at the end of the chapter that, principally following :person:`Burnet <burnet>`, analytically expounds the structure of the argumentation, in which what was demonstrated in prior passages is indicated in those that follow. It is remarkable that :person:`St. Thomas <aquinas>` :cite:`on this place (lect. 11) <aqu",
+      "hoenen_sample_context_la": ".. [#f9] Hoc incisum est pars argumentationis sat intricatae, quae in toto capite 9 evolvitur et agit de amicitia. In versione anglica (Oxford) legitur nota in fine capitis quae, principaliter iuxta :person:`Burnet <burnet>`, analytice exponit structuram argumentationis ; in qua quae in prioribus passibus demonstrata sunt, in sequentibus indicantur. Mirum est :person:`S. Thomam <aquinas>` :cite:`i. h. l. (lect. 11) <aquinas:eth-nic:IX.11>` simile quid habere. Eius inscriptiones paragraphorum sim",
+      "hoenen_thesis": "Examines luminous intellectual self-presence in the act of sensing and understanding: perceiving that we perceive and understand.",
+      "geometor_relevance": "Connects contemplative geometric insight with reflexive critical verification (`reflection` in Hoenen and Lonergan)."
+    },
+    {
+      "key": "aquinas:met:10.4.2017",
+      "slug": "aquinas-met-10-4-2017",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "Sententia super Metaphysicam",
+      "locus": "10.4.2017",
+      "critical_edition_ref": "ed. Cathala–Spiazzi (Marietti), Lib. X, lect. 4, nos. 2017 sqq.",
+      "codex_status": "concordance_locus",
+      "codex_part": "concordance",
+      "codex_ref": "conc-aquinas-met-10-4-2017",
+      "aristotle_source": "Metaphysics X.3, 1054a20–b3",
+      "euclid_elements_link": "Identity (*eadem*), equality (*aequalia*, Common Notions 1–4), and similarity (*similia*, Book VI) in geometry",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0283",
+          "page": "283",
+          "book": "Appendix",
+          "section": "08_appendix",
+          "display": "S. Th. l. 4 n. 2017 sqq."
+        },
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0283",
+          "page": "283",
+          "book": "Appendix",
+          "section": "08_appendix",
+          "display": "l. c. n. 2017"
+        }
+      ],
+      "hoenen_sample_context_en": "*Note.* If terms are strictly employed (which is not always done), those things that are not the same are called *different* if determined through differences that are distinguished from that to be determined; they are called *diverse* if by their whole selves, not through something distinct to be added, they are not the same. This terminology is derived from :person:`Aristotle's <aristotle>` exposition in :cite:`*Metaphysics* X, 3, 1054b23–26 <aristotle:met:1054b23>` (cf. :cite:`St. Thomas, lec",
+      "hoenen_sample_context_la": "*Nota*. Si termini stricte adhibentur (id quod non semper fit) ea, quae non sunt idem, dicuntur *differentia*, si per differentias determinantur, quae distinguuntur a determinando ; dicuntur *diversa*, si seipsis totis, non per aliquid distinctum addendum, non sunt idem. Haec terminologia derivatur ex expositione :person:`Aristotelis <aristotle>` :cite:`*Met.* X 3, 1054 b 23-26 <aristotle:met:1054b23>` (cfr. :cite:`S. Th. l. 4 n. 2017 sqq. <aquinas:met:10.4.2017>`) et etiam :cite:`V 9, 1018 a 9-",
+      "hoenen_thesis": "Systematizes the transcendental and quantitative modes of unity: unity in substance is *identitas*, unity in quantity is *aequalitas*, and unity in quality/figure is *similitudo* (congruent angles with proportional sides).",
+      "geometor_relevance": "Provides the exact conceptual triad governing `geometor.elements` and `geometor.divine`: identical points, equal segments (`:eq:`), and similar golden figures."
+    },
+    {
+      "key": "aquinas:met:4.l4.n577",
+      "slug": "aquinas-met-4-l4-n577",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "Sententia super Metaphysicam",
+      "locus": "4.l4.n577",
+      "critical_edition_ref": "ed. Cathala–Spiazzi (Marietti), Lib. IV, lect. 4, n. 577",
+      "codex_status": "concordance_locus",
+      "codex_part": "concordance",
+      "codex_ref": "conc-aquinas-met-4-l4-n577",
+      "aristotle_source": "Metaphysics IV.3, 1005a19–b8",
+      "euclid_elements_link": "Mathematicians using Euclid's Common Notions (*aequalia ab aequalibus*) within continuous magnitude",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0165",
+          "page": "165",
+          "book": "Caput V",
+          "section": "05_caput_5",
+          "display": "Met. IV lect. 4 n. 577"
+        }
+      ],
+      "hoenen_sample_context_en": "In constructing science, this form, which can thus be abstracted, is present in determinate, concrete dispositions of things; hence logic, which the human mind naturally uses in constructing any science whatever, is form in the matter of such science; it is \":term:`logica utens <logica-utens>`\" or logic \"in use.\" Hence :person:`St. Thomas <aquinas>` *identifies* logic in use, in diverse sciences, not with the science of logic itself, but with the concrete, material science of which it is the for",
+      "hoenen_sample_context_la": "In construenda scientia, haec forma, quae ita abstrahi potest, adest in dispositionibus rei determinatis, concretis ; inde logica, qua mens humana naturaliter utitur in construenda quavis scientia, est forma in materia talis scientiae ; est « :term:`logica utens <logica-utens>` » vel « in usu ». Inde :person:`S. Thomas <aquinas>` logicam in usu, in diversis scientiis, *identificat*, non cum ipsa scientia logicae, sed cum scientia concreta, materiali, cuius est forma. Ita, ni fallor, intelligendu",
+      "hoenen_thesis": "Explains why mathematicians employ common ontological axioms (*dignitates*) restricted proportionately to quantitative magnitude, while metaphysics treats them universally of *ens inquantum ens*.",
+      "geometor_relevance": "Shows how general algebraic equality laws specialize cleanly to segment, angle, and area equalities in `geometor.elements`."
+    },
+    {
+      "key": "aquinas:met:5.12.916",
+      "slug": "aquinas-met-5-12-916",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "Sententia super Metaphysicam",
+      "locus": "5.12.916",
+      "critical_edition_ref": "ed. Cathala–Spiazzi (Marietti), Lib. V, lect. 12, n. 916",
+      "codex_status": "concordance_locus",
+      "codex_part": "concordance",
+      "codex_ref": "conc-aquinas-met-5-12-916",
+      "aristotle_source": "Metaphysics V.10, 1018a25–35",
+      "euclid_elements_link": "Geometric possibility/impossibility (e.g., commensurability vs. incommensurability of diagonal)",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0283",
+          "page": "283",
+          "book": "Appendix",
+          "section": "08_appendix",
+          "display": "S. Th. l. 12 n. 916"
+        }
+      ],
+      "hoenen_sample_context_en": "*Note.* If terms are strictly employed (which is not always done), those things that are not the same are called *different* if determined through differences that are distinguished from that to be determined; they are called *diverse* if by their whole selves, not through something distinct to be added, they are not the same. This terminology is derived from :person:`Aristotle's <aristotle>` exposition in :cite:`*Metaphysics* X, 3, 1054b23–26 <aristotle:met:1054b23>` (cf. :cite:`St. Thomas, lec",
+      "hoenen_sample_context_la": "*Nota*. Si termini stricte adhibentur (id quod non semper fit) ea, quae non sunt idem, dicuntur *differentia*, si per differentias determinantur, quae distinguuntur a determinando ; dicuntur *diversa*, si seipsis totis, non per aliquid distinctum addendum, non sunt idem. Haec terminologia derivatur ex expositione :person:`Aristotelis <aristotle>` :cite:`*Met.* X 3, 1054 b 23-26 <aristotle:met:1054b23>` (cfr. :cite:`S. Th. l. 4 n. 2017 sqq. <aquinas:met:10.4.2017>`) et etiam :cite:`V 9, 1018 a 9-",
+      "hoenen_thesis": "Distinguishes *possibile/impossibile* in the order of real active/passive potency from necessary/impossible truth in mathematical propositions (where 'impossible' means its contrary is necessarily true, as with a commensurable diagonal).",
+      "geometor_relevance": "Clarifies algebraic constructibility vs. impossibility (e.g., degree-of-extension criteria in compass-and-straightedge constructions)."
+    },
+    {
+      "key": "aquinas:met:5.9",
+      "slug": "aquinas-met-5-9",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "Sententia super Metaphysicam",
+      "locus": "5.9",
+      "critical_edition_ref": "ed. Cathala–Spiazzi (Marietti), Lib. V, lect. 9, nos. 885–897",
+      "codex_status": "full_text",
+      "codex_part": "pars-5",
+      "codex_ref": "pars-5-s1-en",
+      "aristotle_source": "Metaphysics V.7, 1017a7–b9",
+      "euclid_elements_link": "Truth of geometric propositions (e.g., incommensurability of the square's diagonal, Euclid X.117) signified by the copula *est*",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0284",
+          "page": "284",
+          "book": "Appendix",
+          "section": "08_appendix",
+          "display": "Met. V l. 9"
+        }
+      ],
+      "hoenen_sample_context_en": "And so it is no wonder that :person:`St. Thomas <aquinas>` according to these principles constructs the system of Aristotelian categories (:cite:`*In III Phys.*, lect. 5 <aquinas:phys:3.5>`, :cite:`*In V Metaph.*, lect. 9 <aquinas:met:5.9>`), or the \"division of being\" into genera; for being is not divided \"univocally as a genus into species, but according to diverse modes of being\" (:cite:`*In Phys.*, loc. cit. <aquinas:phys:3.5>`). And the directing principle is: \"modes of being are proportion",
+      "hoenen_sample_context_la": "Et ita mirum non est, :person:`S. Thomam <aquinas>` secundum haec principia construere systema praedicamentorum aristotelicorum (:cite:`*Phys.* III l. 5 <aquinas:phys:3.5>`, :cite:`*Met.* V l. 9 <aquinas:met:5.9>`), sive « divisionem entis » in genera ; nam ens non dividitur « univoce sicut genus in species, sed secundum diversos modos essendi » (:cite:`*Phys.* l. c. <aquinas:phys:3.5>`). Et principium dirigens est : « modi essendi proportionales sunt modis praedicandi » (:cite:`ibid. <aquinas:p",
+      "hoenen_thesis": "Distinguishes the fourfold sense of *ens*: *per accidens*, *per se* in the ten categories, *ens ut verum* signified by the judgmental copula (using the diagonal's incommensurability with the side as prime example!), and *actus/potentia*.",
+      "geometor_relevance": "Connects quadratic irrationality ($\\sqrt{2}$ in the square diagonal, $\\sqrt{5}$ in the golden ratio) directly to Thomistic propositional truth!"
+    },
+    {
+      "key": "aquinas:met:5.9.890",
+      "slug": "aquinas-met-5-9-890",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "Sententia super Metaphysicam",
+      "locus": "5.9.890",
+      "critical_edition_ref": "ed. Cathala–Spiazzi (Marietti), Lib. V, lect. 9, n. 890",
+      "codex_status": "full_text",
+      "codex_part": "pars-5",
+      "codex_ref": "pars-5-s1-en",
+      "aristotle_source": "Metaphysics V.7, 1017a22–30",
+      "euclid_elements_link": "Categorical grounding of *quantum* (magnitude), *quale* (figure), and *ad aliquid* (ratio/proportion)",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0284",
+          "page": "284",
+          "book": "Appendix",
+          "section": "08_appendix",
+          "display": "Met. l. c. n. 290"
+        }
+      ],
+      "hoenen_sample_context_en": "And so it is no wonder that :person:`St. Thomas <aquinas>` according to these principles constructs the system of Aristotelian categories (:cite:`*In III Phys.*, lect. 5 <aquinas:phys:3.5>`, :cite:`*In V Metaph.*, lect. 9 <aquinas:met:5.9>`), or the \"division of being\" into genera; for being is not divided \"univocally as a genus into species, but according to diverse modes of being\" (:cite:`*In Phys.*, loc. cit. <aquinas:phys:3.5>`). And the directing principle is: \"modes of being are proportion",
+      "hoenen_sample_context_la": "Et ita mirum non est, :person:`S. Thomam <aquinas>` secundum haec principia construere systema praedicamentorum aristotelicorum (:cite:`*Phys.* III l. 5 <aquinas:phys:3.5>`, :cite:`*Met.* V l. 9 <aquinas:met:5.9>`), sive « divisionem entis » in genera ; nam ens non dividitur « univoce sicut genus in species, sed secundum diversos modos essendi » (:cite:`*Phys.* l. c. <aquinas:phys:3.5>`). Et principium dirigens est : « modi essendi proportionales sunt modis praedicandi » (:cite:`ibid. <aquinas:p",
+      "hoenen_thesis": "Classic formulation that being contracts to the ten categories according to diverse modes of predicating consequential upon diverse modes of being (*quoties ens dicitur, toties esse significatur*).",
+      "geometor_relevance": "Establishes the ontological distinction between magnitudes (segments), qualities of quantity (polygonal figures), and relations (golden ratios)."
+    },
+    {
+      "key": "aquinas:met:9.10.1894",
+      "slug": "aquinas-met-9-10-1894",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "Sententia super Metaphysicam",
+      "locus": "9.10.1894",
+      "critical_edition_ref": "ed. Cathala–Spiazzi (Marietti), Lib. IX, lect. 10, nos. 1888–1894 (esp. n. 1894)",
+      "codex_status": "full_text",
+      "codex_part": "pars-5",
+      "codex_ref": "pars-5-s5-en",
+      "aristotle_source": "Metaphysics IX.9, 1051a21–33",
+      "euclid_elements_link": "Euclid I.32 (triangle angle-sum via parallel auxiliary line) and Euclid III.31 (Thales's right angle in a semicircle via auxiliary radius)",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0273",
+          "page": "273",
+          "book": "Appendix",
+          "section": "08_appendix",
+          "display": "S. Th. lect. 10 n. 1894"
+        }
+      ],
+      "hoenen_sample_context_en": "A universal relation between existential acts we already described in our work :cite:`*Théorie du jugement* (ch. X <hoenen:1953:ch10.5>`, :cite:`§ 5 <hoenen:1953:ch10.5>`). There the way is described according to which St. Thomas seems to establish the conditions under which the testimony of our senses is justified, which report the actual existence of objects concerning whose objectivity (possible existence) it is already intellectively established. There the adage of Aristotle and St. Thomas i",
+      "hoenen_sample_context_la": "Universalem relationem inter actus existentiales iam describebamus in opere nostro :cite:`*Théorie du Jugement* (Ch. X <hoenen:1953:ch10.5>` :cite:`§ 5 <hoenen:1953:ch10.5>`). Ibi via describitur secundum quam S. Thomas conditiones stabilire videtur, sub quibus iustificatur testimonium sensuum nostrorum, qui referunt existentiam actualem obiectorum de quorum obiectivitate (existentia possibili) iam intellective constat. Ibi adagium adhibetur Aristotelis et S. Thomae, quod breviter enuntiatur eor",
+      "hoenen_thesis": "Crowning heuristic text of the Codex: *geometrae inveniunt veritatem dividendo*! Geometric theorems latent in potency become immediately manifest (*statim manifestum est videnti*) the moment auxiliary divisions are drawn in act.",
+      "geometor_relevance": "The exact philosophical charter of GEOMETOR: adding auxiliary lines and circles in `geometor.model` actualizes latent intersections so `geometor.divine` reveals emergent golden sections!"
+    },
+    {
+      "key": "aquinas:met:9.3.1805",
+      "slug": "aquinas-met-9-3-1805",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "Sententia super Metaphysicam",
+      "locus": "9.3.1805",
+      "critical_edition_ref": "ed. Cathala–Spiazzi (Marietti), Lib. IX, lect. 3, n. 1805",
+      "codex_status": "full_text",
+      "codex_part": "pars-5",
+      "codex_ref": "pars-5-s4-en",
+      "aristotle_source": "Metaphysics IX.3, 1047a30–b2",
+      "euclid_elements_link": "Derivation of *actus* (*energeia*) from kinematic construction before extending to static geometric actuality",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0280",
+          "page": "280",
+          "book": "Appendix",
+          "section": "08_appendix",
+          "display": "Met. IX l. 3 n. 1805"
+        }
+      ],
+      "hoenen_sample_context_en": "Such *conceptions* of diverse modes of being, *abstracted* from quidditative content, seem to be present and required in individual affirmations of relations of which we spoke above. And now let us re-read one text already cited above (:cite:`p. 253 <hoenen:1954:253>`) (from :cite:`*In IX Metaph.*, lect. 3, no. 1805 <aquinas:met:9.3.1805>`) which treats of motion as actuality first known: \"For since names are signs of intelligible conceptions, we first imposed names upon those things which we fi",
+      "hoenen_sample_context_la": "Tales *conceptiones* diversorum modorum essendi, *abstractae* a contento quidditativo, videntur adesse et requiri in singulis affirmationibus relationum de quibus supra dictum est. Et nunc relegamus unum textum supra (:cite:`pag. 253 <hoenen:1954:253>`) iam citatum (ex :cite:`*Met.* IX l. 3 n. 1805 <aquinas:met:9.3.1805>`) qui agit de motu ut actualitate primo cognita : « Cum enim nomina sint signa intelligibilium conceptionum, illis primo imposuimus nomina, quae primo intelligimus, licet sint p",
+      "hoenen_thesis": "Explains how the name and concept of *actus* were first grasped in sensible local motion and then analogically extended to immobile mathematical and metaphysical actualities.",
+      "geometor_relevance": "Illuminates the transition from dynamic construction steps to timeless algebraic truth."
+    },
+    {
+      "key": "aquinas:met:9.3.1806",
+      "slug": "aquinas-met-9-3-1806",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "Sententia super Metaphysicam",
+      "locus": "9.3.1806",
+      "critical_edition_ref": "ed. Cathala–Spiazzi (Marietti), Lib. IX, lect. 3, n. 1806",
+      "codex_status": "full_text",
+      "codex_part": "pars-5",
+      "codex_ref": "pars-5-s4-en",
+      "aristotle_source": "Metaphysics IX.3, 1047a32–b2",
+      "euclid_elements_link": "Distinction between non-existent objects of imagination and really possible geometric constructions",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0280",
+          "page": "280",
+          "book": "Appendix",
+          "section": "08_appendix",
+          "display": "1806"
+        }
+      ],
+      "hoenen_sample_context_en": "\"For since names are signs of intelligible conceptions, we first imposed names upon those things which we first understand, although they be posterior according to the order of nature. Among other acts, however, motion is especially known and apparent to us, which is sensibly seen by us. And therefore upon it there was first imposed the name act, and from motion it was derived to other things. (:cite:`1806 <aquinas:met:9.3.1806>`) And on account of this, being moved is not attributed to non-exis",
+      "hoenen_sample_context_la": "« Cum enim nomina sint signa intelligibilium conceptionum, illis primo imposuimus nomina, quae primo intelligimus, licet sint posteriora secundum ordinem naturae. Inter alios autem actus, maxime est nobis notus et apparens motus, qui sensibiliter a nobis videtur. Et ideo ei primo impositum fuit nomen actus, et a motu ad alia derivatum est. (:cite:`1806 <aquinas:met:9.3.1806>`) Et propter hoc moveri non attribuitur non existentibus ». Conceptus « ipsius esse », etiam non concreti, plene agnosci v",
+      "hoenen_thesis": "Clarifies why non-beings may be thought or imagined without yet possessing *esse in actu*, linking potency and act to existential judgment.",
+      "geometor_relevance": "Distinguishes arbitrary unconstrained sketches from algebraically consistent constructions in `geometor.model`."
+    },
+    {
+      "key": "aquinas:met:III.7.416",
+      "slug": "aquinas-met-iii-7-416",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "Sententia super Metaphysicam",
+      "locus": "III.7.416",
+      "critical_edition_ref": "ed. Cathala–Spiazzi (Marietti), Lib. III, lect. 7, n. 416",
+      "codex_status": "concordance_locus",
+      "codex_part": "concordance",
+      "codex_ref": "conc-aquinas-met-iii-7-416",
+      "aristotle_source": "Metaphysics III.2, 997b25–998a19",
+      "euclid_elements_link": "Tangent line touching a circle at a single indivisible point (Euclid III.16) vs. Protagoras's empiricist objection",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0066",
+          "page": "66",
+          "book": "Caput III",
+          "section": "03_caput_3",
+          "display": "S. Th. lect. 7 n. 416"
+        }
+      ],
+      "hoenen_sample_context_en": ".. [#f1] :cite:`87b35 <aristotle:anal-post:I.31.87b35>`: καὶ εἰ ἦν αἰσθάνεσθαι τὸ τρίγωνον ὅτι δυσὶν ὀρθαῖς ἴσας ἔχει τὰς γωνίας, ἐζητοῦμεν ἂν ἀπόδειξιν καὶ οὐχ ὥσπερ φασί τινες ἠπιστάμεθα. Cf. :cite:`*Metaphysics* III, 2, 997b35 <aristotle:met:III.2.997b35>` (:cite:`*St. Thomas*, lect. 7, n. 416 <aquinas:met:III.7.416>`). There :person:`Protagoras's <protagoras>` objection is advanced, which is moved from the fact that in sensible lines a straight line does not touch a circle at a single point.",
+      "hoenen_sample_context_la": ".. [#f1] :cite:`87 b 35 <aristotle:anal-post:I.31.87b35>` : καὶ εἰ ἦν αἰσθάνεσθαι τὸ τρίγωνον ὅτι δυσὶν ὀρθαῖς ἴσας ἔχει τὰς γωνίας, ἐζητοῦμεν ἂν ἀπόδειξιν καὶ οὐχ ὥσπερ φασί τινες ἠπιστάμεθα. Cfr. :cite:`*Met.* III 2, 997 b 35 <aristotle:met:III.2.997b35>` (:cite:`*S. Th.* lect. 7 n. 416 <aquinas:met:III.7.416>`). Ibi :person:`Protagorae <protagoras>` obiectio profertur, quae ex eo movetur, quod in lineis sensibilibus recta non tangit circulum in uno puncto. .. [#f2] Cfr. :cite:`Cl. BAEUMKER, *",
+      "hoenen_thesis": "Refutes Protagoras's claim that because a physical ruler touches a bronze hoop along a segment rather than at a single point, geometry is false: mathematical tangency holds rigorously in *materia intelligibilis*.",
+      "geometor_relevance": "In `geometor.model`, a tangent line and circle yield a polynomial system with discriminant zero—an exact double root at a single symbolic point!"
+    },
+    {
+      "key": "aquinas:met:IX.3.1805",
+      "slug": "aquinas-met-ix-3-1805",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "Sententia super Metaphysicam",
+      "locus": "IX.3.1805",
+      "critical_edition_ref": "ed. Cathala–Spiazzi (Marietti), Lib. IX, lect. 3, nos. 1805–1806",
+      "codex_status": "full_text",
+      "codex_part": "pars-5",
+      "codex_ref": "pars-5-s4-en",
+      "aristotle_source": "Metaphysics IX.3, 1047a30–b2",
+      "euclid_elements_link": "Analogical extension of *energeia* from motion to geometric actualization",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0253",
+          "page": "253",
+          "book": "Appendix",
+          "section": "08_appendix",
+          "display": "i. h. l. Cath. n. 1805"
+        }
+      ],
+      "hoenen_sample_context_en": "Then the *name* \"actuality,\" :term:`energeia <energeia>`, is extended to other actualities; and this because the *notion* is extended. Excellently :person:`St. Thomas <aquinas>` notes (:cite:`*In IX Metaph.*, lect. 3, ed. Cathala, no. 1805 <aquinas:met:IX.3.1805>`) \"for since names are signs of intelligible conceptions, we first impose names upon those things which we first understand, *although they be posterior according to the order of nature*.\" The final words, underlined by us, specially re",
+      "hoenen_sample_context_la": "Dein *nomen* « actualitas », :term:`energeia <energeia>`, extenditur ad alias actualitates ; et hoc ideo quia *notio* extenditur. Optime :person:`S. Thomas <aquinas>` notat (:cite:`i. h. l. Cath. n. 1805 <aquinas:met:IX.3.1805>`) « cum enim nomina sint signa intelligibilium conceptionum, illis primo imponimus nomina, quae primo intelligimus, *licet sint posteriora secundum ordinem naturae* ». Verba ultima, a nobis sublineata, specialiter respiciunt casum nostrum, in quo id, quod est posterius se",
+      "hoenen_thesis": "Cross-reference in Hoenen's Appendix reinforcing that motion is the primary sensible manifestation of *actus* (*energeia*) for human cognition.",
+      "geometor_relevance": "Links interactive user gestures in `geometor.explorer` to underlying symbolic actualization."
+    },
+    {
+      "key": "aquinas:met:IX.7.1848",
+      "slug": "aquinas-met-ix-7-1848",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "Sententia super Metaphysicam",
+      "locus": "IX.7.1848",
+      "critical_edition_ref": "ed. Cathala–Spiazzi (Marietti), Lib. IX, lect. 7, n. 1848",
+      "codex_status": "concordance_locus",
+      "codex_part": "concordance",
+      "codex_ref": "conc-aquinas-met-ix-7-1848",
+      "aristotle_source": "Metaphysics IX.8, 1049b12–17",
+      "euclid_elements_link": "Cognitive priority of actual geometric construction (*actus*) over definitional potency (*potentia*)",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0265",
+          "page": "265",
+          "book": "Appendix",
+          "section": "08_appendix",
+          "display": "i. h. l. (n. 1848)"
+        }
+      ],
+      "hoenen_sample_context_en": "The doctrine of :person:`St. Thomas <aquinas>` on this point is also most familiar; he demands a moving cause, and indeed actually existing: what acts is an actual being. Let it suffice here to transcribe a few words from his commentary :cite:`on this place (no. 1848) <aquinas:met:IX.7.1848>`: \"for it is always necessary that that which is potential being should be actual being by an agent that is actual being ... And so always than that which is in potency there is something prior that moves, a",
+      "hoenen_sample_context_la": "Etiam doctrina :person:`S. Thomae <aquinas>` in hoc puncto est notissima ; exigit causam moventem, et quidem actu existentem : quod agit est ens actu. Sufficiat hic pauca verba exscribere ex eius commentario :cite:`i. h. l. (n. 1848) <aquinas:met:IX.7.1848>` : « semper enim oportet quod id quod est in potentia ens, sit actu ens ab agente quod est actu ens ... Et ita semper eo quod est in potentia est aliquid prius quod movet et movens est in actu ». Ita ex una existentia detegitur alia et simul ",
+      "hoenen_thesis": "Demonstrates that *actus* is prior to *potentia* in definition (*secundum rationem*): we can define the power to construct or divide a figure only through the actualized construction itself.",
+      "geometor_relevance": "Explains why constructive operators in `geometor.model` are specified by the exact loci they actualize."
+    },
+    {
+      "key": "aquinas:met:IX.8.1857",
+      "slug": "aquinas-met-ix-8-1857",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "Sententia super Metaphysicam",
+      "locus": "IX.8.1857",
+      "critical_edition_ref": "ed. Cathala–Spiazzi (Marietti), Lib. IX, lect. 8, n. 1857",
+      "codex_status": "concordance_locus",
+      "codex_part": "concordance",
+      "codex_ref": "conc-aquinas-met-ix-8-1857",
+      "aristotle_source": "Metaphysics IX.8, 1050a4–16",
+      "euclid_elements_link": "Pedagogical practice of teaching geometry by making the student construct figures in act (*operando*)",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0268",
+          "page": "268",
+          "book": "Appendix",
+          "section": "08_appendix",
+          "display": "i. h. l. ex Met. IX (l. 8 n. 1857)"
+        }
+      ],
+      "hoenen_sample_context_en": "We add a text from the commentary of :person:`St. Thomas <aquinas>` :cite:`on this place from *Metaphysics* IX (lect. 8, no. 1857) <aquinas:met:IX.8.1857>`: \"Everything that is made going to an end, goes to a certain principle. For the end for the sake of which something is made, is a certain principle. For it is prior in the intention of the agent, because for its sake generation takes place.\" And therefore efficiency itself as such is not understood, unless understood as directing the mobile t",
+      "hoenen_sample_context_la": "Addimus textum ex commentario :person:`S. Thomae <aquinas>` :cite:`i. h. l. ex *Met.* IX (l. 8 n. 1857) <aquinas:met:IX.8.1857>` : « Omne quod fit vadens ad finem, vadit ad quoddam principium. Nam finis cuius causa aliquid fit, est quoddam principium. Est enim prius in intentione agentis, quia eius causa fit generatio ». Et ideo ipsa efficientia ut talis non intelligitur, nisi intelligatur ut dirigens mobile in hunc finem. « :term:`Omne agens agit propter finem <omne-agens-agit-propter-finem>` »",
+      "hoenen_thesis": "Highlights Aristotle's and Aquinas's pedagogical insight: teachers judge that students have attained the end of geometric science when they show them constructing and demonstrating *in actu*.",
+      "geometor_relevance": "Embodies GEOMETOR's constructive pedagogy: understanding geometry by building exact constructions step by step."
+    },
+    {
+      "key": "aquinas:met:X.2.1938",
+      "slug": "aquinas-met-x-2-1938",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "Sententia super Metaphysicam",
+      "locus": "X.2.1938",
+      "critical_edition_ref": "ed. Cathala–Spiazzi (Marietti), Lib. X, lect. 2, n. 1938",
+      "codex_status": "concordance_locus",
+      "codex_part": "concordance",
+      "codex_ref": "conc-aquinas-met-x-2-1938",
+      "aristotle_source": "Metaphysics X.1, 1052b20–1053a14",
+      "euclid_elements_link": "Commensurable unit measure vs. incommensurable magnitudes (Euclid Book X) requiring two measures",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0216",
+          "page": "216",
+          "book": "Caput VI",
+          "section": "06_caput_6",
+          "display": "l. 2 n. 1938"
+        }
+      ],
+      "hoenen_sample_context_en": "Every quantity — even quantity of virtue — is measured by a \"unit\" that is \"homogeneous\" with the quantity to be measured. :person:`Aristotle <aristotle>` (:cite:`*Met.* X c. 1 1053 a 25 <aristotle:met:X.1.1053a25>`) calls the unit of measure a \"meter\"; and rightly demands such a meter to be :term:`συγγενές <syngenes>` [connatural] to the quantity to be measured; the measure must be in the same *genus* as the measured; it must be \"homogeneous.\" Next: the meter is by its nature that by which the ",
+      "hoenen_sample_context_la": "Omnis quantitas — etiam quantitas virtutis — mensuratur per « unitatem », quae est « homogenea » cum ipsa quantitate mensuranda. :person:`Aristoteles <aristotle>` (:cite:`*Met.* X c. 1 1053 a 25 <aristotle:met:X.1.1053a25>`) unitatem mensurae vocat « metrum » ; et iure exigit tale metrum, ut sit :term:`συγγενές <syngenes>` quantitati mensurandae ; mensura debet esse in eodem *genere* ac mensurandum, debet esse « homogenea ». Dein : metrum est natura sua id quo quantitas rei cognoscitur :term:`ᾧ ",
+      "hoenen_thesis": "Analyzes the nature of quantitative measure (*mensura*): while arithmetic measures by an absolutely indivisible unit, continuous geometry posits a conventional unit foot and discovers magnitudes (like the diagonal) measurable only across two incommensurable dimensions.",
+      "geometor_relevance": "Directly explains why GEOMETOR begins from two initial points `(0, 0)` and `(1, 0)` establishing the unit segment, from which $\\sqrt{2}$, $\\sqrt{3}$, and $\\phi$ emerge."
+    },
+    {
+      "key": "aquinas:met:XI.11.2370",
+      "slug": "aquinas-met-xi-11-2370",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "Sententia super Metaphysicam",
+      "locus": "XI.11.2370",
+      "critical_edition_ref": "ed. Cathala–Spiazzi (Marietti), Lib. XI, lect. 11, n. 2370",
+      "codex_status": "concordance_locus",
+      "codex_part": "concordance",
+      "codex_ref": "conc-aquinas-met-xi-11-2370",
+      "aristotle_source": "Metaphysics XI.11, 1067b25–1068a7",
+      "euclid_elements_link": "Immobility of mathematical abstractions vs. physical categories of motion",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0252",
+          "page": "252",
+          "book": "Appendix",
+          "section": "08_appendix",
+          "display": "n. 2370"
+        }
+      ],
+      "hoenen_sample_context_en": "Literally the same things are found in the parallel place in :cite:`*Metaphysics* XI, c. 11 <aristotle:met:XI.11>`. In the commentary of :person:`St. Thomas <aquinas>` there are certainly variations, but the doctrine and explanation remain the same. We note one text in the commentary (:cite:`no. 2370 <aquinas:met:XI.11.2370>`) that explains :person:`Aristotle's <aristotle>` clause (:cite:`1067b29 ff. <aristotle:met:XI.11.1067b29>`, in :cite:`*Phys.* 225a25 <aristotle:phys:V.1.225a25>`), saying: ",
+      "hoenen_sample_context_la": "Ad litteram eadem habentur in loco parallelo ex :cite:`*Met.* XI c. 11 <aristotle:met:XI.11>`. In commentario :person:`S. Thomae <aquinas>` sunt utique variationes, sed doctrina et explicatio manent eaedem. Notamus unum textum in commentario (:cite:`n. 2370 <aquinas:met:XI.11.2370>`) qui explicat incisum :person:`Aristotelis <aristotle>` (:cite:`1067b 29 sq. <aristotle:met:XI.11.1067b29>`, in :cite:`*Phys.* 225 a 25 <aristotle:phys:V.1.225a25>`) dicens : « quod est non ens in actu simpliciter i.",
+      "hoenen_thesis": "Reaffirms in the Metaphysics summary of Physics V that *per se* motion belongs only to sensible realizations of quantity, quality, and place.",
+      "geometor_relevance": "Reinforces the timeless algebraic stability of symbolic constructions in `geometor.model`."
+    },
+    {
+      "key": "aquinas:met:b7-l10",
+      "slug": "aquinas-met-b7-l10",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "Sententia super Metaphysicam",
+      "locus": "b7-l10",
+      "critical_edition_ref": "ed. Cathala–Spiazzi (Marietti), Lib. VII, lect. 10, nos. 1494–1500 (esp. n. 1496) & lect. 11, nos. 1501–1536",
+      "codex_status": "full_text",
+      "codex_part": "pars-5",
+      "codex_ref": "pars-5-s2-en",
+      "aristotle_source": "Metaphysics VII.10–11, 1035b31–1037a5",
+      "euclid_elements_link": "Elements I.def.15 (universal definition of the circle) vs. individual circles in *materia intelligibilis* and semicircles as material parts",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0101",
+          "page": "101",
+          "book": "Caput IV",
+          "section": "04_caput_4",
+          "display": "Met. VII lect. 10 (Cath. n. 1496)"
+        }
+      ],
+      "hoenen_sample_context_en": ".. [#f2] Let it be permitted here to transcribe a text of :person:`St. Thomas <aquinas>`. He says (:cite:`*In Boet. de Trin.* q. 5 a. 3 ad 3 <aquinas:de-trin:q5-a3>`): \"Matter is not the principle of diversity according to number, except insofar as, divided into many parts, and receiving in the individual parts a form of the same nature, it constitutes several individuals of the same species. Matter, however, cannot be divided except from presupposed quantity, upon the removal of which every sub",
+      "hoenen_sample_context_la": ".. [#f2] Liceat hic exscribere textum :person:`S. Thomae <aquinas>`. Ait (:cite:`*In Boet. de Trin.* q. 5 a. 3 ad 3 <aquinas:de-trin:q5-a3>`) « Materia non est principium diversitatis secundum numerum, nisi secundum quod in multas partes divisa, in singulis partibus formam recipiens eiusdem rationis, plura individua eiusdem speciei constituit. Materia autem dividi non potest nisi ex praesupposita quantitate, qua remota, substantia omnis indivisibilis remanet, et sic prima ratio diversificandi ea",
+      "hoenen_thesis": "Shows that just as bronze individuates sensible circles, *materia intelligibilis individualis* (designated continuous dimensions) individuates multiple mathematical circles of the same species, while *materia intelligibilis communis* enters mathematical definitions.",
+      "geometor_relevance": "Explains how `geometor.model` instantiates many distinct `Circle` objects sharing one universal algebraic form yet individuated by distinct centers and radii."
+    },
+    {
+      "key": "aquinas:periherm:1.5.17",
+      "slug": "aquinas-periherm-1-5-17",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "Expositio Libri Peryermeneias",
+      "locus": "1.5.17",
+      "critical_edition_ref": "Leonine I* 1, Expositio libri Peryermeneias, Lib. I, lect. 5, n. 17–22",
+      "codex_status": "concordance_locus",
+      "codex_part": "concordance",
+      "codex_ref": "conc-aquinas-periherm-1-5-17",
+      "aristotle_source": "Peri Hermeneias I.3, 16b19–25",
+      "euclid_elements_link": "Consignification of composition by *est* in timeless geometric truths",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0279",
+          "page": "279",
+          "book": "Appendix",
+          "section": "08_appendix",
+          "display": "ibid. n. 17"
+        }
+      ],
+      "hoenen_sample_context_en": "In such propositions the term \"esse\" (\"this that I call esse\") is the subject and is thus employed as a \"noun.\" Concerning such a subject it is said in general (:cite:`*Peri Herm.* I, lect. 5, no. 5 <aquinas:periherm:1.5.5>`): \"verbs of the infinitive mood, when placed in the subject, have the force of a noun\"; and the conception that is signified through such a term pertains to the *first operation* of the mind, simple apprehension. He who utters a noun, or a verb according to itself, \"constitu",
+      "hoenen_sample_context_la": "In talibus propositionibus terminus « esse » (« hoc quod dico esse ») est subiectum et ita tanquam « nomen » adhibetur. De tali subiecto in genere dicitur (:cite:`*Peri Herm.* I l. 5, n. 5 <aquinas:periherm:1.5.5>`) : « verba infinitivi modi, quando in subiecto ponuntur, habent vim nominis » ; et conceptio, quae per talem terminum significatur, pertinet ad *primam operationem* mentis, simplicem apprehensionem. Ille qui dicit nomen, vel verbum secundum se, « constituit intellectum quantum ad prim",
+      "hoenen_thesis": "Crucial text for Hoenen's judgment theory: *est* principally signifies actuality (*actualitas*) in the mode of verb and *consignifies* propositional composition uniting predicate with subject.",
+      "geometor_relevance": "Links ontological actuality with formal equality assertions."
+    },
+    {
+      "key": "aquinas:periherm:1.5.5",
+      "slug": "aquinas-periherm-1-5-5",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "Expositio Libri Peryermeneias",
+      "locus": "1.5.5",
+      "critical_edition_ref": "Leonine I* 1, Expositio libri Peryermeneias, Lib. I, lect. 5, n. 5",
+      "codex_status": "concordance_locus",
+      "codex_part": "concordance",
+      "codex_ref": "conc-aquinas-periherm-1-5-5",
+      "aristotle_source": "Peri Hermeneias I.3, 16b6–25",
+      "euclid_elements_link": "Propositional synthesis (*compositio*) in geometric enunciation (*protasis*)",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0279",
+          "page": "279",
+          "book": "Appendix",
+          "section": "08_appendix",
+          "display": "Peri Herm. I l. 5, n. 5"
+        }
+      ],
+      "hoenen_sample_context_en": "In such propositions the term \"esse\" (\"this that I call esse\") is the subject and is thus employed as a \"noun.\" Concerning such a subject it is said in general (:cite:`*Peri Herm.* I, lect. 5, no. 5 <aquinas:periherm:1.5.5>`): \"verbs of the infinitive mood, when placed in the subject, have the force of a noun\"; and the conception that is signified through such a term pertains to the *first operation* of the mind, simple apprehension. He who utters a noun, or a verb according to itself, \"constitu",
+      "hoenen_sample_context_la": "In talibus propositionibus terminus « esse » (« hoc quod dico esse ») est subiectum et ita tanquam « nomen » adhibetur. De tali subiecto in genere dicitur (:cite:`*Peri Herm.* I l. 5, n. 5 <aquinas:periherm:1.5.5>`) : « verba infinitivi modi, quando in subiecto ponuntur, habent vim nominis » ; et conceptio, quae per talem terminum significatur, pertinet ad *primam operationem* mentis, simplicem apprehensionem. Ille qui dicit nomen, vel verbum secundum se, « constituit intellectum quantum ad prim",
+      "hoenen_thesis": "Analyzes why verbs signify with time and serve as the formal copula of predication in every scientific assertion.",
+      "geometor_relevance": "Relates natural-language geometric enunciations (`euclid`) to formal relational assertions."
+    },
+    {
+      "key": "aquinas:phys:3.5",
+      "slug": "aquinas-phys-3-5",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "Commentaria in Octo Libros Physicorum Aristotelis",
+      "locus": "3.5",
+      "critical_edition_ref": "Leonine II, Lib. III, lect. 5, nos. 14–16; ed. Maggiòlo, nos. 321–323",
+      "codex_status": "full_text",
+      "codex_part": "pars-4",
+      "codex_ref": "pars-4-s2-en",
+      "aristotle_source": "Physics III.3, 202b19–29",
+      "euclid_elements_link": "Category of Quantity (*quantum*, consequential upon matter) vs. Quality (*figura*, modification of quantity) and *Situs*",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0284",
+          "page": "284",
+          "book": "Appendix",
+          "section": "08_appendix",
+          "display": "Phys. III l. 5"
+        },
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0284",
+          "page": "284",
+          "book": "Appendix",
+          "section": "08_appendix",
+          "display": "Phys. l. c."
+        },
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0284",
+          "page": "284",
+          "book": "Appendix",
+          "section": "08_appendix",
+          "display": "ibid."
+        }
+      ],
+      "hoenen_sample_context_en": "And so it is no wonder that :person:`St. Thomas <aquinas>` according to these principles constructs the system of Aristotelian categories (:cite:`*In III Phys.*, lect. 5 <aquinas:phys:3.5>`, :cite:`*In V Metaph.*, lect. 9 <aquinas:met:5.9>`), or the \"division of being\" into genera; for being is not divided \"univocally as a genus into species, but according to diverse modes of being\" (:cite:`*In Phys.*, loc. cit. <aquinas:phys:3.5>`). And the directing principle is: \"modes of being are proportion",
+      "hoenen_sample_context_la": "Et ita mirum non est, :person:`S. Thomam <aquinas>` secundum haec principia construere systema praedicamentorum aristotelicorum (:cite:`*Phys.* III l. 5 <aquinas:phys:3.5>`, :cite:`*Met.* V l. 9 <aquinas:met:5.9>`), sive « divisionem entis » in genera ; nam ens non dividitur « univoce sicut genus in species, sed secundum diversos modos essendi » (:cite:`*Phys.* l. c. <aquinas:phys:3.5>`). Et principium dirigens est : « modi essendi proportionales sunt modis praedicandi » (:cite:`ibid. <aquinas:p",
+      "hoenen_thesis": "Demonstrates the isomorphism between predication and ontology (*modi essendi proportionales sunt modis praedicandi*), deriving Quantity as the intrinsic accident following upon matter.",
+      "geometor_relevance": "Grounds the type hierarchy of `geometor.model` (substance-substrate -> continuous plane -> bounded segments, circles, polygons, ratios)."
+    },
+    {
+      "key": "aquinas:phys:4.17",
+      "slug": "aquinas-phys-4-17",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "Commentaria in Octo Libros Physicorum Aristotelis",
+      "locus": "4.17",
+      "critical_edition_ref": "Leonine II, Lib. IV, lect. 17",
+      "codex_status": "concordance_locus",
+      "codex_part": "concordance",
+      "codex_ref": "conc-aquinas-phys-4-17",
+      "aristotle_source": "Physics IV.11, 218b21–219b8",
+      "euclid_elements_link": "Continuity of time derived from continuity of spatial magnitude (*magnitudo -> motus -> tempus*)",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0286",
+          "page": "286",
+          "book": "Appendix",
+          "section": "08_appendix",
+          "display": "S. Thomas l. 17"
+        }
+      ],
+      "hoenen_sample_context_en": "1. Among modes of being there are certain ones that have proper attributes analogous to certain proper attributes of essences. Motion strictly so called, whether local motion or alteration, is an existential act, and indeed a fluent *esse*. This *esse* has an extension strictly so called, continuous but fluent. This extension, successive duration, follows (say :person:`Aristotle <aristotle>`, :cite:`*Phys.* IV, 11, 219a11 <aristotle:phys:219a11>`, and :cite:`St. Thomas, lect. 17 <aquinas:phys:4.",
+      "hoenen_sample_context_la": "1. Inter modos essendi sunt quidam, qui propria habent, quae analoga sunt propriis quibusdam essentiarum. Motus stricte dictus, sive sit motus localis sive alterationis, est actus existentialis, et quidem esse fluens. Hoc esse extensionem stricte dictam, continuam sed fluentem, habet. Haec extensio duratio successiva, consequitur (aiunt :person:`Aristoteles <aristotle>` :cite:`*Phys.* IV 11 219 a 11 <aristotle:phys:219a11>`, et :cite:`S. Thomas l. 17 <aquinas:phys:4.17>`) magnitudinem, extension",
+      "hoenen_thesis": "Traces the causal and cognitive order *magnitudo -> motus -> tempus*: temporal succession is continuous only because the underlying spatial magnitude is continuous.",
+      "geometor_relevance": "Grounds animation keyframes and step sequencing in `geometor.explorer` upon underlying geometric magnitude."
+    },
+    {
+      "key": "aquinas:phys:II.3",
+      "slug": "aquinas-phys-ii-3",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "Commentaria in Octo Libros Physicorum Aristotelis",
+      "locus": "II.3",
+      "critical_edition_ref": "Leonine II, Lib. II, lect. 3, nos. 1–9; ed. Maggiòlo, nos. 157–165",
+      "codex_status": "full_text",
+      "codex_part": "pars-4",
+      "codex_ref": "pars-4-s1-en",
+      "aristotle_source": "Physics II.2, 193b22–194b15",
+      "euclid_elements_link": "Surfaces, lines, points, and curves abstracted from physical bodies without mendacity (*abstrahentium non est mendacium*)",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0062",
+          "page": "62",
+          "book": "Caput II",
+          "section": "02_caput_2",
+          "display": "In Phys. II lect. 3"
+        }
+      ],
+      "hoenen_sample_context_en": "\"Yet they [those quantities] cannot be considered without the understanding of substance subject to quantity, which would be to abstract them from common intelligible matter.\" See also :cite:`*In Phys.* II, lect. 3 <aquinas:phys:II.3>`; :cite:`*De Anima* III, lect. 8 <aquinas:de-anima:III.8>`. Matter, therefore, from which abstraction is made, is not always physical matter, just as the form that is abstracted is not always physical form.",
+      "hoenen_sample_context_la": "« Non tamen possunt [quantitates illae] considerari sine intellectu substantiae quantitati subiectae, quod esset illas abstrahi a materia intelligibili communi ». Vide etiam :cite:`*In Phys.* II lect. 3 <aquinas:phys:II.3>`; :cite:`*De anim.* III lect. 8 <aquinas:de-anima:III.8>`. Materia igitur, a qua abstrahitur, non est semper materia physica, sicut forma, quae abstrahitur, non est semper forma physica.",
+      "hoenen_thesis": "Defends the objective realism of geometry: because quantitative extension inheres in corporeal substance prior to sensible qualities (heat, weight, color), considering figure apart from sensible motion involves zero falsehood (*abstrahentium non est mendacium*).",
+      "geometor_relevance": "Validates studying natural phyllotaxis (`geometor.phyllotaxis`) and physical symmetries via pure Euclidean/projective geometry."
+    },
+    {
+      "key": "aquinas:phys:IV.3",
+      "slug": "aquinas-phys-iv-3",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "Commentaria in Octo Libros Physicorum Aristotelis",
+      "locus": "IV.3",
+      "critical_edition_ref": "Leonine II, Lib. IV, lect. 3, in fine",
+      "codex_status": "concordance_locus",
+      "codex_part": "concordance",
+      "codex_ref": "conc-aquinas-phys-iv-3",
+      "aristotle_source": "Physics IV.2, 209b1–17",
+      "euclid_elements_link": "Three-dimensional corporeal extension vs. surrounding *locus*",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0261",
+          "page": "261",
+          "book": "Appendix",
+          "section": "08_appendix",
+          "display": "S. Th. l. 3 in fine"
+        }
+      ],
+      "hoenen_sample_context_en": "The existence of place becomes known to us from that motion which is \"translation,\" motion according to place. So already in the introductory exposition he affirms (:cite:`c. 1, 208b1 <aristotle:phys:IV.1.208b1>`) from the mind of others. Then he affirms the same as his own opinion in :cite:`c. 2 (209b24–30) <aristotle:phys:IV.2.209b24>`. At the end of this chapter 2 (cf. :cite:`210a12 <aristotle:phys:IV.2.210a12>`) he completes the reasons establishing that it must *be* something, but says that",
+      "hoenen_sample_context_la": "Existentia loci nobis innotescit ex illo motu, qui est « translatio », motus secundum locum. Ita iam in expositione introductoria affirmat (:cite:`c. 1 208 b 1 <aristotle:phys:IV.1.208b1>`) ex mente aliorum. Dein idem ut propriam sententiam affirmat :cite:`c. 2 (209 b 24-30) <aristotle:phys:IV.2.209b24>`. In fine huius capitis 2 (cfr. :cite:`210 a 12 <aristotle:phys:IV.2.210a12>`) complet rationes quae statuunt debere *esse* aliquid, sed dicit manere difficultates solvendas relate ad eius quiddi",
+      "hoenen_thesis": "Critiques Plato's identification of matter and place/extension while showing why bounded spatial intervals suggest a distinct receptive dimension.",
+      "geometor_relevance": "Clarifies the distinction between intrinsic figure dimensions and ambient coordinate space."
+    },
+    {
+      "key": "aquinas:phys:IV.7",
+      "slug": "aquinas-phys-iv-7",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "Commentaria in Octo Libros Physicorum Aristotelis",
+      "locus": "IV.7",
+      "critical_edition_ref": "Leonine II, Lib. IV, lect. 7, nos. 1–12",
+      "codex_status": "full_text",
+      "codex_part": "pars-4",
+      "codex_ref": "pars-4-s3-en",
+      "aristotle_source": "Physics IV.4, 211b5–212a21",
+      "euclid_elements_link": "Elements Common Notion 4 & Proposition I.4 (congruence/superposition of figures across immobile spatial positions)",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0262",
+          "page": "262",
+          "book": "Appendix",
+          "section": "08_appendix",
+          "display": "lectionem 7"
+        }
+      ],
+      "hoenen_sample_context_en": "Familiar is the difficulty that thence arises regarding the motion of the outermost sphere. It is not of this place to treat of its solution. The fact that it is a difficulty and is considered as serious demonstrates in its own way that :person:`Aristotle's <aristotle>` theory is that which we were expounding. Concerning the difficulty :person:`St. Thomas <aquinas>` can be read, who devotes to it a long :cite:`lecture 7 <aquinas:phys:IV.7>` [#f11]_. From it we transcribe only this beautiful text",
+      "hoenen_sample_context_la": "Nota est difficultas quae inde oritur relate ad motum ultimae sphaerae. Non est huius loci de eius solutione agere. Factum, quod est difficultas et ut seria consideratur, suo modo demonstrat theoriam :person:`Aristotelis <aristotle>` eam esse quam exponebamus. De difficultate legi poterit :person:`S. Thomas <aquinas>` qui ei longam :cite:`lectionem 7 <aquinas:phys:IV.7>` tribuit [#f11]_. Ex ea tantum transcribimus pulchrum textum : « sicut :person:`Aristoteles <aristotle>` supra dixit, non quaer",
+      "hoenen_thesis": "Explains how the mind abstracts immobile place (*terminus continentis immobilis primus*) by observing successive bodies replacing one another through local translation.",
+      "geometor_relevance": "Provides the Thomistic justification for Euclidean congruence, rigid motions, and superposition (`:coincide:` role in `photon_platform.publish`)."
+    },
+    {
+      "key": "aquinas:phys:IV.7.7",
+      "slug": "aquinas-phys-iv-7-7",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "Commentaria in Octo Libros Physicorum Aristotelis",
+      "locus": "IV.7.7",
+      "critical_edition_ref": "Leonine II, Lib. IV, lect. 7, n. 7",
+      "codex_status": "full_text",
+      "codex_part": "pars-4",
+      "codex_ref": "pars-4-s3-en",
+      "aristotle_source": "Physics IV.4, 212a14–21",
+      "euclid_elements_link": "Invariance of geometric relations under spatial translation (fixed *ordo ad totum caelum*)",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0262",
+          "page": "262",
+          "book": "Appendix",
+          "section": "08_appendix",
+          "display": "lect. cit. n. 7"
+        }
+      ],
+      "hoenen_sample_context_en": "Familiar is the difficulty that thence arises regarding the motion of the outermost sphere. It is not of this place to treat of its solution. The fact that it is a difficulty and is considered as serious demonstrates in its own way that :person:`Aristotle's <aristotle>` theory is that which we were expounding. Concerning the difficulty :person:`St. Thomas <aquinas>` can be read, who devotes to it a long :cite:`lecture 7 <aquinas:phys:IV.7>` [#f11]_. From it we transcribe only this beautiful text",
+      "hoenen_sample_context_la": "Nota est difficultas quae inde oritur relate ad motum ultimae sphaerae. Non est huius loci de eius solutione agere. Factum, quod est difficultas et ut seria consideratur, suo modo demonstrat theoriam :person:`Aristotelis <aristotle>` eam esse quam exponebamus. De difficultate legi poterit :person:`S. Thomas <aquinas>` qui ei longam :cite:`lectionem 7 <aquinas:phys:IV.7>` tribuit [#f11]_. Ex ea tantum transcribimus pulchrum textum : « sicut :person:`Aristoteles <aristotle>` supra dixit, non quaer",
+      "hoenen_thesis": "Highlights Aquinas's refinement of Themistius: although a vessel or river current moves materially, the *ratio loci* remains immobile by preserving a fixed positional relation (*situs*) to the whole cosmos.",
+      "geometor_relevance": "Corresponds to global coordinate frame invariance in `geometor.model`."
+    },
+    {
+      "key": "aquinas:phys:V.2.8",
+      "slug": "aquinas-phys-v-2-8",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "Commentaria in Octo Libros Physicorum Aristotelis",
+      "locus": "V.2.8",
+      "critical_edition_ref": "Leonine II, Lib. V, lect. 2, n. 8",
+      "codex_status": "concordance_locus",
+      "codex_part": "concordance",
+      "codex_ref": "conc-aquinas-phys-v-2-8",
+      "aristotle_source": "Physics V.1, 225b5–9",
+      "euclid_elements_link": "Immobility of geometric essences and relations per se",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0251",
+          "page": "251",
+          "book": "Appendix",
+          "section": "08_appendix",
+          "display": "i. h. l. lect. 2 n. 8"
+        }
+      ],
+      "hoenen_sample_context_en": "In :cite:`*Physica* V, 1 (225a25 ff.) <aristotle:phys:V.1.225a25>`, where :person:`Aristotle <aristotle>` distinguishes motion strictly so called from other mutations (generation and corruption), there is established the principle τὸ δὲ ἁπλῶς μὴ :term:`τόδε <tode>` οὐδαμῶς [ἐνδέχεται κινεῖσθαι] ἀδύνατον γὰρ τὸ μὴ ὂν κινεῖσθαι. Substance is treated, :term:`τόδε <tode>`, and concerning it it is said: if it is not an actual being, it cannot be moved (not even *per accidens*). Which is rendered by :",
+      "hoenen_sample_context_la": "In :cite:`*Phys.* V 1 (225 a 25 sqq.) <aristotle:phys:V.1.225a25>`, ubi :person:`Aristoteles <aristotle>` motum stricte dictum ab aliis mutationibus (generatione et corruptione) distinguit, statuitur principium τὸ δὲ ἁπλῶς μὴ :term:`τόδε <tode>` οὐδαμῶς [ἐνδέχεται κινεῖσθαι] ἀδύνατον γὰρ τὸ μὴ ὂν κινεῖσθαι. Agitur de substantia, :term:`τόδε <tode>`, et de ea dicitur : si non est ens actu non potest moveri (ne per accidens quidem). Id quod a :person:`S. Thoma <aquinas>` redditur (:cite:`i. h. l. ",
+      "hoenen_thesis": "Shows that there is no *per se* motion in the category of Substance or Relation (nor in abstract mathematical forms as such), but only in Quantity, Quality, and *Ubi*.",
+      "geometor_relevance": "Confirms that proportional relations (such as $\\phi$) are invariant relational truths rather than mutable processes."
+    },
+    {
+      "key": "aquinas:phys:V.2.9",
+      "slug": "aquinas-phys-v-2-9",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "Commentaria in Octo Libros Physicorum Aristotelis",
+      "locus": "V.2.9",
+      "critical_edition_ref": "Leonine II, Lib. V, lect. 2, n. 9",
+      "codex_status": "concordance_locus",
+      "codex_part": "concordance",
+      "codex_ref": "conc-aquinas-phys-v-2-9",
+      "aristotle_source": "Physics V.1, 225b10–16",
+      "euclid_elements_link": "Invariance of geometric equality and proportion unless an underlying magnitude changes",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0252",
+          "page": "252",
+          "book": "Appendix",
+          "section": "08_appendix",
+          "display": "l. c. n. 9"
+        }
+      ],
+      "hoenen_sample_context_en": "This is briefly developed and explained by :person:`St. Thomas <aquinas>`, where (:cite:`loc. cit., no. 9 <aquinas:phys:V.2.9>`) he says that this argument holds not only of local motion, but, in the theory of :person:`Aristotle <aristotle>`, consequently of all motion, because other motions presuppose local motion. (Cf. also :person:`Simplicius <simplicius>`, :cite:`*In Phys.*, ed. Diels, 817 ff. <simplicius:phys:817>`). Literally the same things are found in the parallel place in :cite:`*Metap",
+      "hoenen_sample_context_la": "Id a :person:`S. Thoma <aquinas>` breviter evolvitur et explicatur, ubi (:cite:`l. c. n. 9 <aquinas:phys:V.2.9>`) ait hoc argumentum non tantum valere de motu locali, sed, in theoria :person:`Aristotelis <aristotle>`, consequenter de omni motu, quia alii motus praesupponunt motum localem. (Cfr. quoque :person:`Simplicium <simplicius>` :cite:`i. h. l. ed. Diels 817 sqq. <simplicius:phys:817>`). Ad litteram eadem habentur in loco parallelo ex :cite:`*Met.* XI c. 11 <aristotle:met:XI.11>`. In comme",
+      "hoenen_thesis": "Explains why a new relation arises without intrinsic change in a term when another term moves—crucial for relational geometry and spatial situs.",
+      "geometor_relevance": "Supports relational collineation and harmonic cross-ratio tracking in `geometor.pappus` and `geometor.divine`."
+    },
+    {
+      "key": "aquinas:phys:VIII.1",
+      "slug": "aquinas-phys-viii-1",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "Commentaria in Octo Libros Physicorum Aristotelis",
+      "locus": "VIII.1",
+      "critical_edition_ref": "Leonine II, Lib. VIII, lect. 1–2 (coupled with Lib. VI, lect. 1 in Pars IV s4)",
+      "codex_status": "concordance_locus",
+      "codex_part": "concordance",
+      "codex_ref": "conc-aquinas-phys-viii-1",
+      "aristotle_source": "Physics VIII.1, 250b11–252b6 (& Physics VI.1, 231a21–b18)",
+      "euclid_elements_link": "Infinite divisibility of the continuum (`Pars IV, s4`: *In VI Phys.* lect. 1) vs. impossibility of composition from indivisibles",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0252",
+          "page": "252",
+          "book": "Appendix",
+          "section": "08_appendix",
+          "display": "lect. 1 et 2"
+        }
+      ],
+      "hoenen_sample_context_en": "*Note.* This principle, as universally admitted, is presupposed in :cite:`*Physica* VIII, c. 1 <aristotle:phys:VIII.1>`, in :person:`St. Thomas <aquinas>`, :cite:`lect. 1 and 2 <aquinas:phys:VIII.1>`, and indeed, as :person:`Aristotle <aristotle>` explicitly says, even independently of the theory of motion from :cite:`Book III <aristotle:phys:III>`. Note moreover: this is accustomed to be applied by :person:`St. Thomas <aquinas>` to solve problems of great moment that occur in the analysis of cr",
+      "hoenen_sample_context_la": "*Nota.* Hoc principium, ut universaliter admissum, praesupponitur in :cite:`*Phys.* VIII c. 1. <aristotle:phys:VIII.1>`, apud :person:`S. Thomam <aquinas>` :cite:`lect. 1 et 2 <aquinas:phys:VIII.1>`, et quidem, ut :person:`Aristoteles <aristotle>` explicite dicit, etiam independenter a theoria motus ex :cite:`libro III <aristotle:phys:III>`. Nota insuper : id a :person:`S. Thoma <aquinas>` applicari solet ad solvenda problemata magni momenti, quae in analysi creationis occurrunt. Sicut igitur un",
+      "hoenen_thesis": "Analyzes potential vs. actual infinity in continuous division and motion, building upon *In VI Phys.* lect. 1's proof that no line is composed of indivisible points.",
+      "geometor_relevance": "Explains why recursive geometric constructions (such as nested pentagrams and Fibonacci spirals) are endlessly iterable without hitting atomic 'pixels'."
+    },
+    {
+      "key": "aquinas:phys:b4-l18",
+      "slug": "aquinas-phys-b4-l18",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "Commentaria in Octo Libros Physicorum Aristotelis",
+      "locus": "b4-l18",
+      "critical_edition_ref": "Leonine II, Lib. IV, lect. 18, n. 4",
+      "codex_status": "concordance_locus",
+      "codex_part": "concordance",
+      "codex_ref": "conc-aquinas-phys-b4-l18",
+      "aristotle_source": "Physics IV.11, 219b9–33",
+      "euclid_elements_link": "Analogy between the moving point (*punctum fluens*) giving unity to a line and the flowing *nunc* in time",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0108",
+          "page": "108",
+          "book": "Caput IV",
+          "section": "04_caput_4",
+          "display": "Phys. IV lect. 18 n. 4"
+        }
+      ],
+      "hoenen_sample_context_en": ".. [#f9] :cite:`*De Caelo* I, lect. 2, no. 9 <aquinas:de-caelo:b1-l2>`: \"He uses the mode of speaking that geometers use, imagining that a point moved makes a line, while a line moved makes a surface, and a surface a body\"; cf. :cite:`ibid., II, lect. 2, no. 11 <aquinas:de-caelo:b2-l2>`, :cite:`*Phys.* IV, lect. 18, no. 4 <aquinas:phys:b4-l18>`. .. _caput-4-en-fn10:",
+      "hoenen_sample_context_la": ".. [#f9] :cite:`*De Caelo* I lect. 2 n. 9 <aquinas:de-caelo:b1-l2>` « Utitur modo loquendi quo utuntur geometrae, imaginantes quod punctus motus facit lineam, linea vero mota facit superficiem, superficies autem corpus » ; cfr. :cite:`ibid. II lect. 2 n. 11 <aquinas:de-caelo:b2-l2>`, :cite:`*Phys.* IV lect. 18 n. 4 <aquinas:phys:b4-l18>`. .. [#f10] :cite:`H. POINCARÉ, *La science et l'hypothèse* pag. 80 <poincare:science-hypothese:p80>` ; cfr. :cite:`ibid. pag. 60 <poincare:science-hypothese:p60",
+      "hoenen_thesis": "Examines how the geometer's *punctum* both continues a line and divides it in potency, analogous to the *nunc* in time.",
+      "geometor_relevance": "Illuminates how intersection points divide segments into golden-ratio sub-segments in `geometor.divine`."
+    },
+    {
+      "key": "aquinas:scg:1.26.2",
+      "slug": "aquinas-scg-1-26-2",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "Summa contra Gentiles",
+      "locus": "1.26.2",
+      "critical_edition_ref": "Leonine XIII, Summa contra Gentiles, Lib. I, cap. 26, n. 2",
+      "codex_status": "concordance_locus",
+      "codex_part": "concordance",
+      "codex_ref": "conc-aquinas-scg-1-26-2",
+      "aristotle_source": "Posterior Analytics II.7, 92b13–14; Metaphysics III.3",
+      "euclid_elements_link": "Distinction of *esse* from generic/specific geometric essence",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0284",
+          "page": "284",
+          "book": "Appendix",
+          "section": "08_appendix",
+          "display": "S. c. G. I 26 n. 2"
+        }
+      ],
+      "hoenen_sample_context_en": ".. [#f31] There can be compared :cite:`*Summa contra Gentiles* I, 26, no. 2 <aquinas:scg:1.26.2>`, where it is said that diverse \"esse\" are not diverse \"according to species\" (for *esse* is not a genus); but things have \"diverse natures, by which esse is acquired in diverse ways.\" .. _appendix-en-fn32:",
+      "hoenen_sample_context_la": ".. [#f31] Conferri potest :cite:`S. c. G. I 26 n. 2 <aquinas:scg:1.26.2>` ubi dicitur diversa « esse » non esse diversa « secundum speciem » (nam esse non est genus) ; sed res habent « diversas naturas, quibus acquiritur esse diversimode ». .. [#f32] De his cfr. in :cite:`*Gregor.* (1953 pagg. 1-31) articulum nostrum *De duratione successiva et de quaestionibus connexis* <hoenen:1953:greg:1>`. Supra :cite:`VI § 3 <hoenen:1954:VI.3>`.",
+      "hoenen_thesis": "Proves that *esse* cannot be a genus because every formal nature contracts *esse* by distinct modes of being.",
+      "geometor_relevance": "Clarifies why mathematical objects form a specific quantitative domain within universal being."
+    },
+    {
+      "key": "aquinas:scg:I.36",
+      "slug": "aquinas-scg-i-36",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "Summa contra Gentiles",
+      "locus": "I.36",
+      "critical_edition_ref": "Leonine XIII, Summa contra Gentiles, Lib. I, cap. 36",
+      "codex_status": "concordance_locus",
+      "codex_part": "concordance",
+      "codex_ref": "conc-aquinas-scg-i-36",
+      "aristotle_source": "Metaphysics V.7 & VI.4",
+      "euclid_elements_link": "Synthesis of diverse conceptual ratios (e.g., 'equilateral' and 'equiangular') into one geometric subject via judgment",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0057",
+          "page": "57",
+          "book": "Caput II",
+          "section": "02_caput_2",
+          "display": "S. c. G. I 36"
+        }
+      ],
+      "hoenen_sample_context_en": "In *every* judgment we affirm (or deny, if the judgment is negative) a nexus between subject and predicate. *At least* *this* nexus is present, that the form that defines or designates the subject (if it is not a question of those judgments in which the subject indicates *only* a suppositum: \"this\" is white) is found in the same suppositum in which the predicate is discovered, which in judgment is attributed to the same suppositum. \"The extended is divisible\"; the form of \"extension\" defines the",
+      "hoenen_sample_context_la": "In *omni* iudicio affirmamus (vel negamus, si iudicium est negativum) nexum inter subiectum et praedicatum. *Saltem* adest *hic* nexus, quod forma, quae definit vel designat subiectum (si non agitur de illis iudiciis in quibus subiectum suppositum *tantum* indicat : « hoc » est album) invenitur in eodem supposito, in quo detegitur praedicatum, quod in iudicio eidem supposito tribuitur. « Extensum est divisibile » ; forma « extensionis » definit subiectum, forma « divisibilitatis » determinat pra",
+      "hoenen_thesis": "Shows how our intellect forms affirmative propositions to unite diverse conceptual aspects signifying a single reality.",
+      "geometor_relevance": "Models multi-property equivalence on a single geometric figure in `geometor.elements` (e.g., Euclid I.5–I.6)."
+    },
+    {
+      "key": "aquinas:sent:1.19.5.1.ad6",
+      "slug": "aquinas-sent-1-19-5-1-ad6",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "Scriptum super Libros Sententiarum",
+      "locus": "1.19.5.1.ad6",
+      "critical_edition_ref": "ed. Mandonnet, In I Sent., d. 19, q. 5, a. 1 (co. & ad 6–7)",
+      "codex_status": "concordance_locus",
+      "codex_part": "concordance",
+      "codex_ref": "conc-aquinas-sent-1-19-5-1-ad6",
+      "aristotle_source": "Metaphysics VI.4, 1027b25–27",
+      "euclid_elements_link": "Formal *ratio veritatis* realized in demonstrated geometric judgment grounded in *esse rei*",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0280",
+          "page": "280",
+          "book": "Appendix",
+          "section": "08_appendix",
+          "display": "Sent. I D. 19 q. 5 a. 1 ad 6"
+        }
+      ],
+      "hoenen_sample_context_en": "This conception is also called the \"ratio essendi,\" cognition of which is denied to the senses, although they perceive sensible things that *are* (:cite:`*Sent.* I, d. 19, q. 5, a. 1, ad 6 <aquinas:sent:1.19.5.1.ad6>`). And it arises through abstraction worthy of the name. So in :cite:`*Summa Theologiae* I, q. 12, a. 4, ad 3 <aquinas:st:I.12.4.ad3>`, where the principle is expounded \"our intellect can consider in abstraction that which it knows in concretion,\" it is elucidated thus: our intellec",
+      "hoenen_sample_context_la": "Haec conceptio vocatur quoque « ratio essendi », cuius cognitio sensibus denegatur, quamquam hi sensibilia quae *sunt* percipiunt (:cite:`Sent. I D. 19 q. 5 a. 1 ad 6 <aquinas:sent:1.19.5.1.ad6>`). Et oritur per veri nominis abstractionem. Ita in :cite:`*S. Th.* I q. 12 a. 4 ad 3 <aquinas:st:I.12.4.ad3>`, ubi principium exponitur « intellectus noster potest in abstractione considerare id quod in concretione cognoscit », dilucidatur id ita : intellectus noster id facere solet pro forma quae est i",
+      "hoenen_thesis": "Famous early Thomistic thesis: truth has its *fundamentum* in the *esse* of the thing (rather than bare quiddity alone) and its formal completion in the judging intellect.",
+      "geometor_relevance": "Connects symbolic verification (`model`) to ontological proportion in nature (`phyllotaxis`)."
+    },
+    {
+      "key": "aquinas:sent:1.2.1.3",
+      "slug": "aquinas-sent-1-2-1-3",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "Scriptum super Libros Sententiarum",
+      "locus": "1.2.1.3",
+      "critical_edition_ref": "ed. Mandonnet, In I Sent., d. 2, q. 1, a. 3",
+      "codex_status": "concordance_locus",
+      "codex_part": "concordance",
+      "codex_ref": "conc-aquinas-sent-1-2-1-3",
+      "aristotle_source": "Metaphysics IV.2 & VII.1",
+      "euclid_elements_link": "Objective foundation (*fundamentum in re*) of distinct mathematical ratios in one continuous figure",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0281",
+          "page": "281",
+          "book": "Appendix",
+          "section": "08_appendix",
+          "display": "Sent. I D. 2 q. 1 a. 3"
+        }
+      ],
+      "hoenen_sample_context_en": "Concerning those who always demand a \"definition\" that something may be understood, it is said (:cite:`Gilson, *L'être et l'essence*, p. 284 <gilson:1948:284>`) that they are led by « la raison raisonnante toujours en quête de définitions »; and deservedly they are criticized. That cannot even be demanded where quiddities are treated. :person:`St. Thomas <aquinas>` says (:cite:`*Sent.* I, d. 2, q. 1, a. 3 <aquinas:sent:1.2.1.3>`), treating of the \"rationes\" of the attributes of God: \"ratio as he",
+      "hoenen_sample_context_la": "De eis qui semper « definitionem » exigunt ut aliquid intelligatur, dicitur (:cite:`Gilson, *L'être et l'essence*, pag. 284 <gilson:1948:284>`) quod ducuntur per « la raison raisonnante toujours en quête de définitions » ; et merito carpuntur. Id nec exigi potest ubi de quidditatibus agitur. Ait :person:`S. Thomas <aquinas>` (:cite:`*Sent.* I D. 2 q. 1 a. 3 <aquinas:sent:1.2.1.3>`) agens de « rationibus » attributorum Dei : « ratio prout hic sumitur, nihil aliud est quam id quod apprehendit inte",
+      "hoenen_thesis": "Establishes that distinct conceptual *rationes* are not empty fictions when reality itself offers an objective foundation (*aliquid in re correspondens*).",
+      "geometor_relevance": "Validates uncovering multiple distinct harmonic and golden proportions inside one geometric construction (`geometor.divine`)."
+    },
+    {
+      "key": "aquinas:sent:I.3.1.2",
+      "slug": "aquinas-sent-i-3-1-2",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "Scriptum super Libros Sententiarum",
+      "locus": "I.3.1.2",
+      "critical_edition_ref": "ed. Mandonnet, In I Sent., d. 3, q. 1, a. 2",
+      "codex_status": "concordance_locus",
+      "codex_part": "concordance",
+      "codex_ref": "conc-aquinas-sent-i-3-1-2",
+      "aristotle_source": "Posterior Analytics I.2; De Anima III.4",
+      "euclid_elements_link": "Immediate *per se* evidence of Euclidean Common Notions from their terms",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0052",
+          "page": "52",
+          "book": "Caput II",
+          "section": "02_caput_2",
+          "display": "I Sent. Dist. III q. 1 a. 2"
+        }
+      ],
+      "hoenen_sample_context_en": "This is the doctrine that :person:`St. Thomas <aquinas>` professes, where he attributes the origin of principles no less than of notions to the abstraction of the agent intellect, as we proved in the article :cite:`*De origine primorum principiorum scientiae* <hoenen:1933:153-184>`, already cited above. This he also sets forth in his commentary on :cite:`*Anal. Post.* in the final lecture <aquinas:anal-post:II.20>`. It is helpful to cite here certain of his words, because they lead to institutin",
+      "hoenen_sample_context_la": "Haec est doctrina quam :person:`S. Thomas <aquinas>` profitetur, ubi originem principiorum non minus ac notionum abstractioni intellectus agentis tribuit, ut probavimus in articulo :cite:`*De origine primorum principiorum scientiae* <hoenen:1933:153-184>`, supra iam citato. Hanc quoque exponit in commentario in :cite:`*Anal. Post.* in ultima lectione <aquinas:anal-post:II.20>`. Iuvat hic citare quaedam eius verba, quia ad utilem comparationem iterum instituendam ducunt. In :cite:`I *Sent.* Dist.",
+      "hoenen_thesis": "Analyzes what makes a proposition *per se nota* in itself and to us through the intelligible content of its terms.",
+      "geometor_relevance": "Grounds axiomatic base cases in `geometor.elements`."
+    },
+    {
+      "key": "aquinas:sent:I.4.2.1.ad1",
+      "slug": "aquinas-sent-i-4-2-1-ad1",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "Scriptum super Libros Sententiarum",
+      "locus": "I.4.2.1.ad1",
+      "critical_edition_ref": "ed. Mandonnet, In I Sent., d. 4, q. 2, a. 1, ad 1",
+      "codex_status": "concordance_locus",
+      "codex_part": "concordance",
+      "codex_ref": "conc-aquinas-sent-i-4-2-1-ad1",
+      "aristotle_source": "Peri Hermeneias I.1–3",
+      "euclid_elements_link": "Subject taken materially/suppositionally vs. predicate taken formally in geometric predication",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0057",
+          "page": "57",
+          "book": "Caput II",
+          "section": "02_caput_2",
+          "display": "I Sent. Dist. 4 q. 2 a. 1 ad 1"
+        }
+      ],
+      "hoenen_sample_context_en": "In *every* judgment we affirm (or deny, if the judgment is negative) a nexus between subject and predicate. *At least* *this* nexus is present, that the form that defines or designates the subject (if it is not a question of those judgments in which the subject indicates *only* a suppositum: \"this\" is white) is found in the same suppositum in which the predicate is discovered, which in judgment is attributed to the same suppositum. \"The extended is divisible\"; the form of \"extension\" defines the",
+      "hoenen_sample_context_la": "In *omni* iudicio affirmamus (vel negamus, si iudicium est negativum) nexum inter subiectum et praedicatum. *Saltem* adest *hic* nexus, quod forma, quae definit vel designat subiectum (si non agitur de illis iudiciis in quibus subiectum suppositum *tantum* indicat : « hoc » est album) invenitur in eodem supposito, in quo detegitur praedicatum, quod in iudicio eidem supposito tribuitur. « Extensum est divisibile » ; forma « extensionis » definit subiectum, forma « divisibilitatis » determinat pra",
+      "hoenen_thesis": "Explains the asymmetry of predication: the subject stands for the supposit (*suppositum*) while the predicate signifies the formal nature (*forma*) attributed to it.",
+      "geometor_relevance": "Matches object-attribute modeling in `geometor.model` (`Segment` instance vs. algebraic `length` / `golden` predicate)."
+    },
+    {
+      "key": "aquinas:sent:III.11.1.4.ad6",
+      "slug": "aquinas-sent-iii-11-1-4-ad6",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "Scriptum super Libros Sententiarum",
+      "locus": "III.11.1.4.ad6",
+      "critical_edition_ref": "ed. Moos, In III Sent., d. 11, q. 1, a. 4, ad 6",
+      "codex_status": "concordance_locus",
+      "codex_part": "concordance",
+      "codex_ref": "conc-aquinas-sent-iii-11-1-4-ad6",
+      "aristotle_source": "Metaphysics V.7",
+      "euclid_elements_link": "Precision of formal predication in rigorous mathematical definitions and theorems",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0058",
+          "page": "58",
+          "book": "Caput II",
+          "section": "02_caput_2",
+          "display": "III Sent. Dist. 11 q. 1 a. 4 ad 6"
+        }
+      ],
+      "hoenen_sample_context_en": "In all these cases not a material nexus only (purely material) is had, but a nexus that can be called *formal.* The predicate is to be affirmed of the subject \"by reason of the form imported by the subject\"; so :person:`St. Thomas <aquinas>` (:cite:`III *Sent.*, d. 11, q. 1, a. 4, ad 6 <aquinas:sent:III.11.1.4.ad6>`): \"for the truth of a proposition it suffices that the predicate belong to the subject in any manner whatever; but for a proposition to be per se, it must belong to it by reason of t",
+      "hoenen_sample_context_la": "In omnibus hisce casibus non habetur nexus materialis tantum (pure materialis) sed nexus, qui vocari potest *formalis.* Praedicatum affirmandum est de subiecto « ratione formae importatae per subiectum » ; ita :person:`S. Thomas <aquinas>` (:cite:`III *Sent.* Dist. 11 q. 1 a. 4 ad 6 <aquinas:sent:III.11.1.4.ad6>`) : « ad veritatem propositionis sufficit, quod praedicatum conveniat subiecto quocumque modo ; sed ad hoc quod propositio sit per se, oportet quod conveniat sibi ratione formae importat",
+      "hoenen_thesis": "Analyzes rules of supposition and formal predication so no equivocation enters demonstrative syllogisms.",
+      "geometor_relevance": "Ensures strict type safety between points, lines, segments, circles, and polygons in `geometor.model`."
+    },
+    {
+      "key": "aquinas:st:I.12.4.ad3",
+      "slug": "aquinas-st-i-12-4-ad3",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "Summa Theologiae",
+      "locus": "I.12.4.ad3",
+      "critical_edition_ref": "Leonine IV, ST I, q. 12, a. 4, co. & ad 3",
+      "codex_status": "full_text",
+      "codex_part": "pars-5",
+      "codex_ref": "pars-5-s6-en",
+      "aristotle_source": "De Anima III.4, 429a18–b22",
+      "euclid_elements_link": "Apprehension of incorporeal mathematical ratios vs. connatural dependence on corporeal phantasms",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0280",
+          "page": "280",
+          "book": "Appendix",
+          "section": "08_appendix",
+          "display": "S. Th. I q. 12 a. 4 ad 3"
+        }
+      ],
+      "hoenen_sample_context_en": "This conception is also called the \"ratio essendi,\" cognition of which is denied to the senses, although they perceive sensible things that *are* (:cite:`*Sent.* I, d. 19, q. 5, a. 1, ad 6 <aquinas:sent:1.19.5.1.ad6>`). And it arises through abstraction worthy of the name. So in :cite:`*Summa Theologiae* I, q. 12, a. 4, ad 3 <aquinas:st:I.12.4.ad3>`, where the principle is expounded \"our intellect can consider in abstraction that which it knows in concretion,\" it is elucidated thus: our intellec",
+      "hoenen_sample_context_la": "Haec conceptio vocatur quoque « ratio essendi », cuius cognitio sensibus denegatur, quamquam hi sensibilia quae *sunt* percipiunt (:cite:`Sent. I D. 19 q. 5 a. 1 ad 6 <aquinas:sent:1.19.5.1.ad6>`). Et oritur per veri nominis abstractionem. Ita in :cite:`*S. Th.* I q. 12 a. 4 ad 3 <aquinas:st:I.12.4.ad3>`, ubi principium exponitur « intellectus noster potest in abstractione considerare id quod in concretione cognoscit », dilucidatur id ita : intellectus noster id facere solet pro forma quae est i",
+      "hoenen_thesis": "Explains how the human intellect, connaturally proportioned to natures existing in corporeal matter, knows individualized natures through sense and universal essences by abstracting from sense—grounding the existential import of judgment.",
+      "geometor_relevance": "Links concrete sensory diagrams with universal algebraic forms."
+    },
+    {
+      "key": "aquinas:st:I.13.12",
+      "slug": "aquinas-st-i-13-12",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "Summa Theologiae",
+      "locus": "I.13.12",
+      "critical_edition_ref": "Leonine IV, ST I, q. 13, a. 12",
+      "codex_status": "concordance_locus",
+      "codex_part": "concordance",
+      "codex_ref": "conc-aquinas-st-i-13-12",
+      "aristotle_source": "Peri Hermeneias I.1–3, 16a1–16b25",
+      "euclid_elements_link": "Affirmative propositions expressing identity in construction vs. conceptual distinction of subject and predicate",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0057",
+          "page": "57",
+          "book": "Caput II",
+          "section": "02_caput_2",
+          "display": "S. Th. I q. 13 a. 12"
+        }
+      ],
+      "hoenen_sample_context_en": "In *every* judgment we affirm (or deny, if the judgment is negative) a nexus between subject and predicate. *At least* *this* nexus is present, that the form that defines or designates the subject (if it is not a question of those judgments in which the subject indicates *only* a suppositum: \"this\" is white) is found in the same suppositum in which the predicate is discovered, which in judgment is attributed to the same suppositum. \"The extended is divisible\"; the form of \"extension\" defines the",
+      "hoenen_sample_context_la": "In *omni* iudicio affirmamus (vel negamus, si iudicium est negativum) nexum inter subiectum et praedicatum. *Saltem* adest *hic* nexus, quod forma, quae definit vel designat subiectum (si non agitur de illis iudiciis in quibus subiectum suppositum *tantum* indicat : « hoc » est album) invenitur in eodem supposito, in quo detegitur praedicatum, quod in iudicio eidem supposito tribuitur. « Extensum est divisibile » ; forma « extensionis » definit subiectum, forma « divisibilitatis » determinat pra",
+      "hoenen_thesis": "Shows that in every true affirmative proposition, subject and predicate signify what is identical in reality (*secundum rem*) while differing in intelligible aspect (*secundum rationem*)—precisely how 'triangle' and 'having angles equal to two right angles' unite in Euclidean theorems.",
+      "geometor_relevance": "Explains why algebraic simplification (`sympy.simplify(a - b) == 0`) proves non-trivial geometric theorems: distinct construction paths converge on the identical algebraic entity."
+    },
+    {
+      "key": "aquinas:st:I.7.1",
+      "slug": "aquinas-st-i-7-1",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "Summa Theologiae",
+      "locus": "I.7.1",
+      "critical_edition_ref": "Leonine IV, ST I, q. 7, a. 1 (& q. 7, a. 3)",
+      "codex_status": "full_text",
+      "codex_part": "pars-5",
+      "codex_ref": "pars-5-s6-en",
+      "aristotle_source": "Physics III.6, 207a7–15",
+      "euclid_elements_link": "Euclid Postulate 2 (indefinite extendibility of a straight line) vs. determinate species of geometric figures (ST I, q. 7, a. 3)",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0258",
+          "page": "258",
+          "book": "Appendix",
+          "section": "08_appendix",
+          "display": "S. Th. I q. 7 a. 1"
+        }
+      ],
+      "hoenen_sample_context_en": ".. [#f8] Indeed it could be called \"most formal\" according to the saying of :person:`St. Thomas <aquinas>`: \"that which is most formal of all is *esse* itself\" (:cite:`*ST* I, q. 7, a. 1 <aquinas:st:I.7.1>`). .. _appendix-en-fn9:",
+      "hoenen_sample_context_la": ".. [#f8] Immo dici posset « maxime formalis » iuxta dictum :person:`S. Thomae <aquinas>` : « illud quod est maxime formale omnium, est ipsum esse » (:cite:`S. Th. I q. 7 a. 1 <aquinas:st:I.7.1>`). .. [#f9] Hoc incisum est pars argumentationis sat intricatae, quae in toto capite 9 evolvitur et agit de amicitia. In versione anglica (Oxford) legitur nota in fine capitis quae, principaliter iuxta :person:`Burnet <burnet>`, analytice exponit structuram argumentationis ; in qua quae in prioribus passi",
+      "hoenen_thesis": "Establishes that *ipsum esse* is most formal of all (*illud quod est maxime formale omnium est ipsum esse*), whereas quantitative infinity comes from the side of matter lacking formal boundary—and in q. 7 a. 3 shows that the geometer never needs an actually infinite line, only a finite line extendable in potency as far as needed.",
+      "geometor_relevance": "Models unbounded symbolic lines (`Line` through two points in `geometor.model`) instantiated on any bounded canvas in `geometor.explorer`."
+    },
+    {
+      "key": "aquinas:st:I.75.6",
+      "slug": "aquinas-st-i-75-6",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "Summa Theologiae",
+      "locus": "I.75.6",
+      "critical_edition_ref": "Leonine V, ST I, q. 75, a. 6",
+      "codex_status": "concordance_locus",
+      "codex_part": "concordance",
+      "codex_ref": "conc-aquinas-st-i-75-6",
+      "aristotle_source": "De Anima I.4, 408b18–29; III.4, 429a24–b5",
+      "euclid_elements_link": "Necessary connection between form and *per se* property (*sicut triangulo habere tres angulos aequales duobus rectis*, Euclid I.32)",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0280",
+          "page": "280",
+          "book": "Appendix",
+          "section": "08_appendix",
+          "display": "S. Th. I q. 75 a. 6"
+        }
+      ],
+      "hoenen_sample_context_en": "This conception is also called the \"ratio essendi,\" cognition of which is denied to the senses, although they perceive sensible things that *are* (:cite:`*Sent.* I, d. 19, q. 5, a. 1, ad 6 <aquinas:sent:1.19.5.1.ad6>`). And it arises through abstraction worthy of the name. So in :cite:`*Summa Theologiae* I, q. 12, a. 4, ad 3 <aquinas:st:I.12.4.ad3>`, where the principle is expounded \"our intellect can consider in abstraction that which it knows in concretion,\" it is elucidated thus: our intellec",
+      "hoenen_sample_context_la": "Haec conceptio vocatur quoque « ratio essendi », cuius cognitio sensibus denegatur, quamquam hi sensibilia quae *sunt* percipiunt (:cite:`Sent. I D. 19 q. 5 a. 1 ad 6 <aquinas:sent:1.19.5.1.ad6>`). Et oritur per veri nominis abstractionem. Ita in :cite:`*S. Th.* I q. 12 a. 4 ad 3 <aquinas:st:I.12.4.ad3>`, ubi principium exponitur « intellectus noster potest in abstractione considerare id quod in concretione cognoscit », dilucidatur id ita : intellectus noster id facere solet pro forma quae est i",
+      "hoenen_thesis": "Uses Euclid I.32 as the paradigm of *per se* ontological necessity: just as a triangle cannot lack three angles equal to two right angles, so *esse* inseparably follows subsistent intellectual form.",
+      "geometor_relevance": "Illustrates how geometric necessity serves Aquinas as the clearest analogate for metaphysical necessity."
+    },
+    {
+      "key": "aquinas:st:I.85.1.ad2",
+      "slug": "aquinas-st-i-85-1-ad2",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "Summa Theologiae",
+      "locus": "I.85.1.ad2",
+      "critical_edition_ref": "Leonine V, ST I, q. 85, a. 1, co. & ad 2",
+      "codex_status": "full_text",
+      "codex_part": "pars-5",
+      "codex_ref": "pars-5-s7-en",
+      "aristotle_source": "Metaphysics VII.10, 1036a9–12; Physics II.2, 193b31–35",
+      "euclid_elements_link": "Threefold abstraction: sensible qualities stripped away while continuous *materia intelligibilis* remains in geometric definitions",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0062",
+          "page": "62",
+          "book": "Caput II",
+          "section": "02_caput_2",
+          "display": "S. Th. I q. 85 a. 1 ad 2"
+        }
+      ],
+      "hoenen_sample_context_en": "Let us hear on that subject :person:`St. Thomas <aquinas>` (:cite:`*S. Th.* I, q. 85, a. 1, ad 2 <aquinas:st:I.85.1.ad2>`): \"Quantities, such as numbers, and dimensions, and figures, which are the terminations of quantities, can be considered without *sensible qualities, which is to abstract them from sensible matter*.\"",
+      "hoenen_sample_context_la": "Audiamus ea de re :person:`S. Thomam <aquinas>` (:cite:`*S. Th.* I q. 85 a. 1 ad 2 <aquinas:st:I.85.1.ad2>`) : « Quantitates, ut numeri, et dimensiones, et figurae, quae sunt terminationes quantitatum, possunt considerari absque *qualitatibus sensibilibus, quod est eas abstrahi a materia sensibili* ».",
+      "hoenen_thesis": "Canonical mature synthesis of *materia sensibilis* vs. *materia intelligibilis* (both *signata* and *communis*): quantities such as lines, numbers, and figures can be understood without sensible qualities, though never without the substance underlying intelligible quantity.",
+      "geometor_relevance": "Defines the exact abstraction boundary of `geometor.model`."
+    },
+    {
+      "key": "aquinas:st:I.85.5.ad3",
+      "slug": "aquinas-st-i-85-5-ad3",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "Summa Theologiae",
+      "locus": "I.85.5.ad3",
+      "critical_edition_ref": "Leonine V, ST I, q. 85, a. 5, ad 3",
+      "codex_status": "concordance_locus",
+      "codex_part": "concordance",
+      "codex_ref": "conc-aquinas-st-i-85-5-ad3",
+      "aristotle_source": "De Anima III.6, 430a26–b6",
+      "euclid_elements_link": "Apprehending a geometric property within its subject prior to composing/dividing in explicit propositional judgment",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0057",
+          "page": "57",
+          "book": "Caput II",
+          "section": "02_caput_2",
+          "display": "q. 85 a. 5 ad 3"
+        }
+      ],
+      "hoenen_sample_context_en": "In *every* judgment we affirm (or deny, if the judgment is negative) a nexus between subject and predicate. *At least* *this* nexus is present, that the form that defines or designates the subject (if it is not a question of those judgments in which the subject indicates *only* a suppositum: \"this\" is white) is found in the same suppositum in which the predicate is discovered, which in judgment is attributed to the same suppositum. \"The extended is divisible\"; the form of \"extension\" defines the",
+      "hoenen_sample_context_la": "In *omni* iudicio affirmamus (vel negamus, si iudicium est negativum) nexum inter subiectum et praedicatum. *Saltem* adest *hic* nexus, quod forma, quae definit vel designat subiectum (si non agitur de illis iudiciis in quibus subiectum suppositum *tantum* indicat : « hoc » est album) invenitur in eodem supposito, in quo detegitur praedicatum, quod in iudicio eidem supposito tribuitur. « Extensum est divisibile » ; forma « extensionis » definit subiectum, forma « divisibilitatis » determinat pra",
+      "hoenen_thesis": "Pivotal text for Hoenen's *La théorie du jugement*: before composing or dividing, the intellect apprehends the nexus of parts and properties *in* the concrete whole through simple apprehension.",
+      "geometor_relevance": "Explains pre-propositional structural recognition of geometric symmetries in `geometor.explorer` and `geometor.divine`."
+    },
+    {
+      "key": "aquinas:st:I.q84.a6",
+      "slug": "aquinas-st-i-q84-a6",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "Summa Theologiae",
+      "locus": "I.q84.a6",
+      "critical_edition_ref": "Leonine V, ST I, q. 84, a. 6, co.",
+      "codex_status": "full_text",
+      "codex_part": "pars-5",
+      "codex_ref": "pars-5-s7-en",
+      "aristotle_source": "De Anima III.4–5, 429a10–430a25",
+      "euclid_elements_link": "Origin of geometric concepts neither from Platonic innate ideas nor from Democritean sense impressions alone, but via *intellectus agens* illuminating phantasms",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0082",
+          "page": "82",
+          "book": "Caput III",
+          "section": "03_caput_3",
+          "display": "S. Th. I. q. 84 a. 6 in fine"
+        }
+      ],
+      "hoenen_sample_context_en": "As consciousness testifies, therefore, the influence of the phantasm is required; in it we inspect and from it we draw that which is affirmed, whether explicitly, implicitly, or virtually; whence it must be said that not only intuition, but simultaneously also the abstraction of the agent intellect is present in this process. The theory of abstraction of :person:`Aristotle <aristotle>` therefore seems to be verified in every respect here. This is described very well by :person:`St. Thomas <aquin",
+      "hoenen_sample_context_la": "Teste igitur conscientia influxus phantasmatis requiritur ; in ipso inspicimus et ex ipso haurimus id quod affirmatur, sive explicite sive implicite sive virtualiter ; inde dicendum est, non tantum intuitum sed simul etiam abstractionem intellectus agentis in hoc processu adesse. Theoria igitur abstractionis :person:`Aristotelis <aristotle>` hic omni ex parte verificari videtur. Id optime a :person:`S. Thoma <aquinas>` describitur in textu notissimo (:cite:`*S. Th.* I. q. 84 a. 6 in fine <aquina",
+      "hoenen_thesis": "Mediates between Platonic apriorism and Democritean empiricism: phantasms serve as instrumental material causes illuminated by the agent intellect to impress intelligible species.",
+      "geometor_relevance": "Rejects both blind pixel empiricism and ungrounded formalism in favor of constructive insight (`geometor.seer` + `geometor.model`)."
+    },
+    {
+      "key": "aquinas:st:I.q84.a6.ad3",
+      "slug": "aquinas-st-i-q84-a6-ad3",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "Summa Theologiae",
+      "locus": "I.q84.a6.ad3",
+      "critical_edition_ref": "Leonine V, ST I, q. 84, a. 6, ad 3 (& q. 84, a. 7)",
+      "codex_status": "full_text",
+      "codex_part": "pars-5",
+      "codex_ref": "pars-5-s7-en",
+      "aristotle_source": "De Anima III.7, 431a16–17",
+      "euclid_elements_link": "Constructing new auxiliary diagrams (*formare alia phantasmata*, q. 84 a. 7) to grasp geometric theorems",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0082",
+          "page": "82",
+          "book": "Caput III",
+          "section": "03_caput_3",
+          "display": "resp. 3 eiusdem articuli"
+        }
+      ],
+      "hoenen_sample_context_en": "As consciousness testifies, therefore, the influence of the phantasm is required; in it we inspect and from it we draw that which is affirmed, whether explicitly, implicitly, or virtually; whence it must be said that not only intuition, but simultaneously also the abstraction of the agent intellect is present in this process. The theory of abstraction of :person:`Aristotle <aristotle>` therefore seems to be verified in every respect here. This is described very well by :person:`St. Thomas <aquin",
+      "hoenen_sample_context_la": "Teste igitur conscientia influxus phantasmatis requiritur ; in ipso inspicimus et ex ipso haurimus id quod affirmatur, sive explicite sive implicite sive virtualiter ; inde dicendum est, non tantum intuitum sed simul etiam abstractionem intellectus agentis in hoc processu adesse. Theoria igitur abstractionis :person:`Aristotelis <aristotle>` hic omni ex parte verificari videtur. Id optime a :person:`S. Thoma <aquinas>` describitur in textu notissimo (:cite:`*S. Th.* I. q. 84 a. 6 in fine <aquina",
+      "hoenen_thesis": "Explains how the higher intellect requires sensitive phantasms not as total efficient cause, but as indispensable *materia causae*, and in q. 84 a. 7 proves *conversio ad phantasmata* from the everyday experience of forming diagrams when trying to understand geometry!",
+      "geometor_relevance": "Directly describes the human user forming diagrams in `geometor.explorer` to behold universal truths."
+    },
+    {
+      "key": "aquinas:st:II-II.24.4.ad3",
+      "slug": "aquinas-st-ii-ii-24-4-ad3",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "Summa Theologiae",
+      "locus": "II-II.24.4.ad3",
+      "critical_edition_ref": "Leonine VIII, ST II-II, q. 24, a. 4, ad 3",
+      "codex_status": "concordance_locus",
+      "codex_part": "concordance",
+      "codex_ref": "conc-aquinas-st-ii-ii-24-4-ad3",
+      "aristotle_source": "Categories 8, 8b25–9a13; Physics VII.3",
+      "euclid_elements_link": "Intensive perfection of scientific habit (growing by extending to more theorems or deeper certitude) vs. extensive addition of continuous quantity",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0287",
+          "page": "287",
+          "book": "Appendix",
+          "section": "08_appendix",
+          "display": "S. Th. II, II q. 24 a. 4 ad 3"
+        }
+      ],
+      "hoenen_sample_context_en": "3. Permanent qualities (other than sound in act and a ray of light) are diversified also from diverse modes of being that they admit. Their greater and lesser intensity seems to depend upon the mode by which they *are*, that is, are in the subject in a more or less perfect mode. And the corresponding perfection is then found in the very *essence* of the quality, not in the essence specifically taken—this remains the same—but in the intensity of this specifically determinate quality. So, unless I",
+      "hoenen_sample_context_la": "3. Qualitates permanentes (aliae ac sonus actu et radius lucis) diversificantur quoque ex diversis modis essendi quos admittunt. Earum intensitas maior et minor dependere videtur ex modo quo *sunt*, i. e. insunt in subiecto modo magis vel minus perfecte. Et perfectio correspondens tunc in ipsa *essentia* qualitatis invenitur, non in essentia specifice sumpta — haec eadem manet — sed in intensitate huius qualitatis specifice determinatae. Ita, ni fallor, famosus textus « durus » :person:`S. Thoma",
+      "hoenen_thesis": "Contrasts quantitative addition of homogeneous parts in geometry with intensive growth in scientific *habitus*.",
+      "geometor_relevance": "Distinguishes geometric measure addition from deductive depth in `geometor.elements`."
+    },
+    {
+      "key": "aquinas:st:III.q11.a2.ad1",
+      "slug": "aquinas-st-iii-q11-a2-ad1",
+      "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+      "work_title": "Summa Theologiae",
+      "locus": "III.q11.a2.ad1",
+      "critical_edition_ref": "Leonine XI, ST III, q. 11, a. 2, ad 1",
+      "codex_status": "concordance_locus",
+      "codex_part": "concordance",
+      "codex_ref": "conc-aquinas-st-iii-q11-a2-ad1",
+      "aristotle_source": "De Anima III.7, 431a14–17",
+      "euclid_elements_link": "Beholding universal conclusions inside singular geometric diagrams (*inspicere universale in singulari*)",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0083",
+          "page": "83",
+          "book": "Caput III",
+          "section": "03_caput_3",
+          "display": "S. Th. III q. 11 a. 2 ad 1"
+        }
+      ],
+      "hoenen_sample_context_en": "From sensitive data therefore is drawn the intellective judgment concerning the indivisibility of boundaries; but that which the judgment affirms, it does not affirm of extended entities as they have \"being\" in those sensitive data (there it would not be true, as already said), but of extended entities themselves, as they have \"being\" in themselves. This in general must be affirmed of all cognition, and it must be said: we need the phantasm that we may abstract ideas and judge, but that which we",
+      "hoenen_sample_context_la": "Ex datis igitur sensitivis hauritur iudicium intellectivum de indivisibilitate limitum ; sed id quod iudicium affirmat, non affirmat de extensis, prout « esse » habent in illis datis sensitivis (ibi non verum esset, uti iam dictum est) sed de ipsis extensis, prout « esse » habent in se. Id in genere de omni cognitione affirmandum est et dicendum : phantasmate indigemus, ut ideas abstrahamus et iudicemus sed id quod primo cognoscimus, non est phantasma sed res ; id quod affirmatur, non de phantas",
+      "hoenen_thesis": "Confirms that human intellective habits always turn to phantasms in act to behold universal intelligible species within particular representations.",
+      "geometor_relevance": "Reinforces the permanent cognitive role of visual diagrams alongside symbolic algebra."
+    },
+    {
+      "key": "pseudo-thomas:summa-totius-logicae",
+      "slug": "pseudo-thomas-summa-totius-logicae",
+      "author": "Pseudo-Thomas Aquinas / Pseudo-Scotus",
+      "work_title": "Summa Totius Logicae Aristotelis",
+      "locus": "passim",
+      "critical_edition_ref": "Opuscula spuria (ed. Mandonnet, Opuscula Omnia, t. V, tract. VII, pp. 102–111)",
+      "codex_status": "concordance_locus",
+      "codex_part": "concordance",
+      "codex_ref": "conc-pseudo-thomas-summa-totius-logicae",
+      "aristotle_source": "Posterior Analytics I.2 & I.10",
+      "euclid_elements_link": "Scholastic reception of Euclidean *petitiones* and constructive definitions",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0148",
+          "page": "148",
+          "book": "Caput IV",
+          "section": "04_caput_4",
+          "display": "Summa totius logicae"
+        },
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0161",
+          "page": "161",
+          "book": "Caput V",
+          "section": "05_caput_5",
+          "display": "Summae totius logicae"
+        }
+      ],
+      "hoenen_sample_context_en": ".. [#f29] :cite:`ST. ALBERT THE GREAT, *Anal. Prior.* I, tract. I, ch. 9 (in ed. Jammy, 1651, I, p. 298 a) <albertus:anal-prior:I.1.9>`: \"we use transcendent terms, signifying nothing and all things. Nothing, I say: because no determinate matter. All things, however, I say signifying: because they are applicable to all matters, as are *a*, *b*, *c*.\" Pseudo-Thomas too in the work :cite:`*Summa totius logicae* <pseudo-thomas:summa-totius-logicae>` uses the expression \":term:`transcendent terms <t",
+      "hoenen_sample_context_la": ".. [#f29] :cite:`S. ALBERTUS MAGNUS, *Anal. Prior.* I tract. I cap. 9 (in ed. Jammy, 1651, I pag. 298 a) <albertus:anal-prior:I.1.9>` : « terminis utimur transcendentibus, nihil et omnia significantibus. Nihil dico : quia nullam determinatam materiam. Omnia vero dico significantibus : quia omnibus materiis sunt applicabiles, sicut sunt *a*, *b*, *c* ». Etiam pseudo-Thomas in opere :cite:`*Summa totius logicae* <pseudo-thomas:summa-totius-logicae>` utitur locutione « :term:`termini transcendentes",
+      "hoenen_thesis": "Philological note by Hoenen distinguishing the authentic Thomistic *Posterior Analytics* commentary from the anonymous scholastic *Summa totius logicae Aristotelis* printed among the Opuscula.",
+      "geometor_relevance": "Exemplifies critical philological provenance separating authentic Thomistic texts from later scholastic compilations."
+    },
+    {
+      "key": "pseudo-thomas:summa-totius-logicae:VII.2",
+      "slug": "pseudo-thomas-summa-totius-logicae-vii-2",
+      "author": "Pseudo-Thomas Aquinas / Pseudo-Scotus",
+      "work_title": "Summa Totius Logicae Aristotelis",
+      "locus": "VII.2",
+      "critical_edition_ref": "ed. Mandonnet, Opuscula Omnia, t. V, tract. VII, cap. 2 & 6, pp. 102–104, 111",
+      "codex_status": "concordance_locus",
+      "codex_part": "concordance",
+      "codex_ref": "conc-pseudo-thomas-summa-totius-logicae-vii-2",
+      "aristotle_source": "Posterior Analytics I.10, 76b23–34",
+      "euclid_elements_link": "Classification of geometric postulates (*petitiones*) alongside Albert the Great's logical commentary",
+      "hoenen_occurrences": [
+        {
+          "volume": "de_noetica_geometriae",
+          "folio": "0148",
+          "page": "148",
+          "book": "Caput IV",
+          "section": "04_caput_4",
+          "display": "op. cit. tract. VII cap. 2 et 6 (in editione Mandonnet pagg. 102-104, pag. 111)"
+        }
+      ],
+      "hoenen_sample_context_en": ".. [#f29] :cite:`ST. ALBERT THE GREAT, *Anal. Prior.* I, tract. I, ch. 9 (in ed. Jammy, 1651, I, p. 298 a) <albertus:anal-prior:I.1.9>`: \"we use transcendent terms, signifying nothing and all things. Nothing, I say: because no determinate matter. All things, however, I say signifying: because they are applicable to all matters, as are *a*, *b*, *c*.\" Pseudo-Thomas too in the work :cite:`*Summa totius logicae* <pseudo-thomas:summa-totius-logicae>` uses the expression \":term:`transcendent terms <t",
+      "hoenen_sample_context_la": ".. [#f29] :cite:`S. ALBERTUS MAGNUS, *Anal. Prior.* I tract. I cap. 9 (in ed. Jammy, 1651, I pag. 298 a) <albertus:anal-prior:I.1.9>` : « terminis utimur transcendentibus, nihil et omnia significantibus. Nihil dico : quia nullam determinatam materiam. Omnia vero dico significantibus : quia omnibus materiis sunt applicabiles, sicut sunt *a*, *b*, *c* ». Etiam pseudo-Thomas in opere :cite:`*Summa totius logicae* <pseudo-thomas:summa-totius-logicae>` utitur locutione « :term:`termini transcendentes",
+      "hoenen_thesis": "Examines Tractatus VII cap. 2 & 6 alongside St. Albert the Great on how constructive geometric postulates function in Euclidean demonstration.",
+      "geometor_relevance": "Reinforces the constructive interpretation of Euclid's Postulates 1–3."
+    }
+  ]
+}

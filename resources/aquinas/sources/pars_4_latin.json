@@ -1,0 +1,516 @@
+{
+  "part_id": "pars-4",
+  "file_stem": "pars_4",
+  "txt_name": "pars_4_physica_et_de_caelo.la.txt",
+  "title_la": "PARS IV — IN LIBROS PHYSICORUM ET DE CAELO ET MUNDO EXPOSITIO",
+  "subtitle_la": "De Mathematico et Physico, Modis Essendi, Loco, Continuo Non Ex Indivisibilibus Composito et Motu Geometrico",
+  "title_en": "PART IV — COMMENTARIES ON THE PHYSICS AND ON THE HEAVENS",
+  "subtitle_en": "On the Mathematician and the Physicist, Modes of Being, Place, the Continuum Not Composed of Indivisibles, and Geometric Motion",
+  "work_title": "In octo libros Physicorum & In libros De caelo et mundo expositio",
+  "date_composed": "c. 1268–1273",
+  "editions": [
+    "Sancti Thomae Aquinatis Opera Omnia, Editio Leonina, Tom. II: Commentaria in octo libros Physicorum Aristotelis (Romae, 1884; ed. Maggiòlo, Taurini: Marietti, 1954).",
+    "Sancti Thomae Aquinatis Opera Omnia, Editio Leonina, Tom. III: In libros Aristotelis De caelo et mundo expositio (Romae, 1886).",
+    "Corpus Thomisticum (recognovit Enrique Alarcón): https://www.corpusthomisticum.org/cpy012.html, cpy03.html, cpy05.html, ccm1.html, ccm2.html"
+  ],
+  "sections": [
+    {
+      "sec_id": "s1",
+      "folio": "Phys. II, lect. 3",
+      "heading_la": "In II Physicorum, Lectio 3 — Quomodo differat mathematicus a physico et quod abstrahentium non est mendacium",
+      "heading_en": "Physics Book II, Lecture 3 — How the Mathematician Differs from the Natural Philosopher and Why There Is No Falsehood in Those Who Abstract",
+      "source_work": "physica_2",
+      "paragraphs": [
+        {
+          "ct_id": "71688",
+          "title": "In Physic., lib. 2 l. 3 n. 1",
+          "ref_label": "In Physic., lib. 2 l. 3 n. 1",
+          "latin": "Postquam philosophus ostendit quid sit natura et quot modis dicitur, hic consequenter intendit ostendere de quibus considerat scientia naturalis. Et dividitur in partes duas: in prima ostendit quomodo differat naturalis a mathematico; in secunda ostendit ad quae se extendat consideratio scientiae naturalis, ibi: quoniam autem natura et cetera. Circa primum tria facit: primo movet quaestionem; secundo ponit rationes ad quaestionem, ibi: etenim plana etc.; tertio solvit quaestionem, ibi: de his igitur negotiatur et cetera. Dicit ergo primo quod postquam determinatum est quot modis natura dicitur, considerandum est in quo differat mathematicus a naturali philosopho."
+        },
+        {
+          "ct_id": "71689",
+          "title": "In Physic., lib. 2 l. 3 n. 2",
+          "ref_label": "In Physic., lib. 2 l. 3 n. 2",
+          "latin": "Deinde cum dicit: etenim plana etc., ponit rationes ad quaestionem. Quarum prima talis est. Quaecumque scientiae considerant eadem subiecta, vel sunt eaedem, vel una est pars alterius; sed mathematicus philosophus considerat de punctis, lineis et superficiebus et corporibus, et similiter naturalis (quod probat ex hoc quod corpora naturalia habent *plana*, idest superficies, et *firma*, idest soliditates, et longitudines et puncta; oportet autem quod naturalis consideret de omnibus quae insunt corporibus naturalibus); ergo videtur quod scientia naturalis et mathematica vel sint eaedem, vel una sit pars alterius. Secundam rationem ponit ibi: amplius, astrologia et cetera. Et circa hanc rationem primo movet quaestionem, utrum astrologia sit omnino altera a naturali philosophia, vel sit pars eius. Manifestum est enim quod est pars mathematicae: unde si est etiam pars naturalis philosophiae, sequitur quod mathematica et physica conveniunt ad minus in hac parte. Quod autem astrologia sit pars physicae, probat dupliciter. Primo quidem per rationem talem. Ad quemcumque pertinet cognoscere substantias et naturas aliquarum rerum, ad eum etiam pertinet considerare accidentia illarum; sed ad naturalem pertinet considerare naturam et substantiam solis et lunae, cum sint quaedam corpora naturalia; ergo ad eum pertinet etiam considerare per se accidentia ipsorum. Hoc etiam probat ex consuetudine philosophorum: nam philosophi naturales inveniuntur determinasse de figura solis et lunae et terrae et totius mundi, circa quod insudat etiam astrologorum intentio. Sic igitur astrologia et scientia naturalis conveniunt non solum in eisdem subiectis, sed etiam in consideratione eorundem accidentium, et in demonstratione earundem conclusionum. Unde videtur quod astrologia sit pars physicae; et per consequens physica non totaliter differat a mathematica."
+        },
+        {
+          "ct_id": "71690",
+          "title": "In Physic., lib. 2 l. 3 n. 3",
+          "ref_label": "In Physic., lib. 2 l. 3 n. 3",
+          "latin": "Deinde cum dicit: de his quidem igitur etc., solvit praemissam quaestionem. Et circa hoc duo facit: primo ponit solutionem; secundo confirmat eam, ibi: fiet autem utique et cetera. Circa primum tria facit: primo solvit quaestionem; secundo concludit quoddam corollarium ex praedictis, ibi: unde et abstrahit etc.; tertio excludit errorem, ibi: latet autem hoc et cetera."
+        },
+        {
+          "ct_id": "71691",
+          "title": "In Physic., lib. 2 l. 3 n. 4",
+          "ref_label": "In Physic., lib. 2 l. 3 n. 4",
+          "latin": "Dicit ergo primo quod mathematicus et naturalis determinant de eisdem, scilicet punctis, lineis et superficiebus et huiusmodi, sed non eodem modo. Non enim mathematicus determinat de eis inquantum unumquodque eorum est terminus corporis naturalis; neque considerat ea quae accidunt eis inquantum sunt termini corporis naturalis; per quem modum de eis considerat scientia naturalis. Non est autem inconveniens quod idem cadat sub consideratione diversarum scientiarum secundum diversas considerationes."
+        },
+        {
+          "ct_id": "71692",
+          "title": "In Physic., lib. 2 l. 3 n. 5",
+          "ref_label": "In Physic., lib. 2 l. 3 n. 5",
+          "latin": "Deinde cum dicit: unde et abstrahit etc., concludit quoddam corollarium ex praedictis. Quia enim mathematicus considerat lineas et puncta et superficies et huiusmodi et accidentia eorum non inquantum sunt termini corporis naturalis, ideo dicitur abstrahere a materia sensibili et naturali. Et causa quare potest abstrahere, est ista: quia secundum intellectum sunt abstracta a motu. Ad cuius causae evidentiam considerandum est quod multa sunt coniuncta secundum rem, quorum unum non est de intellectu alterius: sicut album et musicum coniunguntur in aliquo subiecto, et tamen unum non est de intellectu alterius, et ideo potest unum separatim intelligi sine alio. Et hoc est unum intellectum esse abstractum ab alio. Manifestum est autem quod posteriora non sunt de intellectu priorum, sed e converso: unde priora possunt intelligi sine posterioribus, et non e converso. Sicut patet quod animal est prius homine, et homo est prius hoc homine (nam homo se habet ex additione ad animal, et hic homo ex additione ad hominem); et propter hoc homo non est de intellectu animalis, nec Socrates de intellectu hominis: unde animal potest intelligi absque homine, et homo absque Socrate et aliis individuis. Et hoc est *abstrahere universale a particulari*. Similiter autem inter accidentia omnia quae adveniunt substantiae, primo advenit ei quantitas, et deinde qualitates sensibiles et actiones et passiones et motus consequentes sensibiles qualitates. Sic igitur quantitas non claudit in sui intellectu qualitates sensibiles vel passiones vel motus: claudit tamen in sui intellectu substantiam. Potest igitur intelligi quantitas sine materia subiecta motui et qualitatibus sensibilibus, non tamen absque substantia. Et ideo huiusmodi *quantitates et quae eis accidunt, sunt secundum intellectum abstracta a motu et a materia sensibili, non autem a materia intelligibili*, ut dicitur in VII Metaphys. Quia igitur sic sunt abstracta a motu secundum intellectum, quod non claudunt in suo intellectu materiam sensibilem subiectam motui; ideo mathematicus potest ea abstrahere a materia sensibili. Et nihil differt quantum ad veritatem considerationis, utrum sic vel sic considerentur. Quamvis enim non sint abstracta secundum esse, non tamen mathematici abstrahentes ea secundum intellectum, mentiuntur: quia non asserunt ea esse extra materiam sensibilem (hoc enim esset mendacium), sed considerant de eis absque consideratione materiae sensibilis, quod absque mendacio fieri potest: sicut aliquis potest considerare albedinem absque musica, et vere, licet conveniant in eodem subiecto: non tamen esset vera consideratio, si assereret album non esse musicum."
+        },
+        {
+          "ct_id": "71693",
+          "title": "In Physic., lib. 2 l. 3 n. 6",
+          "ref_label": "In Physic., lib. 2 l. 3 n. 6",
+          "latin": "Deinde cum dicit: latet autem hoc facientes etc., excludit ex praedictis errorem Platonis. Quia enim latebat eum quomodo intellectus vere posset abstrahere ea quae non sunt abstracta secundum esse, posuit omnia quae sunt abstracta secundum intellectum, esse abstracta secundum rem. Unde non solum posuit mathematica abstracta, propter hoc quod mathematicus abstrahit a materia sensibili; sed etiam posuit ipsas res naturales abstractas, propter hoc quod naturalis scientia est de universalibus et non de singularibus. Unde posuit hominem esse separatum, et equum et lapidem et alia huiusmodi; quae quidem separata dicebat esse ideas: cum tamen naturalia sint minus abstracta quam mathematica. Mathematica enim sunt omnino abstracta a materia sensibili secundum intellectum, quia materia sensibilis non includitur in intellectu mathematicorum, neque in universali neque in particulari: sed in intellectu specierum naturalium includitur quidem materia sensibilis, sed non materia individualis; in intellectu enim hominis includitur caro et os, sed non haec caro et hoc os."
+        },
+        {
+          "ct_id": "71694",
+          "title": "In Physic., lib. 2 l. 3 n. 7",
+          "ref_label": "In Physic., lib. 2 l. 3 n. 7",
+          "latin": "Deinde cum dicit: fiet autem utique manifestum etc., manifestat positam solutionem dupliciter: primo quidem per differentiam definitionum quas assignat mathematicus et naturalis; secundo per scientias medias, ibi: demonstrant autem et quae magis et cetera. Dicit ergo primo quod hoc quod dictum est de diverso modo considerationis mathematici et physici, fiet manifestum si quis tentaverit dicere definitiones naturalium et mathematicorum, et accidentium eorum: quia mathematica, ut par et impar, et rectum et curvum, et numerus et linea et figura, definiuntur sine motu et materia; non autem caro et os et homo: sed horum definitio est sicut definitio simi, in cuius definitione ponitur subiectum sensibile, scilicet nasus; non autem sicut definitio curvi, in cuius definitione non ponitur aliquod subiectum sensibile. Et sic ex ipsis definitionibus naturalium et mathematicorum apparet quod supra dictum est de differentia mathematici et naturalis."
+        },
+        {
+          "ct_id": "71695",
+          "title": "In Physic., lib. 2 l. 3 n. 8",
+          "ref_label": "In Physic., lib. 2 l. 3 n. 8",
+          "latin": "Deinde cum dicit: demonstrant autem etc., probat idem per scientias quae sunt mediae inter mathematicam et naturalem. Dicuntur autem scientiae mediae, quae accipiunt principia abstracta a scientiis pure mathematicis, et applicant ad materiam sensibilem; sicut *perspectiva* applicat ad lineam visualem ea quae demonstrantur a geometria circa lineam abstractam; et *harmonica*, idest musica, applicat ad sonos ea quae arithmeticus considerat circa proportiones numerorum; et *astrologia* considerationem geometriae et arithmeticae applicat ad caelum et ad partes eius. Huiusmodi autem scientiae, licet sint mediae inter scientiam naturalem et mathematicam, tamen dicuntur hic a philosopho esse magis naturales quam mathematicae, quia unumquodque denominatur et speciem habet a termino: unde, quia harum scientiarum consideratio terminatur ad materiam naturalem, licet per principia mathematica procedant, magis sunt naturales quam mathematicae. Dicit ergo de huiusmodi scientiis, quod contrario modo se habent cum scientiis quae sunt pure mathematicae, sicut geometria vel arithmetica. Nam geometria considerat quidem de linea quae habet esse in materia sensibili, quae est linea naturalis: non tamen considerat de ea inquantum est in materia sensibili, secundum quod est naturalis, sed abstracte, ut dictum est. Sed perspectiva e converso accipit lineam abstractam secundum quod est in consideratione mathematici, et applicat eam ad materiam sensibilem; et sic determinat de ea non inquantum est mathematica, sed inquantum est physica. Ex ipsa ergo differentia scientiarum mediarum ad scientias pure mathematicas, apparet quod supra dictum est. Nam si huiusmodi scientiae mediae abstracta applicant ad materiam sensibilem, manifestum est quod mathematicae e converso ea quae sunt in materia sensibili abstrahunt."
+        },
+        {
+          "ct_id": "71696",
+          "title": "In Physic., lib. 2 l. 3 n. 9",
+          "ref_label": "In Physic., lib. 2 l. 3 n. 9",
+          "latin": "Et per hoc etiam patet responsio ad id quod supra obiiciebatur de astrologia. Unde astrologia est magis naturalis quam mathematica. Unde non est mirum si communicet in conclusionibus cum scientia naturali. Quia tamen non est pure naturalis, per aliud medium eandem conclusionem demonstrat. Sicut quod terra sit sphaerica demonstratur a naturali per medium naturale, ut puta quia partes eius undique et aequaliter concurrunt ad medium: ab astrologo autem ex figura eclipsis lunaris, vel ex hoc quod non eadem sidera ex omni parte terrae aspiciuntur."
+        }
+      ]
+    },
+    {
+      "sec_id": "s2",
+      "folio": "Phys. III, lect. 5",
+      "heading_la": "In III Physicorum, Lectio 5 — De actione et passione ac divisione entis in decem praedicamenta secundum modos essendi",
+      "heading_en": "Physics Book III, Lecture 5 — On Action and Passion and the Division of Being into Ten Categories Proportional to Modes of Predicating",
+      "source_work": "physica_3_4",
+      "paragraphs": [
+        {
+          "ct_id": "71839",
+          "title": "In Physic., lib. 3 l. 5 n. 1",
+          "ref_label": "In Physic., lib. 3 l. 5 n. 1",
+          "latin": "Postquam philosophus ostendit quod motus est actus mobilis et moventis, nunc movet quandam dubitationem circa praemissa. Et primo movet dubitationem: secundo solvit, ibi: at neque actum et cetera. Circa primum duo facit: primo praemittit quaedam ad dubitationem; secundo dubitationem prosequitur, ibi: quoniam igitur utraque et cetera."
+        },
+        {
+          "ct_id": "71840",
+          "title": "In Physic., lib. 3 l. 5 n. 2",
+          "ref_label": "In Physic., lib. 3 l. 5 n. 2",
+          "latin": "Dicit ergo primo quod id quod dictum est habet *defectum*, idest dubitationem, *rationabilem*, idest logicam: ad utramque enim partem sunt probabiles rationes. Ad hanc autem dubitationem hoc praemittit, quod aliquis actus est activi, et aliquis actus est passivi, sicut supra dictum est quod et moventis et moti est aliquis actus. Et actus quidem activi vocatur *actio*; actus vero passivi vocatur *passio*. Et hoc probat, quia illud quod est opus et finis uniuscuiusque, est actus eius et perfectio: unde, cum opus et finis agentis sit actio, patientis autem passio, ut per se manifestum est, sequitur quod dictum est, quod actio sit actus agentis et passio patientis."
+        },
+        {
+          "ct_id": "71841",
+          "title": "In Physic., lib. 3 l. 5 n. 3",
+          "ref_label": "In Physic., lib. 3 l. 5 n. 3",
+          "latin": "Deinde cum dicit: quoniam igitur utraque etc., prosequitur dubitationem. Manifestum est enim quod tam actio quam passio sunt motus: utrumque enim est idem motui. Aut igitur actio et passio sunt idem motus, aut sunt diversi motus. Si sunt diversi, necesse est quod uterque eorum sit in aliquo subiecto: aut igitur uterque est in patiente et moto; aut alter horum est in agente, scilicet actio, et alter in patiente, scilicet passio. Si autem aliquis dicat e converso quod id quod est in agente sit passio, et id quod est in patiente sit actio, manifestum est quod aequivoce loquitur: id enim quod est passio vocabit actionem, et e converso. Videtur autem quartum membrum omittere, scilicet quod utrumque sit in agente: sed hoc praetermittit quia ostensum est quod motus sit in mobili, per quod excluditur hoc membrum, quod neutrum sit in patiente, sed utrumque in agente."
+        },
+        {
+          "ct_id": "71842",
+          "title": "In Physic., lib. 3 l. 5 n. 4",
+          "ref_label": "In Physic., lib. 3 l. 5 n. 4",
+          "latin": "Ex his igitur duobus membris quae tangit, primo prosequitur secundum, ibi: at vero si hoc est et cetera. Si enim aliquis dicat quod actio est in agente et passio in patiente; actio autem est motus quidam, ut dictum est; sequitur quod motus sit in movente. Eandem autem rationem oportet esse et de movente et de moto, scilicet ut in quocumque eorum sit motus, illud moveatur. Vel eadem ratio est de movente et moto, sicut et de patiente et agente. In quocumque autem est motus, illud movetur; quare sequitur vel quod omne movens moveatur, vel quod aliquid habeat motum et non moveatur; quorum utrumque videtur inconveniens."
+        },
+        {
+          "ct_id": "71843",
+          "title": "In Physic., lib. 3 l. 5 n. 5",
+          "ref_label": "In Physic., lib. 3 l. 5 n. 5",
+          "latin": "Deinde cum dicit: si autem utraque etc., prosequitur aliud membrum, dicens quod si aliquis dicat quod utrumque, scilicet actio et passio, cum sint duo motus, sunt in patiente et moto; et doctio, quae est ex parte docentis, et doctrina, quae est ex parte addiscentis, sunt in addiscente; sequuntur duo inconvenientia. Quorum primum est quia dictum est quod actio est actus agentis: si igitur actio non est in agente sed in patiente, sequetur quod proprius actus uniuscuiusque non est in eo cuius est actus. Postea sequetur aliud inconveniens, scilicet quod aliquid unum et idem moveatur secundum duos motus. Actio enim et passio supponuntur nunc esse duo motus; in quocumque autem est motus, illud movetur secundum illum motum; si igitur actio et passio sunt in mobili, sequitur quod mobile moveatur secundum duos motus. Et hoc idem esset ac si essent duae alterationes unius subiecti, quae terminarentur ad unam speciem, sicut quod unum subiectum moveretur duabus dealbationibus; quod est impossibile. Quod vero idem subiectum moveatur duabus alterationibus simul, ad diversas species terminatis, scilicet dealbatione et calefactione, non est inconveniens. Manifestum autem est quod actio et passio ad eandem speciem terminantur: idem est enim quod agens agit et patiens patitur."
+        },
+        {
+          "ct_id": "71844",
+          "title": "In Physic., lib. 3 l. 5 n. 6",
+          "ref_label": "In Physic., lib. 3 l. 5 n. 6",
+          "latin": "Deinde cum dicit: sed unus erit actus? et cetera, prosequitur aliud membrum. Potest enim aliquis dicere quod actio et passio non sunt duo motus, sed unus. Et ex hoc ducit ad quatuor inconvenientia. Quorum primum est, quod idem sit actus diversorum secundum speciem. Dictum est enim quod actio sit actus agentis, et passio actus patientis, quae secundum speciem sunt diversa: si igitur actio et passio sint idem motus, sequitur quod idem actus sit diversorum secundum speciem. Secundum inconveniens est, quod si actio et passio sint unus motus, quod idem sit actio cum passione, et doctio, quae est ex parte docentis, cum doctrina secundum quod se tenet ex parte addiscentis. Tertium inconveniens est, quod agere sit idem quod pati, et docere idem quod addiscere. Quartum quod ex hoc sequitur, est quod omne docens addiscat, et omne agens patiatur."
+        },
+        {
+          "ct_id": "71845",
+          "title": "In Physic., lib. 3 l. 5 n. 7",
+          "ref_label": "In Physic., lib. 3 l. 5 n. 7",
+          "latin": "Deinde cum dicit: at neque actum alterius etc., solvit praemissam dubitationem. Est autem manifestum ex supra determinatis quod actio et passio non sunt duo motus, sed unus et idem motus: secundum enim quod est ab agente dicitur actio, secundum autem quod est in patiente dicitur passio."
+        },
+        {
+          "ct_id": "71846",
+          "title": "In Physic., lib. 3 l. 5 n. 8",
+          "ref_label": "In Physic., lib. 3 l. 5 n. 8",
+          "latin": "Unde inconvenientia quae sequuntur ad primam partem, in qua supponebatur quod actio et passio essent duo motus, non oportet solvere, praeter unum, quod remanet solvendum, etiam supposito quod actio et passio sint unus motus: quia cum actio sit actus agentis, ut supra dictum est, si actio et passio sunt unus motus, sequitur quod actus agentis quodammodo sit in patiente, et sic actus unius erit in altero. Quatuor autem inconvenientia sequebantur ex altera parte; et sic restant quinque inconvenientia solvenda."
+        },
+        {
+          "ct_id": "71847",
+          "title": "In Physic., lib. 3 l. 5 n. 9",
+          "ref_label": "In Physic., lib. 3 l. 5 n. 9",
+          "latin": "Dicit ergo primo quod non est inconveniens actum unius esse in altero, quia doctio est actus docentis, ab eo tamen in alterum tendens continue et sine aliqua interruptione: unde idem actus est *huius*, idest agentis, ut a quo; et tamen est in patiente ut receptus in eo. Esset autem inconveniens si actus unius eo modo quo est actus eius, esset in alio."
+        },
+        {
+          "ct_id": "71848",
+          "title": "In Physic., lib. 3 l. 5 n. 10",
+          "ref_label": "In Physic., lib. 3 l. 5 n. 10",
+          "latin": "Deinde cum dicit: neque unum duobus etc., solvit aliud inconveniens, scilicet quod idem actus esset duorum. Et dicit quod nihil prohibet unum actum esse duorum, ita quod non sit unus et idem secundum rationem, sed unus secundum rem, ut dictum est supra quod eadem est distantia duorum ad unum et unius ad duo, et eius quod est in potentia ad agens et e converso. Sic enim idem actus secundum rem est duorum secundum diversam rationem: agentis quidem secundum quod est ab eo, patientis autem secundum quod est in ipso."
+        },
+        {
+          "ct_id": "71849",
+          "title": "In Physic., lib. 3 l. 5 n. 11",
+          "ref_label": "In Physic., lib. 3 l. 5 n. 11",
+          "latin": "Ad alia autem tria inconvenientia, quorum unum ex altero deducebatur, respondet ordine retrogrado. Primo scilicet ad illud quod ultimo inducebatur, ut magis inconveniens. Sic igitur tertio respondet ad quintum inconveniens. Et dicit quod non est necessarium quod docens addiscat, vel quod agens patiatur, etsi agere et pati sint idem; dum tamen dicamus quod non sunt idem sicut ea quorum ratio est una, ut tunica et indumentum, sed sicut ea quae sunt idem subiecto et diversa secundum rationem, ut via a Thebis ad Athenas et ab Athenis ad Thebas, ut dictum est prius. Non enim oportet quod omnia eadem conveniant iis quae sunt quocumque modo idem; sed solum illis quae sunt idem subiecto vel re et ratione. Et ideo, etiam dato quod agere et pati sint idem, cum non sint idem ratione, ut dictum est, non sequitur quod cuicumque convenit agere, quod ei conveniat pati."
+        },
+        {
+          "ct_id": "71850",
+          "title": "In Physic., lib. 3 l. 5 n. 12",
+          "ref_label": "In Physic., lib. 3 l. 5 n. 12",
+          "latin": "Deinde cum dicit: at vero neque si doctio etc., respondet ad quartum inconveniens. Et dicit quod non sequitur, etiam si doctio et doctrina addiscentis essent idem, quod docere et addiscere essent idem; quia doctio et doctrina dicuntur in abstracto, docere autem et discere in concreto. Unde applicantur ad fines vel ad terminos, secundum quos sumitur diversa ratio actionis et passionis. Sicut licet dicamus quod sit idem spatium distantium aliquorum, abstracte accipiendo; si tamen applicemus ad terminos spatii, sicut cum dicimus distare hinc illuc et inde huc, non est unum et idem."
+        },
+        {
+          "ct_id": "71851",
+          "title": "In Physic., lib. 3 l. 5 n. 13",
+          "ref_label": "In Physic., lib. 3 l. 5 n. 13",
+          "latin": "Deinde cum dicit: omnino autem dicere est etc., respondet ad tertium inconveniens destruens hanc illationem, qua concludebatur quod si actio et passio sunt unus motus, quod actio et passio sunt idem. Et dicit quod finaliter dicendum est, quod non sequitur quod actio et passio sint idem, vel doctio et doctrina, sed quod motus cui inest utrumque eorum, sit idem. Qui quidem motus secundum unam rationem est actio, et secundum aliam rationem est passio. Alterum enim est secundum rationem esse actum huius *ut in hoc*, et esse actum huius ut *ab hoc*. Motus autem dicitur actio secundum quod est actus agentis ut ab hoc: dicitur autem passio secundum quod est actus patientis ut in hoc. Et sic patet quod licet motus sit idem moventis et moti, propter hoc quod abstrahit ab utraque ratione, tamen actio et passio differunt propter hoc, quod has diversas rationes in sua significatione includunt. Ex hoc autem apparet quod, cum motus abstrahat a ratione actionis et passionis, non continetur in praedicamento actionis neque in praedicamento passionis, ut quidam dixerunt."
+        },
+        {
+          "ct_id": "71852",
+          "title": "In Physic., lib. 3 l. 5 n. 14",
+          "ref_label": "In Physic., lib. 3 l. 5 n. 14",
+          "latin": "Sed restat circa hoc duplex dubitatio. Prima quidem quia, si actio et passio sint unus motus, et non differunt nisi secundum rationem, ut dictum est, videtur quod non debeant esse duo praedicamenta, cum praedicamenta sint genera rerum. Item, si motus vel est actio vel passio, non invenietur motus in substantia, qualitate, quantitate et ubi, ut supra dictum est; sed solum continebitur in actione et passione."
+        },
+        {
+          "ct_id": "71853",
+          "title": "In Physic., lib. 3 l. 5 n. 15",
+          "ref_label": "In Physic., lib. 3 l. 5 n. 15",
+          "latin": "Ad horum igitur evidentiam sciendum est quod ens dividitur in decem praedicamenta non univoce, sicut genus in species, sed secundum diversum modum essendi. Modi autem essendi proportionales sunt modis praedicandi. Praedicando enim aliquid de aliquo altero, dicimus hoc esse illud: unde et decem genera entis dicuntur decem praedicamenta. Tripliciter autem fit omnis praedicatio. Unus quidem modus est, quando de aliquo subiecto praedicatur id quod pertinet ad essentiam eius, ut cum dico Socrates est homo, vel homo est animal; et secundum hoc accipitur praedicamentum substantiae. Alius autem modus est quo praedicatur de aliquo id quod non est de essentia eius, tamen inhaeret ei. Quod quidem vel se habet ex parte materiae subiecti, et secundum hoc est praedicamentum quantitatis (nam quantitas proprie consequitur materiam: unde et Plato posuit magnum ex parte materiae); aut consequitur formam, et sic est praedicamentum qualitatis (unde et qualitates fundantur super quantitatem, sicut color in superficie, et figura in lineis vel in superficiebus); aut se habet per respectum ad alterum, et sic est praedicamentum relationis (cum enim dico homo est pater, non praedicatur de homine aliquid absolutum, sed respectus qui ei inest ad aliquid extrinsecum). Tertius autem modus praedicandi est, quando aliquid extrinsecum de aliquo praedicatur per modum alicuius denominationis: sic enim et accidentia extrinseca de substantiis praedicantur; non tamen dicimus quod homo sit albedo, sed quod homo sit albus. Denominari autem ab aliquo extrinseco invenitur quidem quodammodo communiter in omnibus, et aliquo modo specialiter in iis quae ad homines pertinent tantum. Communiter autem invenitur aliquid denominari ab aliquo extrinseco, vel secundum rationem causae, vel secundum rationem mensurae; denominatur enim aliquid causatum et mensuratum ab aliquo exteriori. Cum autem quatuor sint genera causarum, duo ex his sunt partes essentiae, scilicet materia et forma: unde praedicatio quae posset fieri secundum haec duo, pertinet ad praedicamentum substantiae, utpote si dicamus quod homo est rationalis, et homo est corporeus. Causa autem finalis non causat seorsum aliquid ab agente: intantum enim finis habet rationem causae, inquantum movet agentem. Remanet igitur sola causa agens a qua potest denominari aliquid sicut ab exteriori. Sic igitur secundum quod aliquid denominatur a causa agente, est praedicamentum passionis, nam pati nihil est aliud quam suscipere aliquid ab agente: secundum autem quod e converso denominatur causa agens ab effectu, est praedicamentum actionis, nam actio est actus ab agente in aliud, ut supra dictum est. Mensura autem quaedam est extrinseca et quaedam intrinseca. Intrinseca quidem sicut propria longitudo uniuscuiusque et latitudo et profunditas: ab his ergo denominatur aliquid sicut ab intrinseco inhaerente; unde pertinet ad praedicamentum quantitatis. Exteriores autem mensurae sunt tempus et locus: secundum igitur quod aliquid denominatur a tempore, est praedicamentum quando; secundum autem quod denominatur a loco, est praedicamentum ubi et situs, quod addit supra ubi ordinem partium in loco. Hoc autem non erat necessarium addi ex parte temporis, cum ordo partium in tempore in ratione temporis importetur: est enim tempus numerus motus secundum prius et posterius. Sic igitur aliquid dicitur esse quando vel ubi per denominationem a tempore vel a loco. Est autem aliquid speciale in hominibus. In aliis enim animalibus natura dedit sufficienter ea quae ad conservationem vitae pertinent, ut cornua ad defendendum, corium grossum et pilosum ad tegendum, ungulas vel aliquid huiusmodi ad incedendum sine laesione. Et sic cum talia animalia dicuntur armata vel vestita vel calceata, quodammodo non denominantur ab aliquo extrinseco, sed ab aliquibus suis partibus. Unde hoc refertur in his ad praedicamentum substantiae: ut puta si diceretur quod homo est manuatus vel pedatus. Sed huiusmodi non poterant dari homini a natura, tum quia non conveniebant subtilitati complexionis eius, tum propter multiformitatem operum quae conveniunt homini inquantum habet rationem, quibus aliqua determinata instrumenta accommodari non poterant a natura: sed loco omnium inest homini ratio, qua exteriora sibi praeparat loco horum quae aliis animalibus intrinseca sunt. Unde cum homo dicitur armatus vel vestitus vel calceatus, denominatur ab aliquo extrinseco, quod non habet rationem neque causae, neque mensurae: unde est speciale praedicamentum, et dicitur habitus. Sed attendendum est quod etiam aliis animalibus hoc praedicamentum attribuitur, non secundum quod in sua natura considerantur, sed secundum quod in hominis usum veniunt; ut si dicamus equum phaleratum vel sellatum seu armatum."
+        },
+        {
+          "ct_id": "71854",
+          "title": "In Physic., lib. 3 l. 5 n. 16",
+          "ref_label": "In Physic., lib. 3 l. 5 n. 16",
+          "latin": "Sic igitur patet quod licet motus sit unus, tamen praedicamenta quae sumuntur secundum motum, sunt duo, secundum quod a diversis rebus exterioribus fiunt praedicamentales denominationes. Nam alia res est agens, a qua sicut ab exteriori, sumitur per modum denominationis praedicamentum passionis: et alia res est patiens a qua denominatur agens. Et sic patet solutio primae dubitationis."
+        },
+        {
+          "ct_id": "71855",
+          "title": "In Physic., lib. 3 l. 5 n. 17",
+          "ref_label": "In Physic., lib. 3 l. 5 n. 17",
+          "latin": "Secunda autem dubitatio de facili solvitur. Nam ratio motus completur non solum per id quod est de motu in rerum natura, sed etiam per id quod ratio apprehendit. De motu enim in rerum natura nihil aliud est quam actus imperfectus, qui est inchoatio quaedam actus perfecti in eo quod movetur: sicut in eo quod dealbatur, iam incipit esse aliquid albedinis. Sed ad hoc quod illud imperfectum habeat rationem motus, requiritur ulterius quod intelligamus ipsum quasi medium inter duo; quorum praecedens comparatur ad ipsum sicut potentia ad actum, unde motus dicitur actus; consequens vero comparatur ad ipsum sicut perfectum ad imperfectum vel actus ad potentiam, propter quod dicitur actus existentis in potentia, ut supra dictum est. Unde quodcumque imperfectum accipiatur ut non in aliud perfectum tendens, dicitur terminus motus et non erit motus secundum quem aliquid moveatur; utpote si aliquid incipiat dealbari, et statim alteratio interrumpatur. Quantum igitur ad id quod in rerum natura est de motu, motus ponitur per reductionem in illo genere quod terminat motum, sicut imperfectum reducitur ad perfectum, ut supra dictum est. Sed quantum ad id quod ratio apprehendit circa motum, scilicet esse medium quoddam inter duos terminos, sic iam implicatur ratio causae et effectus: nam reduci aliquid de potentia in actum, non est nisi ab aliqua causa agente. Et secundum hoc motus pertinet ad praedicamentum actionis et passionis: haec enim duo praedicamenta accipiuntur secundum rationem causae agentis et effectus, ut dictum est."
+        },
+        {
+          "ct_id": "71856",
+          "title": "In Physic., lib. 3 l. 5 n. 18",
+          "ref_label": "In Physic., lib. 3 l. 5 n. 18",
+          "latin": "Deinde cum dicit: quid quidem igitur motus etc., definit motum in particulari: et dicit quod dictum est quid sit motus et in universali et in particulari; quia ex hoc quod dictum est de definitione motus in universali, manifestum esse poterit quomodo definiatur in particulari. Si enim motus est actus mobilis secundum quod huiusmodi, sequitur quod alteratio sit actus alterabilis secundum quod huiusmodi: et sic de aliis. Et quia positum fuit in dubitatione, utrum motus sit actus moventis vel mobilis, et ostensum est quod est actus activi ut ab hoc, et passivi ut in hoc; ad tollendum omnem dubitationem aliquantulum notius dicamus quod motus est actus potentiae activi et passivi. Et sic etiam poterimus in particulari dicere quod aedificatio est actus aedificatoris et aedificabilis inquantum huiusmodi: et simile est de medicatione et aliis motibus."
+        }
+      ]
+    },
+    {
+      "sec_id": "s3",
+      "folio": "Phys. IV, lect. 7",
+      "heading_la": "In IV Physicorum, Lectio 7 — De definitione loci immobilis ex motu translationis et solutione Themistii",
+      "heading_en": "Physics Book IV, Lecture 7 — On the Definition of Immobile Place from Local Translation and Themistius's Solution",
+      "source_work": "physica_3_4",
+      "paragraphs": [
+        {
+          "ct_id": "72003",
+          "title": "In Physic., lib. 4 l. 7 n. 1",
+          "ref_label": "In Physic., lib. 4 l. 7 n. 1",
+          "latin": "Postquam philosophus definivit locum, hic ostendit qualiter aliquid sit in loco. Et circa hoc duo facit: primo ostendit qualiter aliquid simpliciter sit in loco, et qualiter non; secundo ostendit quomodo illud quod non est simpliciter in loco, secundum quid in loco sit, ibi: unde et si aqua fiat et cetera."
+        },
+        {
+          "ct_id": "72004",
+          "title": "In Physic., lib. 4 l. 7 n. 2",
+          "ref_label": "In Physic., lib. 4 l. 7 n. 2",
+          "latin": "Concludit ergo primo ex praemissis, quod cum locus sit terminus continentis, cuicumque corpori adiacet aliquod corpus continens ipsum exterius, hoc est in loco simpliciter et per se: cui vero corpori non adiacet aliquod corpus exterius continens ipsum, minime est in loco. Tale autem corpus in mundo non est nisi unum, scilicet ultima sphaera, quaecumque sit illa. Unde secundum hanc determinationem sequitur quod ultima sphaera non sit in loco."
+        },
+        {
+          "ct_id": "72005",
+          "title": "In Physic., lib. 4 l. 7 n. 3",
+          "ref_label": "In Physic., lib. 4 l. 7 n. 3",
+          "latin": "Sed hoc videtur impossibile: quia ultima sphaera movetur in loco; nihil autem movetur in loco, quod non sit in loco. Huius igitur dubitationis difficultas non accidit iis qui tenent sententiam de spatio. Non est enim eis necesse dicere quod ad hoc quod sphaera ultima sit in loco, quod habeat corpus continens; sed spatium quod intelligitur penetrare totum mundum et omnes partes eius, est locus totius mundi et cuiuslibet partium eius, secundum eos. Sed haec positio est impossibilis: quia vel oportet dicere quod locus non sit aliquid praeter locatum, vel quod sint aliquae dimensiones spatii per se existentes, et tamen subintrantes dimensiones corporum sensibilium: quae sunt impossibilia."
+        },
+        {
+          "ct_id": "72006",
+          "title": "In Physic., lib. 4 l. 7 n. 4",
+          "ref_label": "In Physic., lib. 4 l. 7 n. 4",
+          "latin": "Unde Alexander dixit quod ultima sphaera nullo modo est in loco: non enim omne corpus de necessitate est in loco, cum locus non cadat in definitione corporis. Et propter hoc dixit quod ultima sphaera non movetur in loco, neque secundum totum, neque secundum partes. Sed quia oportet omnem motum in aliquo genere motus poni, Avicenna eum secutus, dixit quod motus ultimae sphaerae non est motus in loco, sed motus in situ, contra Aristotelem, qui dicit in quinto huius, quod motus est tantum in tribus generibus, scilicet in quantitate, qualitate et ubi. Sed hoc non potest stare: impossibile est enim quod motus sit per se loquendo in aliquo genere cuius specierum ratio in indivisibili consistit. Propter hoc enim in substantia non est motus, quia ratio cuiuslibet speciei substantiae consistit in indivisibili, eo quod species substantiae non dicuntur secundum magis et minus: et propter hoc, cum motus habeat successionem, non producitur in esse forma substantialis per motum, sed per generationem, quae est terminus motus. Secus autem est de albedine et similibus, quae participantur secundum magis et minus. Quaelibet autem species situs habet rationem in indivisibili consistentem; ita quod si aliquid additur vel minuitur, non est eadem species situs. Unde impossibile est quod in genere situs sit motus. Et praeterea, remanet eadem difficultas. Nam situs, secundum quod ponitur praedicamentum, importat ordinem partium in loco: licet secundum quod ponitur differentia quantitatis, non importet nisi ordinem partium in toto. Omne igitur quod movetur secundum situm, oportet quod moveatur secundum locum."
+        },
+        {
+          "ct_id": "72007",
+          "title": "In Physic., lib. 4 l. 7 n. 5",
+          "ref_label": "In Physic., lib. 4 l. 7 n. 5",
+          "latin": "Quidam autem alii dixerunt, scilicet Avempace, quod aliter assignandus est locus corpori quod movetur circulariter, et aliter corpori quod movetur motu recto. Quia enim linea recta est imperfecta, additionem recipiens, corpus quod movetur motu recto requirit locum exterius continentem: quia vero linea circularis in seipsa perficitur, corpus quod circulariter movetur non requirit locum exterius continentem, sed locum circa quem revolvatur: unde et motus circularis dicitur esse motus circa medium. Sic igitur dicunt quod superficies convexa sphaerae contentae, est locus primae sphaerae. Sed hoc est contra suppositiones communes prius de loco positas: scilicet quod locus sit continens, et quod locus sit aequalis locato."
+        },
+        {
+          "ct_id": "72008",
+          "title": "In Physic., lib. 4 l. 7 n. 6",
+          "ref_label": "In Physic., lib. 4 l. 7 n. 6",
+          "latin": "Et ideo Averroes dixit quod ultima sphaera est in loco per accidens. Ad cuius evidentiam considerandum est, quod omne illud quod habet fixionem per alterum, dicitur esse per accidens in loco, ex hoc quod id per quod figitur, in loco est; ut patet de clavo infixo navi et de homine quiescente in navi. Manifestum est autem quod corpora circulariter mota habent fixionem per immobilitatem centri: unde ultima sphaera dicitur esse in loco per accidens, inquantum centrum circa quod revolvitur, habet esse in loco. Quod autem aliae sphaerae inferiores habent per se locum in quo continentur, hoc accidit, et non est de necessitate corporis circulariter moti. Sed contra hoc obiicitur quia, si ultima sphaera sit in loco per accidens, sequitur quod moveatur in loco per accidens, et sic motus per accidens est prior motu per se. Sed ad hoc respondetur quod ad motum circularem non requiritur quod id quod movetur per se circulariter, sit per se in loco: requiritur autem ad motum rectum. Sed hoc videtur esse contra definitionem Aristotelis, quam supra posuit, de eo quod est in loco per accidens. Dixit enim aliqua esse vel moveri in loco per accidens, ex hoc quod movetur id in quo sunt: non autem dicitur aliquid esse in loco per accidens, ex hoc quod aliquid quod est omnino extrinsecum ab ipso, est in loco. Cum igitur centrum sit omnino extrinsecum a sphaera ultima, ridiculum videtur dicere quod sphaera ultima sit in loco per accidens ex hoc quod centrum est in loco."
+        },
+        {
+          "ct_id": "72009",
+          "title": "In Physic., lib. 4 l. 7 n. 7",
+          "ref_label": "In Physic., lib. 4 l. 7 n. 7",
+          "latin": "Et ideo magis approbo sententiam Themistii, qui dixit quod ultima sphaera est in loco per suas partes. Ad cuius evidentiam considerandum est, quod sicut Aristoteles supra dixit, non quaereretur locus nisi propter motum, qui demonstrat locum ex hoc quod corpora succedunt sibi in uno loco. Unde, licet locus non sit de necessitate corporis, est tamen de necessitate corporis quod movetur secundum locum. Sic igitur alicui corpori moto localiter, necesse est assignare locum, secundum quod in illo motu consideratur successio diversorum corporum in eodem loco. In his igitur quae moventur motu recto, manifestum est quod duo corpora succedunt sibi in loco secundum totum; quia totum unum corpus dimittit totum locum, et in ipsum totum subintrat aliud corpus. Unde necesse est quod corpus quod movetur motu recto, sit in loco secundum se totum. In motu autem circulari, licet totum fiat in diversis locis ratione, non tamen totum mutat locum subiecto: semper enim remanet idem locus subiecto, sed diversificatur ratione tantum, ut in sexto huius dicetur. Sed partes mutant locum non solum ratione, sed subiecto. Attenditur ergo in motu circulari successio in eodem loco, non totorum corporum, sed partium eiusdem corporis. Non igitur corpori quod movetur circulariter, debetur ex necessitate locus secundum totum, sed secundum partes."
+        },
+        {
+          "ct_id": "72010",
+          "title": "In Physic., lib. 4 l. 7 n. 8",
+          "ref_label": "In Physic., lib. 4 l. 7 n. 8",
+          "latin": "Sed contra hoc esse videtur quod partes corporis continui non sunt in loco, neque moventur secundum locum: sed totum movetur, et totum est in loco. Manifestum est autem quod ultima sphaera est corpus continuum: partes igitur eius nec sunt in loco, nec moventur secundum locum. Et sic non videtur verum quod ultimae sphaerae debeatur locus ratione partium. Sed ad hoc dicendum est quod partes totius continui, licet non sint in loco in actu, sunt tamen in loco in potentia, secundum quod continuum est divisibile. Pars enim, si sit divisa, erit in toto sicut in loco: unde per hunc modum partes continui moventur in loco. Et hoc maxime apparet in continuis humidis, quae sunt facilis divisionis, sicut in aqua, cuius partes inveniuntur moveri infra totam aquam. Sic igitur, quia aliquid dicitur de toto ratione partium, inquantum partes ultimae sphaerae sunt in loco in potentia, tota ultima sphaera est in loco per accidens ratione partium: et sic esse in loco sufficit ad motum circularem."
+        },
+        {
+          "ct_id": "72011",
+          "title": "In Physic., lib. 4 l. 7 n. 9",
+          "ref_label": "In Physic., lib. 4 l. 7 n. 9",
+          "latin": "Si quis autem obiiciat quod id quod est in actu, est prius eo quod est in potentia; et sic videtur inconveniens quod primus motus localis sit corporis existentis in loco per partes, quae sunt in potentia in loco: dicendum est ergo quod hoc optime congruit primo motui. Necesse est enim quod gradatim ab uno immobili descendatur ad diversitatem quae est in mobilibus. Minor est autem variatio quae est secundum partes existentes in loco in potentia, quam quae est secundum tota existentia in loco in actu. Unde primus motus, qui est circularis, minus habet de difformitate, et plus retinet de uniformitate, propinquior existens substantiis immobilibus. Multo autem convenientius est dicere quod ultima sphaera sit in loco propter partes suas intrinsecas, quam propter centrum, quod est omnino extra substantiam eius; et magis consonat opinioni Aristotelis, ut patet inspicienti sequentia, in quibus philosophus manifestat quomodo caelum sit in loco, ibi: unde et si aqua fiat et cetera."
+        },
+        {
+          "ct_id": "72012",
+          "title": "In Physic., lib. 4 l. 7 n. 10",
+          "ref_label": "In Physic., lib. 4 l. 7 n. 10",
+          "latin": "Circa hoc enim duo facit: primo enim manifestat quomodo sphaera ultima est in loco; secundo infert conclusionem ex dictis, ibi: unde movetur circulariter et cetera. Circa primum tria facit: primo manifestat quod ultima sphaera est in loco per partes; secundo quomodo partes eius sunt in loco, ibi: sicut autem dictum est, alia quidem etc.; tertio quomodo ex partibus competat toti esse in loco, ibi: et alia quidem per se et cetera."
+        },
+        {
+          "ct_id": "72013",
+          "title": "In Physic., lib. 4 l. 7 n. 11",
+          "ref_label": "In Physic., lib. 4 l. 7 n. 11",
+          "latin": "Quia ergo dixerat quod cui non est aliquod extra continens, non est in loco per se, concludit quod si aliquod huiusmodi corpus quod non continetur ab alio, sicut est ultima sphaera, sit aqua (in qua magis apparet quod dicitur propter facilem divisionem partium), partes eius movebuntur, inquantum continentur sub invicem, sic quodammodo in loco existentes. Sed tota aqua quodammodo movebitur, et quodammodo non. Non enim sic movebitur quod tota simul mutet locum, quasi translata in alium locum subiecto diversum: sed movebitur circulariter; qui quidem motus requirit locum partium, et non totius. Et non movebitur sursum et deorsum, sed circulariter: quaedam autem movebuntur sursum et deorsum, mutantia locum secundum totum, scilicet corpora rara et densa, vel gravia et levia."
+        },
+        {
+          "ct_id": "72014",
+          "title": "In Physic., lib. 4 l. 7 n. 12",
+          "ref_label": "In Physic., lib. 4 l. 7 n. 12",
+          "latin": "Deinde cum dicit: sicut autem dictum est etc., ostendit quomodo partes ultimae sphaerae sunt in loco. Et dicit quod sicut supra dictum est, quaedam sunt in loco in actu, quaedam secundum potentiam. Unde cum aliquod sit continuum similium partium, partes eius sunt in loco secundum potentiam, sicuti est in ultima sphaera: sed quando partes sunt separatae, et solum contiguae, sicut accidit in collectione lapidum, tunc partes sunt in loco secundum actum."
+        },
+        {
+          "ct_id": "72015",
+          "title": "In Physic., lib. 4 l. 7 n. 13",
+          "ref_label": "In Physic., lib. 4 l. 7 n. 13",
+          "latin": "Deinde cum dicit: et alia quidem per se sunt etc., ostendit quomodo ex hoc sequitur totam sphaeram esse in loco. Et dicit quod quaedam sunt per se in loco, sicut omne corpus quod per se movetur in loco, vel secundum loci mutationem vel secundum augmentum, ut supra dictum est. Sed *caelum*, idest ultima sphaera, non est hoc modo in loco, sicut dictum est, cum nullum corpus contineat ipsum: sed secundum quod movetur circulariter, partibus sibi invicem succedentibus, sic et locus debetur partibus eius in potentia, ut dictum est, inquantum scilicet una pars eius est *habita*, idest consequenter se habens, ad aliam. Quaedam vero secundum accidens sunt in loco, sicut anima et omnes formae: et hoc etiam modo *caelum*, idest ultima sphaera, est in loco, inquantum omnes eius partes sunt in loco, ex eo quod unaquaeque pars eius continetur sub alia secundum circulationem. In corpore enim non circulari pars extrema remanet non contenta, sed continens tantum: sed in corpore circulari quaelibet pars est continens et contenta, in potentia tamen. Unde ratione omnium partium suarum corpus circulare est in loco. Et hoc accipit esse per accidens, scilicet per partes, sicut supra, cum dixit quod partes corporis moventur per accidens in loco."
+        },
+        {
+          "ct_id": "72016",
+          "title": "In Physic., lib. 4 l. 7 n. 14",
+          "ref_label": "In Physic., lib. 4 l. 7 n. 14",
+          "latin": "Deinde cum dicit: unde movetur circulariter etc., inducit quandam conclusionem ex praedictis. Quia enim dixerat quod corpus quod circulariter movetur, non oportet esse in loco secundum totum, sed solum per accidens, ratione partium, concludit quod corpus supremum movetur solum circulariter, propter hoc quod ipsum totum non est alicubi; quia quod est alicubi, ipsum est aliquid, et habet aliquid extra se a quo continetur; sed extra totum nihil est. Et propter hoc omnia dicuntur esse in caelo sicut in ultimo continente, quia caelum fortassis est quod est totum continens. Dicit autem *fortassis*, quia nondum probatum est quod extra caelum nihil sit. Non est autem sic intelligendum, quod ipsum corpus caeli sit locus: sed quaedam superficies ultima eius versus nos; et est sicut terminus tangens corpora mobilia quae in ipso sunt. Et propter hoc dicimus quod terra est in aqua, quae est in aere, qui est in *aethere*, idest igne, qui est in caelo, quod non est ulterius in alio."
+        },
+        {
+          "ct_id": "72017",
+          "title": "In Physic., lib. 4 l. 7 n. 15",
+          "ref_label": "In Physic., lib. 4 l. 7 n. 15",
+          "latin": "Secundum vero intentionem Averrois, littera ista aliter exponenda est. Nam exemplum de aqua quod primo inducit, non est referendum secundum ipsum ad ultimam sphaeram, sed ad totum universum: quod quidem movetur inquantum partes eius moventur, quaedam quidem circulariter, ut corpora caelestia, quaedam vero motu sursum vel deorsum, ut inferiora corpora. Quod vero postmodum inducitur, quod quaedam sunt in loco actu, quaedam potentia, non est referendum ad prius dicta, sed oportet ut propter se dictum accipere. Quia enim dixerat quod quaedam sunt in loco secundum partes, quaedam secundum totum, consequenter adiungit quod quaedam sunt in loco secundum actum, quaedam secundum potentiam: et ulterius, quod quaedam sunt in loco per se, quaedam per accidens. Ubi notandum est quod caelum secundum ipsum dupliciter accipitur hic: nam primo caelum accipitur pro universitate corporum, et maxime caelestium; secundo pro ultima sphaera. Dicit ergo quod per se sunt in loco, quae moventur secundum locum, sive secundum totum sive secundum partes, ut *caelum*, idest universum: per accidens autem sunt in loco, ut anima et *caelum*, idest ultima sphaera. Quia oportet dicere quod omnes partes universi sint aliquo modo in loco, ultima quidem sphaera per accidens, alia vero corpora per se, inquantum ab exteriori corpore continentur. Et hoc manifestat usque in finem."
+        }
+      ]
+    },
+    {
+      "sec_id": "s4",
+      "folio": "Phys. VI, lect. 1",
+      "heading_la": "In VI Physicorum, Lectio 1 — Quod nullum continuum (linea, tempus vel motus) ex punctis indivisibilibus componi potest",
+      "heading_en": "Physics Book VI, Lecture 1 — That No Continuum (Line, Time, or Motion) Can Be Composed of Indivisible Points",
+      "source_work": "physica_5_6",
+      "paragraphs": [
+        {
+          "ct_id": "72281",
+          "title": "In Physic., lib. 6 l. 1 n. 1",
+          "ref_label": "In Physic., lib. 6 l. 1 n. 1",
+          "latin": "Postquam philosophus determinavit de divisione motus in suas species, et de unitate et contrarietate motuum et quietum, in hoc sexto libro intendit determinare ea quae pertinent ad divisionem motus, secundum quod dividitur in partes quantitativas. Et dividitur in partes duas. In prima ostendit motum, sicut et omne continuum, esse divisibilem; in secunda ostendit qualiter motus dividatur, ibi: necesse est autem et ipsum nunc et cetera. Prima autem pars dividitur in duas: in prima ostendit nullum continuum ex indivisibilibus componi; in secunda ostendit nullum continuum indivisibile esse, ibi: manifestum igitur ex dictis est et cetera. Prima autem pars dividitur in duas: in prima ostendit nullum continuum ex indivisibilibus componi; in secunda parte (quia probationes praemissae magis ad magnitudinem pertinere videntur) ostendit quod eadem ratio est de magnitudine, motu et tempore, ibi: eiusdem autem rationis est et cetera. Circa primum duo facit: primo resumit quasdam definitiones supra positas, quibus nunc utitur ad propositum demonstrandum; secundo probat propositum, ibi: neque enim unum sunt et cetera."
+        },
+        {
+          "ct_id": "72282",
+          "title": "In Physic., lib. 6 l. 1 n. 2",
+          "ref_label": "In Physic., lib. 6 l. 1 n. 2",
+          "latin": "Dicit ergo primo quod si definitiones prius positae *continui*, et eius quod *tangitur*, et eius quod est *consequenter*, sunt convenientes (scilicet quod *continua* sint, quorum ultima sunt unum: *contacta*, quorum ultima sunt simul: *consequenter* autem sint, quorum nihil est medium sui generis), ex his sequitur quod impossibile sit aliquod continuum componi ex indivisibilibus, ut lineam ex punctis; si tamen linea dicatur aliquid continuum, et punctum aliquid indivisibile. Addit autem hoc, ne aliquis nomine lineae et puncti aliter uteretur."
+        },
+        {
+          "ct_id": "72283",
+          "title": "In Physic., lib. 6 l. 1 n. 3",
+          "ref_label": "In Physic., lib. 6 l. 1 n. 3",
+          "latin": "Deinde cum dicit: neque enim unum sunt etc., probat propositum. Et primo inducit rationes duas ad probandum propositum; secundo manifestat quaedam quae poterant esse dubia in suis probationibus, ibi: nullum autem aliud genus et cetera. Circa primam rationem duo facit: primo ostendit quod ex indivisibilibus non componitur aliquod continuum, neque per modum continuationis, neque per modum contactus; secundo quod neque per modum consequenter se habentium, ibi: at vero neque consequenter et cetera. Circa primum ponit duas rationes, quarum prima talis est. Ex quibuscumque componitur aliquid unum, vel per modum continuationis, vel per modum contactus, oportet quod habeant ultima quae sint unum, vel quae sint simul. Sed ultima punctorum non possunt esse unum: quia ultimum dicitur respectu alicuius partis; in indivisibili autem non est accipere aliquid quod sit ultimum, et aliud quod sit aliqua alia pars. Similiter non potest dici quod ultima punctorum sunt simul: quia nihil potest esse ultimum rei impartibilis, cum semper alterum sit ultimum et illud cuius est ultimum; in impartibili autem non est accipere aliud et aliud. Relinquitur ergo quod linea non potest componi ex punctis, neque per modum continuationis, neque per modum contactus."
+        },
+        {
+          "ct_id": "72284",
+          "title": "In Physic., lib. 6 l. 1 n. 4",
+          "ref_label": "In Physic., lib. 6 l. 1 n. 4",
+          "latin": "Secundam rationem ponit ibi: amplius necesse est etc. quae talis est. Si ex punctis constituitur aliquod continuum, necesse est quod aut sint continua ad invicem, vel se tangant: et eadem ratio est de omnibus aliis indivisibilibus, quod ex eis non componatur continuum. Ad probandum autem quod indivisibilia non possunt sibi invicem esse continua, sufficiat ratio prima. Sed ad probandum quod non possunt se tangere, inducitur alia ratio, quae talis est. Omne quod tangit alterum, aut totum unum tangit totum aliud, aut pars unius partem alterius, aut pars unius totum aliud. Sed cum indivisibile non habeat partem, non potest dici quod pars unius tangat partem alterius, aut pars totum; et sic necesse est, si duo puncta se tangunt, quod totum tangat totum. Sed ex duobus, quorum unum totum tangit aliud totum, non potest componi continuum; quia omne continuum habet partes seiunctas, ita quod haec sit una pars, et haec alia; et dividitur in partes diversas et distinctas *loco*, idest positione, in his quae positionem habent: quae autem se secundum totum tangunt, non distinguuntur loco vel positione. Relinquitur ergo quod ex punctis non possit componi linea per modum contactus."
+        },
+        {
+          "ct_id": "72285",
+          "title": "In Physic., lib. 6 l. 1 n. 5",
+          "ref_label": "In Physic., lib. 6 l. 1 n. 5",
+          "latin": "Deinde cum dicit: at vero neque etc., probat quod continuum non componatur ex indivisibilibus per modum eius quod est *consequenter*. Non enim punctum *consequenter* se habebit ad aliud punctum, ita quod ex eis constitui possit *longitudo*, idest linea; aut unum *nunc* alteri *nunc*, ita quod ex eis possit componi tempus: quia consequenter est unum alteri, quorum non est aliquid medium eiusdem generis, ut supra expositum est. Sed inter duo puncta semper est linea media: et sic si linea composita est ex punctis, ut tu das, sequitur quod semper inter duo puncta sit aliud punctum medium. Et similiter inter duo *nunc* est tempus medium. Non ergo linea componitur ex punctis, aut tempus ex *nunc*, sicut *consequenter* se habentibus."
+        },
+        {
+          "ct_id": "72286",
+          "title": "In Physic., lib. 6 l. 1 n. 6",
+          "ref_label": "In Physic., lib. 6 l. 1 n. 6",
+          "latin": "Secundam rationem principalem ponit ibi: amplius dividerentur etc., quae sumitur ex alia definitione continui, quam supra posuit in principio tertii, scilicet quod continuum sit quod est in infinitum divisibile: et est ratio talis. Ex quibuscumque componitur vel linea vel tempus, in ipsa dividitur: si igitur utrumque istorum componitur ex indivisibilibus, sequitur quod in indivisibilia dividatur. Sed hoc est falsum, cum nullum continuorum sit divisibile in impartibilia: sic enim non esset divisibile in infinitum. Nullum igitur continuum componitur ex indivisibilibus."
+        },
+        {
+          "ct_id": "72287",
+          "title": "In Physic., lib. 6 l. 1 n. 7",
+          "ref_label": "In Physic., lib. 6 l. 1 n. 7",
+          "latin": "Deinde cum dicit: nullum autem aliud etc., manifestat duo quae supra dixerat. Quorum primum fuit, quod inter duo puncta sit linea media, et inter duo nunc, tempus. Et hoc manifestat sic. Si sunt duo puncta, oportet quod differant secundum situm: alias non essent duo sed unum. Non autem possunt se contingere, ut supra ostensum est: unde relinquitur quod distent, et sit aliquod medium inter ea. Sed nullum aliud medium potest esse inter ea quam linea inter puncta, et tempus inter *nunc*. Quod sic probat: quia si inter puncta esset aliud medium quam linea, manifestum est aut illud medium esse indivisibile aut divisibile. Si autem sit indivisibile, oportet quod sit distinctum ab utroque in situ; et cum non tangat, oportet iterum quod sit aliquod alterum medium inter indivisibile quod ponitur medium et extrema, et sic in infinitum, nisi ponatur medium divisibile. Si autem medium duorum punctorum fuerit divisibile, aut erit divisibile in indivisibilia, aut in semper divisibilia. Sed non potest dici quod dividatur in indivisibilia, quia tunc redibit eadem difficultas, quomodo ex indivisibilibus possit componi divisibile. Relinquitur igitur quod illud medium sit divisibile in semper divisibilia. Sed haec est ratio continui: ergo illud medium erit quoddam continuum. Nullum autem aliud continuum potest esse medium inter duo puncta quam linea: ergo inter qualibet duo puncta est linea media. Et eadem ratione inter qualibet duo *nunc*, tempus; et similiter in aliis continuis."
+        },
+        {
+          "ct_id": "72288",
+          "title": "In Physic., lib. 6 l. 1 n. 8",
+          "ref_label": "In Physic., lib. 6 l. 1 n. 8",
+          "latin": "Deinde cum dicit: manifestum autem etc., manifestat secundum, quod supposuerat, scilicet quod omne continuum sit divisibile in divisibilia. Quia si daretur quod continuum esset divisibile in indivisibilia, sequeretur quod duo indivisibilia se contingerent, ad hoc quod possent constituere continuum. Oportet enim quod continuorum sit unum ultimum, ut ex definitione eius apparet, et quod partes continui se tangant: quia si ultima sunt unum, sequitur quod sint simul, ut in quinto dictum est. Cum igitur sit impossibile duo indivisibilia se contingere, impossibile est quod continuum in indivisibilia dividatur."
+        }
+      ]
+    },
+    {
+      "sec_id": "s5",
+      "folio": "De Caelo I, lect. 2",
+      "heading_la": "In I De Caelo, Lectio 2 — De perfectione corporis in tribus dimensionibus et modo loquendi geometrarum de motu puncti",
+      "heading_en": "On the Heavens Book I, Lecture 2 — On the Perfection of Three-Dimensional Body and the Geometers' Mode of Speaking of a Moving Point",
+      "source_work": "de_caelo_1",
+      "paragraphs": [
+        {
+          "ct_id": "70821",
+          "title": "In De caelo, lib. 1 l. 2 n. 1",
+          "ref_label": "In De caelo, lib. 1 l. 2 n. 1",
+          "latin": "Postquam philosophus ostendit prooemialiter quod determinandum est de corporibus et magnitudinibus in scientia naturali, hic incipit prosequi principale propositum. Et quia, ut supra dictum est, in hoc libro principaliter intendit Aristoteles determinare de universo corporeo et principalibus partibus eius, quae sunt corpora simplicia, inter quae potissimum est corpus caeleste, ideo dividitur liber iste in partes tres: in prima determinat de universo corporeo; in secunda determinat de corpore caelesti, et hoc in secundo libro, ibi: quod quidem igitur neque factum est etc.; in tertia parte determinat de aliis simplicibus corporibus, scilicet de gravi et levi, in tertio libro, ibi: de primo quidem igitur caelo et cetera. Circa primum duo facit: primo ostendit perfectionem universi; secundo determinat quasdam conditiones seu proprietates ipsius, ibi: sed quoniam manifestum de his et cetera. Circa primum duo facit: primo ostendit perfectionem universi; secundo ostendit ex quibus partibus eius perfectio integretur, ibi: de totius quidem igitur natura et cetera. Circa primum duo facit: primo ostendit perfectionem universi quam habet secundum communem rationem sui generis, inquantum scilicet est corpus; secundo probat perfectionem propriam ipsius, ibi: partialium quidem igitur corporum et cetera. Circa primum tria facit: primo manifestat definitionem corporis, qua utitur ad propositum ostendendum; secundo probat propositum, ibi: itaque quoniam omne et totum etc.; tertio ostendit quid ex praemissis possit esse manifestum, ibi: quaecumque quidem igitur et cetera. Circa primum duo facit: primo definit continuum, quod est genus corporis; secundo manifestat corporis definitionem, ibi: corpus autem et cetera."
+        },
+        {
+          "ct_id": "70822",
+          "title": "In De caelo, lib. 1 l. 2 n. 2",
+          "ref_label": "In De caelo, lib. 1 l. 2 n. 2",
+          "latin": "Circa primum considerandum est quod *continuum* invenitur a philosopho dupliciter definitum. Uno modo definitione formali, prout dicitur in praedicamentis quod continuum est *cuius partes copulantur ad unum communem terminum*: unitas enim continui est quasi forma ipsius. Alio modo definitione materiali, quae sumitur ex partibus, quae habent rationem materiae, ut dicitur in II Physic.: et sic definitur hic, quod continuum est *quod est divisibile in semper divisibilia*. Nulla enim pars continui potest esse indivisibilis: quia ex indivisibilibus non componitur aliquod continuum, ut probatur in VI Physic. Et satis convenienter haec definitio ponitur hic, alia autem in praedicamentis: quia consideratio naturalis versatur circa materiam, consideratio autem logici circa rationem et speciem."
+        },
+        {
+          "ct_id": "70823",
+          "title": "In De caelo, lib. 1 l. 2 n. 3",
+          "ref_label": "In De caelo, lib. 1 l. 2 n. 3",
+          "latin": "Deinde cum dicit: corpus autem etc., definit *corpus*. Et primo proponit definitionem, dicens quod corpus est *continuum quod est divisibile omniquaque*, idest ad omnem partem, vel secundum omnem dimensionem. Secundo ibi: magnitudinis autem etc., probat propositam definitionem tali ratione. Corpus dividitur secundum tres dimensiones: quod autem dividitur secundum tres dimensiones, dividitur secundum omnes: ergo corpus est divisibile secundum omnes dimensiones. Primo ergo manifestat minorem, quasi per divisionem. Nam magnitudinum quaedam est quae dividitur ad unam partem, et haec dicitur *linea*: quaedam autem est quae dividitur ad duas partes, et haec dicitur *planum*, idest superficies: quaedam autem est quae dividitur secundum tres dimensiones; et cum talis magnitudo non sit linea neque superficies, sequitur quod sit corpus. Maiorem propositionem ponit ibi: et praeter has et cetera. Et primo ponit eam: et dicit quod praeter has magnitudines seu dimensiones non est alia magnitudo seu dimensio, propter hoc quod tria habent rationem ut sint omnia, quia habent rationem cuiusdam totalitatis; et quod est ter, videtur esse *omniquaque*, vel omnino, idest secundum omnem modum."
+        },
+        {
+          "ct_id": "70824",
+          "title": "In De caelo, lib. 1 l. 2 n. 4",
+          "ref_label": "In De caelo, lib. 1 l. 2 n. 4",
+          "latin": "Secundo ibi: quemadmodum enim etc., probat quod dixerat tripliciter. Primo quidem secundum rationem Pythagoricorum, qui dixerunt quod id quod dicitur *totum* et *omne*, determinatur ternario numero. Principium enim et medium et *consummatio*, idest finis, habent numerum qui convenit toti et omni: in rebus enim divisibilibus prima pars non sufficit ad integritatem totius, quod constituitur per ultimum, ad quod a principio pervenitur per medium. Haec autem, scilicet principium, medium et finis, habent numerum ternarium: et sic patet quod numerus ternarius convenit omni et toti."
+        },
+        {
+          "ct_id": "70825",
+          "title": "In De caelo, lib. 1 l. 2 n. 5",
+          "ref_label": "In De caelo, lib. 1 l. 2 n. 5",
+          "latin": "Secundo ibi: propter quod a natura etc., probat idem per ea quae in cultu divino observantur. Utimur enim numero hoc, scilicet ternario, *ad sanctificationes deorum* (quos scilicet gentiles colebant), idest in sacrificiis et laudibus ipsorum, ac si acceperimus a natura leges et regulas ipsius: ut scilicet, sicut natura perficit omnia ternario numero, ita illi qui instituerunt cultum divinum, volentes Deo attribuere omne quod perfectum est, attribuunt ei ternarium numerum."
+        },
+        {
+          "ct_id": "70826",
+          "title": "In De caelo, lib. 1 l. 2 n. 6",
+          "ref_label": "In De caelo, lib. 1 l. 2 n. 6",
+          "latin": "Tertio ibi: assignamus autem etc., probat idem per communem usum loquendi. Et dicit quod etiam assignamus vocabula rebus secundum modum praedictum, quo scilicet perfectio competit ternario. Si enim aliqua sunt duo, dicimus quod sint *ambo*, et duos homines dicimus *ambos*: non autem de his dicimus *omnes*, sed primo hoc vocabulo utimur circa tres. Et istum modum loquendi sequimur communiter omnes, propter hoc quod natura ad hoc nos inclinat. Ea enim quae sunt propria singulis in modo loquendi, videntur provenire ex propriis conceptionibus uniuscuiusque: sed id quod observatur communiter apud omnes, videtur ex naturali inclinatione provenire."
+        },
+        {
+          "ct_id": "70827",
+          "title": "In De caelo, lib. 1 l. 2 n. 7",
+          "ref_label": "In De caelo, lib. 1 l. 2 n. 7",
+          "latin": "Est autem attendendum quod nusquam alibi Aristoteles invenitur Pythagoricis rationibus utens ad propositum ostendendum; neque invenitur alibi per numerorum proprietates aliquid de rebus concludere: et forte hoc hic facit propter affinitatem numerorum ad magnitudines, de quibus hic agitur. Videtur tamen quod haec probatio non sit efficax: non enim magis videtur sequi quod dimensiones sint tres, propter hoc quod ternarius est numerus totius et *omnis*: alioquin sequeretur per eandem rationem quod essent solum tria elementa, vel tres digiti manus. Sed sciendum est quod, sicut dicit Simplicius in commento, Aristoteles non procedit hic demonstrative, sed secundum probabilitatem: et hic modus sufficiens est post demonstrationes praemissas, vel praesuppositas ab alia scientia. Manifestum est autem quod determinare de dimensionibus corporum inquantum huiusmodi, per se pertinet ad mathematicum: naturalis autem assumit a mathematico ea quae circa dimensiones considerat. Et ideo probare demonstrative esse solum tres dimensiones, pertinet ad mathematicum: sicut Ptolomaeus probat per hoc quod impossibile est coniungi simul lineas perpendiculares plures quam tres super idem punctum; omnis autem dimensio mensuratur secundum aliquam lineam perpendicularem. Huius igitur demonstrationem Aristoteles supponens a mathematico, utitur testimonio et signis, sicut consuevit facere post demonstrationes a se inductas."
+        },
+        {
+          "ct_id": "70828",
+          "title": "In De caelo, lib. 1 l. 2 n. 8",
+          "ref_label": "In De caelo, lib. 1 l. 2 n. 8",
+          "latin": "Deinde cum dicit: itaque quoniam omne etc., ex eo quod ostensum est, procedit ad principale propositum ostendendum. Et dicit quod haec tria, *omne* et *totum* et *perfectum*, non differunt ab invicem *secundum speciem*, idest secundum formalem rationem, quia omnia important integritatem quandam: sed si in aliquo differant, differunt in materia et subiecto, inquantum de diversis dicuntur. Nam hoc quod dicitur *omne*, utimur in discretis, sicut dicimus omnem hominem: utimur etiam eo in continuis quae sunt propinqua divisioni, sicut dicimus omnem aquam et omnem aerem. *Totum* autem dicitur et in his et in continuis: dicimus enim totum populum et totum lignum. *Perfectum* autem dicimus et in his et in formis: dicimus enim perfectam albedinem et perfectam virtutem. Quia igitur *omne* et *perfectum* est idem, consequens est quod corpus sit perfectum inter magnitudines: quia solum corpus est determinatum tribus dimensionibus, et hoc habet rationem *omnis*, ut supra ostensum est: cum enim sit tribus modis divisibile, sequitur quod sit divisibile *omniquaque*, idest secundum omnem dimensionem. Sed inter alias magnitudines aliquid est divisibile secundum duas dimensiones, scilicet superficies; aliud autem secundum unam, scilicet linea. *Ut enim numerum adepta sunt*, idest sicut magnitudines habent numerum dimensionum, ita habent divisionem et continuitatem: ita scilicet quod aliqua magnitudo est continua secundum unum modum, scilicet linea; alia est continua duobus modis, scilicet superficies; corpus autem est continuum secundum omnem modum. Unde patet quod corpus est magnitudo perfecta, quasi habens omnem modum continuitatis."
+        },
+        {
+          "ct_id": "70829",
+          "title": "In De caelo, lib. 1 l. 2 n. 9",
+          "ref_label": "In De caelo, lib. 1 l. 2 n. 9",
+          "latin": "Deinde cum dicit: quaecumque quidem igitur etc., ostendit quid ex praemissis manifestum sit vel non: et ponit tria. Quorum primum secundum se manifestum est, scilicet quod quaecumque magnitudo est divisibilis, sit continua: si enim non esset continua, non haberet rationem magnitudinis, sed potius numeri. Secundum autem est conversum huius, scilicet quod omne continuum sit divisibile, sicut in definitione fuit positum. Et hoc quidem manifestum est ex his quae probata sunt in VI Physic., ut supra dictum est. Non est autem manifestum ex his quae nunc dicta sunt: quia quod continuum sit divisibile, hic supposuit, non probavit. Tertium est manifestum ex praemissis, scilicet quod non fit transitus a corpore in aliud genus magnitudinis, sicut fit transitus ex longitudine in superficiem, et ex superficie in corpus. Et utitur modo loquendi quo utuntur geometrae, imaginantes quod punctus motus facit lineam, linea vero mota facit superficiem, superficies autem corpus. A corpore autem non fit transitus ad aliam magnitudinem: quia talis *exitus*, sive processus, ad aliud genus magnitudinis, est secundum defectum eius a quo transitur (unde etiam motus naturalis est actus imperfecti). Non est autem possibile quod corpus, quod est perfecta magnitudo, deficiat secundum hanc rationem, quia est continuum secundum omnem modum: et ideo non potest fieri transitus a corpore in aliud genus magnitudinis."
+        },
+        {
+          "ct_id": "70830",
+          "title": "In De caelo, lib. 1 l. 2 n. 10",
+          "ref_label": "In De caelo, lib. 1 l. 2 n. 10",
+          "latin": "Deinde cum dicit: partialium quidem etc., manifestat propriam perfectionem universi, per differentiam ad corpora particularia. Et primo ponit qualiter particularia corpora se habeant ad perfectionem. Et dicit quod unumquodque particularium corporum, secundum rationem communem corporis, est *tale*, idest perfectum, inquantum habet omnes dimensiones: sed tamen terminatur ad proximum corpus, inquantum contingit ipsum. Et ita unumquodque talium corporum quodammodo est *multa*, idest perfectum, inquantum habet omnes dimensiones, et imperfectum, inquantum habet aliud corpus extra se ad quod terminatur. Vel est *multa* secundum contactum ad diversa corpora: vel est *multa*, quia sunt plura unius speciei propter imperfectionem; quod non contingit de universo."
+        },
+        {
+          "ct_id": "70831",
+          "title": "In De caelo, lib. 1 l. 2 n. 11",
+          "ref_label": "In De caelo, lib. 1 l. 2 n. 11",
+          "latin": "Secundo ibi: totum autem etc., ostendit quomodo universum se habeat ad perfectionem. Et dicit quod *totum*, idest universum, cuius partes sunt particularia corpora, necesse est quod sit perfectum omnibus modis; et sicut ipsum nomen *universi* significat, *omniquaque*, idest omnibus modis, perfectum, et non secundum unum modum ita quod non secundum alium: quia et habet omnes dimensiones, et comprehendit in se omnia corpora."
+        }
+      ]
+    },
+    {
+      "sec_id": "s6",
+      "folio": "De Caelo II, lect. 2",
+      "heading_la": "In II De Caelo, Lectio 2 — De differentiis positionis in corporibus naturalibus et quomodo considerantur in corporibus mathematicis",
+      "heading_en": "On the Heavens Book II, Lecture 2 — On Positional Directions in Natural Bodies and How They Are Considered by Position in Mathematical Figures",
+      "source_work": "de_caelo_2",
+      "paragraphs": [
+        {
+          "ct_id": "71110",
+          "title": "In De caelo, lib. 2 l. 2 n. 1",
+          "ref_label": "In De caelo, lib. 2 l. 2 n. 1",
+          "latin": "Postquam philosophus determinavit de perpetuitate caeli, hic determinat de diversitate partium eius. Et primo determinat de diversitate partium caeli quae accipiuntur secundum diversitatem situs in eodem caelo; secundo de diversitate partium quae accipiuntur secundum ordinem corporum caelestium ad invicem, ibi: quoniam autem non est contrarius motus et cetera. Circa primum duo facit: primo determinat de diversitate situalium partium caeli secundum opinionem aliorum; secundo secundum opinionem propriam, ibi: nobis autem quoniam determinatum est et cetera. Circa primum duo facit: primo proponit quod intendit; secundo manifestat propositum, ibi: determinatum est quidem igitur et cetera. Dicit ergo primo quod, quia quidam dicunt quandam partem caeli esse dextram et quandam sinistram, scilicet Pythagorici, qui posuerunt dextrum et sinistrum in omnibus rebus, considerandum videtur utrum hoc modo se habeat sicut illi dicunt, vel magis aliter sint caelo attribuenda quam ipsi dicant: si tamen oportet aptare haec principia, scilicet dextrum et sinistrum, corpori totius mundi, per hoc quod insunt corpori caelesti, quod continet totum mundum. Hoc autem ideo considerandum videtur, quia statim a principio occurrit homini quod, si dextrum et sinistrum sint in caelo, quod multo magis et per prius aestimanda sint esse in caelo priora principia, scilicet sursum et deorsum, ante et retro."
+        },
+        {
+          "ct_id": "71111",
+          "title": "In De caelo, lib. 2 l. 2 n. 2",
+          "ref_label": "In De caelo, lib. 2 l. 2 n. 2",
+          "latin": "Deinde cum dicit: determinatum est quidem igitur etc., manifestat propositum. Et primo ostendit conditionem istorum principiorum secundum quod in aliis rebus inveniuntur; secundo ostendit quod non inveniuntur in omnibus corporibus, ibi: propter quod et non in omni corpore et cetera. Circa primum duo facit: primo ostendit quod non omnia praedicta principia insunt omnibus; secundo ostendit quo ordine se habeant ad invicem, ibi: est autem sursum quidem et cetera. Circa primum duo facit: primo ostendit quod huiusmodi principia non omnia omnibus insint, sed quibusdam quaedam et non omnia; secundo ostendit hoc omnino esse inconveniens, ut caelo attribuantur quaedam et non omnia, ibi: si autem oportet caelo adaptare et cetera. Dicit ergo primo quod de huiusmodi principiis, quae dicuntur differentiae positionum, determinatum est in libro de processu animalium, propter hoc quod sunt propria naturae illorum, scilicet animatorum. In animalibus enim manifeste videntur huiusmodi existere secundum determinatas partes: ita quidem quod aliquibus animalibus, scilicet perfectis, quae non solum sentiunt sed etiam moventur motu locali, insint omnes tales partes, scilicet dextrum et sinistrum, ante et retro, sursum et deorsum; quibusdam vero animalibus, scilicet imperfectis et immobilibus, insunt quaedam eorum, scilicet sursum et deorsum, ante et retro; plantis autem non insunt nisi sursum et deorsum."
+        },
+        {
+          "ct_id": "71112",
+          "title": "In De caelo, lib. 2 l. 2 n. 3",
+          "ref_label": "In De caelo, lib. 2 l. 2 n. 3",
+          "latin": "Deinde cum dicit: si autem oportet caelo adaptare etc., ostendit quod si in caelo aliquid de his ponatur, quod necesse est omnia huiusmodi in eo ponere. Et dicit quod si aliquid talium oportet attribuere caelo, scilicet vel dextrum vel sinistrum, rationabile est quod ibi primum existat id quod invenitur in animalibus perfectis: vel, rationabile est quod in eo existat id quod est primum in animalibus, quia posito posteriori, ponitur prius. Cum autem sint tres oppositiones vel *dimensiones*, unumquodque horum trium, scilicet sursum, ante et dextrum, est velut quoddam principium suae oppositionis vel dimensionis. Exponit autem consequenter quae dixerit esse illa tria: quorum unum est oppositio vel dimensio quae est inter sursum et deorsum, in qua quidem sursum est principium; aliud autem est inter anterius et eius oppositum, quod dicitur retro, ubi quod est ante est principium; aliud autem est inter dextrum et sinistrum, in qua dextrum est principium. Et quia perfectum est quod constat ex omnibus partibus seu principiis, rationabile est quod omnes huiusmodi oppositiones vel dimensiones inveniantur in *corporibus perfectis*, idest in animalibus perfectis. Unde, cum caelum sit maxime perfectum, rationabile est quod si sit capax harum partium, quod habeat omnes, et non quasdam tantum."
+        },
+        {
+          "ct_id": "71113",
+          "title": "In De caelo, lib. 2 l. 2 n. 4",
+          "ref_label": "In De caelo, lib. 2 l. 2 n. 4",
+          "latin": "Deinde cum dicit: est autem sursum quidem etc., ostendit ordinem dictorum principiorum dupliciter. Primo quidem ex parte ipsarum dimensionum. Nam sursum est principium longitudinis: nam in homine, qui est animal maxime perfectum, dicitur longitudo, quasi maxima dimensio eius, a capite, quod est sursum eius, usque ad pedes, qui sunt deorsum eius. Dextrum autem est principium latitudinis: attenditur enim latitudo hominis secundum distantiam quae est inter dextrum et sinistrum. Anterius autem est principium profunditatis: attenditur enim profunditas sive grossities hominis secundum distantiam quae est inter ante et retro. In aliis autem animalibus proportionaliter se habet. Longitudo autem est prior latitudine, et latitudo profunditate, sicut linea superficie, et superficies corpore. Ergo sursum est prius eo quod est dextrum, et dextrum est prius eo quod est ante."
+        },
+        {
+          "ct_id": "71114",
+          "title": "In De caelo, lib. 2 l. 2 n. 5",
+          "ref_label": "In De caelo, lib. 2 l. 2 n. 5",
+          "latin": "Secundo ibi: adhuc autem aliter etc., probat idem ex parte motuum. Et hoc ideo, quia ea quae dicta sunt, sunt quaedam principia a quibus primo incipiunt motus in animalibus habentibus huiusmodi partes sive principia. Motus enim augmenti incipit quidem a sursum. Et hoc manifeste apparet in hominibus: nam caput, quod est sursum hominis, est etiam sursum secundum positionem mundi; a capite autem incipit motus augmenti, quia in orificio oris, quod est in capite, trahitur alimentum, quod est augmenti materia. Plantarum autem sursum est radix, quae proportionatur capiti in animalibus in sumptione alimenti: sed id quod est sursum plantae, per oppositum se habet secundum situm ad sursum mundi. In aliis autem animalibus medio modo se habet. Motus autem qui est secundum locum, incipit a dextris: naturaliter enim animalia prius movent dextram partem quam sinistram, sicut in ambulando prius movent dextrum pedem. Sed in motu alterationis ipsorum sensuum, est principium id quod est anterius: anterior enim pars animalis dicitur in qua sensus existunt. Quia igitur motus augmenti est prior motu sensitivo, qui etiam est prior motu locali in animalibus, consequens est quod sursum sit prius quam anterius, et anterius prius quam dextrum."
+        },
+        {
+          "ct_id": "71115",
+          "title": "In De caelo, lib. 2 l. 2 n. 6",
+          "ref_label": "In De caelo, lib. 2 l. 2 n. 6",
+          "latin": "Deinde cum dicit: propter quod et non in omni corpore etc., ostendit quod huiusmodi principia non sunt in omnibus corporibus. Et primo concludit ex praemissis quod proprie et per se loquendo non sunt huiusmodi principia in corporibus inanimatis; secundo ostendit per quem modum ibi esse dicuntur, ibi: sed in his quidem et cetera. Dicit ergo primo quod, quia praedicta sunt principia quorundam motuum, consequens est quod sursum et deorsum, dextrum et sinistrum, anterius et posterius non sint quaerenda in omnibus corporibus, sed solum in corporibus animatis, quaecumque habent in seipsis principium motus: sed in nullo corporum inanimatorum videmus aliquod principium unde incipiat motus. Quod quidem potest intelligi dupliciter. Uno modo quia in corporibus animatis est principium activum motus, quod est anima: in corporibus autem inanimatis non est principium motus activum, quod scilicet moveat, sed moventur ab exteriori movente, quod est generans vel removens prohibens. Interius autem habent principium motus passivum, quo scilicet nata sunt moveri, puta gravitatem vel levitatem, ut patet in VIII Physic. Alio modo potest intelligi quia in corporibus animatis invenitur determinata pars corporis a qua incipit motus, sicut dictum est: quod quidem in corporibus inanimatis non invenitur. Quia, sicut subdit, inanimatorum corporum quaedam omnino non moventur, sicut illa quae sunt in propriis locis (vel potius hoc dicit propter corpora artificialia, quae non habent ex seipsis aliquem motum): quaedam autem moventur, sicut corpora naturalia existentia extra proprium suum locum, sed tamen unumquodque eorum movetur ad suum locum similiter ab omni parte; sicut ignis solum movetur sursum et terra solum movetur ad medium mundi, nulla alia differentia situs considerata vel ex parte corporis quod movetur, ut scilicet una pars eius prius incipiat moveri quam alia, vel etiam quantum ad locum, ut scilicet ex uno situ locali moveatur corpus naturale ad suum locum, et non ex alio."
+        },
+        {
+          "ct_id": "71116",
+          "title": "In De caelo, lib. 2 l. 2 n. 7",
+          "ref_label": "In De caelo, lib. 2 l. 2 n. 7",
+          "latin": "Deinde cum dicit: sed in his quidem etc., ostendit quomodo praedictae positiones quandoque dicantur in corporibus inanimatis. Et dicit quod in huiusmodi corporibus dicimus sursum et deorsum, et dextrum et sinistrum, et similiter ante et retro, solum per comparationem ad nos. Et hoc tripliciter: uno modo secundum quod dicimus dextrum id quod est nobis oppositum secundum nostram dextram, sicut divinatores, puta augures, nominant avem dextram quae est nobis ad dextram, sinistram vero quae est nobis ad sinistram; alio modo per similitudinem ad partes nostras, sicut in statua dicimus dextrum quod est simile dextro hominis, et sinistrum quod est simile sinistro; tertio modo per contrariam positionem, dicendo sinistrum quod est oppositum nostro dextro, et dextrum quod est oppositum nostro sinistro, sicut patet in imagine quae resultat in speculo. Et eadem ratio est in aliis positionibus. Sed in ipsis rebus inanimatis secundum se consideratis, nulla invenitur diversitas talium partium. Et hoc patet quia, si convertantur ad nos, e contrario se habebunt quam prius: illud enim quod erat dextrum, dicetur sinistrum, et e converso; et simile est in aliis positionibus. In rebus autem animatis, qualitercumque vertantur, semper eodem modo se habent huiusmodi partes."
+        },
+        {
+          "ct_id": "71117",
+          "title": "In De caelo, lib. 2 l. 2 n. 8",
+          "ref_label": "In De caelo, lib. 2 l. 2 n. 8",
+          "latin": "Deinde cum dicit: propter quod et Pythagoricos etc., ostendit Pythagoricos male attribuisse caelo huiusmodi differentias: et hoc tribus modis, qui ex superioribus accipi possunt; et ideo illos per modum conclusionis hic inducit. Primus autem modus est quia, cum sint sex positiones, mirabile videtur quare solum duo horum attribuebant caelo, scilicet dextrum et sinistrum, et alia quatuor reliquerunt; cum tamen rationabile sit quod omnia caelo conveniant, ut supra dictum est."
+        },
+        {
+          "ct_id": "71118",
+          "title": "In De caelo, lib. 2 l. 2 n. 9",
+          "ref_label": "In De caelo, lib. 2 l. 2 n. 9",
+          "latin": "Secundum modum ponit ibi: nihil minus etc.: quia scilicet, si aliqua debuerunt praetermitti ut non attribuerentur caelo, oportuit praetermitti illa quae sunt minus principalia. Quod autem illa quatuor quae praetermisit, non sint minus principalia quam illa duo quae posuit, ostendit quatuor rationibus. Quarum primam ponit ibi: nihil enim minorem et cetera. Non enim videmus in quibuscumque animalibus quod minorem differentiam habeat pars quae est sursum ad eam quae est deorsum, et quae est anterius ad eam quae est posterius, quam dextra ad sinistram, immo maiorem. Nam pars dextra et sinistra differunt solum virtute, et conveniunt in figura (manus enim dextra est fortior quam sinistra, licet sit eiusdem figurae; et similiter humerus dexter est fortior quam sinister ad motum, quamvis sinister sit fortior ad portandum onus; et similiter pes dexter est fortior ad motum, sed pes sinister ad fixionem); manifestum est autem quod pars anterior et posterior animalis, et superior et inferior, differunt non solum in virtute, sed etiam in figura: illa autem quae magis differunt, videntur principaliorem distantiam habere."
+        },
+        {
+          "ct_id": "71119",
+          "title": "In De caelo, lib. 2 l. 2 n. 10",
+          "ref_label": "In De caelo, lib. 2 l. 2 n. 10",
+          "latin": "Secundam rationem ponit ibi: et sursum et deorsum etc.: quae talis est. Sursum et deorsum inveniuntur in omnibus corporibus animatis, tam animalibus quam plantis; sed dextrum et sinistrum non existit in plantis, sed solum in animalibus perfectis; et sic sursum et deorsum sunt priora, secundum quod prius dicitur illud a quo non convertitur consequentia essendi."
+        },
+        {
+          "ct_id": "71120",
+          "title": "In De caelo, lib. 2 l. 2 n. 11",
+          "ref_label": "In De caelo, lib. 2 l. 2 n. 11",
+          "latin": "Tertiam rationem ponit ibi: adhuc autem etc.: quae talis est. Longitudo est prior latitudine, et hoc in via generationis, quia secundum geometras linea mota facit superficiem: sursum autem est principium longitudinis, dextrum autem principium latitudinis, ut supra ostensum est. Cum igitur principium prioris sit prius, consequens est quod sursum sit prius quam dextrum, secundum scilicet quod aliquid est prius generatione (propterea quod multis modis dicitur aliquid prius, ut patet in praedicamentis et V Metaphys.)."
+        },
+        {
+          "ct_id": "71121",
+          "title": "In De caelo, lib. 2 l. 2 n. 12",
+          "ref_label": "In De caelo, lib. 2 l. 2 n. 12",
+          "latin": "Quartam rationem ponit ibi: adhuc autem si sursum quidem et cetera. Et dicit quod sursum est unde est motus, quod potest intelligi de motu augmenti; dextrum autem est a quo est motus localis; anterius autem est ad quod procedit animal, quasi oppositum suo sensui; et sic patet quod sursum habet quandam principalitatem respectu aliarum specierum positionis, sicut motus augmenti est magis essentialis et magis intrinsecus animali quam motus localis. Potest autem melius totum quod hic dicitur ad motum localem referri, ut dicatur quod sursum in animali quod movetur secundum locum, est principium unde motus, quia scilicet in capite, quod est sursum, viget sensus, qui est movens in animalibus, ut dicitur in III de anima; dextrum autem est a quo incipit motus localis, quia pars dextra primo movetur, ut dictum est; sed anterius est versus quod movetur animal. Principium autem movens est principalissimum in motu animalis; et secundum hoc patet quod sursum habet principalitatem inter alias species positionis. Sic igitur ex his quatuor rationibus concludit philosophus secundum modum improbandi dictum Pythagoricorum, concludens quod iustum est eos increpare, quia derelinquebant principaliora principia, non attribuentes ea caelo."
+        },
+        {
+          "ct_id": "71122",
+          "title": "In De caelo, lib. 2 l. 2 n. 13",
+          "ref_label": "In De caelo, lib. 2 l. 2 n. 13",
+          "latin": "Tertium modum ponit ibi: et quia haec etc.: dicens quod etiam sunt increpandi quia ponebant similiter dextrum et sinistrum existere in omnibus, cum tamen non sint nisi in animalibus perfectis, ut supra dictum est. Sciendum tamen quod de intentione Pythagoricorum erat omnia reducere ad bonum et malum, sicut ad duo principia. Et quia credebant omnem numerum sub denario comprehendi, posuerunt decem ex parte boni, et decem opposita ex parte mali, ut patet in I Metaphys. Per unumquodque autem illorum quae ponebant in illa enumeratione, intelligebant omnia quae sunt sui generis. Unde per dextrum et sinistrum intelligebant omnes alias positiones, intelligentes quod sicut dextrum, ita sursum et anterius referuntur ad bonum, sinistrum autem et posterius et deorsum ad malum. Ideo autem potius ponebant dextrum et sinistrum quam alias positiones, quia manifestius dextrum consuevit referri ad bonum et sinistrum ad malum: consuevimus enim bonam fortunam vocare dextram, malam autem sinistram: et ideo omnibus attribuebant dextrum et sinistrum, quibus attribuebant bonum et malum. Vel ideo nominabant tantum dextrum et sinistrum, in his alia comprehendentes, quia videbant quod in quibuscumque invenitur dextrum et sinistrum, inveniuntur et alia, sed non convertitur. Forte autem specialiter caelo attribuerunt dextrum et sinistrum potius quam alia, quia in caelo est motus localis, ad quem pertinet dextrum et sinistrum, non autem augmentum, ad quod pertinet sursum et deorsum, neque etiam alteratio sensus, ad quam pertinet ante et retro. Vel quia sursum et deorsum, ante et retro diversificantur secundum figuram, non autem dextrum et sinistrum: partes enim caeli, cum sint circulares, non diversificantur secundum figuram."
+        }
+      ]
+    }
+  ]
+}

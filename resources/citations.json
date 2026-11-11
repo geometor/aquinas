@@ -1,0 +1,680 @@
+{
+  "aquinas:de-trin": {
+    "key": "aquinas:de-trin",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "Super Boetium De Trinitate (Expositio super librum Boethii De Trinitate, qq. 5–6)",
+    "locus": "ed. Bruno Decker (Brill, 1959); Editio Leonina, Tom. L (1992)"
+  },
+  "aquinas:anal-post-ed": {
+    "key": "aquinas:anal-post-ed",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "Expositio libri Posteriorum Analyticorum",
+    "locus": "Editio Leonina, Tom. I (1882) / Tom. I* 2 (ed. R.-A. Gauthier, 1989)"
+  },
+  "aquinas:de-anima-ed": {
+    "key": "aquinas:de-anima-ed",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "Sentencia libri De anima",
+    "locus": "ed. A. M. Pirotta (Marietti, 1936/1959); Editio Leonina, Tom. XLV.1 (1984)"
+  },
+  "aquinas:physica-ed": {
+    "key": "aquinas:physica-ed",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "Commentaria in octo libros Physicorum Aristotelis",
+    "locus": "Editio Leonina, Tom. II (1884); ed. P. M. Maggiòlo (Marietti, 1954)"
+  },
+  "aquinas:de-caelo-ed": {
+    "key": "aquinas:de-caelo-ed",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "In libros Aristotelis De caelo et mundo expositio",
+    "locus": "Editio Leonina, Tom. III (1886); ed. R. M. Spiazzi (Marietti, 1952)"
+  },
+  "aquinas:metaphysica-ed": {
+    "key": "aquinas:metaphysica-ed",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "Sententia super Metaphysicam (In duodecim libros Metaphysicorum expositio)",
+    "locus": "ed. M.-R. Cathala & R. M. Spiazzi (Marietti, 1950)"
+  },
+  "aquinas:st-ed": {
+    "key": "aquinas:st-ed",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "Summa Theologiae, Prima Pars",
+    "locus": "Editio Leonina, Tom. IV–V (1888–1889); English Dominican Fathers (1920)"
+  },
+  "aquinas:de-potentia-ed": {
+    "key": "aquinas:de-potentia-ed",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "Quaestiones disputatae de potentia Dei",
+    "locus": "ed. P. Bazzi et al. (Marietti, 1953)"
+  },
+  "aquinas:de-veritate-ed": {
+    "key": "aquinas:de-veritate-ed",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "Quaestiones disputatae de veritate",
+    "locus": "Editio Leonina, Tom. XXII (1970–1976); ed. R. M. Spiazzi (Marietti, 1949)"
+  },
+  "corpus-thomisticum": {
+    "key": "corpus-thomisticum",
+    "author": "Busa, Roberto, S.J. & Alarcón, Enrique (eds.)",
+    "work": "Corpus Thomisticum: S. Thomae de Aquino Opera Omnia",
+    "locus": "Pompaelone ad Universitatis Studiorum Navarrensis aedes (2000–)"
+  },
+  "aristotle:anal-post": {
+    "key": "aristotle:anal-post",
+    "author": "Aristotle (384 – 322 BC)",
+    "work": "Analytica Posteriora",
+    "locus": "Bekker 71a1–100b17"
+  },
+  "aristotle:de-anima": {
+    "key": "aristotle:de-anima",
+    "author": "Aristotle (384 – 322 BC)",
+    "work": "De Anima",
+    "locus": "Bekker 402a1–435b25"
+  },
+  "aristotle:physica": {
+    "key": "aristotle:physica",
+    "author": "Aristotle (384 – 322 BC)",
+    "work": "Physica",
+    "locus": "Bekker 184a10–267b26"
+  },
+  "aristotle:de-caelo": {
+    "key": "aristotle:de-caelo",
+    "author": "Aristotle (384 – 322 BC)",
+    "work": "De Caelo",
+    "locus": "Bekker 268a1–313b23"
+  },
+  "aristotle:metaphysica": {
+    "key": "aristotle:metaphysica",
+    "author": "Aristotle (384 – 322 BC)",
+    "work": "Metaphysica",
+    "locus": "Bekker 980a21–1093b29"
+  },
+  "boethius:de-trinitate": {
+    "key": "boethius:de-trinitate",
+    "author": "Boethius, Anicius Manlius Severinus (c. 477 – 524)",
+    "work": "Quomodo Trinitas unus Deus ac non tres dii (De Trinitate)",
+    "locus": "Caput II (PL 64, 1250A–B)"
+  },
+  "euclid:elements": {
+    "key": "euclid:elements",
+    "author": "Euclid of Alexandria (fl. c. 300 BC)",
+    "work": "Elements (Stoicheia, Books I–XIII)",
+    "locus": "ed. J. L. Heiberg (Teubner, 1883–1888); trans. T. L. Heath (Cambridge, 1908 / 1926)"
+  },
+  "euclid:elements:I.1": {
+    "key": "euclid:elements:I.1",
+    "author": "Euclid of Alexandria (fl. c. 300 BC)",
+    "work": "Elements",
+    "locus": "Book I, Proposition 1 (Equilateral Triangle Construction)"
+  },
+  "euclid:elements:I.4": {
+    "key": "euclid:elements:I.4",
+    "author": "Euclid of Alexandria (fl. c. 300 BC)",
+    "work": "Elements",
+    "locus": "Book I, Proposition 4 (Side-Angle-Side Congruence by Superposition)"
+  },
+  "euclid:elements:I.32": {
+    "key": "euclid:elements:I.32",
+    "author": "Euclid of Alexandria (fl. c. 300 BC)",
+    "work": "Elements",
+    "locus": "Book I, Proposition 32 (Interior Angles of a Triangle Equal Two Right Angles)"
+  },
+  "euclid:elements:III.31": {
+    "key": "euclid:elements:III.31",
+    "author": "Euclid of Alexandria (fl. c. 300 BC)",
+    "work": "Elements",
+    "locus": "Book III, Proposition 31 (Right Angle Inscribed in a Semicircle)"
+  },
+  "euclid:elements:VI.30": {
+    "key": "euclid:elements:VI.30",
+    "author": "Euclid of Alexandria (fl. c. 300 BC)",
+    "work": "Elements",
+    "locus": "Book VI, Proposition 30 (Division in Extreme and Mean Ratio — Golden Section)"
+  },
+  "pacioli:1509": {
+    "key": "pacioli:1509",
+    "author": "Pacioli, Fra Luca, O.F.M. (c. 1447 – 1517)",
+    "work": "De Divina Proportione",
+    "locus": "Venice: Paganino Paganini, 1509 (Pars I, Capp. II–VII)"
+  },
+  "cajetan:de-nominum-analogia": {
+    "key": "cajetan:de-nominum-analogia",
+    "author": "Cajetan, Thomas de Vio, O.P. (1469 – 1534)",
+    "work": "De Nominum Analogia & Commentaria in Summam Theologiae I, q. 85, a. 1",
+    "locus": "Venice, 1498 /Editio Leonina, Tom. IV–V"
+  },
+  "hilbert:1899": {
+    "key": "hilbert:1899",
+    "author": "Hilbert, David (1862 – 1943)",
+    "work": "Grundlagen der Geometrie",
+    "locus": "Leipzig: Teubner, 1899"
+  },
+  "russell:1903": {
+    "key": "russell:1903",
+    "author": "Russell, Bertrand (1872 – 1970)",
+    "work": "The Principles of Mathematics",
+    "locus": "Cambridge University Press, 1903"
+  },
+  "hoenen:1946": {
+    "key": "hoenen:1946",
+    "author": "Hoenen, Petrus Hubertus Jacobus, S.J. (1880 – 1961)",
+    "work": "La théorie du jugement d'après St. Thomas d'Aquin",
+    "locus": "Analecta Gregoriana 39, Romae: Univ. Gregoriana, 1946 (2nd ed. 1953)"
+  },
+  "hoenen:1952": {
+    "key": "hoenen:1952",
+    "author": "Hoenen, Petrus Hubertus Jacobus, S.J. (1880 – 1961)",
+    "work": "Reality and Judgment According to St. Thomas",
+    "locus": "trans. H. F. Tiblier, S.J. (Chicago: Henry Regnery, 1952)"
+  },
+  "hoenen:1953:gregorianum": {
+    "key": "hoenen:1953:gregorianum",
+    "author": "Hoenen, Petrus Hubertus Jacobus, S.J. (1880 – 1961)",
+    "work": "De duratione successiva & De connexionibus necessariis inter actus existentiales",
+    "locus": "Gregorianum XXXIV (1953), pp. 3–31 & 603–639"
+  },
+  "hoenen:1954": {
+    "key": "hoenen:1954",
+    "author": "Hoenen, Petrus Hubertus Jacobus, S.J. (1880 – 1961)",
+    "work": "De Noetica Geometriae: Origine Theoriae Cognitionis",
+    "locus": "Analecta Gregoriana 63, Romae: Apud Aedes Universitatis Gregorianae, 1954"
+  },
+  "lonergan:1946:verbum": {
+    "key": "lonergan:1946:verbum",
+    "author": "Lonergan, Bernard J. F., S.J. (1904 – 1984)",
+    "work": "The Concept of Verbum in the Writings of St. Thomas Aquinas (Verbum: Word and Idea in Aquinas)",
+    "locus": "Theological Studies 7–10 (1946–1949); Notre Dame, 1967"
+  },
+  "lonergan:1957:insight": {
+    "key": "lonergan:1957:insight",
+    "author": "Lonergan, Bernard J. F., S.J. (1904 – 1984)",
+    "work": "Insight: A Study of Human Understanding",
+    "locus": "London: Longmans, Green & Co., 1957 (Ch. 1 on Euclid I.1)"
+  },
+  "gilson:1948": {
+    "key": "gilson:1948",
+    "author": "Gilson, Étienne (1884 – 1978)",
+    "work": "L'être et l'essence / Being and Some Philosophers",
+    "locus": "Paris: Vrin, 1948 / Toronto: PIMS, 1949"
+  },
+  "geiger:1947": {
+    "key": "geiger:1947",
+    "author": "Geiger, Louis-Bertrand, O.P. (1906 – 1983)",
+    "work": "Abstraction et séparation d'après s. Thomas In de Trinitate q. 5, a. 3",
+    "locus": "Revue des sciences philosophiques et théologiques 31 (1947), pp. 3–40"
+  },
+  "alvarez-laso:1952": {
+    "key": "alvarez-laso:1952",
+    "author": "Alvarez Laso, José, C.M.F. (1910 – 1993)",
+    "work": "La Filosofía de las Matemáticas en Santo Tomás",
+    "locus": "México: Editorial Jus, 1952"
+  },
+  "aquinas:anal-post": {
+    "key": "aquinas:anal-post",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "In Aristotelis Libros Posteriorum Analyticorum Expositio",
+    "locus": "passim (Leonine I* 2, Expositio libri Posteriorum Analyticorum, Lib. I–II)"
+  },
+  "aquinas:anal-post:I.1.10": {
+    "key": "aquinas:anal-post:I.1.10",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "In Aristotelis Libros Posteriorum Analyticorum Expositio",
+    "locus": "I.1.10 (Leonine I* 2, Lib. I, lect. 1, n. 10–12)"
+  },
+  "aquinas:anal-post:I.10.7": {
+    "key": "aquinas:anal-post:I.10.7",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "In Aristotelis Libros Posteriorum Analyticorum Expositio",
+    "locus": "I.10.7 (Leonine I* 2, Lib. I, lect. 10, n. 7)"
+  },
+  "aquinas:anal-post:I.15": {
+    "key": "aquinas:anal-post:I.15",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "In Aristotelis Libros Posteriorum Analyticorum Expositio",
+    "locus": "I.15 (Leonine I* 2, Lib. I, lect. 15)"
+  },
+  "aquinas:anal-post:I.17.4": {
+    "key": "aquinas:anal-post:I.17.4",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "In Aristotelis Libros Posteriorum Analyticorum Expositio",
+    "locus": "I.17.4 (Leonine I* 2, Lib. I, lect. 17, n. 4–5)"
+  },
+  "aquinas:anal-post:I.19.2": {
+    "key": "aquinas:anal-post:I.19.2",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "In Aristotelis Libros Posteriorum Analyticorum Expositio",
+    "locus": "I.19.2 (Leonine I* 2, Lib. I, lect. 19, n. 2–3)"
+  },
+  "aquinas:anal-post:I.19.4": {
+    "key": "aquinas:anal-post:I.19.4",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "In Aristotelis Libros Posteriorum Analyticorum Expositio",
+    "locus": "I.19.4 (Leonine I* 2, Lib. I, lect. 19, n. 4–6)"
+  },
+  "aquinas:anal-post:I.2.5": {
+    "key": "aquinas:anal-post:I.2.5",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "In Aristotelis Libros Posteriorum Analyticorum Expositio",
+    "locus": "I.2.5 (Leonine I* 2, Lib. I, lect. 2, n. 5)"
+  },
+  "aquinas:anal-post:I.42.7": {
+    "key": "aquinas:anal-post:I.42.7",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "In Aristotelis Libros Posteriorum Analyticorum Expositio",
+    "locus": "I.42.7 (Leonine I* 2, Lib. I, lect. 42, n. 3–7)"
+  },
+  "aquinas:anal-post:I.5.7": {
+    "key": "aquinas:anal-post:I.5.7",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "In Aristotelis Libros Posteriorum Analyticorum Expositio",
+    "locus": "I.5.7 (Leonine I* 2, Lib. I, lect. 5, n. 7)"
+  },
+  "aquinas:anal-post:I.6": {
+    "key": "aquinas:anal-post:I.6",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "In Aristotelis Libros Posteriorum Analyticorum Expositio",
+    "locus": "I.6 (Leonine I* 2, Lib. I, lect. 6)"
+  },
+  "aquinas:anal-post:II.20": {
+    "key": "aquinas:anal-post:II.20",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "In Aristotelis Libros Posteriorum Analyticorum Expositio",
+    "locus": "II.20 (Leonine I* 2, Lib. II, lect. 20, n. 1–14)"
+  },
+  "aquinas:de-anima:2.16": {
+    "key": "aquinas:de-anima:2.16",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "Sentencia Libri De Anima",
+    "locus": "2.16 (Leonine XLV.1, Lib. II, lect. 16; ed. Pirotta (Marietti), nos. 439–450)"
+  },
+  "aquinas:de-anima:III.12.770-777": {
+    "key": "aquinas:de-anima:III.12.770-777",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "Sentencia Libri De Anima",
+    "locus": "III.12.770-777 (Leonine XLV.1, Lib. III, lect. 12; ed. Pirotta (Marietti), nos. 770–777)"
+  },
+  "aquinas:de-anima:III.13.791": {
+    "key": "aquinas:de-anima:III.13.791",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "Sentencia Libri De Anima",
+    "locus": "III.13.791 (Leonine XLV.1, Lib. III, lect. 13; ed. Pirotta (Marietti), nos. 787–794 (esp. n. 791))"
+  },
+  "aquinas:de-anima:III.8": {
+    "key": "aquinas:de-anima:III.8",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "Sentencia Libri De Anima",
+    "locus": "III.8 (Leonine XLV.1, Lib. III, lect. 8; ed. Pirotta (Marietti), nos. 705–719)"
+  },
+  "aquinas:de-anima:b1-l11": {
+    "key": "aquinas:de-anima:b1-l11",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "Sentencia Libri De Anima",
+    "locus": "b1-l11 (Leonine XLV.1, Lib. I, lect. 11; ed. Pirotta (Marietti), nos. 168–177 (esp. n. 170))"
+  },
+  "aquinas:de-caelo:b1-l2": {
+    "key": "aquinas:de-caelo:b1-l2",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "In Libros Aristotelis De Caelo et Mundo Expositio",
+    "locus": "b1-l2 (Leonine III, Lib. I, lect. 2, n. 9)"
+  },
+  "aquinas:de-caelo:b2-l2": {
+    "key": "aquinas:de-caelo:b2-l2",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "In Libros Aristotelis De Caelo et Mundo Expositio",
+    "locus": "b2-l2 (Leonine III, Lib. II, lect. 2, n. 11)"
+  },
+  "aquinas:de-malo:6.1.ad18": {
+    "key": "aquinas:de-malo:6.1.ad18",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "Quaestiones Disputatae de Malo",
+    "locus": "6.1.ad18 (Leonine XXIII, De Malo, q. 6, a. 1, ad 18)"
+  },
+  "aquinas:de-potentia:7.2.ad9": {
+    "key": "aquinas:de-potentia:7.2.ad9",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "Quaestiones Disputatae de Potentia Dei",
+    "locus": "7.2.ad9 (ed. Bazzi (Marietti), De Potentia, q. 7, a. 2, co. & ad 9)"
+  },
+  "aquinas:de-potentia:8.1": {
+    "key": "aquinas:de-potentia:8.1",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "Quaestiones Disputatae de Potentia Dei",
+    "locus": "8.1 (ed. Bazzi (Marietti), De Potentia, q. 8, a. 1, co.)"
+  },
+  "aquinas:de-potentia:9.5": {
+    "key": "aquinas:de-potentia:9.5",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "Quaestiones Disputatae de Potentia Dei",
+    "locus": "9.5 (ed. Bazzi (Marietti), De Potentia, q. 9, a. 5, co.)"
+  },
+  "aquinas:de-trin:5.1.ad3": {
+    "key": "aquinas:de-trin:5.1.ad3",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "Expositio super Librum Boethii De Trinitate",
+    "locus": "5.1.ad3 (Leonine L, q. 5 a. 1 ad 3; ed. Decker, p. 170)"
+  },
+  "aquinas:de-trin:q5-a3": {
+    "key": "aquinas:de-trin:q5-a3",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "Expositio super Librum Boethii De Trinitate",
+    "locus": "q5-a3 (Leonine L, q. 5 a. 3 co. & ad 3; ed. Decker, pp. 181–189)"
+  },
+  "aquinas:de-trin:q6.a1": {
+    "key": "aquinas:de-trin:q6.a1",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "Expositio super Librum Boethii De Trinitate",
+    "locus": "q6.a1 (Leonine L, q. 6 a. 1 (q. 2) & q. 6 a. 2; ed. Decker, pp. 205–218)"
+  },
+  "aquinas:de-veritate:10.12.ad7": {
+    "key": "aquinas:de-veritate:10.12.ad7",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "Quaestiones Disputatae de Veritate",
+    "locus": "10.12.ad7 (Leonine XXII.2, De Veritate, q. 10, a. 12, ad 7)"
+  },
+  "aquinas:de-veritate:10.6.sc2": {
+    "key": "aquinas:de-veritate:10.6.sc2",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "Quaestiones Disputatae de Veritate",
+    "locus": "10.6.sc2 (Leonine XXII.2, De Veritate, q. 10, a. 6, sed contra 2 & co.)"
+  },
+  "aquinas:de-veritate:4.2": {
+    "key": "aquinas:de-veritate:4.2",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "Quaestiones Disputatae de Veritate",
+    "locus": "4.2 (Leonine XXII.1, De Veritate, q. 4, a. 2)"
+  },
+  "aquinas:de-veritate:q10-a6": {
+    "key": "aquinas:de-veritate:q10-a6",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "Quaestiones Disputatae de Veritate",
+    "locus": "q10-a6 (Leonine XXII.2, De Veritate, q. 10, a. 6 (entire article))"
+  },
+  "aquinas:de-veritate:q12-a3": {
+    "key": "aquinas:de-veritate:q12-a3",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "Quaestiones Disputatae de Veritate",
+    "locus": "q12-a3 (Leonine XXII.2, De Veritate, q. 12, a. 3, ad 2)"
+  },
+  "aquinas:eth-nic:IX.11": {
+    "key": "aquinas:eth-nic:IX.11",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "Sententia Libri Ethicorum",
+    "locus": "IX.11 (Leonine XLVII.2, Sententia libri Ethicorum, Lib. IX, lect. 11)"
+  },
+  "aquinas:met:10.4.2017": {
+    "key": "aquinas:met:10.4.2017",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "Sententia super Metaphysicam",
+    "locus": "10.4.2017 (ed. Cathala–Spiazzi (Marietti), Lib. X, lect. 4, nos. 2017 sqq.)"
+  },
+  "aquinas:met:4.l4.n577": {
+    "key": "aquinas:met:4.l4.n577",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "Sententia super Metaphysicam",
+    "locus": "4.l4.n577 (ed. Cathala–Spiazzi (Marietti), Lib. IV, lect. 4, n. 577)"
+  },
+  "aquinas:met:5.12.916": {
+    "key": "aquinas:met:5.12.916",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "Sententia super Metaphysicam",
+    "locus": "5.12.916 (ed. Cathala–Spiazzi (Marietti), Lib. V, lect. 12, n. 916)"
+  },
+  "aquinas:met:5.9": {
+    "key": "aquinas:met:5.9",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "Sententia super Metaphysicam",
+    "locus": "5.9 (ed. Cathala–Spiazzi (Marietti), Lib. V, lect. 9, nos. 885–897)"
+  },
+  "aquinas:met:5.9.890": {
+    "key": "aquinas:met:5.9.890",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "Sententia super Metaphysicam",
+    "locus": "5.9.890 (ed. Cathala–Spiazzi (Marietti), Lib. V, lect. 9, n. 890)"
+  },
+  "aquinas:met:9.10.1894": {
+    "key": "aquinas:met:9.10.1894",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "Sententia super Metaphysicam",
+    "locus": "9.10.1894 (ed. Cathala–Spiazzi (Marietti), Lib. IX, lect. 10, nos. 1888–1894 (esp. n. 1894))"
+  },
+  "aquinas:met:9.3.1805": {
+    "key": "aquinas:met:9.3.1805",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "Sententia super Metaphysicam",
+    "locus": "9.3.1805 (ed. Cathala–Spiazzi (Marietti), Lib. IX, lect. 3, n. 1805)"
+  },
+  "aquinas:met:9.3.1806": {
+    "key": "aquinas:met:9.3.1806",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "Sententia super Metaphysicam",
+    "locus": "9.3.1806 (ed. Cathala–Spiazzi (Marietti), Lib. IX, lect. 3, n. 1806)"
+  },
+  "aquinas:met:III.7.416": {
+    "key": "aquinas:met:III.7.416",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "Sententia super Metaphysicam",
+    "locus": "III.7.416 (ed. Cathala–Spiazzi (Marietti), Lib. III, lect. 7, n. 416)"
+  },
+  "aquinas:met:IX.3.1805": {
+    "key": "aquinas:met:IX.3.1805",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "Sententia super Metaphysicam",
+    "locus": "IX.3.1805 (ed. Cathala–Spiazzi (Marietti), Lib. IX, lect. 3, nos. 1805–1806)"
+  },
+  "aquinas:met:IX.7.1848": {
+    "key": "aquinas:met:IX.7.1848",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "Sententia super Metaphysicam",
+    "locus": "IX.7.1848 (ed. Cathala–Spiazzi (Marietti), Lib. IX, lect. 7, n. 1848)"
+  },
+  "aquinas:met:IX.8.1857": {
+    "key": "aquinas:met:IX.8.1857",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "Sententia super Metaphysicam",
+    "locus": "IX.8.1857 (ed. Cathala–Spiazzi (Marietti), Lib. IX, lect. 8, n. 1857)"
+  },
+  "aquinas:met:X.2.1938": {
+    "key": "aquinas:met:X.2.1938",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "Sententia super Metaphysicam",
+    "locus": "X.2.1938 (ed. Cathala–Spiazzi (Marietti), Lib. X, lect. 2, n. 1938)"
+  },
+  "aquinas:met:XI.11.2370": {
+    "key": "aquinas:met:XI.11.2370",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "Sententia super Metaphysicam",
+    "locus": "XI.11.2370 (ed. Cathala–Spiazzi (Marietti), Lib. XI, lect. 11, n. 2370)"
+  },
+  "aquinas:met:b7-l10": {
+    "key": "aquinas:met:b7-l10",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "Sententia super Metaphysicam",
+    "locus": "b7-l10 (ed. Cathala–Spiazzi (Marietti), Lib. VII, lect. 10, nos. 1494–1500 (esp. n. 1496) & lect. 11, nos. 1501–1536)"
+  },
+  "aquinas:periherm:1.5.17": {
+    "key": "aquinas:periherm:1.5.17",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "Expositio Libri Peryermeneias",
+    "locus": "1.5.17 (Leonine I* 1, Expositio libri Peryermeneias, Lib. I, lect. 5, n. 17–22)"
+  },
+  "aquinas:periherm:1.5.5": {
+    "key": "aquinas:periherm:1.5.5",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "Expositio Libri Peryermeneias",
+    "locus": "1.5.5 (Leonine I* 1, Expositio libri Peryermeneias, Lib. I, lect. 5, n. 5)"
+  },
+  "aquinas:phys:3.5": {
+    "key": "aquinas:phys:3.5",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "Commentaria in Octo Libros Physicorum Aristotelis",
+    "locus": "3.5 (Leonine II, Lib. III, lect. 5, nos. 14–16; ed. Maggiòlo, nos. 321–323)"
+  },
+  "aquinas:phys:4.17": {
+    "key": "aquinas:phys:4.17",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "Commentaria in Octo Libros Physicorum Aristotelis",
+    "locus": "4.17 (Leonine II, Lib. IV, lect. 17)"
+  },
+  "aquinas:phys:II.3": {
+    "key": "aquinas:phys:II.3",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "Commentaria in Octo Libros Physicorum Aristotelis",
+    "locus": "II.3 (Leonine II, Lib. II, lect. 3, nos. 1–9; ed. Maggiòlo, nos. 157–165)"
+  },
+  "aquinas:phys:IV.3": {
+    "key": "aquinas:phys:IV.3",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "Commentaria in Octo Libros Physicorum Aristotelis",
+    "locus": "IV.3 (Leonine II, Lib. IV, lect. 3, in fine)"
+  },
+  "aquinas:phys:IV.7": {
+    "key": "aquinas:phys:IV.7",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "Commentaria in Octo Libros Physicorum Aristotelis",
+    "locus": "IV.7 (Leonine II, Lib. IV, lect. 7, nos. 1–12)"
+  },
+  "aquinas:phys:IV.7.7": {
+    "key": "aquinas:phys:IV.7.7",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "Commentaria in Octo Libros Physicorum Aristotelis",
+    "locus": "IV.7.7 (Leonine II, Lib. IV, lect. 7, n. 7)"
+  },
+  "aquinas:phys:V.2.8": {
+    "key": "aquinas:phys:V.2.8",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "Commentaria in Octo Libros Physicorum Aristotelis",
+    "locus": "V.2.8 (Leonine II, Lib. V, lect. 2, n. 8)"
+  },
+  "aquinas:phys:V.2.9": {
+    "key": "aquinas:phys:V.2.9",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "Commentaria in Octo Libros Physicorum Aristotelis",
+    "locus": "V.2.9 (Leonine II, Lib. V, lect. 2, n. 9)"
+  },
+  "aquinas:phys:VIII.1": {
+    "key": "aquinas:phys:VIII.1",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "Commentaria in Octo Libros Physicorum Aristotelis",
+    "locus": "VIII.1 (Leonine II, Lib. VIII, lect. 1–2 (coupled with Lib. VI, lect. 1 in Pars IV s4))"
+  },
+  "aquinas:phys:b4-l18": {
+    "key": "aquinas:phys:b4-l18",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "Commentaria in Octo Libros Physicorum Aristotelis",
+    "locus": "b4-l18 (Leonine II, Lib. IV, lect. 18, n. 4)"
+  },
+  "aquinas:scg:1.26.2": {
+    "key": "aquinas:scg:1.26.2",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "Summa contra Gentiles",
+    "locus": "1.26.2 (Leonine XIII, Summa contra Gentiles, Lib. I, cap. 26, n. 2)"
+  },
+  "aquinas:scg:I.36": {
+    "key": "aquinas:scg:I.36",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "Summa contra Gentiles",
+    "locus": "I.36 (Leonine XIII, Summa contra Gentiles, Lib. I, cap. 36)"
+  },
+  "aquinas:sent:1.19.5.1.ad6": {
+    "key": "aquinas:sent:1.19.5.1.ad6",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "Scriptum super Libros Sententiarum",
+    "locus": "1.19.5.1.ad6 (ed. Mandonnet, In I Sent., d. 19, q. 5, a. 1 (co. & ad 6–7))"
+  },
+  "aquinas:sent:1.2.1.3": {
+    "key": "aquinas:sent:1.2.1.3",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "Scriptum super Libros Sententiarum",
+    "locus": "1.2.1.3 (ed. Mandonnet, In I Sent., d. 2, q. 1, a. 3)"
+  },
+  "aquinas:sent:I.3.1.2": {
+    "key": "aquinas:sent:I.3.1.2",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "Scriptum super Libros Sententiarum",
+    "locus": "I.3.1.2 (ed. Mandonnet, In I Sent., d. 3, q. 1, a. 2)"
+  },
+  "aquinas:sent:I.4.2.1.ad1": {
+    "key": "aquinas:sent:I.4.2.1.ad1",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "Scriptum super Libros Sententiarum",
+    "locus": "I.4.2.1.ad1 (ed. Mandonnet, In I Sent., d. 4, q. 2, a. 1, ad 1)"
+  },
+  "aquinas:sent:III.11.1.4.ad6": {
+    "key": "aquinas:sent:III.11.1.4.ad6",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "Scriptum super Libros Sententiarum",
+    "locus": "III.11.1.4.ad6 (ed. Moos, In III Sent., d. 11, q. 1, a. 4, ad 6)"
+  },
+  "aquinas:st:I.12.4.ad3": {
+    "key": "aquinas:st:I.12.4.ad3",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "Summa Theologiae",
+    "locus": "I.12.4.ad3 (Leonine IV, ST I, q. 12, a. 4, co. & ad 3)"
+  },
+  "aquinas:st:I.13.12": {
+    "key": "aquinas:st:I.13.12",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "Summa Theologiae",
+    "locus": "I.13.12 (Leonine IV, ST I, q. 13, a. 12)"
+  },
+  "aquinas:st:I.7.1": {
+    "key": "aquinas:st:I.7.1",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "Summa Theologiae",
+    "locus": "I.7.1 (Leonine IV, ST I, q. 7, a. 1 (& q. 7, a. 3))"
+  },
+  "aquinas:st:I.75.6": {
+    "key": "aquinas:st:I.75.6",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "Summa Theologiae",
+    "locus": "I.75.6 (Leonine V, ST I, q. 75, a. 6)"
+  },
+  "aquinas:st:I.85.1.ad2": {
+    "key": "aquinas:st:I.85.1.ad2",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "Summa Theologiae",
+    "locus": "I.85.1.ad2 (Leonine V, ST I, q. 85, a. 1, co. & ad 2)"
+  },
+  "aquinas:st:I.85.5.ad3": {
+    "key": "aquinas:st:I.85.5.ad3",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "Summa Theologiae",
+    "locus": "I.85.5.ad3 (Leonine V, ST I, q. 85, a. 5, ad 3)"
+  },
+  "aquinas:st:I.q84.a6": {
+    "key": "aquinas:st:I.q84.a6",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "Summa Theologiae",
+    "locus": "I.q84.a6 (Leonine V, ST I, q. 84, a. 6, co.)"
+  },
+  "aquinas:st:I.q84.a6.ad3": {
+    "key": "aquinas:st:I.q84.a6.ad3",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "Summa Theologiae",
+    "locus": "I.q84.a6.ad3 (Leonine V, ST I, q. 84, a. 6, ad 3 (& q. 84, a. 7))"
+  },
+  "aquinas:st:II-II.24.4.ad3": {
+    "key": "aquinas:st:II-II.24.4.ad3",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "Summa Theologiae",
+    "locus": "II-II.24.4.ad3 (Leonine VIII, ST II-II, q. 24, a. 4, ad 3)"
+  },
+  "aquinas:st:III.q11.a2.ad1": {
+    "key": "aquinas:st:III.q11.a2.ad1",
+    "author": "Thomas Aquinas, St., O.P. (1225 – 1274)",
+    "work": "Summa Theologiae",
+    "locus": "III.q11.a2.ad1 (Leonine XI, ST III, q. 11, a. 2, ad 1)"
+  },
+  "pseudo-thomas:summa-totius-logicae": {
+    "key": "pseudo-thomas:summa-totius-logicae",
+    "author": "Pseudo-Thomas Aquinas / Pseudo-Scotus",
+    "work": "Summa Totius Logicae Aristotelis",
+    "locus": "passim (Opuscula spuria (ed. Mandonnet, Opuscula Omnia, t. V, tract. VII, pp. 102–111))"
+  },
+  "pseudo-thomas:summa-totius-logicae:VII.2": {
+    "key": "pseudo-thomas:summa-totius-logicae:VII.2",
+    "author": "Pseudo-Thomas Aquinas / Pseudo-Scotus",
+    "work": "Summa Totius Logicae Aristotelis",
+    "locus": "VII.2 (ed. Mandonnet, Opuscula Omnia, t. V, tract. VII, cap. 2 & 6, pp. 102–104, 111)"
+  }
+}

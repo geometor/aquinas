@@ -1,0 +1,43 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "geometor-aquinas"
+authors = [{ name = "phi ARCHITECT", email = "phi@geometor.com" }]
+description = "Bilingual multi-track Book Codex and critical concordance of St. Thomas Aquinas's foundational texts on mathematical science, intelligible matter, abstraction, and judgment."
+readme = "README.md"
+requires-python = ">=3.13"
+license = { text = "MIT" }
+dynamic = ["version"]
+dependencies = []
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0",
+    "ruff>=0.6",
+]
+
+[project.scripts]
+geometor-aquinas-compile = "geometor.aquinas.compile_codex:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+include = ["geometor"]
+namespaces = true
+
+[tool.setuptools.dynamic]
+version = { attr = "geometor.aquinas.__version__" }
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+
+[tool.ruff]
+target-version = "py313"
+line-length = 100
+src = ["src", "tests"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP"]
+ignore = ["E501"]

@@ -1,0 +1,87 @@
+{
+  "part_id": "pars-1",
+  "sec_id": "s2",
+  "folio": "q. 5, a. 2",
+  "paragraphs": [
+    {
+      "ct_id": "84671",
+      "english": "We proceed thus to the second article. It seems that natural science does not treat of those things that exist in motion and matter. For matter is the principle of individuation. Now no science treats of individuals, but of universals alone, according to the judgment of Plato set down in Porphyry. Therefore natural science does not treat of those things that exist in matter."
+    },
+    {
+      "ct_id": "84672",
+      "english": "Furthermore, science pertains to the intellect. Now the intellect knows by abstracting from matter and from the conditions of matter. Therefore no science can treat of those things that are not abstracted from matter."
+    },
+    {
+      "ct_id": "84673",
+      "english": "Furthermore, in natural science the first mover is treated, as is evident in Book VIII of the *Physics*. Yet he is immune from all matter. Therefore natural science does not treat solely of those things that exist in matter."
+    },
+    {
+      "ct_id": "84674",
+      "english": "Furthermore, every science treats of necessary things. Yet everything that is moved, insofar as it is such, is contingent, as is proved in Book IX of the *Metaphysics*. Therefore no science can treat of mobile things, and consequently neither can natural science."
+    },
+    {
+      "ct_id": "84675",
+      "english": "Furthermore, no universal is moved; for universal man is not healed, but this man, as is said at the beginning of the *Metaphysics*. Yet every science treats of universals. Therefore natural science does not treat of those things that exist in motion."
+    },
+    {
+      "ct_id": "84676",
+      "english": "Furthermore, in natural science determinations are made concerning certain things that are not moved, such as the soul, as is proved in Book I of *On the Soul*, and the earth, as is proved in Book II of *On the Heavens*; moreover, all natural forms neither come to be nor are corrupted, and for the same reason are not moved except *per accidens*, as is proved in Book VII of the *Metaphysics*. Therefore not all the things of which physics treats exist in motion."
+    },
+    {
+      "ct_id": "84677",
+      "english": "Furthermore, every creature is mutable, since true immutability belongs to God alone, as Augustine says. If, therefore, the consideration of things that exist in motion pertains to the natural philosopher, it will belong to him to consider all creatures, which appears manifestly false."
+    },
+    {
+      "ct_id": "84678",
+      "english": "On the contrary, it pertains to natural science to determine concerning natural things. Now natural things are those in which there is a principle of motion. Yet wherever there is motion, there must also be matter, as is said in Book IX of the *Metaphysics*. Therefore natural science treats of those things that exist in motion and matter."
+    },
+    {
+      "ct_id": "84679",
+      "english": "Furthermore, concerning those things that exist in matter and motion there must be some speculative science; otherwise the delivery of philosophy, which is the knowledge of being, would not be complete. Yet no other speculative science treats of these, since neither mathematics nor metaphysics does so. Therefore natural science treats of them."
+    },
+    {
+      "ct_id": "84680",
+      "english": "Furthermore, this is evident from what the Philosopher says in Book VI of the *Metaphysics* and in Book II of the *Physics*."
+    },
+    {
+      "ct_id": "84681",
+      "english": "I answer that on account of the difficulty of this question Plato was compelled to posit Ideas. For since, as the Philosopher says in Book I of the *Metaphysics*, he believed that all sensible things are continually in flux, in accordance with the opinion of Cratylus and Heraclitus, and consequently supposed that there could be no science of them, he posited certain substances separated from sensible things, concerning which there might be sciences and definitions might be given. Yet this failure arose from the fact that he did not distinguish what is *per se* from what is *per accidens*; for even the wise are frequently deceived according to what is accidental, as is said in Book I of *On Sophistical Refutations*. Now as is proved in Book VII of the *Metaphysics*, since in a sensible substance there are found both the whole itself, that is, the composite, and its intelligible nature, that is, its form, it is indeed the composite that is generated and corrupted *per se*, whereas the intelligible nature or form is not generated or corrupted *per se*, but only *per accidens*. *For what comes to be is not to-be-a-house*, as is said in the same place, *but this house*. Now each thing can be considered apart from all those things that are not related to it *per se*. Consequently, the forms and intelligible natures of things—even of things existing in motion—are without motion insofar as they are considered in themselves. And thus there are sciences and definitions of them, as the Philosopher says in the same place. Nor are the sciences of sensible substances founded upon the knowledge of certain substances separated from sensible things, as is proved there."
+    },
+    {
+      "ct_id": "84682",
+      "english": "Now intelligible natures of this sort, which the sciences treating of things consider, are considered without motion. Hence they must be considered apart from those conditions according to which motion belongs to mobile things. Now since every motion is measured by time, and the primary motion is local motion—upon the removal of which no other motion is present—something must be mobile insofar as it exists here and now. Yet this follows upon the mobile thing itself insofar as it is individuated by matter existing under designated dimensions. Hence intelligible natures of this sort, according to which there can be sciences of mobile things, must be considered without designated matter and without all the conditions consequent upon designated matter, yet not without undesignated matter, because upon the notion of such matter depends the notion of the form that determines matter for itself. Accordingly, the intelligible nature of man, which the definition signifies and according to which science proceeds, is considered without this flesh and without these bones, yet not without flesh and bones unconditionally. And because singulars include designated matter in their intelligible nature, whereas universals include common matter, as is said in Book VII of the *Metaphysics*, the aforesaid abstraction is not called the abstraction of form from matter unconditionally, but the abstraction of the universal from the particular."
+    },
+    {
+      "ct_id": "84683",
+      "english": "Intelligible natures of this sort, thus abstracted, can therefore be considered in two ways. In one way, in themselves, and thus they are considered without motion and designated matter; and this belongs to them only according to the being that they have in the intellect. In another way, insofar as they are compared to the things of which they are the intelligible natures, which things indeed exist in matter and motion; and thus they are principles of knowing those things, because every thing is known through its form. And consequently, through intelligible natures of this sort, immobile and considered without particular matter, knowledge is had in natural science of mobile and material things existing outside the soul."
+    },
+    {
+      "ct_id": "84684",
+      "english": "To the first objection, therefore, it must be said that matter is not the principle of individuation except insofar as it exists under designated dimensions. And in this respect natural science also abstracts from matter."
+    },
+    {
+      "ct_id": "84685",
+      "english": "To the second it must be said that the intelligible form is the quiddity of a thing; for the object of the intellect is what a thing is, as is said in Book III of *On the Soul*. Now the quiddity of a universal composite, such as man or animal, includes within itself universal matter, though not particular matter, as is said in Book VII of the *Metaphysics*. Hence the intellect universally abstracts from designated matter and its conditions, yet in natural science it does not abstract from common matter—even though in natural science too matter is considered only in relation to form. Hence form pertains more primarily to the consideration of the natural philosopher than matter does."
+    },
+    {
+      "ct_id": "84686",
+      "english": "To the third it must be said that the first mover is not treated in natural science as its subject or as a part of its subject, but as the term to which natural science leads. Now a term does not belong to the nature of the thing of which it is the term, yet it has a certain relation to that thing: just as the endpoint of a line is not a line, yet has a certain relation to it, so too the first mover is of a different nature from natural things, yet has a certain relation to them insofar as he imparts motion to them; and thus he falls under the consideration of the natural philosopher—not according to what he is in himself, namely, but insofar as he is a mover."
+    },
+    {
+      "ct_id": "84687",
+      "english": "To the fourth it must be said that science treats of something in two ways. In one way, primarily and principally, and thus science treats of the universal intelligible natures upon which it is founded. In another way, it treats of certain things secondarily and as it were by a certain reflection, and thus it treats of those things to which those intelligible natures belong, insofar as it applies those intelligible natures also to the particular things to which they belong, with the aid of the lower powers. For the knower uses the universal intelligible nature both as a thing known and as a medium of knowing; for through the universal nature of man I am able to judge concerning this man or that. Now the universal intelligible natures of things are all immobile, and therefore in this respect every science treats of necessary things. Yet among the things to which those intelligible natures belong, some are necessary and immobile, while others are contingent and mobile; and in this respect sciences are said to treat of contingent and mobile things."
+    },
+    {
+      "ct_id": "84688",
+      "english": "To the fifth it must be said that although the universal is not moved, it is nevertheless the intelligible nature of a mobile thing."
+    },
+    {
+      "ct_id": "84689",
+      "english": "To the sixth it must be said that the soul and other natural forms, although they are not moved *per se*, are nevertheless moved *per accidens*, and moreover they are perfections of mobile things, and in this respect they fall under the consideration of the natural philosopher. As for the earth, although as a whole it is not moved—which belongs to it insofar as it exists in its natural place, wherein a thing rests by the very same nature whereby it is moved toward that place—nevertheless its parts are moved toward their place whenever they are outside their proper place. And thus the earth falls under the consideration of the natural philosopher by reason both of the rest of the whole and of the motion of its parts."
+    },
+    {
+      "ct_id": "84690",
+      "english": "To the seventh it must be said that the mutability that belongs to every creature is not according to some natural motion, but according to dependence upon God—separated from whom, if creatures were left to themselves, they would fall away from what they are. Now this dependence pertains to the consideration of the metaphysician rather than of the natural philosopher. Moreover, spiritual creatures are mutable only according to choice, and such mutation does not pertain to the natural philosopher, but rather to the divine philosopher."
+    }
+  ]
+}

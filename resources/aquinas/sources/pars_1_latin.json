@@ -1,0 +1,1019 @@
+{
+  "part_id": "pars-1",
+  "file_stem": "pars_1",
+  "txt_name": "pars_1_super_boetium_de_trinitate.la.txt",
+  "title_la": "PARS I — SUPER BOETIUM DE TRINITATE (QUAESTIONES V–VI)",
+  "subtitle_la": "De Divisione Scientiae Speculativae, Materia Intelligibili et Termino Iudicii Mathematici",
+  "title_en": "PART I — ON BOETHIUS'S DE TRINITATE (QUESTIONS V–VI)",
+  "subtitle_en": "On the Division of Speculative Science, Intelligible Matter, and the Termination of Mathematical Judgment",
+  "work_title": "Super Boetium De Trinitate",
+  "date_composed": "c. 1257–1259",
+  "editions": [
+    "Sancti Thomae de Aquino, Expositio super librum Boethii De Trinitate, recensuit Bruno Decker (Leiden: E. J. Brill, 1959); Editio Leonina, Tom. L (Roma–Paris, 1992).",
+    "Corpus Thomisticum (recognovit Enrique Alarcón, Pompaelone, Universitatis Studiorum Navarrensis): https://www.corpusthomisticum.org/cbt.html"
+  ],
+  "sections": [
+    {
+      "sec_id": "s1",
+      "folio": "q. 5, a. 1",
+      "heading_la": "Quaestio V, Articulus 1 — De conveniente divisione scientiae speculativae in naturalem, mathematicam et divinam",
+      "heading_en": "Question V, Article 1 — Whether Speculative Science Is Fittingly Divided into Natural, Mathematical, and Divine",
+      "source_work": "de_trinitate",
+      "paragraphs": [
+        {
+          "ct_id": "84640",
+          "title": "Super De Trinitate, pars 3 q. 5 pr.",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 pr.",
+          "latin": "Hic est duplex quaestio. Prima de divisione speculativae, quam in littera ponit. Secunda de modis, quos partibus speculativae attribuit. Circa primum quaeruntur quattuor."
+        },
+        {
+          "ct_id": "84641",
+          "title": "Super De Trinitate, pars 3 q. 5 pr. 1",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 pr. 1",
+          "latin": "Primo. Utrum sit conveniens divisio qua dividitur speculativa in has tres partes: naturalem, mathematicam et divinam."
+        },
+        {
+          "ct_id": "84642",
+          "title": "Super De Trinitate, pars 3 q. 5 pr. 2",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 pr. 2",
+          "latin": "Secundo. Utrum naturalis philosophia sit de his quae sunt in motu et materia."
+        },
+        {
+          "ct_id": "84643",
+          "title": "Super De Trinitate, pars 3 q. 5 pr. 3",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 pr. 3",
+          "latin": "Tertio. Utrum mathematica consideratio sit sine motu et materia de his quae sunt in materia."
+        },
+        {
+          "ct_id": "84644",
+          "title": "Super De Trinitate, pars 3 q. 5 pr. 4",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 pr. 4",
+          "latin": "Quarto. Utrum divina scientia sit de his quae sunt sine materia et motu."
+        },
+        {
+          "ct_id": "84645",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 1 arg. 1",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 1 arg. 1",
+          "latin": "Ad primum sic proceditur. Videtur quod speculativa inconvenienter in has partes dividatur. Partes enim speculativae sunt illi habitus qui partem contemplativam animae perficiunt. Sed philosophus in VI Ethicorum ponit quod scientificum animae, quod est pars eius contemplativa, perficitur tribus habitibus, scilicet sapientia, scientia et intellectu. Ergo ista tria sunt partes speculativae et non illa quae in littera ponuntur."
+        },
+        {
+          "ct_id": "84646",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 1 arg. 2",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 1 arg. 2",
+          "latin": "Praeterea, Augustinus dicit in VIII de civitate Dei quod rationalis philosophia, quae est logica, sub contemplativa philosophia vel speculativa continetur. Cum ergo de ea mentionem non faciat, videtur quod divisio sit insufficiens."
+        },
+        {
+          "ct_id": "84647",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 1 arg. 3",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 1 arg. 3",
+          "latin": "Praeterea, communiter dividitur philosophia in septem artes liberales, inter quas neque naturalis neque divina continetur, sed sola rationalis et mathematica. Ergo naturalis et divina non debuerunt poni partes speculativae."
+        },
+        {
+          "ct_id": "84648",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 1 arg. 4",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 1 arg. 4",
+          "latin": "Praeterea, scientia medicinae maxime videtur esse operativa, et tamen in ea ponitur una pars speculativa et alia practica. Ergo eadem ratione in omnibus aliis operativis scientiis aliqua pars est speculativa, et ita debuit in hac divisione mentio fieri de Ethica sive morali, quamvis sit activa, propter partem eius speculativam."
+        },
+        {
+          "ct_id": "84649",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 1 arg. 5",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 1 arg. 5",
+          "latin": "Praeterea, scientia medicinae quaedam pars physicae est, et similiter quaedam aliae artes quae dicuntur mechanicae, ut scientia de agricultura, alchimia et aliae huiusmodi. Cum ergo istae sint operativae, videtur quod non debuerit naturalis absolute sub speculativa poni."
+        },
+        {
+          "ct_id": "84650",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 1 arg. 6",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 1 arg. 6",
+          "latin": "Praeterea, totum non debet dividi contra partem. Sed divina scientia esse videtur ut totum respectu physicae et mathematicae, cum subiecta illarum sint partes subiecti istius. Divinae enim scientiae, quae est prima philosophia, subiectum est ens, cuius pars est substantia mobilis, quam considerat naturalis, et similiter quantitas quam considerat mathematicus, ut patet in III metaphysicae. Ergo scientia divina non debet dividi contra naturalem et mathematicam."
+        },
+        {
+          "ct_id": "84651",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 1 arg. 7",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 1 arg. 7",
+          "latin": "Praeterea, scientiae dividuntur quemadmodum et res, ut dicitur in III de anima. Sed philosophia est de ente; est enim cognitio entis, ut dicit Dionysius in epistula ad Polycarpum. Cum ergo ens primo dividatur per potentiam et actum, per unum et multa, per substantiam et accidens, videtur quod per huiusmodi deberent partes philosophiae distingui."
+        },
+        {
+          "ct_id": "84652",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 1 arg. 8",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 1 arg. 8",
+          "latin": "Praeterea, multae aliae divisiones sunt entium, de quibus sunt scientiae, magis essentiales quam istae quae sunt per mobile et immobile, per abstractum et non abstractum, utpote per corporeum et incorporeum, animatum et inanimatum et per alia huiusmodi. Ergo magis deberet divisio partium philosophiae accipi per huiusmodi differentias quam per illas quae hic tanguntur."
+        },
+        {
+          "ct_id": "84653",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 1 arg. 9",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 1 arg. 9",
+          "latin": "Praeterea, illa scientia, a qua aliae supponunt, debet esse prior eis. Sed omnes aliae scientiae supponunt a scientia divina, quia eius est probare principia aliarum scientiarum. Ergo debuit scientiam divinam aliis praeordinare."
+        },
+        {
+          "ct_id": "84654",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 1 arg. 10",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 1 arg. 10",
+          "latin": "Praeterea, mathematica prius occurrit addiscenda quam naturalis, eo quod mathematicam facile possunt addiscere pueri, non autem naturalem nisi provecti, ut dicitur in VI Ethicorum. Unde et apud antiquos hic ordo in scientiis addiscendis fuisse dicitur observatus, ut primo logica, deinde mathematica, post quam naturalis et post hanc moralis, et tandem divinae scientiae homines studerent. Ergo mathematicam naturali scientiae praeordinare debuit. Et sic videtur divisio haec insufficiens."
+        },
+        {
+          "ct_id": "84655",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 1 s. c. 1",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 1 s. c. 1",
+          "latin": "Sed e contra, quod haec divisio sit conveniens, probatur per philosophum in VI metaphysicae, ubi dicit: *quare tres erunt philosophicae et theoricae: mathematica, physica, theologia*."
+        },
+        {
+          "ct_id": "84656",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 1 s. c. 2",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 1 s. c. 2",
+          "latin": "Praeterea, in II physicorum ponuntur tres modi scientiarum, qui ad has etiam tres pertinere videntur."
+        },
+        {
+          "ct_id": "84657",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 1 s. c. 3",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 1 s. c. 3",
+          "latin": "Praeterea, Ptolemaeus etiam in principio Almagesti hac divisione utitur."
+        },
+        {
+          "ct_id": "84658",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 1 co. 1",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 1 co. 1",
+          "latin": "Responsio. Dicendum quod theoricus sive speculativus intellectus in hoc proprie ab operativo sive practico distinguitur quod speculativus habet pro fine veritatem quam considerat, practicus vero veritatem consideratam ordinat in operationem tamquam in finem. Et ideo dicit philosophus in III de anima quod differunt ad invicem fine, et in II metaphysicae dicitur quod *finis speculativae est veritas, sed finis operativae scientiae est actio*. Cum ergo oporteat materiam fini esse proportionatam, oportet practicarum scientiarum materiam esse res illas quae a nostro opere fieri possunt, ut sic earum cognitio in operationem quasi in finem ordinari possit. Speculativarum vero scientiarum materiam oportet esse res quae a nostro opere non fiunt; unde earum consideratio in operationem ordinari non potest sicut in finem. Et secundum harum rerum distinctionem oportet scientias speculativas distingui."
+        },
+        {
+          "ct_id": "84659",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 1 co. 2",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 1 co. 2",
+          "latin": "Sciendum tamen quod, quando habitus vel potentiae penes obiecta distinguuntur, non distinguuntur penes quaslibet differentias obiectorum, sed penes illas quae sunt per se obiectorum in quantum sunt obiecta. Esse enim animal vel plantam accidit sensibili in quantum est sensibile, et ideo penes hoc non sumitur distinctio sensuum, sed magis penes differentiam coloris et soni. Et ideo oportet scientias speculativas dividi per differentias speculabilium, in quantum speculabilia sunt. Speculabili autem, quod est obiectum speculativae potentiae, aliquid competit ex parte intellectivae potentiae et aliquid ex parte habitus scientiae quo intellectus perficitur. Ex parte siquidem intellectus competit ei quod sit immateriale, quia et ipse intellectus immaterialis est; ex parte vero scientiae competit ei quod sit necessarium, quia scientia de necessariis est, ut probatur in I posteriorum. Omne autem necessarium, in quantum huiusmodi, est immobile; quia omne quod movetur, in quantum huiusmodi, est possibile esse et non esse vel simpliciter vel secundum quid, ut dicitur in IX metaphysicae. Sic ergo speculabili, quod est obiectum scientiae speculativae, per se competit separatio a materia et motu vel applicatio ad ea. Et ideo secundum ordinem remotionis a materia et motu scientiae speculativae distinguuntur."
+        },
+        {
+          "ct_id": "84660",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 1 co. 3",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 1 co. 3",
+          "latin": "Quaedam ergo speculabilium sunt, quae dependent a materia secundum esse, quia non nisi in materia esse possunt. Et haec distinguuntur, quia quaedam dependent a materia secundum esse et intellectum, sicut illa, in quorum diffinitione ponitur materia sensibilis; unde sine materia sensibili intelligi non possunt, ut in diffinitione hominis oportet accipere carnem et ossa. Et de his est physica sive scientia naturalis. Quaedam vero sunt, quae quamvis dependeant a materia secundum esse, non tamen secundum intellectum, quia in eorum diffinitionibus non ponitur materia sensibilis, sicut linea et numerus. Et de his est mathematica. Quaedam vero speculabilia sunt, quae non dependent a materia secundum esse, quia sine materia esse possunt, sive numquam sint in materia, sicut Deus et Angelus, sive in quibusdam sint in materia et in quibusdam non, ut substantia, qualitas, ens, potentia, actus, unum et multa et huiusmodi. De quibus omnibus est theologia, id est scientia divina, quia praecipuum in ea cognitorum est Deus, quae alio nomine dicitur metaphysica, id est trans physicam, quia post physicam discenda occurrit nobis, quibus ex sensibilibus oportet in insensibilia devenire. Dicitur etiam philosophia prima, in quantum aliae omnes scientiae ab ea sua principia accipientes eam consequuntur. Non est autem possibile quod sint aliquae res quae secundum intellectum dependeant a materia et non secundum esse, quia intellectus, quantum est de se, immaterialis est. Et ideo non est quartum genus philosophiae praeter praedicta."
+        },
+        {
+          "ct_id": "84661",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 1 ad 1",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 1 ad 1",
+          "latin": "Ad primum ergo dicendum quod philosophus in VI Ethicorum determinat de habitibus intellectualibus, in quantum sunt virtutes intellectuales. Dicuntur autem virtutes, in quantum perficiunt in sua operatione. *Virtus enim est quae bonum facit habentem et opus eius bonum reddit*; et ideo secundum quod diversimode perficitur per huiusmodi habitus speculativos, diversificat huiusmodi virtutes. Est autem alius modus quo pars animae speculativa perficitur per intellectum, qui est habitus principiorum, quo aliqua ex se ipsis nota fiunt et quo cognoscuntur conclusiones ex huiusmodi principiis demonstratae, sive demonstratio procedat ex causis inferioribus, sicut est in scientia, sive ex causis altissimis, ut in sapientia. Cum autem distinguuntur scientiae ut sunt habitus quidam, oportet quod penes obiecta distinguantur, id est penes res, de quibus sunt scientiae. Et sic distinguuntur hic et in VI metaphysicae tres partes philosophiae speculativae."
+        },
+        {
+          "ct_id": "84662",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 1 ad 2",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 1 ad 2",
+          "latin": "Ad secundum dicendum quod scientiae speculativae, ut patet in principio metaphysicae, sunt de illis quorum cognitio quaeritur propter se ipsa. Res autem, de quibus est logica, non quaeruntur ad cognoscendum propter se ipsas, sed ut adminiculum quoddam ad alias scientias. Et ideo logica non continetur sub speculativa philosophia quasi principalis pars, sed sicut quiddam reductum ad philosophiam speculativam, prout ministrat speculationi sua instrumenta, scilicet syllogismos et diffinitiones et alia huiusmodi, quibus in scientiis speculativis indigemus. Unde secundum Boethium in commento super Porphyrium non tam est scientia quam scientiae instrumentum."
+        },
+        {
+          "ct_id": "84663",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 1 ad 3",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 1 ad 3",
+          "latin": "Ad tertium dicendum quod septem liberales artes non sufficienter dividunt philosophiam theoricam, sed ideo, ut dicit Hugo de sancto Victore in III sui didascalicon, praetermissis quibusdam aliis septem connumerantur, quia his primum erudiebantur, qui philosophiam discere volebant, et ideo distinguuntur in trivium et quadrivium, *eo quod his quasi quibusdam viis vivax animus ad secreta philosophiae introeat*. Et hoc etiam consonat verbis philosophi qui dicit in II metaphysicae quod modus scientiae debet quaeri ante scientias; et Commentator ibidem dicit quod logicam, quae docet modum omnium scientiarum, debet quis addiscere ante omnes alias scientias, ad quam pertinet trivium. Dicit etiam in VI Ethicorum quod mathematica potest sciri a pueris, non autem physica, quae experimentum requirit. Et sic datur intelligi quod post logicam consequenter debet mathematica addisci, ad quam pertinet quadrivium; et ita his quasi quibusdam viis praeparatur animus ad alias philosophicas disciplinas. Vel ideo hae inter ceteras scientias artes dicuntur, quia non solum habent cognitionem, sed opus aliquod, quod est immediate ipsius rationis, ut constructionem syllogismi vel orationem formare, numerare, mensurare, melodias formare et cursus siderum computare. Aliae vero scientiae vel non habent opus, sed cognitionem tantum, sicut scientia divina et naturalis; unde nomen artis habere non possunt, cum ars dicatur ratio factiva, ut dicitur in VI metaphysicae. Vel habent opus corporale, sicut medicina, alchimia et aliae huiusmodi. Unde non possunt dici artes liberales, quia sunt hominis huiusmodi actus ex parte illa, qua non est liber, scilicet ex parte corporis. Scientia vero moralis, quamvis sit propter operationem, tamen illa operatio non est actus scientiae, sed magis virtutis, ut patet in libro Ethicorum. Unde non potest dici ars, sed magis in illis operationibus se habet virtus loco artis. Et ideo veteres diffinierunt virtutem esse artem bene recteque vivendi, ut Augustinus dicit in IV de civitate Dei."
+        },
+        {
+          "ct_id": "84664",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 1 ad 4",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 1 ad 4",
+          "latin": "Ad quartum dicendum quod, sicut dicit Avicenna in principio suae medicinae, aliter distinguitur theoricum et practicum, cum philosophia dividitur in theoricam et practicam, aliter cum artes dividuntur in theoricas et practicas, aliter cum medicina. Cum enim philosophia vel etiam artes per theoricum et practicum distinguuntur, oportet accipere distinctionem eorum ex fine, ut theoricum dicatur illud, quod ordinatur ad solam cognitionem veritatis, practicum vero, quod ordinatur ad operationem. Hoc tamen interest, cum in hoc dividitur philosophia totalis et artes, quod in divisione philosophiae habetur respectus ad finem beatitudinis, ad quem tota humana vita ordinatur. Ut enim dicit Augustinus XX de civitate Dei ex verbis Varronis, *nulla est homini alia causa philosophandi nisi ut beatus sit*. Unde cum duplex felicitas a philosophis ponatur, una contemplativa et alia activa, ut patet in X Ethicorum, secundum hoc etiam duas partes philosophiae distinxerunt, moralem dicentes practicam, naturalem et rationalem dicentes theoricam. Cum vero dicuntur artium quaedam esse speculativae, quaedam practicae, habetur respectus ad aliquos speciales fines illarum artium, sicut si dicamus agriculturam esse artem practicam, dialecticam vero theoricam. Cum autem medicina dividitur in theoricam et practicam, non attenditur divisio secundum finem. Sic enim tota medicina sub practica continetur, utpote ad operationem ordinata. Sed attenditur praedicta divisio secundum quod ea, quae in medicina tractantur, sunt propinqua vel remota ab operatione. Illa enim pars medicinae dicitur practica, quae docet modum operandi ad sanationem, sicut quod talibus apostematibus sunt talia remedia adhibenda, theorica vero illa pars, quae docet principia, ex quibus homo dirigitur in operatione, sed non proxime, sicut quod virtutes sunt tres et quod genera febrium sunt tot. Unde non oportet, ut si alicuius activae scientiae aliqua pars dicatur theorica, quod propter hoc illa pars sub philosophia speculativa ponatur."
+        },
+        {
+          "ct_id": "84665",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 1 ad 5",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 1 ad 5",
+          "latin": "Ad quintum dicendum quod aliqua scientia continetur sub alia dupliciter, uno modo ut pars ipsius, quia scilicet subiectum eius est pars aliqua subiecti illius, sicut planta est quaedam pars corporis naturalis; unde et scientia de plantis continetur sub scientia naturali ut pars. Alio modo continetur una scientia sub alia ut ei subalternata, quando scilicet in superiori scientia assignatur propter quid eorum, de quibus scitur in scientia inferiori solum quia, sicut musica ponitur sub arithmetica. Medicina ergo non ponitur sub physica ut pars. Subiectum enim medicinae non est pars subiecti scientiae naturalis secundum illam rationem, qua est subiectum medicinae. Quamvis enim corpus sanabile sit corpus naturale, non tamen est subiectum medicinae, prout est sanabile a natura, sed prout est sanabile ab arte. Sed quia in sanatione, quae fit etiam per artem, ars est ministra naturae, quia ex aliqua naturali virtute sanitas perficitur auxilio artis, inde est quod propter quid de operatione artis oportet accipere ex proprietatibus rerum naturalium. Et propter hoc medicina subalternatur physicae, et eadem ratione alchimia et scientia de agricultura et omnia huiusmodi. Et sic relinquitur quod physica secundum se et secundum omnes partes suas est speculativa, quamvis aliquae scientiae operativae subalternentur ei."
+        },
+        {
+          "ct_id": "84666",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 1 ad 6",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 1 ad 6",
+          "latin": "Ad sextum dicendum quod quamvis subiecta aliarum scientiarum sint partes entis, quod est subiectum metaphysicae, non tamen oportet quod aliae scientiae sint partes ipsius. Accipit enim unaquaeque scientiarum unam partem entis secundum specialem modum considerandi alium a modo, quo consideratur ens in metaphysica. Unde proprie loquendo subiectum illius non est pars subiecti metaphysicae; non enim est pars entis secundum illam rationem, qua ens est subiectum metaphysicae, sed hac ratione considerata ipsa est specialis scientia aliis condivisa. Sic autem posset dici pars ipsius scientia, quae est de potentia vel quae est de actu aut de uno vel de aliquo huiusmodi, quia ista habent eundem modum considerandi cum ente, de quo tractatur in metaphysica."
+        },
+        {
+          "ct_id": "84667",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 1 ad 7",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 1 ad 7",
+          "latin": "Ad septimum dicendum quod illae partes entis exigunt eundem modum tractandi cum ente communi, quia etiam ipsa non dependent ad materiam, et ideo scientia de ipsis non distinguitur a scientia quae est de ente communi."
+        },
+        {
+          "ct_id": "84668",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 1 ad 8",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 1 ad 8",
+          "latin": "Ad octavum dicendum quod aliae diversitates rerum, quas obiectio tangit, non sunt differentiae per se earum in quantum sunt scibiles; et ideo penes eas scientiae non distinguuntur."
+        },
+        {
+          "ct_id": "84669",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 1 ad 9",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 1 ad 9",
+          "latin": "Ad nonum dicendum quod quamvis scientia divina sit prima omnium scientiarum naturaliter, tamen quoad nos aliae scientiae sunt priores. Ut enim dicit Avicenna in principio suae metaphysicae, ordo huius scientiae est, ut addiscatur post scientias naturales, in quibus sunt multa determinata, quibus ista scientia utitur, ut generatio, corruptio, motus et alia huiusmodi. Similiter etiam post mathematicas. Indiget enim haec scientia ad cognitionem substantiarum separatarum cognoscere numerum et ordinem orbium caelestium, quod non est possibile sine astrologia, ad quam tota mathematica praeexigitur. Aliae vero scientiae sunt ad bene esse ipsius, ut musica et morales vel aliae huiusmodi. Nec tamen oportet quod sit circulus, quia ipsa supponit ea, quae in aliis probantur, cum ipsa aliarum principia probet, quia principia, quae accipit alia scientia, scilicet naturalis, a prima philosophia, non probant ea quae item philosophus primus accipit a naturali, sed probantur per alia principia per se nota; et similiter philosophus primus non probat principia, quae tradit naturali, per principia quae ab eo accipit, sed per alia principia per se nota. Et sic non est aliquis circulus in diffinitione. Praeterea, effectus sensibiles, ex quibus procedunt demonstrationes naturales, sunt notiores quoad nos in principio, sed cum per eos pervenerimus ad cognitionem causarum primarum, ex eis apparebit nobis propter quid illorum effectuum, ex quibus probabantur demonstratione quia. Et sic et scientia naturalis aliquid tradit scientiae divinae, et tamen per eam sua principia notificantur. Et inde est quod Boethius ultimo ponit scientiam divinam, quia est ultima quoad nos."
+        },
+        {
+          "ct_id": "84670",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 1 ad 10",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 1 ad 10",
+          "latin": "Ad decimum dicendum quod quamvis naturalis post mathematicam addiscenda occurrat, ex eo quod universalia ipsius documenta indigent experimento et tempore, tamen res naturales, cum sint sensibiles, sunt naturaliter magis notae quam res mathematicae a sensibili materia abstractae."
+        }
+      ]
+    },
+    {
+      "sec_id": "s2",
+      "folio": "q. 5, a. 2",
+      "heading_la": "Quaestio V, Articulus 2 — Utrum naturalis philosophia sit de his quae sunt in motu et materia",
+      "heading_en": "Question V, Article 2 — Whether Natural Philosophy Treats of What Exists in Motion and Matter",
+      "source_work": "de_trinitate",
+      "paragraphs": [
+        {
+          "ct_id": "84671",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 2 arg. 1",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 2 arg. 1",
+          "latin": "Ad secundum sic proceditur. Videtur quod scientia naturalis non sit de his quae sunt in motu et materia. Materia enim est individuationis principium. Sed nulla scientia est de individuis, sed de solis universalibus, secundum sententiam Platonis, quae ponitur in Porphyrio. Ergo scientia naturalis non est de his quae sunt in materia."
+        },
+        {
+          "ct_id": "84672",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 2 arg. 2",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 2 arg. 2",
+          "latin": "Praeterea, scientia ad intellectum pertinet. Sed intellectus cognoscit abstrahendo a materia et a condicionibus materiae. Ergo de his, quae non sunt a materia abstracta, nulla scientia esse potest."
+        },
+        {
+          "ct_id": "84673",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 2 arg. 3",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 2 arg. 3",
+          "latin": "Praeterea, in scientia naturali agitur de primo motore, ut patet in VIII physicorum. Sed ipse est immunis ab omni materia. Ergo scientia naturalis non est de his solis quae sunt in materia."
+        },
+        {
+          "ct_id": "84674",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 2 arg. 4",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 2 arg. 4",
+          "latin": "Praeterea, omnis scientia de necessariis est. Sed omne quod movetur, in quantum huiusmodi, est contingens, ut probatur in IX metaphysicae. Ergo nulla scientia potest esse de rebus mobilibus, et sic nec scientia naturalis."
+        },
+        {
+          "ct_id": "84675",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 2 arg. 5",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 2 arg. 5",
+          "latin": "Praeterea, nullum universale movetur; homo enim universalis non sanatur, sed hic homo, ut dicitur in principio metaphysicae. Sed omnis scientia de universalibus est. Ergo naturalis scientia non est de his quae sunt in motu."
+        },
+        {
+          "ct_id": "84676",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 2 arg. 6",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 2 arg. 6",
+          "latin": "Praeterea, in scientia naturali determinatur de quibusdam quae non moventur, sicut est anima, ut probatur in I de anima, et terra, ut probatur in II caeli et mundi; et etiam omnes formae naturales non fiunt nec corrumpuntur, et eadem ratione non moventur nisi per accidens, ut probatur in VII metaphysicae. Ergo non omnia, de quibus est physica, sunt in motu."
+        },
+        {
+          "ct_id": "84677",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 2 arg. 7",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 2 arg. 7",
+          "latin": "Praeterea, omnis creatura est mutabilis, cum vera immutabilitas soli Deo conveniat, ut Augustinus dicit. Si ergo ad naturalem pertinet consideratio de his, quae in motu sunt, eius erit considerare de omnibus creaturis, quod apparet expresse esse falsum."
+        },
+        {
+          "ct_id": "84678",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 2 s. c. 1",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 2 s. c. 1",
+          "latin": "Sed contra, ad scientiam naturalem pertinet de rebus naturalibus determinare. Sed res naturales sunt, in quibus est principium motus. Ubicumque autem est motus, oportet et esse materiam, ut dicitur in IX metaphysicae. Ergo scientia naturalis est de his quae sunt in motu et materia."
+        },
+        {
+          "ct_id": "84679",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 2 s. c. 2",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 2 s. c. 2",
+          "latin": "Praeterea, de his, quae sunt in materia et motu, oportet esse aliquam scientiam speculativam, alias non esset perfecta traditio philosophiae quae est cognitio entis. Sed nulla alia speculativa scientia est de his, quia neque mathematica nec metaphysica. Ergo est de his naturalis."
+        },
+        {
+          "ct_id": "84680",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 2 s. c. 3",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 2 s. c. 3",
+          "latin": "Praeterea, hoc apparet ex hoc quod dicit philosophus in VI metaphysicae et in II physicorum."
+        },
+        {
+          "ct_id": "84681",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 2 co. 1",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 2 co. 1",
+          "latin": "Responsio. Dicendum quod propter difficultatem huius quaestionis coactus est Plato ad ponendum ideas. Cum enim, ut dicit philosophus in I metaphysicae, crederet omnia sensibilia semper esse in fluxu, secundum opinionem Cratyli et Heracliti, et ita existimaret de eis non posse esse scientiam, posuit quasdam substantias a sensibilibus separatas, de quibus essent scientiae et darentur diffinitiones. Sed hic defectus accidit ex eo quod non distinxit quod est per se ab eo quod est secundum accidens, nam secundum accidens falluntur plerumque etiam sapientes, ut dicitur in I elenchorum. Ut autem probatur in VII metaphysicae, cum in substantia sensibili inveniatur et ipsum integrum, id est compositum, et ratio, id est forma eius, per se quidem generatur et corrumpitur compositum, non autem ratio sive forma, sed solum per accidens. *Non enim fit domum esse*, ut ibidem dicitur, *sed hanc domum*. Unumquodque autem potest considerari sine omnibus his quae ei non per se comparantur. Et ideo formae et rationes rerum quamvis in motu exsistentium, prout in se considerantur, absque motu sunt. Et sic de eis sunt scientiae et diffinitiones, ut ibidem philosophus dicit. Non autem scientiae sensibilium substantiarum fundantur super cognitione aliquarum substantiarum a sensibilibus separatarum, ut ibidem probatur."
+        },
+        {
+          "ct_id": "84682",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 2 co. 2",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 2 co. 2",
+          "latin": "Huiusmodi autem rationes, quas considerant scientiae quae sunt de rebus, considerantur absque motu. Sic oportet quod considerentur absque illis, secundum quae competit motus rebus mobilibus. Cum autem omnis motus tempore mensuretur et primus motus sit motus localis, quo remoto nullus alius motus inest, oportet quod secundum hoc aliquid sit mobile, quod est hic et nunc. Hoc autem consequitur rem ipsam mobilem, secundum quod est individuata per materiam exsistentem sub dimensionibus signatis. Unde oportet quod huiusmodi rationes, secundum quas de rebus mobilibus possunt esse scientiae, considerantur absque materia signata et absque omnibus his quae consequuntur materiam signatam, non autem absque materia non signata, quia ex eius notione dependet notio formae quae determinat sibi materiam. Et ideo ratio hominis, quam significat diffinitio et secundum quam procedit scientia, consideratur sine his carnibus et sine his ossibus, non autem sine carnibus et ossibus absolute. Et quia singularia includunt in sui ratione materiam signatam, universalia vero materiam communem, ut dicitur in VII metaphysicae, ideo praedicta abstractio non dicitur formae a materia absolute, sed universalis a particulari."
+        },
+        {
+          "ct_id": "84683",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 2 co. 3",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 2 co. 3",
+          "latin": "Possunt ergo huiusmodi rationes sic abstractae considerari dupliciter. Uno modo secundum se, et sic considerantur sine motu et materia signata, et hoc non invenitur in eis nisi secundum esse quod habent in intellectu. Alio modo secundum quod comparantur ad res, quarum sunt rationes; quae quidem res sunt in materia et motu. Et sic sunt principia cognoscendi illa, quia omnis res cognoscitur per suam formam. Et ita per huiusmodi rationes immobiles et sine materia particulari consideratas habetur cognitio in scientia naturali de rebus mobilibus et materialibus extra animam exsistentibus."
+        },
+        {
+          "ct_id": "84684",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 2 ad 1",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 2 ad 1",
+          "latin": "Ad primum ergo dicendum quod materia non est individuationis principium nisi secundum quod est sub dimensionibus signatis exsistens. Et sic etiam scientia naturalis a materia abstrahit."
+        },
+        {
+          "ct_id": "84685",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 2 ad 2",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 2 ad 2",
+          "latin": "Ad secundum dicendum quod forma intelligibilis est quiditas rei. Obiectum enim intellectus est quid, ut dicitur in III de anima. Quiditas autem compositi universalis, ut hominis aut animalis, includit in se materiam universalem, non autem particularem, ut dicitur in VII metaphysicae. Unde intellectus communiter abstrahit a materia signata et condicionibus eius, non autem a materia communi in scientia naturali, quamvis etiam in scientia naturali non consideretur materia nisi in ordine ad formam. Unde etiam forma per prius est de consideratione naturalis quam materia."
+        },
+        {
+          "ct_id": "84686",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 2 ad 3",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 2 ad 3",
+          "latin": "Ad tertium dicendum quod de primo motore non agitur in scientia naturali tamquam de subiecto vel de parte subiecti, sed tamquam de termino ad quem scientia naturalis perducit. Terminus autem non est de natura rei, cuius est terminus, sed habet aliquam habitudinem ad rem illam, sicut terminus lineae non est linea, sed habet ad eam aliquam habitudinem, ita etiam et primus motor est alterius naturae a rebus naturalibus, habet tamen ad eas aliquam habitudinem, in quantum influit eis motum, et sic cadit in consideratione naturalis, scilicet non secundum ipsum, sed in quantum est motor."
+        },
+        {
+          "ct_id": "84687",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 2 ad 4",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 2 ad 4",
+          "latin": "Ad quartum dicendum quod scientia est de aliquo dupliciter. Uno modo primo et principaliter, et sic scientia est de rationibus universalibus, supra quas fundatur. Alio modo est de aliquibus secundario et quasi per reflexionem quandam, et sic de illis rebus, quarum sunt illae rationes, in quantum illas rationes applicat ad res etiam particulares, quarum sunt, adminiculo inferiorum virium. Ratione enim universali utitur sciens et ut re scita et ut medio sciendi. Per universalem enim hominis rationem possum iudicare de hoc vel de illo. Rationes autem universales rerum omnes sunt immobiles, et ideo quantum ad hoc omnis scientia de necessariis est. Sed rerum, quarum sunt illae rationes, quaedam sunt necessariae et immobiles, quaedam contingentes et mobiles, et quantum ad hoc de rebus contingentibus et mobilibus dicuntur esse scientiae."
+        },
+        {
+          "ct_id": "84688",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 2 ad 5",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 2 ad 5",
+          "latin": "Ad quintum dicendum quod quamvis universale non moveatur, est tamen ratio rei mobilis."
+        },
+        {
+          "ct_id": "84689",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 2 ad 6",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 2 ad 6",
+          "latin": "Ad sextum dicendum quod anima et aliae formae naturales, quamvis non moveantur per se, moventur tamen per accidens, et insuper sunt perfectiones rerum mobilium, et secundum hoc cadunt in consideratione naturalis. Terra vero, quamvis secundum totum non moveatur, quod accidit ei, in quantum est in suo loco naturali, in quo aliquid quiescit per eandem naturam, per quam movetur ad locum, tamen partes eius moventur ad locum, cum sunt extra locum proprium. Et sic terra et ratione quietis totius et ratione motus partium cadit in considerationem naturalis."
+        },
+        {
+          "ct_id": "84690",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 2 ad 7",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 2 ad 7",
+          "latin": "Ad septimum dicendum quod mutabilitas illa, quae competit omni creaturae, non est secundum aliquem motum naturalem, sed secundum dependentiam ad Deum, a quo si sibi deserentur, deficerent ab eo quod sunt. Dependentia autem ista pertinet ad considerationem metaphysici potius quam naturalis. Creaturae etiam spirituales non sunt mutabiles nisi secundum electionem, et talis mutatio non pertinet ad naturalem, sed magis ad divinum."
+        }
+      ]
+    },
+    {
+      "sec_id": "s3",
+      "folio": "q. 5, a. 3",
+      "heading_la": "Quaestio V, Articulus 3 — Utrum mathematica consideratio sit sine motu et materia de his quae sunt in materia (De Materia Intelligibili)",
+      "heading_en": "Question V, Article 3 — Whether Mathematical Consideration Is Without Motion and Matter Concerning Things That Exist in Matter (On Intelligible Matter)",
+      "source_work": "de_trinitate",
+      "paragraphs": [
+        {
+          "ct_id": "84691",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 3 arg. 1",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 3 arg. 1",
+          "latin": "Ad tertium sic proceditur. Videtur quod mathematica consideratio non sit sine materia de his quae habent esse in materia. Cum enim veritas consistat in adaequatione rei ad intellectum, oportet esse falsitatem, quandocumque res consideratur aliter quam sit. Si ergo res, quae sunt in materia, sine materia considerat mathematica, eius consideratio erit falsa, et sic non erit scientia, cum omnis scientia sit verorum."
+        },
+        {
+          "ct_id": "84692",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 3 arg. 2",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 3 arg. 2",
+          "latin": "Praeterea, secundum philosophum in I posteriorum cuiuslibet scientiae est considerare subiectum et partes subiecti. Sed omnium materialium secundum esse materia pars est. Ergo non potest esse quod aliqua scientia consideret de his quae sunt in materia, absque hoc quod materiam consideret."
+        },
+        {
+          "ct_id": "84693",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 3 arg. 3",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 3 arg. 3",
+          "latin": "Praeterea, omnes lineae rectae sunt eiusdem speciei. Sed mathematicus considerat lineas rectas numerando eas, alias non consideraret triangulum et quadratum. Ergo considerat lineas, secundum quod differunt numero et conveniunt specie. Sed principium differendi his, quae secundum speciem conveniunt, est materia, ut ex supra dictis patet. Ergo materia consideratur a mathematico."
+        },
+        {
+          "ct_id": "84694",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 3 arg. 4",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 3 arg. 4",
+          "latin": "Praeterea, nulla scientia, quae penitus abstrahit a materia, demonstrat per causam materialem. Sed in mathematica fiunt aliquae demonstrationes, quae non possunt reduci nisi ad causam materialem, sicut cum demonstratur aliquid de toto ex partibus. Partes enim sunt materia totius, ut dicitur in II physicorum. Unde et in II posteriorum reducitur ad causam materialem demonstratio, qua demonstratur quod angulus qui est in semicirculo est rectus ex hoc quod utraque pars eius est semirectus. Ergo mathematica non omnino abstrahit a materia."
+        },
+        {
+          "ct_id": "84695",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 3 arg. 5",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 3 arg. 5",
+          "latin": "Praeterea, motus non potest esse sine materia. Sed mathematicus debet considerare motum, quia cum motus mensuretur secundum spatium, eiusdem rationis et scientiae videtur esse considerare quantitatem spatii, quod pertinet ad mathematicum, et quantitatem motus. Ergo mathematicus non omnino dimittit considerationem materiae."
+        },
+        {
+          "ct_id": "84696",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 3 arg. 6",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 3 arg. 6",
+          "latin": "Praeterea, astrologia quaedam pars mathematicae est; et similiter scientia de sphaera mota et scientia de ponderibus et musica, in quibus omnibus fit consideratio de motu et rebus mobilibus. Ergo mathematica non abstrahit totaliter a materia et motu."
+        },
+        {
+          "ct_id": "84697",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 3 arg. 7",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 3 arg. 7",
+          "latin": "Praeterea, naturalis consideratio tota est circa materiam et motum. Sed quaedam conclusiones demonstrantur communiter a mathematico et naturali, ut utrum terra sit rotunda, et utrum sit in medio caeli. Ergo non potest esse quod mathematica omnino abstrahat a materia. Si dicatur quod abstrahit tantum a materia sensibili, contra. Materia sensibilis videtur esse materia particularis, quia sensus particularium est, a qua omnes scientiae abstrahunt. Ergo mathematica consideratio non debet dici magis abstracta quam aliqua aliarum scientiarum."
+        },
+        {
+          "ct_id": "84698",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 3 arg. 8",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 3 arg. 8",
+          "latin": "Praeterea, philosophus in II physicorum dicit tria esse negotia. Primum est de mobili et corruptibili, secundum de mobili et incorruptibili, tertium de immobili et incorruptibili. Primum autem est naturale, tertium divinum, secundum mathematicum, ut Ptolemaeus exponit in principio Almagesti. Ergo mathematica est de mobilibus."
+        },
+        {
+          "ct_id": "84699",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 3 s. c. 1",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 3 s. c. 1",
+          "latin": "Sed contra est quod philosophus dicit in VI metaphysicae."
+        },
+        {
+          "ct_id": "84700",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 3 s. c. 2",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 3 s. c. 2",
+          "latin": "Praeterea, quaedam res sunt, quae quamvis sint in materia, tamen non recipiunt in sui diffinitione materiam, ut curvum, et in hoc differt a simo. Sed philosophia debet de omnibus entibus considerare. Ergo oportet de huiusmodi esse aliquam partem philosophiae, et haec est mathematica, cum ad nullam aliam pertineat."
+        },
+        {
+          "ct_id": "84701",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 3 s. c. 3",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 3 s. c. 3",
+          "latin": "Praeterea, ea, quae sunt priora secundum intellectum, possunt sine posterioribus considerari. Sed mathematica sunt priora naturalibus, quae sunt in materia et motu; habent enim se ex additione ad mathematica, ut dicitur in III caeli et mundi. Ergo mathematica consideratio potest esse sine materia et motu."
+        },
+        {
+          "ct_id": "84702",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 3 co. 1",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 3 co. 1",
+          "latin": "Responsio. Dicendum quod ad evidentiam huius quaestionis oportet videre, qualiter intellectus secundum suam operationem abstrahere possit. Sciendum est igitur quod secundum philosophum in III de anima duplex est operatio intellectus. Una, quae dicitur *intelligentia indivisibilium*, qua cognoscit de unoquoque, quid est. Alia vero, qua componit et dividit, scilicet enuntiationem affirmativam vel negativam formando. Et hae quidem duae operationes duobus, quae sunt in rebus, respondent. Prima quidem operatio respicit ipsam naturam rei, secundum quam res intellecta aliquem gradum in entibus obtinet, sive sit res completa, ut totum aliquod, sive res incompleta, ut pars vel accidens. Secunda vero operatio respicit ipsum esse rei, quod quidem resultat ex congregatione principiorum rei in compositis vel ipsam simplicem naturam rei concomitatur, ut in substantiis simplicibus. Et quia veritas intellectus est ex hoc quod conformatur rei, patet quod secundum hanc secundam operationem intellectus non potest vere abstrahere quod secundum rem coniunctum est, quia in abstrahendo significaretur esse separatio secundum ipsum esse rei, sicut si abstraho hominem ab albedine dicendo: homo non est albus, significo esse separationem in re. Unde si secundum rem homo et albedo non sint separata, erit intellectus falsus. Hac ergo operatione intellectus vere abstrahere non potest nisi ea quae sunt secundum rem separata, ut cum dicitur: homo non est asinus. Sed secundum primam operationem potest abstrahere ea quae secundum rem separata non sunt, non tamen omnia, sed aliqua. Cum enim unaquaeque res sit intelligibilis, secundum quod est in actu, ut dicitur in IX metaphysicae, oportet quod ipsa natura sive quiditas rei intelligatur: vel secundum quod est actus quidam, sicut accidit de ipsis formis et substantiis simplicibus, vel secundum id quod est actus eius, sicut substantiae compositae per suas formas, vel secundum id quod est ei loco actus, sicut materia prima per habitudinem ad formam et vacuum per privationem locati. Et hoc est illud, ex quo unaquaeque natura suam rationem sortitur. Quando ergo secundum hoc, per quod constituitur ratio naturae et per quod ipsa natura intelligitur, natura ipsa habet ordinem et dependentiam ad aliquid aliud, tunc constat quod natura illa sine illo alio intelligi non potest, sive sint coniuncta coniunctione illa, qua pars coniungitur toti, sicut pes non potest intelligi sine intellectu animalis, quia illud, a quo pes habet rationem pedis, dependet ab eo, a quo animal est animal, sive sint coniuncta per modum quo forma coniungitur materiae, vel ut pars comparti vel accidens subiecto, sicut simum non potest intelligi sine naso, sive etiam sint secundum rem separata, sicut pater non potest intelligi sine intellectu filii, quamvis istae relationes inveniantur in diversis rebus. Si vero unum ab altero non dependeat secundum id quod constituit rationem naturae, tunc unum potest ab altero abstrahi per intellectum ut sine eo intelligatur, non solum si sint separata secundum rem, sicut homo et lapis, sed etiam si secundum rem coniuncta sint, sive ea coniunctione, qua pars et totum coniunguntur, sicut littera potest intelligi sine syllaba, sed non e converso, et animal sine pede, sed non e converso, sive etiam sint coniuncta per modum quo forma coniungitur materiae et accidens subiecto, sicut albedo potest intelligi sine homine, et e converso."
+        },
+        {
+          "ct_id": "84703",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 3 co. 2",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 3 co. 2",
+          "latin": "Sic ergo intellectus distinguit unum ab altero aliter et aliter secundum diversas operationes; quia secundum operationem, qua componit et dividit, distinguit unum ab alio per hoc quod intelligit unum alii non inesse. In operatione vero qua intelligit, quid est unumquodque, distinguit unum ab alio, dum intelligit, quid est hoc, nihil intelligendo de alio, neque quod sit cum eo, neque quod sit ab eo separatum. Unde ista distinctio non proprie habet nomen separationis, sed prima tantum. Haec autem distinctio recte dicitur abstractio, sed tunc tantum quando ea, quorum unum sine altero intelligitur, sunt simul secundum rem. Non enim dicitur animal a lapide abstrahi, si animal absque intellectu lapidis intelligatur. Unde cum abstractio non possit esse, proprie loquendo, nisi coniunctorum in esse, secundum duos modos coniunctionis praedictos, scilicet qua pars et totum uniuntur vel forma et materia, duplex est abstractio, una, qua forma abstrahitur a materia, alia, qua totum abstrahitur a partibus. Forma autem illa potest a materia aliqua abstrahi, cuius ratio essentiae non dependet a tali materia. Ab illa autem materia non potest forma abstrahi per intellectum, a qua secundum suae essentiae rationem dependet. Unde cum omnia accidentia comparentur ad substantiam subiectam sicut forma ad materiam et cuiuslibet accidentis ratio dependeat ad substantiam, impossibile est aliquam talem formam a substantia separari. Sed accidentia superveniunt substantiae quodam ordine. Nam primo advenit ei quantitas, deinde qualitas, deinde passiones et motus. Unde quantitas potest intelligi in materia subiecta, antequam intelligantur in ea qualitates sensibiles, a quibus dicitur materia sensibilis. Et sic secundum rationem suae substantiae non dependet quantitas a materia sensibili, sed solum a materia intelligibili. Substantia enim remotis accidentibus non manet nisi intellectu comprehensibilis, eo quod sensitivae potentiae non pertingunt usque ad substantiae comprehensionem. Et de huiusmodi abstractis est mathematica, quae considerat quantitates et ea quae quantitates consequuntur, ut figuras et huiusmodi."
+        },
+        {
+          "ct_id": "84704",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 3 co. 3",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 3 co. 3",
+          "latin": "Totum etiam non a quibuslibet partibus abstrahi potest. Sunt enim quaedam partes, ex quibus ratio totius dependet, quando scilicet hoc est esse tali toti quod ex talibus partibus componi, sicut se habet syllaba ad litteras et mixtum ad elementa; et tales partes dicuntur partes speciei et formae, sine quibus totum intelligi non potest, cum ponantur in eius diffinitione. Quaedam vero partes sunt quae accidunt toti, in quantum huiusmodi, sicut semicirculus se habet ad circulum. Accidit enim circulo, quod sumantur per divisionem duae eius partes aequales vel inaequales vel etiam plures; non autem accidit triangulo, quod in eo designentur tres lineae, quia ex hoc triangulus est triangulus. Similiter etiam per se competit homini quod inveniatur in eo anima rationalis et corpus compositum ex quattuor elementis, unde sine his partibus homo intelligi non potest, sed haec oportet poni in diffinitione eius; unde sunt partes speciei et formae. Sed digitus, pes et manus et aliae huiusmodi partes sunt post intellectum hominis, unde ex eis ratio essentialis hominis non dependet; et homo sine his intelligi potest. Sive enim habeat pedes sive non, dummodo ponatur coniunctum ex anima rationali et corpore mixto ex elementis propria mixtione, quam requirit talis forma, erit homo. Et hae partes dicuntur partes materiae, quae non ponuntur in diffinitione totius, sed magis e converso. Et hoc modo se habent ad hominem omnes partes signatae, sicut haec anima et hoc corpus et hic unguis et hoc os et huiusmodi. Hae enim partes sunt quidem partes essentiae sortis et Platonis, non autem hominis, in quantum homo; et ideo potest homo abstrahi per intellectum ab istis partibus, et talis abstractio est universalis a particulari."
+        },
+        {
+          "ct_id": "84705",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 3 co. 4",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 3 co. 4",
+          "latin": "Et ita sunt duae abstractiones intellectus. Una quae respondet unioni formae et materiae vel accidentis et subiecti, et haec est abstractio formae a materia sensibili. Alia quae respondet unioni totius et partis, et huic respondet abstractio universalis a particulari, quae est abstractio totius, in quo consideratur absolute natura aliqua secundum suam rationem essentialem, ab omnibus partibus, quae non sunt partes speciei, sed sunt partes accidentales. Non autem inveniuntur abstractiones eis oppositae, quibus pars abstrahatur a toto vel materia a forma; quia pars vel non potest abstrahi a toto per intellectum, si sit de partibus materiae, in quarum diffinitione ponitur totum, vel potest etiam sine toto esse, si sit de partibus speciei, sicut linea sine triangulo vel littera sine syllaba vel elementum sine mixto. In his autem quae secundum esse possunt esse divisa, magis habet locum separatio quam abstractio. Similiter autem cum dicimus formam abstrahi a materia, non intelligitur de forma substantiali, quia forma substantialis et materia sibi correspondens dependent ad invicem, ut unum sine alio non possit intelligi, eo quod proprius actus in propria materia fit. Sed intelligitur de forma accidentali, quae est quantitas et figura, a qua quidem materia sensibilis per intellectum abstrahi non potest, cum qualitates sensibiles non possint intelligi non praeintellecta quantitate, sicut patet in superficie et colore, nec etiam potest intelligi esse subiectum motus, quod non intelligitur quantum. Substantia autem, quae est materia intelligibilis quantitatis, potest esse sine quantitate; unde considerare substantiam sine quantitate magis pertinet ad genus separationis quam abstractionis."
+        },
+        {
+          "ct_id": "84706",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 3 co. 5",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 3 co. 5",
+          "latin": "Sic ergo in operatione intellectus triplex distinctio invenitur. Una secundum operationem intellectus componentis et dividentis, quae separatio dicitur proprie; et haec competit scientiae divinae sive metaphysicae. Alia secundum operationem, qua formantur quiditates rerum, quae est abstractio formae a materia sensibili; et haec competit mathematicae. Tertia secundum eandem operationem quae est abstractio universalis a particulari; et haec competit etiam physicae et est communis omnibus scientiis, quia in scientia praetermittitur quod per accidens est et accipitur quod per se est. Et quia quidam non intellexerunt differentiam duarum ultimarum a prima, inciderunt in errorem, ut ponerent mathematica et universalia a sensibilibus separata, ut Pythagorici et Platonici."
+        },
+        {
+          "ct_id": "84707",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 3 ad 1",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 3 ad 1",
+          "latin": "Ad primum ergo dicendum quod mathematicus abstrahens non considerat rem aliter quam sit. Non enim intelligit lineam esse sine materia sensibili, sed considerat lineam et eius passiones sine consideratione materiae sensibilis, et sic non est dissonantia inter intellectum et rem, quia etiam secundum rem id, quod est de natura lineae, non dependet ab eo, quod facit materiam esse sensibilem, sed magis e converso. Et sic patet quod *abstrahentium non est mendacium*, ut dicitur in II physicorum."
+        },
+        {
+          "ct_id": "84708",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 3 ad 2",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 3 ad 2",
+          "latin": "Ad secundum dicendum quod materiale dicitur non solum id, cuius pars est materia, sed etiam illud, quod in materia esse habet, secundum quem modum linea sensibilis materiale quoddam dici potest. Unde per hoc non prohibetur quin linea sine materia intelligi possit. Non enim materia sensibilis comparatur ad lineam sicut pars, sed magis sicut subiectum, in quo esse habet, et similiter est de superficie et corpore. Non enim mathematicus considerat corpus, quod est in genere substantiae, prout eius pars est materia et forma, sed secundum quod est in genere quantitatis tribus dimensionibus perfectum, et sic comparatur ad corpus quod est in genere substantiae, cuius pars est materia physica, sicut accidens ad subiectum."
+        },
+        {
+          "ct_id": "84709",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 3 ad 3",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 3 ad 3",
+          "latin": "Ad tertium dicendum quod materia non est principium diversitatis secundum numerum nisi secundum quod in multas partes divisa in singulis partibus formam recipiens eiusdem rationis plura individua eiusdem speciei constituit. Materia autem dividi non potest nisi ex praesupposita quantitate, qua remota omnis substantia indivisibilis remanet, et sic prima ratio diversificandi ea, quae sunt unius speciei, est penes quantitatem. Quod quidem quantitati competit, in quantum in sui ratione situm quasi differentiam constitutivam habet, qui nihil est aliud quam ordo partium. Unde etiam abstracta quantitate a materia sensibili per intellectum adhuc contingit imaginari diversa secundum numerum unius speciei, sicut plures triangulos aequilateros et plures lineas rectas aequales."
+        },
+        {
+          "ct_id": "84710",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 3 ad 4",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 3 ad 4",
+          "latin": "Ad quartum dicendum quod mathematica non abstrahuntur a qualibet materia, sed solum a materia sensibili. Partes autem quantitatis, a quibus demonstratio sumpta quodammodo a causa materiali videtur sumi, non sunt materia sensibilis, sed pertinent ad materiam intelligibilem, quae etiam in mathematicis invenitur, ut patet in VII metaphysicae."
+        },
+        {
+          "ct_id": "84711",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 3 ad 5",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 3 ad 5",
+          "latin": "Ad quintum dicendum quod motus secundum naturam suam non pertinet ad genus quantitatis, sed participat aliquid de natura quantitatis aliunde, secundum quod divisio motus sumitur vel ex divisione spatii vel ex divisione mobilis; et ideo considerare motus non pertinet ad mathematicum, sed tamen principia mathematica ad motum applicari possunt. Et ideo secundum hoc, quod principia quantitatis ad motum applicantur, naturalis considerat de divisione et continuitate motus, ut patet in VI physicorum. Et in scientiis mediis inter mathematicam et naturalem tractatur de mensuris motuum, sicut in scientia de sphaera mota et in astrologia."
+        },
+        {
+          "ct_id": "84712",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 3 ad 6",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 3 ad 6",
+          "latin": "Ad sextum dicendum quod in compositis simplicia salvantur et proprietates eorum, licet per alium modum, sicut propriae qualitates elementorum et motus ipsorum proprii inveniuntur in mixto; quod autem est compositorum proprium, non invenitur in simplicibus. Et inde est quod quanto aliqua scientia est abstractior et simpliciora considerans, tanto eius principia sunt magis applicabilia aliis scientiis. Unde principia mathematicae sunt applicabilia naturalibus rebus, non autem e converso, propter quod physica est ex suppositione mathematicae, sed non e converso, ut patet in III caeli et mundi. Et inde est quod de rebus naturalibus et mathematicis tres ordines scientiarum inveniuntur. Quaedam enim sunt pure naturales, quae considerant proprietates rerum naturalium, in quantum huiusmodi, sicut physica et agricultura et huiusmodi. Quaedam vero sunt pure mathematicae, quae determinant de quantitatibus absolute, sicut geometria de magnitudine et arithmetica de numero. Quaedam vero sunt mediae, quae principia mathematica ad res naturales applicant, ut musica, astrologia et huiusmodi. Quae tamen magis sunt affines mathematicis, quia in earum consideratione id quod est physicum est quasi materiale, quod autem est mathematicum est quasi formale; sicut musica considerat sonos, non in quantum sunt soni, sed in quantum sunt secundum numeros proportionabiles, et similiter est in aliis. Et propter hoc demonstrant conclusiones suas circa res naturales, sed per media mathematica; et ideo nihil prohibet, si in quantum cum naturali communicant, materiam sensibilem respiciunt. In quantum enim cum mathematica communicant, abstractae sunt."
+        },
+        {
+          "ct_id": "84713",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 3 ad 7",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 3 ad 7",
+          "latin": "Ad septimum dicendum quod, quia scientiae mediae, de quibus dictum est, communicant cum naturali secundum id quod in earum consideratione est materiale, differunt autem secundum id quod in earum consideratione est formale, ideo nihil prohibet has scientias cum naturali habere interdum easdem conclusiones. Non tamen per eadem demonstrant nisi secundum quod scientiae sunt immixtae et una interdum utitur eo quod est alterius, sicut rotunditatem terrae naturalis probat ex motu gravium, astrologus autem per considerationem lunarium eclipsium."
+        },
+        {
+          "ct_id": "84714",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 3 ad 8",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 3 ad 8",
+          "latin": "Ad octavum dicendum quod, sicut dicit Commentator ibidem, philosophus non intendit ibi distinguere scientias speculativas, quia de quolibet mobili, sive sit corruptibile sive incorruptibile, determinat naturalis. Mathematicus autem, in quantum huiusmodi, non considerat aliquod mobile. Intendit autem distinguere res, de quibus scientiae speculativae determinant, de quibus seorsum et secundum ordinem agendum est, quamvis illa tria genera rerum tribus scientiis appropriari possint. Entia enim incorruptibilia et immobilia praecise ad metaphysicum pertinent. Entia vero mobilia et incorruptibilia propter sui uniformitatem et regularitatem possunt determinari quantum ad suos motus per principia mathematica, quod de mobilibus corruptibilibus dici non potest; et ideo secundum genus entium attribuitur mathematicae ratione astrologiae. Tertium vero remanet proprium soli naturali. Et sic loquitur Ptolemaeus."
+        }
+      ]
+    },
+    {
+      "sec_id": "s4",
+      "folio": "q. 5, a. 4",
+      "heading_la": "Quaestio V, Articulus 4 — Utrum divina scientia sit de his quae sunt sine materia et motu",
+      "heading_en": "Question V, Article 4 — Whether Divine Science Treats of What Exists Without Matter and Motion",
+      "source_work": "de_trinitate",
+      "paragraphs": [
+        {
+          "ct_id": "84715",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 4 arg. 1",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 4 arg. 1",
+          "latin": "Ad quartum sic proceditur. Videtur quod scientia divina non sit de rebus a motu et materia separatis. Scientia enim divina maxime videtur esse de Deo. Sed ad Dei cognitionem pervenire non possumus nisi per effectus visibiles, qui sunt in materia et motu constituti, Rom. 1: *invisibilia enim ipsius* et cetera. Ergo scientia divina non abstrahit a materia et motu."
+        },
+        {
+          "ct_id": "84716",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 4 arg. 2",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 4 arg. 2",
+          "latin": "Praeterea, illud, cui aliquo modo motus convenit, non est omnino a motu et materia separatum. Sed motus aliquo modo Deo convenit; unde dicitur Sap. 7 de spiritu sapientiae quod est *mobilis* et *mobilior omnibus mobilibus*. Et Augustinus dicit VIII super Genesim quod Deus *movet se sine tempore et loco*, et Plato posuit primum movens movere se ipsum. Ergo scientia divina, quae de Deo determinat, non est omnino a motu separata."
+        },
+        {
+          "ct_id": "84717",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 4 arg. 3",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 4 arg. 3",
+          "latin": "Praeterea, scientia divina non solum habet considerare de Deo, sed etiam de Angelis. Sed Angeli moventur et secundum electionem, quia de bonis facti sunt mali, et secundum locum, ut patet in illis qui mittuntur. Ergo illa, de quibus scientia divina considerat, non sunt omnino a motu separata."
+        },
+        {
+          "ct_id": "84718",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 4 arg. 4",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 4 arg. 4",
+          "latin": "Praeterea, ut videtur Commentator dicere in principio physicorum, omne, quod est, vel est materia pura vel forma pura vel compositum ex materia et forma. Sed Angelus non est forma pura, quia sic esset actus purus, quod solius Dei est, nec iterum est materia pura. Ergo est compositus ex materia et forma. Et sic scientia divina non abstrahit a materia."
+        },
+        {
+          "ct_id": "84719",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 4 arg. 5",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 4 arg. 5",
+          "latin": "Praeterea, scientia divina, quae ponitur tertia pars speculativae philosophiae, est idem quod metaphysica, cuius subiectum est ens, et principaliter ens quod est substantia, ut patet in IV metaphysicae. Sed ens et substantia non abstrahit a materia, alias nullum ens inveniretur quod haberet materiam. Ergo scientia divina non est a materia abstrahens."
+        },
+        {
+          "ct_id": "84720",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 4 arg. 6",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 4 arg. 6",
+          "latin": "Praeterea, secundum philosophum in I posteriorum ad scientiam pertinet considerare non solum subiectum, sed partes et passiones subiecti. Sed ens est subiectum scientiae divinae, ut dictum est. Ergo ad ipsam pertinet considerare de omnibus entibus. Sed materia et motus sunt quaedam entia. Ergo pertinent ad considerationem metaphysicae, et sic scientia divina ab eis non abstrahit."
+        },
+        {
+          "ct_id": "84721",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 4 arg. 7",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 4 arg. 7",
+          "latin": "Praeterea, sicut dicit Commentator in I physicorum, scientia divina demonstrat per tres causas, scilicet efficientem, formalem et finalem. Sed causa efficiens non potest considerari sine consideratione motus, similiter nec finis, ut dicitur in III metaphysicae. Unde in mathematicis propter hoc quod sunt immobilia nulla demonstratio per huiusmodi causas datur. Ergo scientia divina non abstrahit a motu."
+        },
+        {
+          "ct_id": "84722",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 4 arg. 8",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 4 arg. 8",
+          "latin": "Praeterea, in theologia determinatur de creatione caeli et terrae et actibus hominum et multis huiusmodi, quae in se materiam et motum continent. Ergo non videtur theologia a materia et motu abstrahere."
+        },
+        {
+          "ct_id": "84723",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 4 s. c. 1",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 4 s. c. 1",
+          "latin": "Sed contra est quod philosophus dicit in VI metaphysicae quod *prima philosophia est circa separabilia*, scilicet a materia, *et immobilia*. Prima autem philosophia est scientia divina, ut ibidem dicitur. Ergo scientia divina est abstracta a materia et motu."
+        },
+        {
+          "ct_id": "84724",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 4 s. c. 2",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 4 s. c. 2",
+          "latin": "Praeterea, nobilissima scientia est de nobilissimis entibus. Sed scientia divina est nobilissima. Cum ergo entia immaterialia et immobilia sint nobilissima, de eis erit scientia divina."
+        },
+        {
+          "ct_id": "84725",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 4 s. c. 3",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 4 s. c. 3",
+          "latin": "Praeterea, philosophus dicit in principio metaphysicae quod scientia divina est de primis principiis et causis. Huiusmodi autem sunt immaterialia et immobilia. Ergo de talibus est scientia divina."
+        },
+        {
+          "ct_id": "84726",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 4 co. 1",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 4 co. 1",
+          "latin": "Responsio. Dicendum quod ad evidentiam huius quaestionis scire oportet quae scientia divina scientia dici debeat. Sciendum siquidem est quod quaecumque scientia considerat aliquod genus subiectum, oportet quod consideret principia illius generis, cum scientia non perficiatur nisi per cognitionem principiorum, ut patet per philosophum in principio physicorum. Sed principiorum duo sunt genera. Quaedam enim sunt quae et sunt in se ipsis quaedam naturae completae et sunt nihilominus principia aliorum, sicut corpora caelestia sunt quaedam principia inferiorum corporum et corpora simplicia corporum mixtorum. Et ideo ista non solum considerantur in scientiis ut principia sunt, sed etiam ut sunt in se ipsis res quaedam; et propter hoc de eis non solum tractatur in scientia quae considerat ipsa principiata, sed etiam habent per se scientiam separatam, sicut de corporibus caelestibus est quaedam pars scientiae naturalis praeter illam, in qua determinatur de corporibus inferioribus, et de elementis praeter illam, in qua tractatur de corporibus mixtis. Quaedam autem sunt principia, quae non sunt naturae completae in se ipsis, sed solum sunt principia naturarum, sicut unitas numeri et punctus lineae et forma et materia corporis physici, unde huiusmodi principia non tractantur nisi in scientia, in qua de principiatis agitur."
+        },
+        {
+          "ct_id": "84727",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 4 co. 2",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 4 co. 2",
+          "latin": "Sicut autem uniuscuiusque determinati generis sunt quaedam communia principia quae se extendunt ad omnia principia illius generis, ita etiam et omnia entia, secundum quod in ente communicant, habent quaedam principia quae sunt principia omnium entium. Quae quidem principia possunt dici communia dupliciter secundum Avicennam in sua sufficientia: uno modo per praedicationem, sicut hoc quod dico: forma est commune ad omnes formas, quia de qualibet praedicatur; alio modo per causalitatem, sicut dicimus solem unum numero esse principium ad omnia generabilia. Omnium autem entium sunt principia communia non solum secundum primum modum, quod appellat philosophus in XI metaphysicae omnia entia habere eadem principia secundum analogiam, sed etiam secundum modum secundum, ut sint quaedam res eadem numero exsistentes omnium rerum principia, prout scilicet principia accidentium reducuntur in principia substantiae et principia substantiarum corruptibilium reducuntur in substantias incorruptibiles, et sic quodam gradu et ordine in quaedam principia omnia entia reducuntur. Et quia id, quod est principium essendi omnibus, oportet esse maxime ens, ut dicitur in II metaphysicae, ideo huiusmodi principia oportet esse completissima, et propter hoc oportet ea esse maxime actu, ut nihil vel minimum habeant de potentia, quia actus est prior et potior potentia, ut dicitur in IX metaphysicae. Et propter hoc oportet ea esse absque materia, quae est in potentia, et absque motu, qui est actus exsistentis in potentia. Et huiusmodi sunt res divinae; *quia si divinum alicubi exsistit, in tali natura*, immateriali scilicet et immobili, maxime *exsistit*, ut dicitur in VI metaphysicae."
+        },
+        {
+          "ct_id": "84728",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 4 co. 3",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 4 co. 3",
+          "latin": "Huiusmodi ergo res divinae, quia sunt principia omnium entium et sunt nihilominus in se naturae completae, dupliciter tractari possunt: uno modo, prout sunt principia communia omnium entium; alio modo, prout sunt in se res quaedam. Quia autem huiusmodi prima principia quamvis sint in se maxime nota, tamen intellectus noster se habet ad ea ut oculus noctuae ad lucem solis, ut dicitur in II metaphysicae, per lumen naturalis rationis pervenire non possumus in ea nisi secundum quod per effectus in ea ducimur; et hoc modo philosophi in ea pervenerunt, quod patet Rom. 1: *invisibilia Dei per ea quae facta sunt intellecta conspiciuntur*. Unde et huiusmodi res divinae non tractantur a philosophis, nisi prout sunt rerum omnium principia. Et ideo pertractantur in illa doctrina, in qua ponuntur ea quae sunt communia omnibus entibus, quae habet subiectum ens in quantum est ens; et haec scientia apud eos scientia divina dicitur. Est autem alius modus cognoscendi huiusmodi res, non secundum quod per effectus manifestantur, sed secundum quod ipsae se ipsas manifestant. Et hunc modum ponit apostolus 1 Cor. 2: *quae sunt Dei, nemo novit nisi spiritus Dei. Nos autem non spiritum huius mundi accepimus, sed spiritum qui a Deo est, ut sciamus*. Et ibidem: *nobis autem revelavit Deus per spiritum suum*. Et per hunc modum tractantur res divinae, secundum quod in se ipsis subsistunt et non solum prout sunt rerum principia."
+        },
+        {
+          "ct_id": "84729",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 4 co. 4",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 4 co. 4",
+          "latin": "Sic ergo theologia sive scientia divina est duplex. Una, in qua considerantur res divinae non tamquam subiectum scientiae, sed tamquam principia subiecti, et talis est theologia, quam philosophi prosequuntur, quae alio nomine metaphysica dicitur. Alia vero, quae ipsas res divinas considerat propter se ipsas ut subiectum scientiae et haec est theologia, quae in sacra Scriptura traditur. Utraque autem est de his quae sunt separata a materia et motu secundum esse, sed diversimode, secundum quod dupliciter potest esse aliquid a materia et motu separatum secundum esse. Uno modo sic, quod de ratione ipsius rei, quae separata dicitur, sit quod nullo modo in materia et motu esse possit, sicut Deus et Angeli dicuntur a materia et motu separati. Alio modo sic, quod non sit de ratione eius quod sit in materia et motu, sed possit esse sine materia et motu, quamvis quandoque inveniatur in materia et motu. Et sic ens et substantia et potentia et actus sunt separata a materia et motu, quia secundum esse a materia et motu non dependent, sicut mathematica dependebant, quae numquam nisi in materia esse possunt, quamvis sine materia sensibili possint intelligi. Theologia ergo philosophica determinat de separatis secundo modo sicut de subiectis, de separatis autem primo modo sicut de principiis subiecti. Theologia vero sacrae Scripturae tractat de separatis primo modo sicut de subiectis, quamvis in ea tractentur aliqua quae sunt in materia et motu, secundum quod requirit rerum divinarum manifestatio."
+        },
+        {
+          "ct_id": "84730",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 4 ad 1",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 4 ad 1",
+          "latin": "Ad primum ergo dicendum quod illa, quae non assumuntur in scientia nisi ad alterius manifestationem, non pertinent per se ad scientiam, sed quasi per accidens. Sic enim in naturalibus quaedam mathematica assumuntur, et per hunc modum nihil prohibet in scientia divina esse quaedam quae sunt in materia et motu."
+        },
+        {
+          "ct_id": "84731",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 4 ad 2",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 4 ad 2",
+          "latin": "Ad secundum dicendum quod moveri non attribuitur Deo proprie, sed quasi metaphorice, et hoc dupliciter. Uno modo, secundum quod improprie operatio intellectus vel voluntatis motus dicitur, et secundum hoc dicitur aliquis movere se ipsum, quando intelligit vel diligit se. Et per hunc modum potest verificari dictum Platonis qui dixit quod primus motor movet se ipsum, quia scilicet intelligit et diligit se, ut Commentator dicit in VIII physicorum. Alio modo, secundum quod ipse effluxus causatorum a suis causis nominari potest processio sive motus quidam causae in causatum, in quantum in ipso effectu relinquitur similitudo causae, et sic causa, quae prius erat in se ipsa, postmodum fit in effectu per suam similitudinem. Et hoc modo Deus, qui similitudinem suam omnibus creaturis impartitus est, quantum ad aliquid dicitur per omnia moveri vel ad omnia procedere, quo modo loquendi utitur frequenter Dionysius. Et secundum hunc etiam modum videtur intelligi quod dicitur Sap. 7 quod *omnium mobilium mobilior est sapientia* et quod *attingit a fine usque ad finem fortiter*. Hoc autem non est proprie moveri, et ideo ratio non sequitur."
+        },
+        {
+          "ct_id": "84732",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 4 ad 3",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 4 ad 3",
+          "latin": "Ad tertium dicendum quod scientia divina, quae est per inspirationem divinam accepta, non est de Angelis sicut de subiecto, sed solum sicut de his, quae assumuntur ad manifestationem subiecti. Sic enim in sacra Scriptura agitur de Angelis sicut et de ceteris creaturis. Sed in scientia divina, quam philosophi tradunt, consideratur de Angelis, quos intelligentias vocant, eadem ratione qua et de prima causa, quae Deus est, in quantum ipsi etiam sunt rerum principia secunda, saltem per motum orbium, quibus quidem nullus motus physicus accidere potest. Motus autem, qui est secundum electionem, reducitur ad illum modum, quo actus intellectus vel voluntatis motus dicitur, quod est improprie dictum motu pro operatione sumpto. Motus etiam, quo dicuntur secundum locum moveri, non est secundum circumscriptionem localem, sed secundum operationem, quam exercent in hoc vel in illo loco, aut secundum aliquam aliam habitudinem, quam habent ad locum, omnino aequivocam ab illa habitudine, quam habet corpus locatum ad locum. Et ideo patet quod eis non convenit motus, secundum quod naturalia in motu esse dicuntur."
+        },
+        {
+          "ct_id": "84733",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 4 ad 4",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 4 ad 4",
+          "latin": "Ad quartum dicendum quod actus et potentia sunt communiora quam materia et forma; et ideo in Angelis, etsi non inveniatur compositio formae et materiae, potest tamen inveniri in eis potentia et actus. Materia enim et forma sunt partes compositi ex materia et forma, et ideo in illis tantum invenitur compositio materiae et formae, quorum una pars se habet ad aliam ut potentia ad actum. Quod autem potest esse, potest et non esse; et ideo possibile est unam partem inveniri cum alia et sine alia, et ideo compositio materiae et formae non invenitur secundum Commentatorem in I caeli et mundi et in VIII metaphysicae nisi in his quae sunt per naturam corruptibilia. Nec obstat quod aliquod accidens in aliquo subiecto perpetuo conservetur, sicut figura in caelo, cum tamen corpus caeleste impossibile sit esse sine tali figura et omnia accidentia consequuntur substantiam sicut causam, et ideo subiectum se habet ad accidentia non solum ut potentia passiva, sed etiam quodammodo ut potentia activa, et ideo aliqua accidentia naturaliter perpetuantur in suis subiectis. Materia autem non est hoc modo causa formae, et ideo omnis materia, quae subest alicui formae, potest etiam non subesse, nisi fortassis a causa extrinseca contineatur; sicut virtute divina ponimus aliqua corpora etiam ex contrariis composita esse incorruptibilia, ut corpora resurgentium. Essentia autem Angeli secundum naturam suam incorruptibilis est, et ideo non est in ea compositio formae et materiae. Sed quia non habet esse a se ipso Angelus, ideo se habet in potentia ad esse quod accipit a Deo, et sic esse a Deo acceptum comparatur ad essentiam eius simplicem ut actus ad potentiam. Et hoc est quod dicitur quod sunt compositi ex quod est et quo est, ut ipsum esse intelligatur quo est, ipsa vero natura Angeli intelligatur quod est. Tamen si ex materia et forma Angeli compositi essent, non tamen ex materia sensibili, a qua oportet et mathematica abstracta esse et metaphysica separata."
+        },
+        {
+          "ct_id": "84734",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 4 ad 5",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 4 ad 5",
+          "latin": "Ad quintum dicendum quod ens et substantia dicuntur separata a materia et motu non per hoc quod de ratione ipsorum sit esse sine materia et motu, sicut de ratione asini est sine ratione esse, sed per hoc quod de ratione eorum non est esse in materia et motu, quamvis quandoque sint in materia et motu, sicut animal abstrahit a ratione, quamvis aliquod animal sit rationale."
+        },
+        {
+          "ct_id": "84735",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 4 ad 6",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 4 ad 6",
+          "latin": "Ad sextum dicendum quod metaphysicus considerat etiam de singularibus entibus non secundum proprias rationes, per quas sunt tale vel tale ens, sed secundum quod participant communem rationem entis, et sic etiam pertinet ad eius considerationem materia et motus."
+        },
+        {
+          "ct_id": "84736",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 4 ad 7",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 4 ad 7",
+          "latin": "Ad septimum dicendum quod agere et pati non convenit entibus secundum quod sunt in consideratione, sed secundum quod sunt in esse. Mathematicus autem considerat res abstractas secundum considerationem tantum, et ideo illae res, prout cadunt in consideratione mathematici, non convenit esse principium et finis motus, et ideo mathematicus non demonstrat per causas efficientem et finalem. Res autem, quas considerat divinus, sunt separatae exsistentes in rerum natura, tales quae possunt esse principium et finis motus; unde nihil prohibet quin per causas efficientem et finalem demonstret."
+        },
+        {
+          "ct_id": "84737",
+          "title": "Super De Trinitate, pars 3 q. 5 a. 4 ad 8",
+          "ref_label": "Super De Trinitate, pars 3 q. 5 a. 4 ad 8",
+          "latin": "Ad octavum dicendum quod sicut fides, quae est quasi habitus principiorum theologiae, habet pro obiecto ipsam veritatem primam et tamen quaedam alia ad creaturas pertinentia in articulis fidei continentur, in quantum contingunt aliquo modo veritatem primam, per eundem modum theologia est principaliter de Deo sicut de subiecto, de creaturis autem multa assumit ut effectus eius vel quomodolibet habentia habitudinem ad ipsum."
+        }
+      ]
+    },
+    {
+      "sec_id": "s5",
+      "folio": "q. 6, a. 1",
+      "heading_la": "Quaestio VI, Articulus 1 — Utrum oporteat versari in naturalibus rationabiliter, in mathematicis disciplinaliter et in divinis intellectualiter",
+      "heading_en": "Question VI, Article 1 — Whether One Must Proceed Rationally in Natural Things, Disciplinably in Mathematics, and Intellectually in Divine Things",
+      "source_work": "de_trinitate",
+      "paragraphs": [
+        {
+          "ct_id": "84738",
+          "title": "Super De Trinitate, pars 3 q. 6 pr.",
+          "ref_label": "Super De Trinitate, pars 3 q. 6 pr.",
+          "latin": "Deinde quaeritur de modis quos scientiis speculativis attribuit. Et circa hoc quaeruntur quattuor."
+        },
+        {
+          "ct_id": "84739",
+          "title": "Super De Trinitate, pars 3 q. 6 pr. 1",
+          "ref_label": "Super De Trinitate, pars 3 q. 6 pr. 1",
+          "latin": "Primo. Utrum oporteat versari in naturalibus rationabiliter, in mathematicis disciplinabiliter, in divinis intellectualiter."
+        },
+        {
+          "ct_id": "84740",
+          "title": "Super De Trinitate, pars 3 q. 6 pr. 2",
+          "ref_label": "Super De Trinitate, pars 3 q. 6 pr. 2",
+          "latin": "Secundo. Utrum in divinis sit omnino imaginatio relinquenda."
+        },
+        {
+          "ct_id": "84741",
+          "title": "Super De Trinitate, pars 3 q. 6 pr. 3",
+          "ref_label": "Super De Trinitate, pars 3 q. 6 pr. 3",
+          "latin": "Tertio. Utrum intellectus noster possit ipsam formam divinam inspicere."
+        },
+        {
+          "ct_id": "84742",
+          "title": "Super De Trinitate, pars 3 q. 6 pr. 4",
+          "ref_label": "Super De Trinitate, pars 3 q. 6 pr. 4",
+          "latin": "Quarto. Utrum hoc possit fieri per viam alicuius scientiae speculativae."
+        },
+        {
+          "ct_id": "84743",
+          "title": "Super De Trinitate, pars 3 q. 6 a. 1 arg. 1",
+          "ref_label": "Super De Trinitate, pars 3 q. 6 a. 1 arg. 1",
+          "latin": "Ad primum sic proceditur. Videtur quod non oporteat in naturalibus rationabiliter versari. Philosophia enim rationalis contra naturalem dividitur. Sed rationabiliter procedere videtur proprie ad rationalem pertinere. Ergo non competenter attribuitur naturali."
+        },
+        {
+          "ct_id": "84744",
+          "title": "Super De Trinitate, pars 3 q. 6 a. 1 arg. 2",
+          "ref_label": "Super De Trinitate, pars 3 q. 6 a. 1 arg. 2",
+          "latin": "Praeterea, philosophus frequenter in libro physicorum distinguit processus ad aliquas conclusiones rationales et physicas. Ergo non est proprium naturali scientiae rationabiliter procedere."
+        },
+        {
+          "ct_id": "84745",
+          "title": "Super De Trinitate, pars 3 q. 6 a. 1 arg. 3",
+          "ref_label": "Super De Trinitate, pars 3 q. 6 a. 1 arg. 3",
+          "latin": "Praeterea, illud, quod est commune omnibus scientiis, non debet uni appropriari. Sed quaelibet scientia ratiocinando procedit discurrendo vel ex effectibus in causas vel ex causis in effectus vel ex aliquibus signis. Ergo non debet naturali appropriari."
+        },
+        {
+          "ct_id": "84746",
+          "title": "Super De Trinitate, pars 3 q. 6 a. 1 arg. 4",
+          "ref_label": "Super De Trinitate, pars 3 q. 6 a. 1 arg. 4",
+          "latin": "Praeterea, ratiocinativum in VI Ethicorum contra scientificum distinguitur a philosopho. Sed philosophia naturalis ad scientificum pertinet. Ergo non convenienter attribuitur ei rationabiliter procedere."
+        },
+        {
+          "ct_id": "84747",
+          "title": "Super De Trinitate, pars 3 q. 6 a. 1 s. c. 1",
+          "ref_label": "Super De Trinitate, pars 3 q. 6 a. 1 s. c. 1",
+          "latin": "Sed contra est quod dicitur in libro de spiritu et anima quod ratio circa formas corporum versatur. Sed considerare corpora maxime pertinet ad naturalem. Ergo convenienter attribuitur ei rationabiliter procedere."
+        },
+        {
+          "ct_id": "84748",
+          "title": "Super De Trinitate, pars 3 q. 6 a. 1 s. c. 2",
+          "ref_label": "Super De Trinitate, pars 3 q. 6 a. 1 s. c. 2",
+          "latin": "Praeterea, in V de consolatione Boethius dicit: *ratio cum quid universale respicit, nec imaginatione nec sensu utens imaginabilia tamen et sensibilia comprehendit*. Sed imaginabilia et sensibilia comprehendere ad solum naturalem pertinet. Ergo rationalis processus convenienter naturali attribuitur."
+        },
+        {
+          "ct_id": "84749",
+          "title": "Super De Trinitate, pars 3 q. 6 a. 1 arg. 11",
+          "ref_label": "Super De Trinitate, pars 3 q. 6 a. 1 arg. 11",
+          "latin": "Ulterius videtur quod inconvenienter dicatur mathematica disciplinabiliter procedere. Disciplina enim nihil aliud esse videtur quam acceptio scientiae. Sed in qualibet parte philosophiae accipitur scientia, quia omnes demonstrative procedunt. Ergo procedere disciplinaliter est commune omnibus partibus philosophiae, et ita non debet appropriari mathematicae."
+        },
+        {
+          "ct_id": "84750",
+          "title": "Super De Trinitate, pars 3 q. 6 a. 1 arg. 12",
+          "ref_label": "Super De Trinitate, pars 3 q. 6 a. 1 arg. 12",
+          "latin": "Praeterea, quanto est aliquid certius, tanto facilius esse videtur, ut de eo sit disciplina. Sed naturalia sunt certiora, ut videtur, quam mathematica, quia capiuntur sensu, a quo omnis nostra cognitio ortum habet. Ergo hic modus magis competit naturali quam mathematico."
+        },
+        {
+          "ct_id": "84751",
+          "title": "Super De Trinitate, pars 3 q. 6 a. 1 arg. 13",
+          "ref_label": "Super De Trinitate, pars 3 q. 6 a. 1 arg. 13",
+          "latin": "Praeterea, ut dicitur in V metaphysicae, initium in scientiis est, a quo fit facilior disciplina. Sed initium addiscendi accipitur a logica, quam oportet praeaddiscere mathematicae et omnibus aliis. Ergo disciplinalis modus magis convenit logicae quam aliis."
+        },
+        {
+          "ct_id": "84752",
+          "title": "Super De Trinitate, pars 3 q. 6 a. 1 arg. 14",
+          "ref_label": "Super De Trinitate, pars 3 q. 6 a. 1 arg. 14",
+          "latin": "Praeterea, modus naturalis scientiae et divinae assumitur a potentiis animae, scilicet a ratione et intellectu. Ergo similiter et modus mathematicae ab aliqua animae potentia sumi deberet, et sic non convenienter ponitur eius modus disciplinabiliter versari."
+        },
+        {
+          "ct_id": "84753",
+          "title": "Super De Trinitate, pars 3 q. 6 a. 1 s. c. 11",
+          "ref_label": "Super De Trinitate, pars 3 q. 6 a. 1 s. c. 11",
+          "latin": "Sed contra, disciplinaliter procedere est demonstrative procedere et per certitudinem. Sed, sicut Ptolemaeus in principio Almagesti dicit, *solum mathematicum genus, si quis huic diligentiam exhibeat inquisitionis, firmam stabilemque fidem intendentibus notitiam dabit, velut demonstratione per indubitabiles vias facta*. Ergo disciplinaliter procedere maxime proprium est mathematici."
+        },
+        {
+          "ct_id": "84754",
+          "title": "Super De Trinitate, pars 3 q. 6 a. 1 s. c. 12",
+          "ref_label": "Super De Trinitate, pars 3 q. 6 a. 1 s. c. 12",
+          "latin": "Praeterea, hoc patet per philosophum, qui in pluribus locis suorum librorum scientias mathematicas disciplinas nominat."
+        },
+        {
+          "ct_id": "84755",
+          "title": "Super De Trinitate, pars 3 q. 6 a. 1 arg. 21",
+          "ref_label": "Super De Trinitate, pars 3 q. 6 a. 1 arg. 21",
+          "latin": "Ulterius videtur quod non sit conveniens modus divinae scientiae intellectualiter procedere. Intellectus enim secundum philosophum est principiorum, scientia autem conclusionum. Sed non omnia, quae in scientia divina traduntur, sunt principia, sed quaedam etiam conclusiones. Ergo intellectualiter procedere non est conveniens scientiae divinae."
+        },
+        {
+          "ct_id": "84756",
+          "title": "Super De Trinitate, pars 3 q. 6 a. 1 arg. 22",
+          "ref_label": "Super De Trinitate, pars 3 q. 6 a. 1 arg. 22",
+          "latin": "Praeterea, in illis, quae omnem intellectum excedunt, intellectualiter versari non possumus. Sed divina excedunt omnem intellectum, ut Dionysius dicit 1 c. de divinis nominibus et philosophus in libro de causis. Ergo intellectualiter tractari non possunt."
+        },
+        {
+          "ct_id": "84757",
+          "title": "Super De Trinitate, pars 3 q. 6 a. 1 arg. 23",
+          "ref_label": "Super De Trinitate, pars 3 q. 6 a. 1 arg. 23",
+          "latin": "Praeterea, Dionysius dicit 7 c. de divinis nominibus quod Angeli habent intellectualem virtutem, in quantum divinam cognitionem non congregant a sensibilibus aut a rebus divisis. Sed hoc est supra animae potestatem, ut ibidem subditur. Cum ergo divina scientia, de qua nunc agitur, sit scientia humanae animae, videtur quod non sit proprius modus eius intellectualiter tractare."
+        },
+        {
+          "ct_id": "84758",
+          "title": "Super De Trinitate, pars 3 q. 6 a. 1 arg. 24",
+          "ref_label": "Super De Trinitate, pars 3 q. 6 a. 1 arg. 24",
+          "latin": "Praeterea, theologia praecipue videtur esse de his, quae fidei sunt. Sed in his, quae fidei sunt, intelligere est finis. Unde dicitur Is. 7 secundum aliam litteram: *nisi credideritis, non intelligetis*. Ergo intellectualiter versari circa divina non debet poni theologiae modus, sed finis."
+        },
+        {
+          "ct_id": "84759",
+          "title": "Super De Trinitate, pars 3 q. 6 a. 1 s. c. 21",
+          "ref_label": "Super De Trinitate, pars 3 q. 6 a. 1 s. c. 21",
+          "latin": "Sed contra est quod dicitur in libro de spiritu et anima quod intellectus est spirituum creatorum, intelligentia vero ipsius Dei. De his autem praecipue est scientia divina. Ergo intellectualiter procedere videtur esse ipsius proprium."
+        },
+        {
+          "ct_id": "84760",
+          "title": "Super De Trinitate, pars 3 q. 6 a. 1 s. c. 22",
+          "ref_label": "Super De Trinitate, pars 3 q. 6 a. 1 s. c. 22",
+          "latin": "Praeterea, modus scientiae debet respondere materiae. Sed res divinae sunt res intelligibiles per se ipsas. Ergo modus conveniens divinae scientiae est intellectualiter procedere."
+        },
+        {
+          "ct_id": "84761",
+          "title": "Super De Trinitate, pars 3 q. 6 a. 1 co. 1",
+          "ref_label": "Super De Trinitate, pars 3 q. 6 a. 1 co. 1",
+          "latin": "Responsio. Dicendum ad primam quaestionem quod processus aliquis, quo proceditur in scientiis, dicitur rationabilis tripliciter. Uno modo ex parte principiorum, ex quibus proceditur, ut cum aliquis procedit ad aliquid probandum ex operibus rationis, cuiusmodi sunt genus et species et oppositum et huiusmodi intentiones, quas logici considerant. Et sic dicetur aliquis processus esse rationabilis, quando aliquis utitur in aliqua scientia propositionibus, quae traduntur in logica, prout scilicet utimur logica, prout est docens, in aliis scientiis. Sed hic modus procedendi non potest proprie competere alicui particulari scientiae, in quibus peccatum accidit, nisi ex propriis procedatur. Contingit autem hoc proprie et convenienter fieri in logica et metaphysica, eo quod utraque scientia communis est et circa idem subiectum quodammodo."
+        },
+        {
+          "ct_id": "84762",
+          "title": "Super De Trinitate, pars 3 q. 6 a. 1 co. 2",
+          "ref_label": "Super De Trinitate, pars 3 q. 6 a. 1 co. 2",
+          "latin": "Alio modo dicitur processus rationalis ex termino in quo sistitur procedendo. Ultimus enim terminus, ad quem rationis inquisitio perducere debet, est intellectus principiorum, in quae resolvendo iudicamus; quod quidem quando fit non dicitur processus vel probatio rationabilis, sed demonstrativa. Quandoque autem inquisitio rationis non potest usque ad praedictum terminum perduci, sed sistitur in ipsa inquisitione, quando scilicet inquirenti adhuc manet via ad utrumlibet; et hoc contingit, quando per probabiles rationes proceditur, quae natae sunt facere opinionem vel fidem, non scientiam. Et sic rationabilis processus dividitur contra demonstrativum. Et hoc modo rationabiliter procedi potest in qualibet scientia, ut ex probabilibus paretur via ad necessarias probationes. Et hic est alius modus, quo logica utimur in scientiis demonstrativis, non quidem ut est docens, sed ut est utens. Et his duobus modis denominatur processus rationalis a scientia rationali; his enim modis usitatur logica, quae rationalis scientia dicitur, in scientiis demonstrativis, ut dicit Commentator in I physicorum."
+        },
+        {
+          "ct_id": "84763",
+          "title": "Super De Trinitate, pars 3 q. 6 a. 1 co. 3",
+          "ref_label": "Super De Trinitate, pars 3 q. 6 a. 1 co. 3",
+          "latin": "Tertio modo dicitur aliquis processus rationalis a potentia rationali, in quantum scilicet in procedendo sequimur proprium modum animae rationalis in cognoscendo, et sic rationabilis processus est proprius scientiae naturalis. Scientia enim naturalis in suis processibus servat proprium modum rationalis animae quantum ad duo. Primo quantum ad hoc, quod sicut anima rationalis a sensibilibus, quae sunt nota magis quoad nos, accipit cognitionem intelligibilium, quae sunt magis nota secundum naturam, ita scientia naturalis procedit ex his, quae sunt nota magis quoad nos et minus nota secundum naturam, ut patet in I physicorum, et demonstratio, quae est per signum vel effectum, maxime usitatur in scientia naturali. Secundo, quia cum rationis sit de uno in aliud discurrere, hoc maxime in scientia naturali observatur, ubi ex cognitione unius rei in cognitionem alterius devenitur, sicut ex cognitione effectus in cognitionem causae. Et non solum proceditur ab uno in aliud secundum rationem, quod non est aliud secundum rem, sicut si ab animali procedatur ad hominem. In scientiis enim mathematicis proceditur per ea tantum, quae sunt de essentia rei, cum demonstrent solum per causam formalem; et ideo non demonstratur in eis aliquid de una re per aliam rem, sed per propriam diffinitionem illius rei. Etsi enim aliquae demonstrationes dentur de circulo ex triangulo vel e converso, hoc non est nisi in quantum in circulo est potentia triangulus et e converso. Sed in scientia naturali, in qua fit demonstratio per causas extrinsecas, probatur aliquid de una re per aliam rem omnino extrinsecam. Et ita modus rationis maxime in scientia naturali observatur, et propter hoc scientia naturalis inter alias est maxime hominis intellectui conformis. Attribuitur ergo rationabiliter procedere scientiae naturali, non quia ei soli conveniat, sed quia ei praecipue competit."
+        },
+        {
+          "ct_id": "84764",
+          "title": "Super De Trinitate, pars 3 q. 6 a. 1 ad 1",
+          "ref_label": "Super De Trinitate, pars 3 q. 6 a. 1 ad 1",
+          "latin": "Ad primum ergo dicendum quod ratio illa procedit de processu, qui dicitur rationabilis secundum primum modum. Sic enim processus rationabilis est proprius rationali scientiae et divinae, non autem naturali."
+        },
+        {
+          "ct_id": "84765",
+          "title": "Super De Trinitate, pars 3 q. 6 a. 1 ad 2",
+          "ref_label": "Super De Trinitate, pars 3 q. 6 a. 1 ad 2",
+          "latin": "Ad secundum dicendum quod ratio illa procedit de processu, qui dicitur rationabilis secundo modo."
+        },
+        {
+          "ct_id": "84766",
+          "title": "Super De Trinitate, pars 3 q. 6 a. 1 ad 3",
+          "ref_label": "Super De Trinitate, pars 3 q. 6 a. 1 ad 3",
+          "latin": "Ad tertium dicendum quod in omnibus scientiis servatur quantum ad hoc modus rationis, quod proceditur de uno in aliud secundum rationem, non autem quod procedatur de una re in aliam, sed hoc est proprium naturalis scientiae. Et sic ei rationabiliter procedere attribuitur, ut dictum est."
+        },
+        {
+          "ct_id": "84767",
+          "title": "Super De Trinitate, pars 3 q. 6 a. 1 ad 4",
+          "ref_label": "Super De Trinitate, pars 3 q. 6 a. 1 ad 4",
+          "latin": "Ad quartum dicendum quod philosophus ibi pro eodem ponit ratiocinativum et opinativum, unde patet quod pertinet ad secundum modum assignatum. Ratiocinativo autem vel opinativo attribuit philosophus ibidem agibilia humana, de quibus est scientia moralis, ratione suae contingentiae. Unde potest ex dictis colligi quod primus modus rationabilitatis est maxime proprius scientiae rationali, secundus scientiae morali, tertius scientiae naturali."
+        },
+        {
+          "ct_id": "84768",
+          "title": "Super De Trinitate, pars 3 q. 6 a. 1 co. 11",
+          "ref_label": "Super De Trinitate, pars 3 q. 6 a. 1 co. 11",
+          "latin": "Ad secundam quaestionem dicendum quod disciplinaliter procedere attribuitur scientiae mathematicae, non quia ipsa sola disciplinaliter procedat, sed quia hoc ei praecipue competit. Cum enim discere nihil sit aliud quam ab alio scientiam accipere, tunc dicimur disciplinabiliter procedere, quando processus noster ad certam cognitionem perducit, quae scientia dicitur; quod quidem maxime contingit in mathematicis scientiis. Cum enim mathematica sit media inter naturalem et divinam, ipsa est utraque certior. Naturali quidem propter hoc quod eius consideratio est a motu et materia absoluta, cum naturalis consideratio in materia et motu versetur. Ex hoc autem quod consideratio naturalis est circa materiam, eius cognitio a pluribus dependet, scilicet ex consideratione materiae ipsius et formae et dispositionum materialium et proprietatum quae consequuntur formam in materia. Ubicumque autem ad aliquid cognoscendum oportet plura considerare, est difficilior cognitio; unde in I posteriorum dicitur quod minus certa scientia est *quae est ex additione, ut geometria arithmetica*. Ex hoc vero quod eius consideratio est circa res mobiles et quae non uniformiter se habent, eius cognitio est minus firma, quia eius demonstrationes frequenter procedunt, ut in maiori parte, ex hoc quod contingit aliquando aliter se habere. Et ideo etiam quanto aliqua scientia magis appropinquat ad singularia, sicut scientiae operativae, ut medicina, alchimia et moralis, minus possunt habere de certitudine propter multitudinem eorum quae consideranda sunt in talibus scientiis, quorum quodlibet si omittatur, sequetur error, et propter eorum variabilitatem."
+        },
+        {
+          "ct_id": "84769",
+          "title": "Super De Trinitate, pars 3 q. 6 a. 1 co. 12",
+          "ref_label": "Super De Trinitate, pars 3 q. 6 a. 1 co. 12",
+          "latin": "Est etiam processus mathematicae certior quam processus scientiae divinae, quia ea, de quibus est scientia divina, sunt magis a sensibilibus remota, a quibus nostra cognitio initium sumit, et quantum ad substantias separatas, in quarum cognitionem insufficienter inducunt ea, quae a sensibilibus accipimus, et quantum ad ea quae sunt communia omnibus entibus, quae sunt maxime universalia et sic maxime remota a particularibus cadentibus sub sensu. Mathematica autem ipsa in sensu cadunt et imaginationi subiacent, ut figura, linea et numerus et huiusmodi. Et ideo intellectus humanus a phantasmatibus accipiens facilius capit horum cognitionem et certius quam intelligentiae alicuius vel etiam quam quiditatem substantiae et actum et potentiam et alia huiusmodi. Et sic patet quod mathematica consideratio est facilior et certior quam naturalis et theologica, et multo plus quam scientiae aliae operativae, et ideo ipsa maxime dicitur disciplinaliter procedere. Et hoc est quod Ptolemaeus dicit in principio Almagesti: *alia duo genera theorici potius quis opinionem quam conceptionem scientialem dicat: theologicum quidem propter inapparens ipsius et incomprehensibile, physicum vero propter materiae instabile et immanifestum. Solum autem mathematicum inquisitionis firmam stabilemque fidem intendentibus dabit, velut utique demonstratione per indubitabiles vias facta*."
+        },
+        {
+          "ct_id": "84770",
+          "title": "Super De Trinitate, pars 3 q. 6 a. 1 ad 11",
+          "ref_label": "Super De Trinitate, pars 3 q. 6 a. 1 ad 11",
+          "latin": "Ad primum ergo dicendum quod quamvis in qualibet scientia disciplina accipiatur, tamen in mathematica facilius et certius, ut dictum est."
+        },
+        {
+          "ct_id": "84771",
+          "title": "Super De Trinitate, pars 3 q. 6 a. 1 ad 12",
+          "ref_label": "Super De Trinitate, pars 3 q. 6 a. 1 ad 12",
+          "latin": "Ad secundum dicendum quod naturalia quamvis sensui subiaceant, tamen propter sui fluxibilitatem non habent magnam certitudinem, cum extra sensum fiunt, sicut habent mathematica, quae sunt absque motu et tamen sunt in materia sensibili secundum esse, et sic sub sensu et imaginatione cadere possunt."
+        },
+        {
+          "ct_id": "84772",
+          "title": "Super De Trinitate, pars 3 q. 6 a. 1 ad 13",
+          "ref_label": "Super De Trinitate, pars 3 q. 6 a. 1 ad 13",
+          "latin": "Ad tertium dicendum quod in addiscendo incipimus ab eo quod est magis facile, nisi necessitas aliud requirat. Quandoque enim necessarium est in addiscendo incipere non ab eo quod est facilius, sed ab eo, a cuius cognitione sequentium cognitio dependet. Et hac ratione oportet in addiscendo a logica incipere, non quia ipsa sit facilior ceteris scientiis, habet enim maximam difficultatem, cum sit de secundo intellectis, sed quia aliae scientiae ab ipsa dependent, in quantum ipsa docet modum procedendi in omnibus scientiis. Oportet autem primo scire modum scientiae quam scientiam ipsam, ut dicitur in II metaphysicae."
+        },
+        {
+          "ct_id": "84773",
+          "title": "Super De Trinitate, pars 3 q. 6 a. 1 ad 14",
+          "ref_label": "Super De Trinitate, pars 3 q. 6 a. 1 ad 14",
+          "latin": "Ad quartum dicendum quod a potentiis animae sumitur modus scientiarum propter modum quem habent potentiae animae in agendo. Unde modi scientiarum non respondent potentiis animae, sed modis quibus potentiae animae procedere possunt, qui non solum diversificantur penes potentias tantum, sed etiam penes obiecta; et sic non oportet quod modus cuiuslibet scientiae denominetur ab aliqua potentia animae. Potest tamen dici quod sicut modus physicae sumitur a ratione, secundum quod a sensu accipit, modus autem divinae scientiae ab intellectu, secundum quod nude aliquid considerat, ita etiam et modus mathematicae potest sumi a ratione, secundum quod accipit ab imaginatione."
+        },
+        {
+          "ct_id": "84774",
+          "title": "Super De Trinitate, pars 3 q. 6 a. 1 co. 21",
+          "ref_label": "Super De Trinitate, pars 3 q. 6 a. 1 co. 21",
+          "latin": "Ad tertiam quaestionem dicendum quod sicut rationabiliter procedere attribuitur naturali philosophiae, eo quod in ipsa maxime observatur modus rationis, ita intellectualiter procedere attribuitur divinae scientiae, eo quod in ipsa maxime observatur modus intellectus. Differt autem ratio ab intellectu, sicut multitudo ab unitate. Unde dicit Boethius in IV de consolatione quod similiter se habent ratio ad intelligentiam et tempus ad aeternitatem et circulus ad centrum. Est enim rationis proprium circa multa diffundi et ex eis unam simplicem cognitionem colligere. Unde Dionysius dicit 7 c. de divinis nominibus quod animae secundum hoc habent rationalitatem quod diffusive circueunt exsistentium veritatem, et in hoc deficiunt ab Angelis; sed in quantum convolvunt multa ad unum, quodam modo Angelis aequantur. Intellectus autem e converso per prius unam et simplicem veritatem considerat et in illa totius multitudinis cognitionem capit, sicut Deus intelligendo suam essentiam omnia cognoscit. Unde Dionysius ibidem dicit quod angelicae mentes habent intellectualitatem, in quantum *uniformiter intelligibilia divinorum intelligunt*."
+        },
+        {
+          "ct_id": "84775",
+          "title": "Super De Trinitate, pars 3 q. 6 a. 1 co. 22",
+          "ref_label": "Super De Trinitate, pars 3 q. 6 a. 1 co. 22",
+          "latin": "Sic ergo patet quod rationalis consideratio ad intellectualem terminatur secundum viam resolutionis, in quantum ratio ex multis colligit unam et simplicem veritatem. Et rursum intellectualis consideratio est principium rationalis secundum viam compositionis vel inventionis, in quantum intellectus in uno multitudinem comprehendit. Illa ergo consideratio, quae est terminus totius humanae ratiocinationis, maxime est intellectualis consideratio. Tota autem consideratio rationis resolventis in omnibus scientiis ad considerationem divinae scientiae terminatur. Ratio enim, ut prius dictum est, procedit quandoque de uno in aliud secundum rem, ut quando est demonstratio per causas vel effectus extrinsecos: componendo quidem, cum proceditur a causis ad effectus; quasi resolvendo, cum proceditur ab effectibus ad causas, eo quod causae sunt effectibus simpliciores et magis immobiliter et uniformiter permanentes. Ultimus ergo terminus resolutionis in hac via est, cum pervenitur ad causas supremas maxime simplices, quae sunt substantiae separatae. Quandoque vero procedit de uno in aliud secundum rationem, ut quando est processus secundum causas intrinsecas: componendo quidem, quando a formis maxime universalibus in magis particulata proceditur; resolvendo autem quando e converso, eo quod universalius est simplicius. Maxime autem universalia sunt, quae sunt communia omnibus entibus. Et ideo terminus resolutionis in hac via ultimus est consideratio entis et eorum quae sunt entis in quantum huiusmodi. Haec autem sunt, de quibus scientia divina considerat, ut supra dictum est, scilicet substantiae separatae et communia omnibus entibus. Unde patet quod sua consideratio est maxime intellectualis. Et exinde etiam est quod ipsa largitur principia omnibus aliis scientiis, in quantum intellectualis consideratio est principium rationalis, propter quod dicitur prima philosophia; et nihilominus ipsa addiscitur post physicam et ceteras scientias, in quantum consideratio intellectualis est terminus rationalis, propter quod dicitur metaphysica quasi trans physicam, quia post physicam resolvendo occurrit."
+        },
+        {
+          "ct_id": "84776",
+          "title": "Super De Trinitate, pars 3 q. 6 a. 1 ad 21",
+          "ref_label": "Super De Trinitate, pars 3 q. 6 a. 1 ad 21",
+          "latin": "Ad primum ergo dicendum quod intellectualiter procedere non attribuitur scientiae divinae, quasi ipsa non ratiocinetur procedendo de principiis ad conclusiones, sed quia eius ratiocinatio est intellectuali considerationi propinquissima et conclusiones eius principiis."
+        },
+        {
+          "ct_id": "84777",
+          "title": "Super De Trinitate, pars 3 q. 6 a. 1 ad 22",
+          "ref_label": "Super De Trinitate, pars 3 q. 6 a. 1 ad 22",
+          "latin": "Ad secundum dicendum quod Deus est supra omnem intellectum creatum quantum ad comprehensionem, non autem supra intellectum increatum, cum ipse se ipsum intelligendo comprehendat. Est vero supra omnem intellectum viatoris quantum ad cognitionem, qua cognoscitur quid est, non autem quantum ad cognitionem, qua cognoscitur an est. A beatis autem cognoscitur etiam quid est, quia vident eius essentiam. Et tamen scientia divina non est solum de Deo, sed et de aliis quae intellectum humanum etiam secundum statum viae non excedunt quantum ad quid est cognoscendum de eis."
+        },
+        {
+          "ct_id": "84778",
+          "title": "Super De Trinitate, pars 3 q. 6 a. 1 ad 23",
+          "ref_label": "Super De Trinitate, pars 3 q. 6 a. 1 ad 23",
+          "latin": "Ad tertium dicendum quod, sicut supra dictum est, humana consideratio quantum ad sui terminum quodammodo pertingit ad angelicam cognitionem, non secundum aequalitatem, sed secundum quandam assimilationem. Unde Dionysius dicit 7 c. de divinis nominibus quod *animae multorum convolutione ad unum sunt dignae habitae intellectibus aequalibus Angelis, in quantum animabus est proprium et possibile*."
+        },
+        {
+          "ct_id": "84779",
+          "title": "Super De Trinitate, pars 3 q. 6 a. 1 ad 24",
+          "ref_label": "Super De Trinitate, pars 3 q. 6 a. 1 ad 24",
+          "latin": "Ad quartum dicendum quod cognitio etiam fidei maxime pertinet ad intellectum. Non enim ea rationis investigatione accipimus, sed simplici acceptione intellectus tenemus. Dicimur autem ea non intelligere, in quantum intellectus eorum plenariam cognitionem non habet; quod quidem nobis in praemium repromittitur."
+        }
+      ]
+    },
+    {
+      "sec_id": "s6",
+      "folio": "q. 6, a. 2",
+      "heading_la": "Quaestio VI, Articulus 2 — Utrum in divinis sit omnino imaginatio relinquenda (Quod Iudicium Mathematicum Terminatur ad Imaginationem)",
+      "heading_en": "Question VI, Article 2 — Whether in Divine Things Imagination Must Be Altogether Relinquished (Why Mathematical Judgment Terminates at the Imagination)",
+      "source_work": "de_trinitate",
+      "paragraphs": [
+        {
+          "ct_id": "84780",
+          "title": "Super De Trinitate, pars 3 q. 6 a. 2 arg. 1",
+          "ref_label": "Super De Trinitate, pars 3 q. 6 a. 2 arg. 1",
+          "latin": "Ad secundum sic proceditur. Videtur quod in divinis oporteat ad imaginationes deduci. Scientia enim divina numquam competentius traditur quam in sacra Scriptura. Sed in sacra Scriptura in divinis deducimur ad imaginationes, dum divina nobis sub figuris sensibilibus describuntur. Ergo oportet in divinis ad imaginationes deduci."
+        },
+        {
+          "ct_id": "84781",
+          "title": "Super De Trinitate, pars 3 q. 6 a. 2 arg. 2",
+          "ref_label": "Super De Trinitate, pars 3 q. 6 a. 2 arg. 2",
+          "latin": "Praeterea, divina non capiuntur nisi intellectu, unde et in eis intellectualiter versari oportet, ut dictum est. Sed non est intelligere sine phantasmate, ut dicit philosophus in I et III de anima. Ergo in divinis oportet ad imaginationes deduci."
+        },
+        {
+          "ct_id": "84782",
+          "title": "Super De Trinitate, pars 3 q. 6 a. 2 arg. 3",
+          "ref_label": "Super De Trinitate, pars 3 q. 6 a. 2 arg. 3",
+          "latin": "Praeterea, divina nobis innotescunt maxime per illustrationem divini radii. Sed, sicut dicit Dionysius in 1 c. caelestis hierarchiae, *impossibile est nobis aliter superlucere divinum radium nisi varietate sacrorum velaminum circumvelatum*; et vocat sacra velamina sensibilium imagines. Ergo in divinis oportet ad imaginationes deduci."
+        },
+        {
+          "ct_id": "84783",
+          "title": "Super De Trinitate, pars 3 q. 6 a. 2 arg. 4",
+          "ref_label": "Super De Trinitate, pars 3 q. 6 a. 2 arg. 4",
+          "latin": "Praeterea, circa sensibilia oportet imaginabiliter versari. Sed divinorum cognitionem ex sensibilibus effectibus accipimus, secundum illud Rom. 1: *invisibilia Dei per ea quae facta sunt intellecta conspiciuntur*. Ergo in divinis oportet ad imaginationes deduci."
+        },
+        {
+          "ct_id": "84784",
+          "title": "Super De Trinitate, pars 3 q. 6 a. 2 arg. 5",
+          "ref_label": "Super De Trinitate, pars 3 q. 6 a. 2 arg. 5",
+          "latin": "Praeterea, in cognoscitivis maxime regulamur per id quod est cognitionis principium, sicut in naturalibus per sensum, a quo nostra cognitio incipit. Sed principium intellectualis cognitionis in nobis est imaginatio, cum phantasmata hoc modo comparentur ad intellectum nostrum sicut colores ad visum, ut dicitur in III de anima. Ergo in divinis oportet ad imaginationem deduci."
+        },
+        {
+          "ct_id": "84785",
+          "title": "Super De Trinitate, pars 3 q. 6 a. 2 arg. 6",
+          "ref_label": "Super De Trinitate, pars 3 q. 6 a. 2 arg. 6",
+          "latin": "Praeterea, cum intellectus non utatur organo corporali, ex laesione organi corporalis non impeditur actio intellectus, nisi quatenus ad imaginationem convertitur. Sed per laesionem organi corporalis, scilicet cerebri, impeditur intellectus in consideratione divinorum. Ergo intellectus divina considerans ad imaginationem deducitur."
+        },
+        {
+          "ct_id": "84786",
+          "title": "Super De Trinitate, pars 3 q. 6 a. 2 s. c. 1",
+          "ref_label": "Super De Trinitate, pars 3 q. 6 a. 2 s. c. 1",
+          "latin": "Sed contra est quod Dionysius dicit 1 c. mysticae theologiae ad Timotheum loquens: *tu, inquit, o amice Timothee, circa mysticas visiones sensus derelinque*. Sed imaginatio non est nisi sensibilium, cum sit *motus factus a sensu secundum actum*, ut dicitur in II de anima. Ergo cum divinorum considerationes sint maxime mysticae, in eis non debemus ad imaginationes deduci."
+        },
+        {
+          "ct_id": "84787",
+          "title": "Super De Trinitate, pars 3 q. 6 a. 2 s. c. 2",
+          "ref_label": "Super De Trinitate, pars 3 q. 6 a. 2 s. c. 2",
+          "latin": "Praeterea, in cuiuslibet scientiae consideratione vitandum est illud quod in ea errorem facit. Sed, sicut dicit Augustinus in I libro de Trinitate, primus error circa divina est eorum, qui ea, quae de corporalibus rebus noverunt, ad res divinas transferre conantur. Cum ergo imaginatio non sit nisi corporalium rerum, videtur quod in divinis non debeamus ad imaginationes deduci."
+        },
+        {
+          "ct_id": "84788",
+          "title": "Super De Trinitate, pars 3 q. 6 a. 2 s. c. 3",
+          "ref_label": "Super De Trinitate, pars 3 q. 6 a. 2 s. c. 3",
+          "latin": "Praeterea, virtus inferior non se extendit in id quod est superioris proprium, ut patet per Boethium in V de consolatione. Sed cognoscere divina et spiritualia pertinet ad intellectum et intelligentiam, ut dicitur in libro de spiritu et anima. Cum ergo, ut ibidem dicitur, imaginatio sit infra intelligentiam et intellectum, videtur quod in divinis et spiritualibus non debeamus ad imaginationem deduci."
+        },
+        {
+          "ct_id": "84789",
+          "title": "Super De Trinitate, pars 3 q. 6 a. 2 co. 1",
+          "ref_label": "Super De Trinitate, pars 3 q. 6 a. 2 co. 1",
+          "latin": "Responsio. Dicendum quod in qualibet cognitione duo est considerare, scilicet principium et terminum. Principium quidem ad apprehensionem pertinet, terminus autem ad iudicium; ibi enim cognitio perficitur. Principium igitur cuiuslibet nostrae cognitionis est in sensu, quia ex apprehensione sensus oritur apprehensio phantasiae, quae est *motus a sensu factus*, ut dicit philosophus, a qua iterum oritur apprehensio intellectiva in nobis, cum phantasmata sint intellectivae animae ut obiecta, ut patet in III de anima."
+        },
+        {
+          "ct_id": "84790",
+          "title": "Super De Trinitate, pars 3 q. 6 a. 2 co. 2",
+          "ref_label": "Super De Trinitate, pars 3 q. 6 a. 2 co. 2",
+          "latin": "Sed terminus cognitionis non semper est uniformiter: quandoque enim est in sensu, quandoque in imaginatione, quandoque autem in solo intellectu. Quandoque enim proprietates et accidentia rei, quae sensu demonstrantur, sufficienter exprimunt naturam rei, et tunc oportet quod iudicium de rei natura quod facit intellectus conformetur his quae sensus de re demonstrat. Et huiusmodi sunt omnes res naturales, quae sunt determinatae ad materiam sensibilem, et ideo in scientia naturali terminari debet cognitio ad sensum, ut scilicet hoc modo iudicemus de rebus naturalibus, secundum quod sensus eas demonstrat, ut patet in III caeli et mundi; et qui sensum neglegit in naturalibus, incidit in errorem. Et haec sunt naturalia quae sunt concreta cum materia sensibili et motu et secundum esse et secundum considerationem."
+        },
+        {
+          "ct_id": "84791",
+          "title": "Super De Trinitate, pars 3 q. 6 a. 2 co. 3",
+          "ref_label": "Super De Trinitate, pars 3 q. 6 a. 2 co. 3",
+          "latin": "Quaedam vero sunt, quorum iudicium non dependet ex his quae sensu percipiuntur, quia quamvis secundum esse sint in materia sensibili, tamen secundum rationem diffinitivam sunt a materia sensibili abstracta. Iudicium autem de unaquaque re potissime fit secundum eius diffinitivam rationem. Sed quia secundum rationem diffinitivam non abstrahunt a qualibet materia, sed solum a sensibili et remotis sensibilibus condicionibus remanet aliquid imaginabile, ideo in talibus oportet quod iudicium sumatur secundum id quod imaginatio demonstrat. Huiusmodi autem sunt mathematica. Et ideo in mathematicis oportet cognitionem secundum iudicium terminari ad imaginationem, non ad sensum, quia iudicium mathematicum superat apprehensionem sensus. Unde non est idem iudicium quandoque de linea mathematica quod est de linea sensibili, sicut in hoc quod recta linea tangit sphaeram solum secundum punctum, quod convenit rectae lineae separatae, non autem rectae lineae in materia, ut dicitur in I de anima."
+        },
+        {
+          "ct_id": "84792",
+          "title": "Super De Trinitate, pars 3 q. 6 a. 2 co. 4",
+          "ref_label": "Super De Trinitate, pars 3 q. 6 a. 2 co. 4",
+          "latin": "Quaedam vero sunt quae excedunt et id quod cadit sub sensu et id quod cadit sub imaginatione, sicut illa quae omnino a materia non dependent neque secundum esse neque secundum considerationem, et ideo talium cognitio secundum iudicium neque debet terminari ad imaginationem neque ad sensum. Sed tamen ex his, quae sensu vel imaginatione apprehenduntur, in horum cognitionem devenimus vel per viam causalitatis, sicut ex effectu causa perpenditur, quae non est effectui commensurata, sed excellens, vel per excessum vel per remotionem, quando omnia, quae sensus vel imaginatio apprehendit, a rebus huiusmodi separamus; quos modos cognoscendi divina ex sensibilibus ponit Dionysius in libro de divinis nominibus. Uti ergo possumus in divinis et sensu et imaginatione sicut principiis nostrae considerationis, sed non sicut terminis, ut scilicet iudicemus talia esse divina, qualia sunt quae sensus vel imaginatio apprehendit. Deduci autem ad aliquid est ad illud terminari. Et ideo in divinis neque ad imaginationem neque ad sensum debemus deduci, in mathematicis autem ad imaginationem et non ad sensum, in naturalibus autem etiam ad sensum. Et propter hoc peccant qui uniformiter in his tribus speculativae partibus procedere nituntur."
+        },
+        {
+          "ct_id": "84793",
+          "title": "Super De Trinitate, pars 3 q. 6 a. 2 ad 1",
+          "ref_label": "Super De Trinitate, pars 3 q. 6 a. 2 ad 1",
+          "latin": "Ad primum ergo dicendum quod sacra Scriptura non proponit nobis divina sub figuris sensibilibus, ut ibi intellectus noster remaneat, sed ut ab his ad immaterialia ascendat. Unde etiam per vilium rerum figuras divina tradit, ut minor praebeatur occasio in talibus remanendi, ut dicit Dionysius in 2 c. caelestis hierarchiae."
+        },
+        {
+          "ct_id": "84794",
+          "title": "Super De Trinitate, pars 3 q. 6 a. 2 ad 2",
+          "ref_label": "Super De Trinitate, pars 3 q. 6 a. 2 ad 2",
+          "latin": "Ad secundum dicendum quod intellectus nostri operatio non est in praesenti statu sine phantasmate quantum ad principium cognitionis; non tamen oportet quod nostra cognitio semper ad phantasmata terminetur, ut scilicet illud, quod intelligimus, iudicemus esse tale quale est illud quod phantasia apprehendit."
+        },
+        {
+          "ct_id": "84795",
+          "title": "Super De Trinitate, pars 3 q. 6 a. 2 ad 3",
+          "ref_label": "Super De Trinitate, pars 3 q. 6 a. 2 ad 3",
+          "latin": "Ad tertium dicendum quod auctoritas illa Dionysii loquitur quantum ad principium cognitionis et non quantum ad terminum."
+        },
+        {
+          "ct_id": "84796",
+          "title": "Super De Trinitate, pars 3 q. 6 a. 2 ad 5",
+          "ref_label": "Super De Trinitate, pars 3 q. 6 a. 2 ad 5",
+          "latin": "Ad quintum dicendum quod ratio illa procedit, quando principium cognitionis est sufficienter ducens in id, cuius cognitio quaeritur, et sic est principium sensus in naturalibus, non autem in divinis, ut dictum est."
+        },
+        {
+          "ct_id": "84797",
+          "title": "Super De Trinitate, pars 3 q. 6 a. 2 ad 6",
+          "ref_label": "Super De Trinitate, pars 3 q. 6 a. 2 ad 6",
+          "latin": "Ad sextum dicendum quod phantasma est principium nostrae cognitionis, ut ex quo incipit intellectus operatio non sicut transiens, sed sicut permanens ut quoddam fundamentum intellectualis operationis; sicut principia demonstrationis oportet manere in omni processu scientiae, cum phantasmata comparentur ad intellectum ut obiecta, in quibus inspicit omne quod inspicit vel secundum perfectam repraesentationem vel per negationem. Et ideo quando phantasmatum cognitio impeditur, oportet totaliter impediri cognitionem intellectus etiam in divinis. Patet enim quod non possumus intelligere Deum esse causam corporum sive supra omnia corpora sive absque corporeitate, nisi imaginemur corpora, non tamen iudicium divinorum secundum imaginationem formatur. Et ideo quamvis imaginatio in qualibet divinorum consideratione sit necessaria secundum statum viae, numquam tamen ad eam deduci oportet in divinis."
+        }
+      ]
+    }
+  ]
+}

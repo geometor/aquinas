@@ -1,0 +1,346 @@
+{
+  "aquinas": {
+    "slug": "aquinas",
+    "name": "Thomas Aquinas, St., O.P.",
+    "dates": "1225 – 1274",
+    "role": "Scholastic Philosopher, Theologian & Doctor Communis",
+    "bio": "Dominican friar and preeminent medieval synthesizer of Aristotelian science and Christian metaphysics. Across his exposition of Boethius's De Trinitate (qq. 5–6), his Aristotelian commentaries (Posterior Analytics, De Anima, Physics, De Caelo, Metaphysics), the Summa Theologiae, and the Disputed Questions (De Veritate, De Potentia), Aquinas formulated the classic realist epistemology of mathematics grounded in intelligible matter (materia intelligibilis), abstraction of form (abstractio formae), turning to phantasms (conversio ad phantasmata), heuristic division of figures in act (divisio in actu), and judgment terminating at the imagination (terminari ad imaginationem).",
+    "works": [
+      "Super Boetium De Trinitate (qq. 5–6)",
+      "Expositio libri Posteriorum Analyticorum",
+      "Sentencia libri De anima",
+      "Commentaria in octo libros Physicorum",
+      "In libros De caelo et mundo expositio",
+      "Sententia super Metaphysicam",
+      "Summa Theologiae",
+      "Quaestiones disputatae de potentia Dei",
+      "Quaestiones disputatae de veritate"
+    ]
+  },
+  "aristotle": {
+    "slug": "aristotle",
+    "name": "Aristotle of Stagira",
+    "dates": "384 – 322 BC",
+    "role": "Greek Philosopher ('The Philosopher')",
+    "bio": "Founder of the Peripatetic school and author of the Posterior Analytics, Physics, De Caelo, De Anima, and Metaphysics. Known throughout Aquinas's corpus simply as 'Philosophus', Aristotle forged the theory of demonstrative science, continuous magnitude, intelligible matter (hyle noete), and geometric discovery by actualizing latent divisions (Metaphysics IX.9).",
+    "works": [
+      "Analytica Posteriora",
+      "Physica",
+      "De Caelo",
+      "De Anima",
+      "Metaphysica"
+    ]
+  },
+  "plato": {
+    "slug": "plato",
+    "name": "Plato of Athens",
+    "dates": "c. 427 – 347 BC",
+    "role": "Greek Philosopher & Founder of the Academy",
+    "bio": "Author of the Meno, Republic, and Timaeus who situated mathematical objects (ta mathematika) as eternal intermediates between sensible flux and separated Forms. Frequently critiqued by Aristotle and Aquinas for reifying mental mathematical abstractions into subsistent separate substances, yet honored for recognizing the immutable necessity of geometric truth.",
+    "works": [
+      "Meno",
+      "Republic",
+      "Timaeus",
+      "Phaedo"
+    ]
+  },
+  "euclid": {
+    "slug": "euclid",
+    "name": "Euclid of Alexandria",
+    "dates": "fl. c. 300 BC",
+    "role": "Alexandrian Geometer",
+    "bio": "Author of the Elements, the thirteen-book deductive synthesis of plane and solid constructive geometry, proportion theory, incommensurables, and the five regular Platonic solids. Throughout Aquinas's logical and metaphysical commentaries, Euclidean definitions, postulates, common conceptions, and theorems (especially I.1, I.4, I.32, III.31, and X.117) serve as the concrete exemplars of demonstrative certainty.",
+    "works": [
+      "Elements (Books I–XIII)",
+      "Optics",
+      "Data"
+    ]
+  },
+  "pythagoras": {
+    "slug": "pythagoras",
+    "name": "Pythagoras of Samos",
+    "dates": "c. 570 – c. 495 BC",
+    "role": "Pre-Socratic Philosopher & Mathematician",
+    "bio": "Founder of the Pythagorean brotherhood who discovered the numerical ratios of musical consonances and investigated polygonal numbers, geometric harmony, and the pentagram. Discussed by Aquinas in De Caelo I.2 on the triad of spatial dimensions and in Metaphysics I & VII on whether numbers constitute the substance of things.",
+    "works": [
+      "Pythagorean Mathematical & Harmonic Tradition"
+    ]
+  },
+  "democritus": {
+    "slug": "democritus",
+    "name": "Democritus of Abdera",
+    "dates": "c. 460 – c. 370 BC",
+    "role": "Pre-Socratic Atomist Philosopher",
+    "bio": "Co-founder of ancient atomism examined by Aquinas in De Anima I.11 (comparing spherical soul-atoms moving the body to geometers imagining a moving point generating a line) and in Summa Theologiae I q. 84 a. 6 (as the classical pole of pure sensory materialism contrasted with Platonic separatism).",
+    "works": [
+      "Fragments on Atomism and Perception"
+    ]
+  },
+  "ptolemy": {
+    "slug": "ptolemy",
+    "name": "Claudius Ptolemy",
+    "dates": "c. 100 – c. 170 AD",
+    "role": "Greco-Roman Mathematician & Astronomer",
+    "bio": "Alexandrian astronomer and mathematician cited by Aquinas in Super Boetium De Trinitate q. 5 a. 1 and Physics II.3 as a foremost practitioner of the scientiae mediae (sciences intermediate between pure geometry and natural philosophy, applying spherical geometry to celestial motions).",
+    "works": [
+      "Almagest (Syntaxis Mathematica)",
+      "Optics",
+      "Harmonics"
+    ]
+  },
+  "alexander": {
+    "slug": "alexander",
+    "name": "Alexander of Aphrodisias",
+    "dates": "fl. c. 200 AD",
+    "role": "Peripatetic Commentator",
+    "bio": "Foremost ancient Greek commentator on Aristotle's Metaphysics and Organon, consulted by Aquinas (via medieval Greco-Latin and Arabic traditions) and cited by Hoenen on geometric division in Metaphysics IX.",
+    "works": [
+      "In Aristotelis Metaphysica Commentaria"
+    ]
+  },
+  "pappus": {
+    "slug": "pappus",
+    "name": "Pappus of Alexandria",
+    "dates": "c. 290 – c. 350 AD",
+    "role": "Late Antique Geometer",
+    "bio": "Author of the Mathematical Collection (Synagoge), who formalized the method of geometric analysis and synthesis (Book VII) and projective harmonic invariance—providing the classical mathematical counterpart to Aquinas's account of heuristic resolution and composition.",
+    "works": [
+      "Synagoge (Mathematical Collection)"
+    ]
+  },
+  "themistius": {
+    "slug": "themistius",
+    "name": "Themistius",
+    "dates": "c. 317 – c. 388 AD",
+    "role": "Late Antique Peripatetic Paraphrast",
+    "bio": "Greek commentator whose paraphrases of Aristotle's Posterior Analytics, Physics, and De Anima deeply influenced Aquinas—notably in Physics IV.7 on how immobile place is defined through relation to the whole heavens and in De Anima III on the agent intellect.",
+    "works": [
+      "Paraphrases of Aristotle's Posterior Analytics, Physics, and De Anima"
+    ]
+  },
+  "augustine": {
+    "slug": "augustine",
+    "name": "Augustine of Hippo, St.",
+    "dates": "354 – 430 AD",
+    "role": "Latin Church Father & Christian Neoplatonist",
+    "bio": "Bishop of Hippo whose doctrines of immutable mathematical ratios, divine illumination, and the interior word (verbum mentis) Aquinas harmonizes with Aristotelian abstraction in Super Boetium De Trinitate, Summa Theologiae I q. 84, and De Veritate q. 10 a. 6.",
+    "works": [
+      "De Trinitate",
+      "Soliloquia",
+      "De Libero Arbitrio",
+      "De Genesi ad Litteram"
+    ]
+  },
+  "boethius": {
+    "slug": "boethius",
+    "name": "Anicius Manlius Severinus Boethius",
+    "dates": "c. 477 – 524 AD",
+    "role": "Roman Statesman, Philosopher & Translator",
+    "bio": "Architect of the medieval Latin quadrivium (arithmetic, music, geometry, astronomy) and author of De Trinitate, whose Chapter II inspired Aquinas's Super Boetium De Trinitate qq. 5–6. Boethius transmitted the Latin rendering communes animi conceptiones ('common conceptions of the mind') for Euclidean axioms.",
+    "works": [
+      "De Trinitate",
+      "De Hebdomadibus",
+      "De Institutione Arithmetica",
+      "De Institutione Musica"
+    ]
+  },
+  "simplicius": {
+    "slug": "simplicius",
+    "name": "Simplicius of Cilicia",
+    "dates": "c. 490 – c. 560 AD",
+    "role": "Neoplatonic Commentator on Aristotle",
+    "bio": "Commentator on Aristotle's Categories, Physics, and De Caelo (translated into Latin by William of Moerbeke in 1271 and immediately utilized by Aquinas in his De Caelo commentary), preserving priceless ancient testimonies on Greek geometry and continuum theory.",
+    "works": [
+      "In Aristotelis De Caelo Commentaria",
+      "In Aristotelis Physicorum Libros Commentaria"
+    ]
+  },
+  "avicenna": {
+    "slug": "avicenna",
+    "name": "Avicenna (Ibn Sīnā)",
+    "dates": "980 – 1037",
+    "role": "Persian Philosopher & Physician",
+    "bio": "Author of the Kitāb al-Shifāʾ (Sufficientia, De Anima, Metaphysica), frequently engaged by Aquinas on absolute nature, abstraction, the estimation of sensible intentions, and—critically in Metaphysics V.9 and De Potentia q. 7 a. 2—the relation between essence, accidental predication, and esse.",
+    "works": [
+      "Liber de Philosophia Prima (Metaphysica)",
+      "Liber Sextus de Naturalibus (De Anima)",
+      "Sufficientia"
+    ]
+  },
+  "averroes": {
+    "slug": "averroes",
+    "name": "Averroes (Ibn Rushd)",
+    "dates": "1126 – 1198",
+    "role": "Andalusian Philosopher ('The Commentator')",
+    "bio": "Author of the Great Commentaries on Aristotle's Physics, De Caelo, De Anima, and Metaphysics. Cited by Aquinas as 'Commentator' in Physics II.3, IV.7, Metaphysics V.9, and De Anima III while firmly critiqued for positing a single separate possible intellect.",
+    "works": [
+      "Commentaria Magna in Aristotelem (Physica, De Caelo, De Anima, Metaphysica)"
+    ]
+  },
+  "peter-lombard": {
+    "slug": "peter-lombard",
+    "name": "Peter Lombard",
+    "dates": "c. 1096 – 1160",
+    "role": "Scholastic Theologian ('Magister Sententiarum')",
+    "bio": "Bishop of Paris whose Libri Quattuor Sententiarum served as the standard university textbook on which young Thomas Aquinas composed his first monumental synthesis (Scriptum super libros Sententiarum), containing foundational analyses of truth and predication.",
+    "works": [
+      "Libri Quattuor Sententiarum"
+    ]
+  },
+  "albertus": {
+    "slug": "albertus",
+    "name": "Albert the Great, St., O.P.",
+    "dates": "c. 1200 – 1280",
+    "role": "Dominican Polymath, Teacher of Aquinas & Doctor Universalis",
+    "bio": "Master of Thomas Aquinas at Paris and Cologne, who commented on the entire Aristotelian corpus as well as Euclid's Elements, emphasizing imaginative construction and continuous quantity as the proper subject of geometry.",
+    "works": [
+      "Commentaria in Analytica Priora et Posteriora",
+      "Metaphysica",
+      "Super Euclidem"
+    ]
+  },
+  "william-of-moerbeke": {
+    "slug": "william-of-moerbeke",
+    "name": "William of Moerbeke, O.P.",
+    "dates": "c. 1215 – 1286",
+    "role": "Dominican Hellenist & Translator",
+    "bio": "Confrere of Thomas Aquinas who produced crisp, literal Greek-to-Latin translations and revisions of Aristotle (Posterior Analytics, De Anima, Physics, De Caelo, Metaphysics), Archimedes, and Greek commentators (Themistius, Simplicius), providing the exact Latin *littera* expounded in Aquinas's mature commentaries.",
+    "works": [
+      "Recensiones et Translationes Aristotelis, Archimedis et Simplicii"
+    ]
+  },
+  "pacioli": {
+    "slug": "pacioli",
+    "name": "Luca Pacioli, O.F.M.",
+    "dates": "c. 1447 – 1517",
+    "role": "Franciscan Mathematician & Author of De Divina Proportione",
+    "bio": "Renaissance mathematician and collaborator of Leonardo da Vinci whose De Divina Proportione (1509) celebrates mathematical science in explicitly Aristotelian-Thomistic terms as possessing the 'first degree of certainty' (primo grado di certezza) and traces the golden ratio across Euclid's Elements and the five Platonic solids.",
+    "works": [
+      "Summa de arithmetica, geometria, proportioni et proportionalita (1494)",
+      "De Divina Proportione (1509)",
+      "Euclidis Opera (1509)"
+    ]
+  },
+  "cajetan": {
+    "slug": "cajetan",
+    "name": "Thomas de Vio Cajetan, O.P.",
+    "dates": "1469 – 1534",
+    "role": "Dominican Philosopher, Cardinal & Commentator on the Summa",
+    "bio": "Influential Renaissance Thomist who systematized the doctrine of the 'three degrees of formal abstraction' (abstractio formalis vs. abstractio totalis) in De Nominum Analogia and his commentary on the Summa Theologiae—later critically re-evaluated by Gilson, Geiger, Decker, and Hoenen against Aquinas's own autograph of Super Boetium De Trinitate q. 5 a. 3.",
+    "works": [
+      "Commentaria in Summam Theologiae",
+      "In De Ente et Essentia",
+      "De Nominum Analogia"
+    ]
+  },
+  "kant": {
+    "slug": "kant",
+    "name": "Immanuel Kant",
+    "dates": "1724 – 1804",
+    "role": "German Critical Philosopher",
+    "bio": "Author of the Critique of Pure Reason who recognized against pure rationalism and empiricism that geometric demonstration requires constructive intuition in space, yet treated space as a purely subjective a priori form of sensibility rather than an intelligible abstraction from real extended things (*materia intelligibilis*).",
+    "works": [
+      "Kritik der reinen Vernunft (1781/1787)",
+      "Prolegomena (1783)"
+    ]
+  },
+  "hilbert": {
+    "slug": "hilbert",
+    "name": "David Hilbert",
+    "dates": "1862 – 1943",
+    "role": "German Mathematician & Axiomatic Formalist",
+    "bio": "Author of Grundlagen der Geometrie (1899), who recast Euclidean geometry into rigorous uninterpreted axiom groups ('tables, chairs, and beer mugs'). Engaging Hilbert throughout De Noetica Geometriae, Hoenen honors formal deductive rigor while showing via Aquinas why primitive geometric relations originally derive their consistency and meaning from spatial intuition.",
+    "works": [
+      "Grundlagen der Geometrie (1899)"
+    ]
+  },
+  "russell": {
+    "slug": "russell",
+    "name": "Bertrand Russell",
+    "dates": "1872 – 1970",
+    "role": "British Logician & Philosopher of Mathematics",
+    "bio": "Co-author of Principia Mathematica who sought to reduce pure mathematics to symbolic logic stripped of spatial intuition. Contrasted by Hoenen with Aquinas's *Posterior Analytics* I.19 and *De Anima* III.8 & III.12.",
+    "works": [
+      "An Essay on the Foundations of Geometry (1897)",
+      "The Principles of Mathematics (1903)",
+      "Principia Mathematica (1910–1913)"
+    ]
+  },
+  "cathala": {
+    "slug": "cathala",
+    "name": "Marie-Raymond Cathala, O.P.",
+    "dates": "1868 – 1940",
+    "role": "Dominican Editor of Aquinas's Metaphysics Commentary",
+    "bio": "Dominican scholar whose Marietti edition of Aquinas's In duodecim libros Metaphysicorum Aristotelis expositio (revised by R. M. Spiazzi, 1950) established the universal paragraph numbering (#1–#2663) cited throughout Hoenen's De Noetica Geometriae and preserved in this Codex.",
+    "works": [
+      "In duodecim libros Metaphysicorum Aristotelis expositio (Marietti, 1915; rev. Spiazzi 1950)"
+    ]
+  },
+  "pirotta": {
+    "slug": "pirotta",
+    "name": "Angelo Maria Pirotta, O.P.",
+    "dates": "1894 – 1956",
+    "role": "Dominican Editor of Aquinas's De Anima & Ethics Commentaries",
+    "bio": "Dominican philologist whose critical Marietti edition of Aquinas's In Aristotelis Librum De Anima Commentarium (1925; 1936; 1959) established the sequential paragraph numbering (#1–#846) cited by Hoenen (e.g., Pirotta #170, #770–777, #791) and preserved in Pars III of this Codex.",
+    "works": [
+      "In Aristotelis Librum De Anima Commentarium (Marietti, 1925/1936)"
+    ]
+  },
+  "decker": {
+    "slug": "decker",
+    "name": "Bruno Decker",
+    "dates": "1907 – 1961",
+    "role": "Critical Editor of Super Boetium De Trinitate",
+    "bio": "German textual scholar whose landmark critical edition of Aquinas's Expositio super librum Boethii De Trinitate (Leiden: Brill, 1959, from Vatican autograph Vat. lat. 9850, following P.-M. Gils and L.-B. Geiger) restored Aquinas's exact distinction between *separatio* and *abstractio* prior to the 1992 Leonine Volume L.",
+    "works": [
+      "Sancti Thomae de Aquino Expositio super librum Boethii De Trinitate (1959)"
+    ]
+  },
+  "gilson": {
+    "slug": "gilson",
+    "name": "Étienne Gilson",
+    "dates": "1884 – 1978",
+    "role": "French Historian of Medieval Philosophy",
+    "bio": "Co-founder of the Pontifical Institute of Mediaeval Studies whose recovery of Aquinas's existential metaphysics of *ipsum esse* (*Being and Some Philosophers*, *L'être et l'essence*) converged directly with Hoenen's existential theory of judgment.",
+    "works": [
+      "Le Thomisme",
+      "L'être et l'essence (1948)",
+      "Being and Some Philosophers (1949)"
+    ]
+  },
+  "hoenen": {
+    "slug": "hoenen",
+    "name": "Petrus Hubertus Jacobus Hoenen, S.J.",
+    "dates": "1880 – 1961",
+    "role": "Dutch Jesuit Physicist, Mathematician & Thomistic Epistemologist",
+    "bio": "Professor of Cosmology and Philosophy of Mathematics at the Pontifical Gregorian University in Rome (studied physics under H. A. Lorentz at Leiden). Author of La théorie du jugement d'après St. Thomas d'Aquin (1946; 2nd ed. 1953; English trans. Reality and Judgment According to St. Thomas, 1952) and De Noetica Geometriae (1954), who recovered Aquinas's doctrine that universal necessary nexus are first intuited in singular phantasms (*abstractio intuitiva formalis*) and sealed by reflective judgment.",
+    "works": [
+      "Cosmologia (1931)",
+      "La théorie du jugement d'après St. Thomas d'Aquin (1946; 1953)",
+      "Reality and Judgment According to St. Thomas (1952)",
+      "De Noetica Geometriae: Origine Theoriae Cognitionis (1954)"
+    ]
+  },
+  "lonergan": {
+    "slug": "lonergan",
+    "name": "Bernard J. F. Lonergan, S.J.",
+    "dates": "1904 – 1984",
+    "role": "Canadian Jesuit Philosopher & Theologian",
+    "bio": "Student of Peter Hoenen at the Gregorian University who acknowledged Hoenen's decisive discovery of insight into phantasm in Verbum: Word and Idea in Aquinas (1946–1949; book 1967) and Insight: A Study of Human Understanding (1957), opening Insight with Euclid I.1's intersecting circles as the archetype of insight into continuous phantasm.",
+    "works": [
+      "Verbum: Word and Idea in Aquinas (1946–1949 / 1967)",
+      "Insight: A Study of Human Understanding (1957)"
+    ]
+  },
+  "busa": {
+    "slug": "busa",
+    "name": "Roberto Busa, S.J.",
+    "dates": "1913 – 2011",
+    "role": "Pioneer of Computational Philology & Index Thomisticus",
+    "bio": "Italian Jesuit scholar who initiated the Index Thomisticus in 1949, encoding the complete Opera Omnia of Thomas Aquinas in machine-readable diplomatic form—the foundation of the Corpus Thomisticum digital text curated by Enrique Alarcón at the University of Navarra.",
+    "works": [
+      "Index Thomisticus (1974–1980)",
+      "Corpus Thomisticum Foundation"
+    ]
+  }
+}
