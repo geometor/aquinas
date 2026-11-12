@@ -1,0 +1,143 @@
+geometor.aquinas.compile_codex
+==============================
+
+.. py:module:: geometor.aquinas.compile_codex
+
+.. autoapi-nested-parse::
+
+   Compile the ``scientia_mathematica`` Multi-Track Book Codex RST tree from ``resources/``.
+
+   Generates:
+   - ``docsrc/scientia_mathematica/index.rst`` (``:layout: book`` Conspectus Operis)
+   - ``docsrc/scientia_mathematica/prooemium/prooemium-{en,la,summary,notes}.rst``
+   - ``docsrc/scientia_mathematica/pars-{1..5}/pars-{1..5}-{en,la,summary,notes}.rst``
+   - ``docsrc/scientia_mathematica/{concordance,bibliography,persons,glossary}.rst``
+
+
+
+Attributes
+----------
+
+.. autoapisummary::
+
+   geometor.aquinas.compile_codex.H1_CHAR
+   geometor.aquinas.compile_codex.H2_CHAR
+   geometor.aquinas.compile_codex.H3_CHAR
+   geometor.aquinas.compile_codex.H4_CHAR
+   geometor.aquinas.compile_codex.EN_TAG_RULES
+   geometor.aquinas.compile_codex.LA_TAG_RULES
+   geometor.aquinas.compile_codex.PROTECTED_SPAN_RE
+
+
+Functions
+---------
+
+.. autoapisummary::
+
+   geometor.aquinas.compile_codex.rst_heading
+   geometor.aquinas.compile_codex.normalize_inline_rst
+   geometor.aquinas.compile_codex.enrich_inline_apparatus
+   geometor.aquinas.compile_codex.format_para_badge
+   geometor.aquinas.compile_codex.build_book_index
+   geometor.aquinas.compile_codex.build_prooemium
+   geometor.aquinas.compile_codex.build_part_tracks
+   geometor.aquinas.compile_codex.build_concordance_page
+   geometor.aquinas.compile_codex.build_bibliography_page
+   geometor.aquinas.compile_codex.build_persons_page
+   geometor.aquinas.compile_codex.build_glossary_page
+   geometor.aquinas.compile_codex.compile_all
+   geometor.aquinas.compile_codex.main
+
+
+Module Contents
+---------------
+
+.. py:data:: H1_CHAR
+   :value: '='
+
+
+.. py:data:: H2_CHAR
+   :value: '-'
+
+
+.. py:data:: H3_CHAR
+   :value: '~'
+
+
+.. py:data:: H4_CHAR
+   :value: '^'
+
+
+.. py:function:: rst_heading(title: str, char: str) -> str
+
+   Format an RST section heading with exact underline length (>= 4).
+
+
+.. py:data:: EN_TAG_RULES
+   :type:  list[tuple[re.Pattern[str], str]]
+
+.. py:data:: LA_TAG_RULES
+   :type:  list[tuple[re.Pattern[str], str]]
+
+.. py:data:: PROTECTED_SPAN_RE
+
+.. py:function:: normalize_inline_rst(text: str) -> str
+
+   Clean whitespace and ensure balanced inline asterisks for Sphinx RST.
+
+
+.. py:function:: enrich_inline_apparatus(text: str, rules: list[tuple[re.Pattern[str], str]], seen_in_section: set[str]) -> str
+
+   Tag first occurrences of key persons and terms per section outside protected spans.
+
+
+.. py:function:: format_para_badge(p: dict[str, object]) -> str
+
+   Format subtle critical-edition locus badge for synchronized Latin/English paragraphs.
+
+
+.. py:function:: build_book_index(codex_dir: pathlib.Path, manifest: dict[str, object]) -> None
+
+   Write ``docsrc/scientia_mathematica/index.rst``.
+
+
+.. py:function:: build_prooemium(codex_dir: pathlib.Path) -> None
+
+   Write the 4 synchronized tracks of ``docsrc/scientia_mathematica/prooemium/``.
+
+
+.. py:function:: build_part_tracks(part_num: int, codex_dir: pathlib.Path) -> None
+
+   Compile ``pars-{N}-{en,la,summary,notes}.rst`` for ``part_num`` (1..5).
+
+
+.. py:function:: build_concordance_page(codex_dir: pathlib.Path) -> None
+
+   Write ``docsrc/scientia_mathematica/concordance.rst``.
+
+
+.. py:function:: build_bibliography_page(codex_dir: pathlib.Path) -> None
+
+   Write ``docsrc/scientia_mathematica/bibliography.rst`` with ``cite-<slug>`` anchors.
+
+
+.. py:function:: build_persons_page(codex_dir: pathlib.Path) -> None
+
+   Write ``docsrc/scientia_mathematica/persons.rst`` with ``person-<slug>`` anchors.
+
+
+.. py:function:: build_glossary_page(codex_dir: pathlib.Path) -> None
+
+   Write ``docsrc/scientia_mathematica/glossary.rst`` with ``term-<slug>`` anchors.
+
+
+.. py:function:: compile_all(repo_root: pathlib.Path | None = None) -> dict[str, object]
+
+   Validate all JSON resources and compile the entire ``scientia_mathematica`` RST codex.
+
+
+.. py:function:: main() -> None
+
+   CLI entry point for ``geometor-aquinas-compile``.
+
+

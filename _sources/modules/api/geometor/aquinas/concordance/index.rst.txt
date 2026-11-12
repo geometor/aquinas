@@ -1,0 +1,261 @@
+geometor.aquinas.concordance
+============================
+
+.. py:module:: geometor.aquinas.concordance
+
+.. autoapi-nested-parse::
+
+   Structured query, validation, and concordance API for ``geometor.aquinas``.
+
+   Loads and validates the verbatim diplomatic Latin texts, synchronized English
+   translations, scholarly commentary apparatus, and the 78-locus Hoenen–Aquinas–
+   Aristotle–Euclid–GEOMETOR concordance stored under ``resources/``.
+
+
+
+Classes
+-------
+
+.. autoapisummary::
+
+   geometor.aquinas.concordance.ConcordanceEntry
+   geometor.aquinas.concordance.PersonEntry
+   geometor.aquinas.concordance.GlossaryEntry
+   geometor.aquinas.concordance.CitationEntry
+
+
+Functions
+---------
+
+.. autoapisummary::
+
+   geometor.aquinas.concordance.slugify_apparatus_key
+   geometor.aquinas.concordance.get_repo_root
+   geometor.aquinas.concordance.get_resources_dir
+   geometor.aquinas.concordance.load_sources_manifest
+   geometor.aquinas.concordance.load_latin_part
+   geometor.aquinas.concordance.load_english_section
+   geometor.aquinas.concordance.load_part_apparatus
+   geometor.aquinas.concordance.load_concordance_document
+   geometor.aquinas.concordance.load_concordance
+   geometor.aquinas.concordance.load_persons
+   geometor.aquinas.concordance.load_glossary
+   geometor.aquinas.concordance.load_citations
+   geometor.aquinas.concordance.verify_codex_integrity
+
+
+Module Contents
+---------------
+
+.. py:function:: slugify_apparatus_key(target: str) -> str
+
+   Normalize an apparatus key to match ``photon_platform.publish`` anchor slugs.
+
+
+.. py:function:: get_repo_root() -> pathlib.Path
+
+   Return the root directory of the ``geometor-aquinas`` repository.
+
+
+.. py:function:: get_resources_dir() -> pathlib.Path
+
+   Return the ``resources/`` directory containing primary texts and apparatus.
+
+
+.. py:class:: ConcordanceEntry
+
+   Single locus entry in the Hoenen–Aquinas–Aristotle–Euclid–GEOMETOR concordance.
+
+
+   .. py:attribute:: key
+      :type:  str
+
+
+   .. py:attribute:: slug
+      :type:  str
+
+
+   .. py:attribute:: author
+      :type:  str
+
+
+   .. py:attribute:: work_title
+      :type:  str
+
+
+   .. py:attribute:: locus
+      :type:  str
+
+
+   .. py:attribute:: critical_edition_ref
+      :type:  str
+
+
+   .. py:attribute:: codex_status
+      :type:  str
+
+
+   .. py:attribute:: codex_part
+      :type:  str
+
+
+   .. py:attribute:: codex_ref
+      :type:  str
+
+
+   .. py:attribute:: aristotle_source
+      :type:  str
+
+
+   .. py:attribute:: euclid_elements_link
+      :type:  str
+
+
+   .. py:attribute:: hoenen_occurrences
+      :type:  list[dict[str, Any]]
+
+
+   .. py:attribute:: hoenen_sample_context_en
+      :type:  str
+
+
+   .. py:attribute:: hoenen_sample_context_la
+      :type:  str
+
+
+   .. py:attribute:: hoenen_thesis
+      :type:  str
+
+
+   .. py:attribute:: geometor_relevance
+      :type:  str
+
+
+.. py:class:: PersonEntry
+
+   Prosopographical entry in the Index Nominum (``resources/persons.json``).
+
+
+   .. py:attribute:: slug
+      :type:  str
+
+
+   .. py:attribute:: name
+      :type:  str
+
+
+   .. py:attribute:: dates
+      :type:  str
+
+
+   .. py:attribute:: role
+      :type:  str
+
+
+   .. py:attribute:: bio
+      :type:  str
+
+
+   .. py:attribute:: works
+      :type:  list[str]
+
+
+.. py:class:: GlossaryEntry
+
+   Technical term entry in the Glossarium Technicum (``resources/glossary.json``).
+
+
+   .. py:attribute:: slug
+      :type:  str
+
+
+   .. py:attribute:: headword
+      :type:  str
+
+
+   .. py:attribute:: language
+      :type:  str
+
+
+   .. py:attribute:: translation
+      :type:  str
+
+
+   .. py:attribute:: definition
+      :type:  str
+
+
+.. py:class:: CitationEntry
+
+   Bibliographic citation entry in ``resources/citations.json``.
+
+
+   .. py:attribute:: key
+      :type:  str
+
+
+   .. py:attribute:: author
+      :type:  str
+
+
+   .. py:attribute:: work
+      :type:  str
+
+
+   .. py:attribute:: locus
+      :type:  str
+
+
+.. py:function:: load_sources_manifest(resources_dir: pathlib.Path | None = None) -> dict[str, Any]
+
+   Load ``resources/aquinas/sources_manifest.json``.
+
+
+.. py:function:: load_latin_part(part_num: int, resources_dir: pathlib.Path | None = None) -> dict[str, Any]
+
+   Load verbatim Latin source JSON for ``part_num`` (1..5).
+
+
+.. py:function:: load_english_section(part_num: int, sec_id: str, resources_dir: pathlib.Path | None = None) -> dict[str, Any]
+
+   Load synchronized English translation JSON for ``(part_num, sec_id)``.
+
+
+.. py:function:: load_part_apparatus(part_num: int, resources_dir: pathlib.Path | None = None) -> dict[str, Any]
+
+   Load scholarly summary and GEOMETOR commentary JSON for ``part_num`` (1..5).
+
+
+.. py:function:: load_concordance_document(resources_dir: pathlib.Path | None = None) -> dict[str, Any]
+
+   Load the full ``resources/aquinas/concordance.json`` document.
+
+
+.. py:function:: load_concordance(resources_dir: pathlib.Path | None = None) -> list[ConcordanceEntry]
+
+   Load typed ``ConcordanceEntry`` records for all 78 Hoenen Thomistic keys.
+
+
+.. py:function:: load_persons(resources_dir: pathlib.Path | None = None) -> dict[str, PersonEntry]
+
+   Load typed ``PersonEntry`` records from ``resources/persons.json``.
+
+
+.. py:function:: load_glossary(resources_dir: pathlib.Path | None = None) -> dict[str, GlossaryEntry]
+
+   Load typed ``GlossaryEntry`` records from ``resources/glossary.json``.
+
+
+.. py:function:: load_citations(resources_dir: pathlib.Path | None = None) -> dict[str, CitationEntry]
+
+   Load typed ``CitationEntry`` records from ``resources/citations.json``.
+
+
+.. py:function:: verify_codex_integrity(resources_dir: pathlib.Path | None = None) -> dict[str, Any]
+
+   Verify cryptographic provenance, 1-to-1 Latin/English parity, and apparatus links.
+
+   Raises ``ValueError`` if any SHA-256 digest mismatches, any ``ct_id`` paragraph lacks
+   a synchronized English translation, or any concordance citation key is missing.
+
+
