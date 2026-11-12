@@ -29,6 +29,11 @@ namespaces = true
 [tool.setuptools.dynamic]
 version = { attr = "geometor.aquinas.__version__" }
 
+[project.urls]
+"Website" = "https://geometor.github.io/aquinas"
+"Repository" = "https://github.com/geometor/aquinas"
+"Issues" = "https://github.com/geometor/aquinas/issues"
+
 [tool.pytest.ini_options]
 testpaths = ["tests"]
 pythonpath = ["src"]
