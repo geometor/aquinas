@@ -1,0 +1,377 @@
+{
+  "codex_title": "Sancti Thomae de Aquino Opera de Scientia Mathematica et Materia Intelligibili",
+  "codex_subtitle": "Foundational Texts on Mathematical Science, Intelligible Matter, Abstraction, and Judgment",
+  "repository": "geometor-aquinas",
+  "primary_corpus": "Corpus Thomisticum (S. Thomae de Aquino Opera Omnia, recognovit Enrique Alarcón, Pompaelone ad Universitatis Studiorum Navarrensis aedes)",
+  "license_status": "Public Domain (Latin primary texts from critical Leonine, Marietti, and Decker editions; facing English translations combining 1920 English Dominican Fathers public-domain Summa Theologiae with original scholarly translations directly from the verified Latin text)",
+  "parts": [
+    {
+      "part_id": "pars-1",
+      "title_la": "PARS I — SUPER BOETIUM DE TRINITATE (QUAESTIONES V–VI)",
+      "title_en": "PART I — ON BOETHIUS'S DE TRINITATE (QUESTIONS V–VI)",
+      "work_title": "Super Boetium De Trinitate",
+      "date_composed": "c. 1257–1259",
+      "editions": [
+        "Sancti Thomae de Aquino, Expositio super librum Boethii De Trinitate, recensuit Bruno Decker (Leiden: E. J. Brill, 1959); Editio Leonina, Tom. L (Roma–Paris, 1992).",
+        "Corpus Thomisticum (recognovit Enrique Alarcón, Pompaelone, Universitatis Studiorum Navarrensis): https://www.corpusthomisticum.org/cbt.html"
+      ],
+      "json_source": "sources/pars_1_latin.json",
+      "diplomatic_text": "sources/pars_1_super_boetium_de_trinitate.la.txt",
+      "sha256_json": "e744db9201d44096d63697ff963ae1af6af2b86cc6490cdca1ab9dc9a16edea6",
+      "sha256_txt": "0b695bd6405256cbd6c415dcbe310b91e57da976516df193f3682bccd05e1987",
+      "section_count": 6,
+      "paragraph_count": 158,
+      "latin_word_count": 12951,
+      "sections": [
+        {
+          "sec_id": "s1",
+          "folio": "q. 5, a. 1",
+          "heading_la": "Quaestio V, Articulus 1 — De conveniente divisione scientiae speculativae in naturalem, mathematicam et divinam",
+          "heading_en": "Question V, Article 1 — Whether Speculative Science Is Fittingly Divided into Natural, Mathematical, and Divine",
+          "paragraph_count": 31
+        },
+        {
+          "sec_id": "s2",
+          "folio": "q. 5, a. 2",
+          "heading_la": "Quaestio V, Articulus 2 — Utrum naturalis philosophia sit de his quae sunt in motu et materia",
+          "heading_en": "Question V, Article 2 — Whether Natural Philosophy Treats of What Exists in Motion and Matter",
+          "paragraph_count": 20
+        },
+        {
+          "sec_id": "s3",
+          "folio": "q. 5, a. 3",
+          "heading_la": "Quaestio V, Articulus 3 — Utrum mathematica consideratio sit sine motu et materia de his quae sunt in materia (De Materia Intelligibili)",
+          "heading_en": "Question V, Article 3 — Whether Mathematical Consideration Is Without Motion and Matter Concerning Things That Exist in Matter (On Intelligible Matter)",
+          "paragraph_count": 24
+        },
+        {
+          "sec_id": "s4",
+          "folio": "q. 5, a. 4",
+          "heading_la": "Quaestio V, Articulus 4 — Utrum divina scientia sit de his quae sunt sine materia et motu",
+          "heading_en": "Question V, Article 4 — Whether Divine Science Treats of What Exists Without Matter and Motion",
+          "paragraph_count": 23
+        },
+        {
+          "sec_id": "s5",
+          "folio": "q. 6, a. 1",
+          "heading_la": "Quaestio VI, Articulus 1 — Utrum oporteat versari in naturalibus rationabiliter, in mathematicis disciplinaliter et in divinis intellectualiter",
+          "heading_en": "Question VI, Article 1 — Whether One Must Proceed Rationally in Natural Things, Disciplinably in Mathematics, and Intellectually in Divine Things",
+          "paragraph_count": 42
+        },
+        {
+          "sec_id": "s6",
+          "folio": "q. 6, a. 2",
+          "heading_la": "Quaestio VI, Articulus 2 — Utrum in divinis sit omnino imaginatio relinquenda (Quod Iudicium Mathematicum Terminatur ad Imaginationem)",
+          "heading_en": "Question VI, Article 2 — Whether in Divine Things Imagination Must Be Altogether Relinquished (Why Mathematical Judgment Terminates at the Imagination)",
+          "paragraph_count": 18
+        }
+      ]
+    },
+    {
+      "part_id": "pars-2",
+      "title_la": "PARS II — EXPOSITIO LIBRI POSTERIORUM ANALYTICORUM",
+      "title_en": "PART II — COMMENTARY ON THE POSTERIOR ANALYTICS",
+      "work_title": "Expositio libri Posteriorum Analyticorum",
+      "date_composed": "c. 1270–1272",
+      "editions": [
+        "Sancti Thomae Aquinatis Opera Omnia iussu impensaque Leonis XIII P. M. edita, Tom. I (Romae, 1882); Editio altera retractata, Tom. I* 2 (Roma–Paris, 1989).",
+        "Corpus Thomisticum (recognovit Enrique Alarcón): https://www.corpusthomisticum.org/cpa1.html & https://www.corpusthomisticum.org/cpa2.html"
+      ],
+      "json_source": "sources/pars_2_latin.json",
+      "diplomatic_text": "sources/pars_2_posteriora_analytica.la.txt",
+      "sha256_json": "643e5cb822aec5fefccc45143314af7c79282d033cc6ce370ef18bf61be09853",
+      "sha256_txt": "518b640c0522123724f482d915c806d8e716d5350d0d8fc5f9a56c6c9cec2530",
+      "section_count": 11,
+      "paragraph_count": 108,
+      "latin_word_count": 14054,
+      "sections": [
+        {
+          "sec_id": "s1",
+          "folio": "Lib. I, lect. 1",
+          "heading_la": "Liber I, Lectio 1 — De necessitate artis logicae et certissimo modo demonstrationis in scientiis mathematicis",
+          "heading_en": "Book I, Lecture 1 — On the Necessity of Logic and the Most Certain Mode of Demonstration in the Mathematical Sciences",
+          "paragraph_count": 12
+        },
+        {
+          "sec_id": "s2",
+          "folio": "Lib. I, lect. 2",
+          "heading_la": "Liber I, Lectio 2 — De duplici praecognitione (quia est et quid est) circa subiectum et passionem: unitas et triangulus",
+          "heading_en": "Book I, Lecture 2 — On the Twofold Foreknowledge (That It Is and What It Is) of Subject and Attribute: Unit and Triangle",
+          "paragraph_count": 9
+        },
+        {
+          "sec_id": "s3",
+          "folio": "Lib. I, lect. 3",
+          "heading_la": "Liber I, Lectio 3 — De cognitione universali et recognitione figurae singularis in semicirculo descriptae",
+          "heading_en": "Book I, Lecture 3 — On Universal Knowledge and Recognizing the Singular Triangle Inscribed in a Semicircle",
+          "paragraph_count": 6
+        },
+        {
+          "sec_id": "s4",
+          "folio": "Lib. I, lect. 4",
+          "heading_la": "Liber I, Lectio 4 — Quid sit scire simpliciter et quomodo demonstratio ex primis, veris et immediatis procedat",
+          "heading_en": "Book I, Lecture 4 — What Unqualified Scientific Knowledge Is and How Demonstration Proceeds from Primary, True, Immediate Causes",
+          "paragraph_count": 16
+        },
+        {
+          "sec_id": "s5",
+          "folio": "Lib. I, lect. 5",
+          "heading_la": "Liber I, Lectio 5 — De divisione principiorum immediatorum in dignitates, suppositiones et petitiones",
+          "heading_en": "Book I, Lecture 5 — On the Division of Immediate Principles into Axioms, Hypotheses, and Postulates",
+          "paragraph_count": 9
+        },
+        {
+          "sec_id": "s6",
+          "folio": "Lib. I, lect. 6",
+          "heading_la": "Liber I, Lectio 6 — Contra negantes demonstrationem vel ponentes demonstrationem circularem",
+          "heading_en": "Book I, Lecture 6 — Against Those Who Deny Demonstration or Posit Circular Demonstration",
+          "paragraph_count": 7
+        },
+        {
+          "sec_id": "s7",
+          "folio": "Lib. I, lect. 17",
+          "heading_la": "Liber I, Lectio 17 — Quod nulla scientia particularis demonstrat sua principia propria, sed philosophia prima",
+          "heading_en": "Book I, Lecture 17 — That No Particular Science Demonstrates Its Own Proper Principles, Which Belong to First Philosophy",
+          "paragraph_count": 6
+        },
+        {
+          "sec_id": "s8",
+          "folio": "Lib. I, lect. 18",
+          "heading_la": "Liber I, Lectio 18 — De tribus in omni scientia demonstrativa requisitis: genus subiectum, passiones et communes dignitates",
+          "heading_en": "Book I, Lecture 18 — On the Three Elements Required in Every Demonstrative Science: Subject-Genus, Proper Attributes, and Common Axioms",
+          "paragraph_count": 10
+        },
+        {
+          "sec_id": "s9",
+          "folio": "Lib. I, lect. 19",
+          "heading_la": "Liber I, Lectio 19 — De communibus animi conceptionibus, suppositionibus et petitionibus ac de lineis a geometra in pulvere descriptis",
+          "heading_en": "Book I, Lecture 19 — On Common Conceptions of the Mind, Hypotheses, Postulates, and Why the Geometer Does Not Demonstrate of Lines Drawn in Dust",
+          "paragraph_count": 8
+        },
+        {
+          "sec_id": "s10",
+          "folio": "Lib. I, lect. 42",
+          "heading_la": "Liber I, Lectio 42 — Quomodo una scientia sit certior et prior alia: unitas sine positione et punctus habens positionem",
+          "heading_en": "Book I, Lecture 42 — How One Science Is More Certain and Prior to Another: The Unit Without Position and the Point Having Position",
+          "paragraph_count": 10
+        },
+        {
+          "sec_id": "s11",
+          "folio": "Lib. II, lect. 20",
+          "heading_la": "Liber II, Lectio 20 — De generatione habitus primorum principiorum (intellectus) ex sensu, memoria et experimento",
+          "heading_en": "Book II, Lecture 20 — On the Origin of the Habit of First Principles (Intellectus) from Sense, Memory, and Experience",
+          "paragraph_count": 15
+        }
+      ]
+    },
+    {
+      "part_id": "pars-3",
+      "title_la": "PARS III — SENTENCIA LIBRI DE ANIMA",
+      "title_en": "PART III — COMMENTARY ON ARISTOTLE'S DE ANIMA",
+      "work_title": "Sentencia libri De anima",
+      "date_composed": "c. 1267–1268",
+      "editions": [
+        "Sancti Thomae Aquinatis In Aristotelis Librum De Anima Commentarium, cura et studio P. F. Angeli M. Pirotta, O.P. (Taurini: Marietti, 1936; 1959); Editio Leonina, Tom. XLV.1 (Roma–Paris, 1984).",
+        "Corpus Thomisticum (recognovit Enrique Alarcón): https://www.corpusthomisticum.org/can1.html, can2.html, can3.html"
+      ],
+      "json_source": "sources/pars_3_latin.json",
+      "diplomatic_text": "sources/pars_3_sentencia_de_anima.la.txt",
+      "sha256_json": "2b96a575bbee8e74037e9f366e7c404a71ede2ec90a770055375f3c203e98507",
+      "sha256_txt": "1318c40753e63cd655828440c8c0934db34fbd7fa992bfaddaab0b3f18ad7ad6",
+      "section_count": 5,
+      "paragraph_count": 72,
+      "latin_word_count": 8332,
+      "sections": [
+        {
+          "sec_id": "s1",
+          "folio": "Lib. I, lect. 11",
+          "heading_la": "Liber I, Lectio 11 — De motu animae secundum Democritum et quomodo geometrae imaginantur punctum motu suo lineam describere",
+          "heading_en": "Book I, Lecture 11 — On Democritus's Account of Motion and How Geometers Imagine a Moving Point Describing a Line",
+          "paragraph_count": 10
+        },
+        {
+          "sec_id": "s2",
+          "folio": "Lib. II, lect. 16",
+          "heading_la": "Liber II, Lectio 16 — De sono secundum actum et potentiam ac de eius esse fluenti in motu",
+          "heading_en": "Book II, Lecture 16 — On Sound in Act and Potency and Its Fluent Mode of Being in Motion",
+          "paragraph_count": 12
+        },
+        {
+          "sec_id": "s3",
+          "folio": "Lib. III, lect. 8",
+          "heading_la": "Liber III, Lectio 8 — De obiecto intellectus: caro et os contra continuum, simum contra rectum et reflexio supra phantasma",
+          "heading_en": "Book III, Lecture 8 — On the Object of the Intellect: Flesh and Bone vs. the Continuum, the Snub vs. the Straight, and Reflection upon the Phantasm",
+          "paragraph_count": 20
+        },
+        {
+          "sec_id": "s4",
+          "folio": "Lib. III, lect. 12",
+          "heading_la": "Liber III, Lectio 12 — Quod nequaquam sine phantasmate intelligit anima et quomodo mathematica in abstractione intelliguntur",
+          "heading_en": "Book III, Lecture 12 — Why the Soul Never Understands Without a Phantasm and How Mathematical Entities Are Understood in Abstraction",
+          "paragraph_count": 22
+        },
+        {
+          "sec_id": "s5",
+          "folio": "Lib. III, lect. 13",
+          "heading_la": "Liber III, Lectio 13 — Quomodo anima sit quodammodo omnia, manus organum organorum et intellectus species specierum",
+          "heading_en": "Book III, Lecture 13 — How the Soul Is in a Way All Things, the Hand the Organ of Organs, and the Intellect the Form of Forms",
+          "paragraph_count": 8
+        }
+      ]
+    },
+    {
+      "part_id": "pars-4",
+      "title_la": "PARS IV — IN LIBROS PHYSICORUM ET DE CAELO ET MUNDO EXPOSITIO",
+      "title_en": "PART IV — COMMENTARIES ON THE PHYSICS AND ON THE HEAVENS",
+      "work_title": "In octo libros Physicorum & In libros De caelo et mundo expositio",
+      "date_composed": "c. 1268–1273",
+      "editions": [
+        "Sancti Thomae Aquinatis Opera Omnia, Editio Leonina, Tom. II: Commentaria in octo libros Physicorum Aristotelis (Romae, 1884; ed. Maggiòlo, Taurini: Marietti, 1954).",
+        "Sancti Thomae Aquinatis Opera Omnia, Editio Leonina, Tom. III: In libros Aristotelis De caelo et mundo expositio (Romae, 1886).",
+        "Corpus Thomisticum (recognovit Enrique Alarcón): https://www.corpusthomisticum.org/cpy012.html, cpy03.html, cpy05.html, ccm1.html, ccm2.html"
+      ],
+      "json_source": "sources/pars_4_latin.json",
+      "diplomatic_text": "sources/pars_4_physica_et_de_caelo.la.txt",
+      "sha256_json": "41b59776bb520b9761cbb024bfabb790cec6c54ec4c426d0ecd4a5eaa9ce4fda",
+      "sha256_txt": "b6bec500491b3d973adaa2a478b9cb006281b28e8499f5fdb3866e6428101185",
+      "section_count": 6,
+      "paragraph_count": 74,
+      "latin_word_count": 11109,
+      "sections": [
+        {
+          "sec_id": "s1",
+          "folio": "Phys. II, lect. 3",
+          "heading_la": "In II Physicorum, Lectio 3 — Quomodo differat mathematicus a physico et quod abstrahentium non est mendacium",
+          "heading_en": "Physics Book II, Lecture 3 — How the Mathematician Differs from the Natural Philosopher and Why There Is No Falsehood in Those Who Abstract",
+          "paragraph_count": 9
+        },
+        {
+          "sec_id": "s2",
+          "folio": "Phys. III, lect. 5",
+          "heading_la": "In III Physicorum, Lectio 5 — De actione et passione ac divisione entis in decem praedicamenta secundum modos essendi",
+          "heading_en": "Physics Book III, Lecture 5 — On Action and Passion and the Division of Being into Ten Categories Proportional to Modes of Predicating",
+          "paragraph_count": 18
+        },
+        {
+          "sec_id": "s3",
+          "folio": "Phys. IV, lect. 7",
+          "heading_la": "In IV Physicorum, Lectio 7 — De definitione loci immobilis ex motu translationis et solutione Themistii",
+          "heading_en": "Physics Book IV, Lecture 7 — On the Definition of Immobile Place from Local Translation and Themistius's Solution",
+          "paragraph_count": 15
+        },
+        {
+          "sec_id": "s4",
+          "folio": "Phys. VI, lect. 1",
+          "heading_la": "In VI Physicorum, Lectio 1 — Quod nullum continuum (linea, tempus vel motus) ex punctis indivisibilibus componi potest",
+          "heading_en": "Physics Book VI, Lecture 1 — That No Continuum (Line, Time, or Motion) Can Be Composed of Indivisible Points",
+          "paragraph_count": 8
+        },
+        {
+          "sec_id": "s5",
+          "folio": "De Caelo I, lect. 2",
+          "heading_la": "In I De Caelo, Lectio 2 — De perfectione corporis in tribus dimensionibus et modo loquendi geometrarum de motu puncti",
+          "heading_en": "On the Heavens Book I, Lecture 2 — On the Perfection of Three-Dimensional Body and the Geometers' Mode of Speaking of a Moving Point",
+          "paragraph_count": 11
+        },
+        {
+          "sec_id": "s6",
+          "folio": "De Caelo II, lect. 2",
+          "heading_la": "In II De Caelo, Lectio 2 — De differentiis positionis in corporibus naturalibus et quomodo considerantur in corporibus mathematicis",
+          "heading_en": "On the Heavens Book II, Lecture 2 — On Positional Directions in Natural Bodies and How They Are Considered by Position in Mathematical Figures",
+          "paragraph_count": 13
+        }
+      ]
+    },
+    {
+      "part_id": "pars-5",
+      "title_la": "PARS V — SENTENTIA SUPER METAPHYSICAM ET OPERA SYSTEMATICA",
+      "title_en": "PART V — COMMENTARY ON THE METAPHYSICS AND SYSTEMATIC WORKS",
+      "work_title": "Sententia super Metaphysicam, Summa Theologiae, Quaestiones Disputatae de Potentia et de Veritate",
+      "date_composed": "c. 1256–1273",
+      "editions": [
+        "Sancti Thomae Aquinatis In duodecim libros Metaphysicorum Aristotelis expositio, ed. M.-R. Cathala et R. M. Spiazzi (Taurini: Marietti, 1950).",
+        "Sancti Thomae Aquinatis Summa Theologiae, Prima Pars, Editio Leonina, Tom. IV–V (Romae, 1888–1889).",
+        "Sancti Thomae Aquinatis Quaestiones disputatae de potentia Dei, ed. P. Bazzi et al. (Taurini: Marietti, 1953); Quaestiones disputatae de veritate, Editio Leonina, Tom. XXII (Romae, 1970–1976).",
+        "Corpus Thomisticum (recognovit Enrique Alarcón): cmp05.html, cmp07.html, cmp09.html, sth1003.html, sth1084.html, qdp7.html, qdv10.html"
+      ],
+      "json_source": "sources/pars_5_latin.json",
+      "diplomatic_text": "sources/pars_5_metaphysica_et_opera_systematica.la.txt",
+      "sha256_json": "c19322a1a1403b664924586e67989ff58d4012c46a9d5e2da345ed5a0238da6d",
+      "sha256_txt": "acf3c6e9f1980e4942e699d5fd4e29cd57f19c674ce8f9bc59434393bc880cd3",
+      "section_count": 9,
+      "paragraph_count": 201,
+      "latin_word_count": 18956,
+      "sections": [
+        {
+          "sec_id": "s1",
+          "folio": "Metaph. V, lect. 9",
+          "heading_la": "In V Metaphysicorum, Lectio 9 — De distinctione entis in decem praedicamenta et esse significato per compositionem iudicii",
+          "heading_en": "Metaphysics Book V, Lecture 9 — On the Division of Per Se Being into Ten Categories and Being Signified by Propositional Judgment",
+          "paragraph_count": 13
+        },
+        {
+          "sec_id": "s2",
+          "folio": "Metaph. VII, lect. 10",
+          "heading_la": "In VII Metaphysicorum, Lectio 10 — De partibus speciei et materiae: circulus aeneus et circulus mathematicus in materia intelligibili",
+          "heading_en": "Metaphysics Book VII, Lecture 10 — On Parts of the Form vs. Parts of Matter: Bronze Circle and Mathematical Circle in Intelligible Matter",
+          "paragraph_count": 19
+        },
+        {
+          "sec_id": "s3",
+          "folio": "Metaph. VII, lect. 11",
+          "heading_la": "In VII Metaphysicorum, Lectio 11 — Quomodo species mathematicae definiantur absque materia sensibili sed non absque materia intelligibili communi",
+          "heading_en": "Metaphysics Book VII, Lecture 11 — How Mathematical Species Are Defined Without Sensible Matter Yet Not Without Common Intelligible Matter",
+          "paragraph_count": 36
+        },
+        {
+          "sec_id": "s4",
+          "folio": "Metaph. IX, lect. 3",
+          "heading_la": "In IX Metaphysicorum, Lectio 3 — Quomodo nomen et ratio actus ex motu sensibili ad alia deriventur",
+          "heading_en": "Metaphysics Book IX, Lecture 3 — How the Name and Notion of Actuality Are Derived First from Sensible Motion",
+          "paragraph_count": 20
+        },
+        {
+          "sec_id": "s5",
+          "folio": "Metaph. IX, lect. 10",
+          "heading_la": "In IX Metaphysicorum, Lectio 10 — De inventione veritatis geometricae per divisionem figurarum in actu (Euclides I.32 et III.31)",
+          "heading_en": "Metaphysics Book IX, Lecture 10 — On Discovering Geometric Truth by Dividing Figures in Act (Euclid I.32 and III.31)",
+          "paragraph_count": 12
+        },
+        {
+          "sec_id": "s6",
+          "folio": "ST I, q. 7, a. 1 & 3; q. 12, a. 4",
+          "heading_la": "Summa Theologiae I, q. 7, a. 1 & a. 3; q. 12, a. 4 — Ipsum esse maxime formale omnium; linea infinita geometrae; apprehensio esse absoluti",
+          "heading_en": "Summa Theologiae I, q. 7, a. 1 & a. 3; q. 12, a. 4 — Being Itself as Most Formal of All; the Geometer's Infinite Line; Apprehending Absolute Being",
+          "paragraph_count": 26
+        },
+        {
+          "sec_id": "s7",
+          "folio": "ST I, q. 84, a. 6–7; q. 85, a. 1",
+          "heading_la": "Summa Theologiae I, q. 84, a. 6–7 & q. 85, a. 1 — De origine scientiae ex sensibilibus, conversione ad phantasmata et triplici abstractione",
+          "heading_en": "Summa Theologiae I, q. 84, a. 6–7 & q. 85, a. 1 — On the Origin of Science from Sensible Things, Turning to Phantasms, and Threefold Abstraction",
+          "paragraph_count": 28
+        },
+        {
+          "sec_id": "s8",
+          "folio": "De Pot. q. 7, a. 2",
+          "heading_la": "Quaestiones Disputatae de Potentia Dei, q. 7, a. 2 — Quod ipsum esse est actualitas omnium actuum et perfectio omnium perfectionum",
+          "heading_en": "Disputed Questions on the Power of God, q. 7, a. 2 — That Esse Is the Actuality of All Acts and the Perfection of All Perfections",
+          "paragraph_count": 25
+        },
+        {
+          "sec_id": "s9",
+          "folio": "De Ver. q. 10, a. 6",
+          "heading_la": "Quaestiones Disputatae de Veritate, q. 10, a. 6 — Utrum mens humana cognitionem a sensibilibus accipiat et de origine primorum principiorum",
+          "heading_en": "Disputed Questions on Truth, q. 10, a. 6 — Whether the Human Mind Receives Knowledge from Sensible Things and on First Indemonstrable Principles",
+          "paragraph_count": 22
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "part_count": 5,
+    "section_count": 37,
+    "paragraph_count": 613,
+    "latin_word_count": 65402
+  }
+}

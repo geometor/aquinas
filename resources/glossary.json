@@ -1,0 +1,255 @@
+{
+  "materia-intelligibilis": {
+    "slug": "materia-intelligibilis",
+    "headword": "materia intelligibilis",
+    "language": "Latin (Scholastic / Aristotelian hylē noētē)",
+    "translation": "intelligible matter",
+    "definition": "Substance precisely insofar as it underlies continuous or discrete quantity, considered by the intellect apart from all sensible qualities (heat, cold, color, weight, hardness). It provides the spatial continuum in which geometric figures exist, are individuated, and are defined (Super Boetium De Trinitate q. 5 a. 3; ST I q. 85 a. 1 ad 2; In VII Metaph. lect. 10–11)."
+  },
+  "materia-intelligibilis-individualis": {
+    "slug": "materia-intelligibilis-individualis",
+    "headword": "materia intelligibilis individualis",
+    "language": "Latin (Scholastic)",
+    "translation": "individual intelligible matter",
+    "definition": "Particular designated continuous dimensions (such as *these* lines or *these* two semicircles) that individuate multiple mathematical figures of the exact same species—allowing the geometer to intersect two distinct circles of equal radius as in Euclid I.1 (In VII Metaph. lect. 10, Cathala #1496)."
+  },
+  "materia-intelligibilis-communis": {
+    "slug": "materia-intelligibilis-communis",
+    "headword": "materia intelligibilis communis",
+    "language": "Latin (Scholastic)",
+    "translation": "common intelligible matter",
+    "definition": "Continuous extension in general (plane, continuum, magnitude) included universally within the quidditative definition of a mathematical species, just as 'flesh and bones' in general enter the natural definition of 'human' (In VII Metaph. lect. 11; ST I q. 85 a. 1 ad 2)."
+  },
+  "materia-sensibilis": {
+    "slug": "materia-sensibilis",
+    "headword": "materia sensibilis",
+    "language": "Latin (Scholastic)",
+    "translation": "sensible matter",
+    "definition": "Corporeal matter insofar as it is subject to sensible qualities apprehended by the external five senses (hot/cold, wet/dry, heavy/light, colored, resonant) and physical alteration. Natural philosophy includes *materia sensibilis communis*, whereas mathematics abstracts from all sensible matter (Super Boetium De Trinitate q. 5 a. 3)."
+  },
+  "materia-signata": {
+    "slug": "materia-signata",
+    "headword": "materia signata",
+    "language": "Latin (Scholastic)",
+    "translation": "designated matter",
+    "definition": "Matter considered under determinate, hic-et-nunc dimensions (*hic homo*, *haec caro et haec ossa*), which serves as the principle of numerical individuation within a material species and from which universal definitions abstract (Super Boetium De Trinitate q. 5 a. 2–3)."
+  },
+  "abstractio-formae": {
+    "slug": "abstractio-formae",
+    "headword": "abstractio formae",
+    "language": "Latin (Scholastic)",
+    "translation": "abstraction of form",
+    "definition": "The intellectual operation characteristic of mathematics (*abstractio formae a materia sensibili*), whereby the intellect considers accidental quantitative form (number, dimension, figure) apart from sensible qualities because quantity inheres in corporeal substance prior to sensible qualities (Super Boetium De Trinitate q. 5 a. 3)."
+  },
+  "abstractio-totius": {
+    "slug": "abstractio-totius",
+    "headword": "abstractio totius",
+    "headword_full": "abstractio totius a partibus",
+    "language": "Latin (Scholastic)",
+    "translation": "abstraction of the whole",
+    "definition": "Abstraction of the universal whole from individuating material parts (*abstractio universalis a particulari*), common to all sciences and pre-eminently characteristic of natural philosophy when defining 'human' with common sensible matter while omitting 'this flesh and these bones' (Super Boetium De Trinitate q. 5 a. 3)."
+  },
+  "separatio": {
+    "slug": "separatio",
+    "headword": "separatio",
+    "language": "Latin (Scholastic)",
+    "translation": "separation (negative judgment)",
+    "definition": "Operation of the intellect's second act (composing and dividing) peculiar to metaphysics (*scientia divina*), whereby the mind judges negatively that *ens*, *unum*, *actus*, and *potentia* do not depend upon matter and motion in order to exist (*secundum esse*), unlike mathematical abstraction which belongs to simple apprehension (Super Boetium De Trinitate q. 5 a. 3)."
+  },
+  "abstractio-intuitiva": {
+    "slug": "abstractio-intuitiva",
+    "headword": "abstractio intuitiva formalis",
+    "language": "Latin (Scholastic / Hoenen)",
+    "translation": "intuitive formal abstraction",
+    "definition": "Peter Hoenen's technical designation for the Thomistic insight in which the intellect directly beholds universal, necessary formal relationships (continuity, straightness, incidence, equality) shining within the concrete spatial phantasm prior to formulating an explicit proposition."
+  },
+  "abstrahentium-non-est-mendacium": {
+    "slug": "abstrahentium-non-est-mendacium",
+    "headword": "abstrahentium non est mendacium",
+    "language": "Latin (Aristotelian Axiom, Phys. II.2, 193b35)",
+    "translation": "there is no falsehood in those who abstract",
+    "definition": "Fundamental realist principle expounded in Physics II, lect. 3 and ST I q. 85 a. 1 ad 1: to consider geometric figure apart from sensible matter is not to judge falsely that figures exist separately outside bodies, but to consider truly an intelligible aspect ontological prior to sensible qualities."
+  },
+  "phantasma": {
+    "slug": "phantasma",
+    "headword": "phantasma",
+    "language": "Latin / Greek (phantasma)",
+    "translation": "phantasm",
+    "definition": "Singular sensible or imaginative representation preserved and formed by the interior sensitive power of imagination (*phantasia*), presenting spatial extension and figure to the illumination of the agent intellect (In III De Anima lect. 8 & 12; ST I q. 84 a. 6–7)."
+  },
+  "conversio-ad-phantasmata": {
+    "slug": "conversio-ad-phantasmata",
+    "headword": "conversio ad phantasmata",
+    "language": "Latin (Scholastic)",
+    "translation": "turning to the phantasms",
+    "definition": "Necessary dynamic orientation whereby the human intellect, both when first acquiring science and when exercising habitual geometric knowledge, turns toward concrete imaginative diagrams in order to behold the universal intelligible species in its singular continuum (ST I q. 84 a. 7; In III De Anima lect. 12)."
+  },
+  "terminari-ad-imaginationem": {
+    "slug": "terminari-ad-imaginationem",
+    "headword": "terminari ad imaginationem",
+    "language": "Latin (Scholastic)",
+    "translation": "terminate at the imagination",
+    "definition": "Aquinas's signature methodological rule in Super Boetium De Trinitate q. 6 a. 2: whereas natural judgment terminates at external sense and metaphysical judgment terminates at pure intellect, mathematical judgment must terminate at the constructive imagination, whose spatial apprehension measures geometric truth."
+  },
+  "disciplinaliter": {
+    "slug": "disciplinaliter",
+    "headword": "disciplinaliter",
+    "language": "Latin (Boethian / Scholastic)",
+    "translation": "disciplinably / by way of demonstrative learning",
+    "definition": "Boethius's adverb for the distinctive mode of procedure of mathematical science (*Super Boetium De Trinitate* q. 6 a. 1): proceeding with supreme demonstrative certitude that generates *disciplina* (rigorous scientific learning) more surely than mutable physics and more connaturally than metaphysics."
+  },
+  "simplex-apprehensio": {
+    "slug": "simplex-apprehensio",
+    "headword": "indivisibilium intelligentia",
+    "language": "Latin (Aristotelian / Scholastic)",
+    "translation": "understanding of indivisibles / simple apprehension",
+    "definition": "The first of the two fundamental operations of the intellect (*De Anima* III.6; *Super Boetium De Trinitate* q. 5 a. 3), by which the mind grasps *quid est* (essence/quiddity and pre-judgmental formal nexus) without yet affirming or denying *esse*."
+  },
+  "compositio-et-divisio": {
+    "slug": "compositio-et-divisio",
+    "headword": "compositio et divisio",
+    "language": "Latin (Scholastic)",
+    "translation": "composition and division (judgment)",
+    "definition": "The second operation of the intellect (*iudicium*), looking directly to the *esse* of the thing and uniting or separating subject and predicate via the copula *est* / *non est*, wherein formal truth and falsity properly reside (*Super Boetium De Trinitate* q. 5 a. 3; *In V Metaph.* lect. 9)."
+  },
+  "verbum-mentis": {
+    "slug": "verbum-mentis",
+    "headword": "verbum mentis",
+    "language": "Latin (Scholastic)",
+    "translation": "inner word / mental conception",
+    "definition": "The interior intelligible expression (*conceptio intellectus*) formed by the act of understanding—either an incomplex definition in the first operation or a complex scientific proposition/theorem in the second operation (*De Potentia* q. 8 a. 1, q. 9 a. 5; *De Veritate* q. 4 a. 2)."
+  },
+  "quidditas": {
+    "slug": "quidditas",
+    "headword": "quidditas",
+    "language": "Latin (Scholastic)",
+    "translation": "quiddity / essence (what-it-is)",
+    "definition": "The intelligible nature or *quod quid erat esse* of a thing signified by its definition; the connatural proper object of the human intellect is the *quidditas rei materialis*, including quantitative figures in intelligible matter (*ST* I q. 84 a. 7, q. 85 a. 1)."
+  },
+  "ipsum-esse": {
+    "slug": "ipsum-esse",
+    "headword": "ipsum esse",
+    "language": "Latin (Thomistic Metaphysics)",
+    "translation": "being itself / the act of existing",
+    "definition": "In Aquinas's metaphysics, the ultimate intrinsic act (*actualitas omnium actuum et perfectio omnium perfectionum*) by which essence actually exists and to which every true judgment ultimately refers (*ST* I q. 7 a. 1; *De Potentia* q. 7 a. 2 ad 9)."
+  },
+  "modi-essendi": {
+    "slug": "modi-essendi",
+    "headword": "modi essendi",
+    "language": "Latin (Scholastic)",
+    "translation": "modes of being",
+    "definition": "The diverse ways in which finite realities realize act of being—substantially or accidentally (in quantity, quality, relation, etc.)—to which the ten Aristotelean categories (*modi praedicandi*) are strictly proportional (*In III Phys.* lect. 5; *In V Metaph.* lect. 9 #890)."
+  },
+  "dignitates": {
+    "slug": "dignitates",
+    "headword": "dignitates",
+    "language": "Latin (Translating Greek axiómata)",
+    "translation": "axioms / dignities / maximal propositions",
+    "definition": "Immediate, indemonstrable first principles *per se notae* to every learner upon understanding their terms, presupposed across all demonstrations (*In I Anal. Post.* lect. 5, lect. 18–19)."
+  },
+  "communes-animi-conceptiones": {
+    "slug": "communes-animi-conceptiones",
+    "headword": "communes animi conceptiones",
+    "language": "Latin (Boethian / Euclidean)",
+    "translation": "common conceptions of the mind",
+    "definition": "Boethius's and Aquinas's technical name for Euclidean Common Notions (*koinai ennoiai*), such as 'if equals be subtracted from equals, the remainders are equal' (C.N. 3) and 'every whole is greater than its part' (C.N. 5) (*In I Anal. Post.* lect. 19; *De Veritate* q. 10 a. 6)."
+  },
+  "suppositiones": {
+    "slug": "suppositiones",
+    "headword": "suppositiones",
+    "language": "Latin (Translating Greek hypotheseis)",
+    "translation": "hypotheses / suppositions",
+    "definition": "Immediate positional principles affirming or denying existence (*esse* or *non esse*) to which the learner readily assents even though they are proved only in a higher science (*In I Anal. Post.* lect. 5 & lect. 19)."
+  },
+  "petitiones": {
+    "slug": "petitiones",
+    "headword": "petitiones",
+    "language": "Latin (Translating Greek aitēmata)",
+    "translation": "postulates",
+    "definition": "Immediate constructive or relational assumptions requested (*petita*) from the student by the geometer for the sake of demonstration—exemplified by Euclid's five Postulates (*a puncto ad punctum rectam lineam ducere*, etc.) (*In I Anal. Post.* lect. 19)."
+  },
+  "genus-subiectum": {
+    "slug": "genus-subiectum",
+    "headword": "genus subiectum",
+    "language": "Latin (Aristotelian / Scholastic)",
+    "translation": "subject-genus",
+    "definition": "One of the three essential elements of any demonstrative science (alongside *dignitates* and *passiones*): the unified intelligible domain whose *per se* attributes the science demonstrates—continuous magnitude for geometry, discrete multitude for arithmetic (*In I Anal. Post.* lect. 18)."
+  },
+  "passiones": {
+    "slug": "passiones",
+    "headword": "passiones",
+    "language": "Latin (Scholastic)",
+    "translation": "proper attributes / per se properties",
+    "definition": "Necessary properties (*per se accidentia*) inhering in a subject by reason of its essence and demonstrated of it through its definition as middle term—such as a triangle's interior angles equaling two right angles (*In I Anal. Post.* lect. 2 & lect. 18)."
+  },
+  "praecognitio": {
+    "slug": "praecognitio",
+    "headword": "praecognitio",
+    "language": "Latin (Scholastic)",
+    "translation": "foreknowledge",
+    "definition": "Antecedent cognition required before any scientific demonstration can proceed: knowing *quid est* (meaning/essence) and *quia est* (existence/truth) diversely distributed across principles, subject-genus, and demonstrated attributes (*In I Anal. Post.* lect. 2)."
+  },
+  "intellectus-principiorum": {
+    "slug": "intellectus-principiorum",
+    "headword": "intellectus principiorum",
+    "language": "Latin (Scholastic)",
+    "translation": "understanding / habit of first principles",
+    "definition": "The intellectual virtue (*nous*) by which the mind infallibly grasps immediate first principles once their terms are abstracted from sense, memory, and *experimentum* (*In II Anal. Post.* lect. 20; *De Veritate* q. 10 a. 6)."
+  },
+  "experimentum": {
+    "slug": "experimentum",
+    "headword": "experimentum",
+    "language": "Latin (Translating Greek empeiria)",
+    "translation": "experience",
+    "definition": "In *Posterior Analytics* II, lect. 20, the collative synthesis of many memories of singular instances by the cogitative power, preparing the phantasm in which *intellectus* grasps the universal principle."
+  },
+  "intellectus-agens": {
+    "slug": "intellectus-agens",
+    "headword": "intellectus agens",
+    "language": "Latin (Scholastic)",
+    "translation": "agent intellect",
+    "definition": "The active immaterial power of the human soul whose natural light (*lumen*) illuminates sensible and imaginative phantasms to render potentially intelligible forms actually intelligible (*ST* I q. 84 a. 6; *De Veritate* q. 10 a. 6)."
+  },
+  "continuum": {
+    "slug": "continuum",
+    "headword": "continuum",
+    "language": "Latin (Aristotelian syneches)",
+    "translation": "continuum",
+    "definition": "Extended quantity whose parts share a single common boundary (*quorum ultima sunt unum*: a point for line segments, a line for surfaces, a surface for solids), infinitely divisible into ever-divisible parts and never composed of indivisible points (*In VI Phys.* lect. 1)."
+  },
+  "unitas-et-punctus": {
+    "slug": "unitas-et-punctus",
+    "headword": "unitas et punctus",
+    "language": "Latin (Aristotelian / Euclidean)",
+    "translation": "unit without position and point with position",
+    "definition": "Aristotle's and Aquinas's foundational comparison between arithmetic and geometry (*In I Anal. Post.* lect. 42): the arithmetical unit is an indivisible principle without spatial position (*substantia non posita*), whereas the geometric point adds *positio* (*situs*) in the continuum."
+  },
+  "simum-et-curvum": {
+    "slug": "simum-et-curvum",
+    "headword": "simum et curvum",
+    "language": "Latin (Aristotelian to simon / to koilon)",
+    "translation": "the snub and the curved",
+    "definition": "Aristotle's canonical contrast (*Phys.* II, lect. 3; *De Anima* III, lect. 8; *Metaph.* VII, lect. 10–11): 'snub' (*simum*) includes sensible matter ('concave nose') in its very definition and belongs to physics, whereas 'curved' or 'straight' (*curvum*, *rectum*) abstracts from flesh and includes only intelligible continuous extension."
+  },
+  "divisio-in-actu": {
+    "slug": "divisio-in-actu",
+    "headword": "divisio figurarum in actu",
+    "language": "Latin (Metaphysics IX, lect. 10)",
+    "translation": "division of figures in act (heuristic construction)",
+    "definition": "Aquinas's analysis in *In IX Metaph.* lect. 10 (Cathala #1894) of how geometers discover (*inveniunt*) theorems: latent geometric relations exist in potency in an undivided figure, and become immediately manifest to intellectual vision (*statim manifestum est videnti*) when auxiliary lines or radii are drawn in act."
+  },
+  "scientiae-mediae": {
+    "slug": "scientiae-mediae",
+    "headword": "scientiae mediae",
+    "language": "Latin (Scholastic)",
+    "translation": "intermediate sciences (mathematical physics)",
+    "definition": "Sciences such as optics (*perspectiva*), astronomy (*astrologia*), and harmonics (*musica*) that are formally mathematical—applying geometric or arithmetic demonstrations as *propter quid*—yet materially natural because they apply those forms to sensible light, stars, and sounds (*Super Boetium De Trinitate* q. 5 a. 3 ad 6; *In II Phys.* lect. 3)."
+  },
+  "locus-immobilis": {
+    "slug": "locus-immobilis",
+    "headword": "locus immobilis",
+    "language": "Latin (Physics IV, lect. 7)",
+    "translation": "immobile place",
+    "definition": "The innermost immobile boundary of the surrounding body, considered according to its invariant positional order (*ordo et situs*) relative to the whole cosmos—providing the experiential root from which homogeneous Euclidean positional space and rigid congruence are abstracted."
+  }
+}
