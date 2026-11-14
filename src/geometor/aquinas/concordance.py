@@ -54,7 +54,7 @@ class ConcordanceEntry:
 
 @dataclass(frozen=True)
 class PersonEntry:
-    """Prosopographical entry in the Index Nominum (``resources/persons.json``)."""
+    """Prosopographical entry in the People / Biographical Register (``resources/persons.json``)."""
 
     slug: str
     name: str

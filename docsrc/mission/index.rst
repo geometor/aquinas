@@ -1,7 +1,8 @@
 :navigation: header
 :order: 10
+:nav_title: Mission
 
-mission
+Mission
 =======
 
 ``geometor.aquinas`` recovers, translates, and annotates the foundational writings of **St. Thomas Aquinas, O.P. (1225–1274)** on mathematical science, *materia intelligibilis* (intelligible matter), abstraction, constructive division of figures in act, and judgment terminating at the imagination.

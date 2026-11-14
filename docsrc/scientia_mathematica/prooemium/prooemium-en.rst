@@ -1,10 +1,10 @@
-:title: Prooemium — Aquinas's Philosophy of Mathematical Science
+:title: Introduction — Aquinas's Philosophy of Mathematical Science
 :layout: book
 
 .. _prooemium-en:
 
-Prooemium — Aquinas's Philosophy of Mathematical Science
-========================================================
+Introduction — Aquinas's Philosophy of Mathematical Science
+===========================================================
 
 .. rubric:: *Intelligible Matter, Constructive Imagination, and the Architecture of Geometric Truth*
 

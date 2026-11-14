@@ -1,13 +1,16 @@
-:title: Bibliographia et Fontes — Systematic Bibliography
+:navigation: header
+:order: 6
+:nav_title: Bibliography
+:title: Bibliography
 :layout: book
 
 .. _bibliography:
 .. _bibliographia-et-fontes:
 
-Bibliographia et Fontes (Systematic Bibliography)
-=================================================
+Bibliography
+============
 
-.. rubric:: *Critical Editions, Classical Sources, and Modern Studies in Geometric Noetics*
+.. rubric:: Critical Editions, Classical Sources, and Modern Studies in Geometric Noetics
 
 This registry catalogues all **113 bibliographic editions and cited loci** across ``geometor-aquinas``. Every inline ``:cite:`` reference resolves directly to its ``#cite-<slug>`` anchor below and displays hover metadata automatically.
 

@@ -1,10 +1,10 @@
-:title: Prooemium Notes — GEOMETOR & the Thomistic-Hoenen Tradition
+:title: Introduction Notes — GEOMETOR & the Thomistic-Hoenen Tradition
 :layout: book
 
 .. _prooemium-notes:
 
-Prooemium — Editorial & GEOMETOR Notes
-======================================
+Introduction — Editorial & GEOMETOR Notes
+=========================================
 
 .. rubric:: *From Medieval Scholasticism to Symbolic Constructive Geometry*
 
