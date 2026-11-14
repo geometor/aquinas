@@ -189,11 +189,12 @@ def build_book_index(codex_dir: Path, manifest: dict[str, object]) -> None:
     lines = [
         ":navigation: header",
         ":order: 1",
+        ":nav_title: Mathematical Science",
         ":layout: book",
-        ":title: De Scientia Mathematica",
-        ":book_title: De Scientia Mathematica",
+        ":title: Writings on Mathematical Science",
+        ":book_title: Writings on Mathematical Science",
         ":book_subtitle: Opera de Scientia Mathematica et Materia Intelligibili",
-        ":author: Sanctus Thomas de Aquino, O.P. (1225–1274)",
+        ":author: St. Thomas Aquinas, O.P. (1225–1274)",
         ":series: GEOMETOR Classical Canon · Critical Multi-Track Codex",
         ":publisher: GEOMETOR Scriptorium (ex Editionibus Leonina, Marietti et Decker)",
         ":location: Pompaelone / Romae / Taurini",
@@ -202,36 +203,42 @@ def build_book_index(codex_dir: Path, manifest: dict[str, object]) -> None:
         ".. _aquinas-index:",
         ".. _scientia-mathematica-index:",
         "",
-        rst_heading("OPERA DE SCIENTIA MATHEMATICA ET MATERIA INTELLIGIBILI", H1_CHAR),
+        rst_heading("Writings on Mathematical Science", H1_CHAR),
         "",
-        ".. rubric:: *Foundational Texts on Mathematical Science, Intelligible Matter, Abstraction, Heuristic Construction, and Judgment*",
+        ".. rubric:: *Opera de Scientia Mathematica et Materia Intelligibili* — St. Thomas Aquinas",
         "",
         ".. container:: title-page",
         "",
-        "   | :person:`SANCTI THOMAE DE AQUINO, O.P. <aquinas>`",
-        "   | *(1225 – 1274 · Doctor Communis)*",
+        "   | :person:`St. Thomas Aquinas, O.P. <aquinas>` (1225–1274 · *Doctor Communis*)",
         "   |",
-        "   | **OPERA SELECTA DE NOETICA ET PHILOSOPHIA MATHEMATICAE**",
+        "   | **Selected Writings on the Philosophy of Mathematics & Intelligible Matter**",
         f"   | {totals['part_count']} Parts · {totals['section_count']} Unabridged Lectiones & Articles · {totals['paragraph_count']} Synchronized Paragraphs",
         "   | Diplomatic Latin Texts from the Leonine, Marietti (:person:`Pirotta <pirotta>`, :person:`Cathala <cathala>`), and :person:`Decker <decker>` Editions",
         "   | With Facing English Translation, GEOMETOR Commentary & 100% :person:`Hoenen <hoenen>` Concordance",
         "",
         "----",
         "",
-        rst_heading("Conspectus Totius Operis", H2_CHAR),
+        rst_heading("Table of Contents", H2_CHAR),
         "",
-        "*(Analytical Table of Contents)*",
-        "",
-        rst_heading("Prooemium — Introduction to Aquinas's Philosophy of Geometry", H3_CHAR),
+        rst_heading("Introduction — Aquinas's Philosophy of Geometry", H3_CHAR),
         "",
         ":ref:`English <prooemium-en>` · :ref:`Latin <prooemium-la>` · :ref:`Summary <prooemium-summary>` · :ref:`Notes <prooemium-notes>`",
         "",
     ]
 
+    part_titles_en = {
+        1: "Part I — On Boethius's De Trinitate (Questions V–VI)",
+        2: "Part II — Commentary on the Posterior Analytics",
+        3: "Part III — Commentary on Aristotle's De Anima",
+        4: "Part IV — Commentaries on the Physics and on the Heavens",
+        5: "Part V — Commentary on the Metaphysics and Systematic Works",
+    }
+
     for idx, p in enumerate(parts, start=1):
         assert isinstance(p, dict)
+        clean_title = part_titles_en.get(idx, str(p["title_en"]))
         lines.extend([
-            rst_heading(str(p["title_en"]), H3_CHAR),
+            rst_heading(clean_title, H3_CHAR),
             "",
             f"*({p['title_la']} — {p['work_title']}, {p['date_composed']} · {p['section_count']} sections, {p['paragraph_count']} paragraphs)*",
             "",
@@ -240,12 +247,12 @@ def build_book_index(codex_dir: Path, manifest: dict[str, object]) -> None:
         ])
 
     lines.extend([
-        rst_heading("Apparatus Criticus et Concordantia", H3_CHAR),
+        rst_heading("Scholarly Apparatus", H2_CHAR),
         "",
         "* :ref:`Hoenen–Aquinas–Aristotle–Euclid–GEOMETOR Master Concordance (78 Thomistic Loci) <concordance>`",
-        "* :ref:`Bibliographia et Fontes — Critical Editions & Cited Works (113 Entries) <bibliography>`",
-        "* :ref:`Index Nominum — Biographical Register of Philosophers & Geometers (30 Persons) <persons>`",
-        "* :ref:`Glossarium Technicum — Scholastic & Mathematical Lexicon (36 Terms) <glossary>`",
+        "* :ref:`Bibliography — Critical Editions & Cited Works (113 Entries) <bibliography>`",
+        "* :ref:`People — Biographical Register of Philosophers & Geometers (30 Persons) <persons>`",
+        "* :ref:`Technical Glossary — Scholastic & Mathematical Lexicon (36 Terms) <glossary>`",
         "",
         ".. toctree::",
         "   :maxdepth: 2",
@@ -262,7 +269,7 @@ def build_book_index(codex_dir: Path, manifest: dict[str, object]) -> None:
         ".. toctree::",
         "   :maxdepth: 2",
         "   :hidden:",
-        "   :caption: Editio Latina",
+        "   :caption: Latin Edition",
         "",
         "   prooemium/prooemium-la",
         "   pars-1/pars-1-la",
@@ -292,7 +299,7 @@ def build_book_index(codex_dir: Path, manifest: dict[str, object]) -> None:
         ".. toctree::",
         "   :maxdepth: 1",
         "   :hidden:",
-        "   :caption: Apparatus & Concordance",
+        "   :caption: Scholarly Apparatus",
         "",
         "   concordance",
         "   bibliography",
@@ -310,12 +317,12 @@ def build_prooemium(codex_dir: Path) -> None:
     pdir.mkdir(parents=True, exist_ok=True)
 
     en_lines = [
-        ":title: Prooemium — Aquinas's Philosophy of Mathematical Science",
+        ":title: Introduction — Aquinas's Philosophy of Mathematical Science",
         ":layout: book",
         "",
         ".. _prooemium-en:",
         "",
-        rst_heading("Prooemium — Aquinas's Philosophy of Mathematical Science", H1_CHAR),
+        rst_heading("Introduction — Aquinas's Philosophy of Mathematical Science", H1_CHAR),
         "",
         ".. rubric:: *Intelligible Matter, Constructive Imagination, and the Architecture of Geometric Truth*",
         "",
@@ -378,12 +385,12 @@ def build_prooemium(codex_dir: Path) -> None:
     ]
 
     summary_lines = [
-        ":title: Prooemium Summary — Architecture of the Codex",
+        ":title: Introduction Summary — Architecture of the Codex",
         ":layout: book",
         "",
         ".. _prooemium-summary:",
         "",
-        rst_heading("Prooemium — Executive Summary", H1_CHAR),
+        rst_heading("Introduction — Executive Summary", H1_CHAR),
         "",
         ".. rubric:: *Overview of the Five-Part Thomistic Codex on Mathematical Science*",
         "",
@@ -423,12 +430,12 @@ def build_prooemium(codex_dir: Path) -> None:
     ]
 
     notes_lines = [
-        ":title: Prooemium Notes — GEOMETOR & the Thomistic-Hoenen Tradition",
+        ":title: Introduction Notes — GEOMETOR & the Thomistic-Hoenen Tradition",
         ":layout: book",
         "",
         ".. _prooemium-notes:",
         "",
-        rst_heading("Prooemium — Editorial & GEOMETOR Notes", H1_CHAR),
+        rst_heading("Introduction — Editorial & GEOMETOR Notes", H1_CHAR),
         "",
         ".. rubric:: *From Medieval Scholasticism to Symbolic Constructive Geometry*",
         "",
@@ -776,15 +783,18 @@ def build_bibliography_page(codex_dir: Path) -> None:
     citations = load_citations()
 
     lines = [
-        ":title: Bibliographia et Fontes — Systematic Bibliography",
+        ":navigation: header",
+        ":order: 6",
+        ":nav_title: Bibliography",
+        ":title: Bibliography",
         ":layout: book",
         "",
         ".. _bibliography:",
         ".. _bibliographia-et-fontes:",
         "",
-        rst_heading("Bibliographia et Fontes (Systematic Bibliography)", H1_CHAR),
+        rst_heading("Bibliography", H1_CHAR),
         "",
-        ".. rubric:: *Critical Editions, Classical Sources, and Modern Studies in Geometric Noetics*",
+        ".. rubric:: Critical Editions, Classical Sources, and Modern Studies in Geometric Noetics",
         "",
         f"This registry catalogues all **{len(citations)} bibliographic editions and cited loci** across ``geometor-aquinas``. Every inline ``:cite:`` reference resolves directly to its ``#cite-<slug>`` anchor below and displays hover metadata automatically.",
         "",
@@ -835,28 +845,70 @@ def build_persons_page(codex_dir: Path) -> None:
     sorted_items = sorted(persons.values(), key=lambda p: p.name.lower())
 
     lines = [
-        ":title: Index Nominum — Biographical Register of Persons",
+        ":navigation: header",
+        ":order: 5",
+        ":nav_title: People",
+        ":title: People",
         ":layout: book",
         "",
         ".. _persons:",
         ".. _index-nominum:",
         "",
-        rst_heading("Index Nominum (Biographical Register)", H1_CHAR),
+        rst_heading("People", H1_CHAR),
         "",
-        ".. rubric:: *Philosophers, Geometers, Commentators, and Critical Editors*",
+        ".. rubric:: Biographical Register of Philosophers, Geometers, Commentators, and Critical Editors",
         "",
         f"This prosopographical register documents **{len(persons)} key figures** shaping Thomistic geometric noetics—from :person:`Pythagoras <pythagoras>`, :person:`Plato <plato>`, :person:`Aristotle <aristotle>`, and :person:`Euclid <euclid>` through :person:`Boethius <boethius>`, :person:`Avicenna <avicenna>`, :person:`Averroes <averroes>`, :person:`Albert the Great <albertus>`, :person:`Thomas Aquinas <aquinas>`, :person:`Cajetan <cajetan>`, and :person:`Luca Pacioli <pacioli>` to :person:`David Hilbert <hilbert>`, :person:`Peter Hoenen <hoenen>`, :person:`Étienne Gilson <gilson>`, and :person:`Bernard Lonergan <lonergan>`.",
         "",
-        rst_heading("Alphabetical Directory", H2_CHAR),
+        rst_heading("Authors, Translators & Editors", H2_CHAR),
         "",
     ]
 
-    for p in sorted_items:
-        slug = slugify_apparatus_key(p.slug)
-        lines.append(f"* :ref:`{p.name} ({p.dates}) <person-{slug}>` — *{p.role}*")
-    lines.extend(["", "----", "", rst_heading("Biographical Entries", H2_CHAR), ""])
+    author_slugs = ["aquinas", "william-of-moerbeke", "pirotta", "cathala", "decker", "busa"]
+    for slug in author_slugs:
+        if slug in persons:
+            p = persons[slug]
+            p_slug = slugify_apparatus_key(p.slug)
+            lines.extend([
+                f".. _person-{p_slug}:",
+                "",
+                rst_heading(f"{p.name} ({p.dates})", H3_CHAR),
+                "",
+                f"**Role**: *{p.role}*",
+                "",
+            ])
+            if slug == "aquinas":
+                lines.extend([
+                    "Born at Roccasecca near Aquino around 1225, **Thomas Aquinas, O.P.** studied the liberal arts and the *quadrivium* (arithmetic, geometry, music, and astronomy) at the University of Naples before entering the Order of Preachers and studying under **St. Albert the Great** at Paris and Cologne. Across a remarkably concentrated career spanning Paris, Orvieto, Rome, Viterbo, and Naples (1252–1274), Aquinas produced both monumental theological syntheses and twelve penetrating commentaries on Aristotle—working closely with the literal Greek-to-Latin translations and revisions of his Dominican confrere **William of Moerbeke**.",
+                    "",
+                    "Although Aquinas did not compose a separate mathematical treatise like Euclid's *Elements*, geometry and arithmetic form the indispensable structural middle of his entire epistemology and metaphysics:",
+                    "",
+                    "1. **Between Physics and Metaphysics (*Super Boetium De Trinitate* qq. 5–6, 1257–1259)**: In his autograph exposition of Boethius's *De Trinitate*, Master Thomas broke decisively with Platonic reification and Avicennian emanationism alike. Distinguishing the intellect's simple apprehension of essence from its existential judgment (*separatio*), he showed why mathematical science abstracts dimensional form (*abstractio formae*) from sensible qualities while preserving continuous spatial extension (*materia intelligibilis*)—and why mathematical judgment terminates neither at mutable external sense nor at pure imageless intellect, but at the constructive imagination (*terminari ad imaginationem*).",
+                    "2. **Paradigm of Demonstrative Science (*In Posteriora Analytica*, 1270–1272)**: Throughout his mature *Posterior Analytics* commentary, Euclidean geometry provides Aquinas's primary laboratory for analyzing axioms (*dignitates / communes animi conceptiones*), definitions, hypotheses (*suppositiones*), and postulates (*petitiones*), explaining why mathematics enjoys the *certissimus modus demonstrationis* without mistaking diagrams drawn in dust for the intelligible continuum signified through them.",
+                    "3. **Psychological Unity of Intellect and Phantasm (*In De Anima*, 1267–1268 & *ST* I q. 84–85)**: Aquinas insists that even in pure geometry, the human intellect never understands without turning to a concrete *phantasma* (*conversio ad phantasmata*), beholding universal necessary ratios inside a determinate imagined figure.",
+                    "4. **Heuristic Discovery by Division in Act (*In IX Metaphysicorum* lect. 10, c. 1270–1272)**: Commenting on Aristotle's *Metaphysics* IX.9 (1051a21–33), Aquinas analyzes Euclid I.32 and III.31 to reveal how geometers discover hidden truths: what lies latent in potency in an undivided figure leaps into immediate intellectual clarity (*statim manifestum est videnti*) the instant auxiliary constructions divide the continuum in act.",
+                    "",
+                ])
+            else:
+                lines.extend([
+                    normalize_inline_rst(p.bio),
+                    "",
+                ])
+            if p.works:
+                lines.append("**Principal Works**:")
+                lines.append("")
+                for w in p.works:
+                    lines.append(f"* *{w}*")
+                lines.append("")
+
+    lines.extend([
+        rst_heading("Cited Geometers, Philosophers & Scholars", H2_CHAR),
+        "",
+    ])
 
     for p in sorted_items:
+        if p.slug in author_slugs:
+            continue
         slug = slugify_apparatus_key(p.slug)
         lines.extend([
             f".. _person-{slug}:",
@@ -884,15 +936,15 @@ def build_glossary_page(codex_dir: Path) -> None:
     sorted_terms = sorted(glossary.values(), key=lambda g: g.headword.lower())
 
     lines = [
-        ":title: Glossarium Technicum — Scholastic & Geometric Glossary",
+        ":title: Technical Glossary — Scholastic & Geometric Lexicon",
         ":layout: book",
         "",
         ".. _glossary:",
         ".. _glossarium-technicum:",
         "",
-        rst_heading("Glossarium Technicum (Technical Glossary)", H1_CHAR),
+        rst_heading("Technical Glossary", H1_CHAR),
         "",
-        ".. rubric:: *Lexicon of Thomistic Epistemology, Metaphysics, and Constructive Geometry*",
+        ".. rubric:: *Glossarium Technicum* — Lexicon of Thomistic Epistemology, Metaphysics, and Constructive Geometry",
         "",
         f"This lexicon defines **{len(glossary)} foundational Latin and Greek technical terms** governing Aquinas's philosophy of mathematics and its modern reception in :person:`Peter Hoenen <hoenen>` and GEOMETOR. Every inline ``:term:`` tag links directly to its ``#term-<slug>`` anchor below.",
         "",

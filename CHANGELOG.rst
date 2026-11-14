@@ -2,6 +2,11 @@
 changelog
 =========
 
+0.1.2 (2026-11-14)
+------------------
+
+- **changed**: Standardized Book Title Page, top-level Header Navigation (``Book``, ``People``, ``Bibliography``, ``Usage``), Reader's Guide (``docsrc/usage/``), featured Author/Translator profiles in ``People``, and English structural terminology.
+
 0.1.1 (2026-11-13)
 ------------------
 

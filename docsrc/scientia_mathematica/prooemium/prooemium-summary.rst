@@ -1,10 +1,10 @@
-:title: Prooemium Summary — Architecture of the Codex
+:title: Introduction Summary — Architecture of the Codex
 :layout: book
 
 .. _prooemium-summary:
 
-Prooemium — Executive Summary
-=============================
+Introduction — Executive Summary
+================================
 
 .. rubric:: *Overview of the Five-Part Thomistic Codex on Mathematical Science*
 
