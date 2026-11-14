@@ -46,7 +46,7 @@
           <a href="../scientia_mathematica/bibliography.html"  >Bibliography</a>
         </li>
         <li>
-          <a href="../mission/index.html"  >Mission</a>
+          <a href="#" class="is-active" aria-selected="true" aria-current="page">About</a>
         </li>
         <li>
           <a href="../usage/index.html"  >Usage</a>
@@ -83,9 +83,50 @@
         </div>
       </header>
       <div class="content body book-content" role="main">
-        <section class="level-1" id="about">
-        <span id="about-index"></span><h1>About<a class="headerlink" href="#about" title="Link to this heading">¶</a></h1>
-        <p>Historical, philological, and philosophical context for the mathematical writings of St. Thomas Aquinas, O.P. (1225–1274) within the GEOMETOR Classical Canon.</p>
+        <section class="level-1" id="about-index">
+        <span id="about"></span><span id="id1"></span><h1>About<a class="headerlink" href="#about-index" title="Link to this heading">¶</a></h1>
+        <p class="rubric">Extracting Historical Semantic Knowledge &amp; Repurposing It for Exact Symbolic Reasoning</p>
+        <section class="level-2" id="about-this-edition">
+        <h2>About This Edition<a class="headerlink" href="#about-this-edition" title="Link to this heading">¶</a></h2>
+        <p><strong>GEOMETOR • aquinas</strong> recovers, translates, and annotates the foundational writings of <strong>St. Thomas Aquinas, O.P. (1225–1274)</strong> on mathematical science, <em>materia intelligibilis</em> (intelligible matter), abstraction, and constructive geometry. Assembled from the critical Leonine, Marietti (Pirotta, Cathala–Spiazzi), and Decker editions across <strong>Five Parts</strong> (37 unabridged sections, 613 synchronized paragraphs), this codex gathers Aquinas’s complete architectural doctrine on the nature and certitude of mathematical demonstration:</p>
+        <ul class="simple">
+        <li><p><strong>Pars I</strong> (<em>Super Boetium De Trinitate</em> qq. 5–6): The vital distinction between <em>abstractio formae</em> and <em>separatio</em>, the doctrine of <em>materia intelligibilis</em>, and why mathematical judgment terminates at the imagination (<em>terminari ad imaginationem</em>).</p></li>
+        <li><p><strong>Pars II</strong> (<em>In Posteriora Analytica</em>): Why Euclidean geometry provides the <em>certissimus modus demonstrationis</em>, dissecting axioms (<em>dignitates</em>), definitions, hypotheses (<em>suppositiones</em>), postulates (<em>petitiones</em>), and sensible dust diagrams.</p></li>
+        <li><p><strong>Pars III</strong> (<em>In De Anima</em>): The psychological necessity of <em>conversio ad phantasmata</em>—why the human intellect never understands geometric truth without beholding intelligible extension in an imagined figure.</p></li>
+        <li><p><strong>Pars IV</strong> (<em>In Physicorum</em> &amp; <em>De Caelo</em>): Continuum non-atomism, indivisibles, and the physical realization of geometric motion.</p></li>
+        <li><p><strong>Pars V</strong> (<em>In Metaphysicorum</em> &amp; <em>Summa Theologiae</em>): Individual intelligible matter and heuristic discovery by division in act (<em>divisio in actu</em> for Euclid I.32 and III.31).</p></li>
+        </ul>
+        <p>Through the GEOMETOR Digital Scriptorium architecture, every text is extracted into a synchronized 4-track Book Codex (unabridged English translation, critical Latin diplomatic text, chapter-by-chapter modern summary, and deep philosophical notes). The edition incorporates a comprehensive 78-locus concordance linking Aquinas’s Aristotelian commentaries directly to Fr. Peter Hoenen, S.J.’s <em>De Noetica Geometriae</em> (1954), Fra Luca Pacioli’s <em>De Divina Proportione</em> (1509), and Euclid’s <em>Elements</em>. Within the broader GEOMETOR canon, this work establishes the epistemological foundation for exact symbolic geometry, explaining how symbolic algebraic DAGs in <code class="docutils literal notranslate"><span class="pre">geometor.model</span></code>, interactive SVG diagrams in <code class="docutils literal notranslate"><span class="pre">geometor.explorer</span></code>, and golden-ratio invariants in <code class="docutils literal notranslate"><span class="pre">geometor.divine</span></code> computationalize Aquinas’s classical realism.</p>
+        </section>
+        <section class="level-2" id="the-geometor-mission">
+        <h2>The GEOMETOR Mission<a class="headerlink" href="#the-geometor-mission" title="Link to this heading">¶</a></h2>
+        <p>The GEOMETOR project, directed by <strong>phi ARCHITECT</strong>, is dedicated to the systematic recovery, exact formalization, and dynamic re-expression of foundational geometric and philosophical knowledge. The mission unfolds across three essential pillars:</p>
+        <ul class="simple">
+        <li><p><strong>Extracting Historical Semantic Knowledge</strong>: Moving beyond passive page scans and OCR to recover the living deductive structure of 2,300+ years of geometric, axiomatic, and philosophical treatises—elevating prose, marginal citations, primary-source folios (via <code class="docutils literal notranslate"><span class="pre">publish</span> <span class="pre">folio</span></code>), and calibrated Ink-to-Vector <code class="docutils literal notranslate"><span class="pre">.euclid-graphic</span></code> diagrams into structured, machine-addressable semantic graphs.</p></li>
+        <li><p><strong>Exact Symbolic Grounding (``geometor.model``)</strong>: Anchoring geometric constructions in 100% exact symbolic algebra (using <code class="docutils literal notranslate"><span class="pre">SymPy</span></code>) and Rational Trigonometry invariants (quadrance, spread, cross-ratio) over exact algebraic fields rather than floating-point approximations.</p></li>
+        <li><p><strong>Repurposing Knowledge Across Mediums</strong>: Re-deploying extracted semantic and algebraic structures across synchronized multi-track <strong>Book Codices</strong> and EPUB 3 editions (via <code class="docutils literal notranslate"><span class="pre">photon-platform/publish</span></code>), computable deductive canons (<code class="docutils literal notranslate"><span class="pre">geometor.elements</span></code>, <code class="docutils literal notranslate"><span class="pre">geometor.etc</span></code>, <code class="docutils literal notranslate"><span class="pre">geometor.pappus</span></code>, <code class="docutils literal notranslate"><span class="pre">geometor.divine</span></code>), interactive SVG laboratories (<code class="docutils literal notranslate"><span class="pre">geometor.explorer</span></code>), QHD visual broadcasts, and neuro-symbolic program synthesis (<code class="docutils literal notranslate"><span class="pre">geometor.seer</span></code>) across <code class="docutils literal notranslate"><span class="pre">geometor.com</span></code>.</p></li>
+        </ul>
+        </section>
+        <section class="level-2" id="sources-provenance-methodology">
+        <h2>Sources, Provenance &amp; Methodology<a class="headerlink" href="#sources-provenance-methodology" title="Link to this heading">¶</a></h2>
+        <section class="level-3" id="archival-sources-critical-editions">
+        <h3>Archival Sources &amp; Critical Editions<a class="headerlink" href="#archival-sources-critical-editions" title="Link to this heading">¶</a></h3>
+        <ul class="simple">
+        <li><p><strong>Editio Leonina (Rome, 1882–present)</strong>: Critical Latin texts established under Pope Leo XIII and the Leonine Commission, including <em>Posterior Analytics</em> (Tom. I, 1882; Tom. I* 2, ed. R.-A. Gauthier, 1989), <em>Physics</em> (Tom. II, 1884), <em>De Caelo</em> (Tom. III, 1886), <em>Summa Theologiae</em> (Tom. IV–V, 1888–1889), <em>De Veritate</em> (Tom. XXII, 1970–1976), <em>De Anima</em> (Tom. XLV.1, 1984), and <em>Super Boetium De Trinitate</em> (Tom. L, 1992).</p></li>
+        <li><p><strong>Marietti Taurini Manual Editions</strong>: Sequential numbering traditions edited by Angelo Maria Pirotta, O.P. (<em>In De Anima</em>, 1925/1936, paragraphs <code class="docutils literal notranslate"><span class="pre">#1–#846</span></code>) and Marie-Raymond Cathala, O.P. &amp; Raimondo M. Spiazzi, O.P. (<em>In Metaphysicorum</em>, 1915/1950, paragraphs <code class="docutils literal notranslate"><span class="pre">#1–#2663</span></code>).</p></li>
+        <li><p><strong>Bruno Decker Critical Edition (Leiden, 1959)</strong>: Transcription of the Vatican autograph <em>Codex Vaticanus Latinus 9850</em> for <em>Super Boetium De Trinitate</em>, restoring Aquinas’s autograph distinction between <em>separatio</em> and <em>abstractio</em>.</p></li>
+        </ul>
+        </section>
+        <section class="level-3" id="digital-scriptorium-methodology">
+        <h3>Digital Scriptorium Methodology<a class="headerlink" href="#digital-scriptorium-methodology" title="Link to this heading">¶</a></h3>
+        <ul class="simple">
+        <li><p><strong>Primary Philological Fidelity</strong>: 100% unabridged, verbatim Latin diplomatic texts paired with rigorous, paragraph-synchronized English translations.</p></li>
+        <li><p><strong>Complete Hoenen–Euclid Concordance</strong>: Direct cross-referencing between Thomistic noetics, Aristotelian texts (<code class="docutils literal notranslate"><span class="pre">geometor.aristotle</span></code>), and Euclidean theorems (<code class="docutils literal notranslate"><span class="pre">geometor.euclid</span></code>, <code class="docutils literal notranslate"><span class="pre">geometor.elements</span></code>).</p></li>
+        <li><p><strong>Epistemology of Symbolic Constructive Geometry</strong>: Formal demonstration of how exact symbolic computation in <code class="docutils literal notranslate"><span class="pre">geometor.model</span></code> realizes the Thomistic synthesis of <em>intellectus</em>, <em>phantasma</em>, and <em>divisio in actu</em>.</p></li>
+        </ul>
+        </section>
+        <section class="level-3" id="historical-critical-philosophical-essays">
+        <h3>Historical, Critical &amp; Philosophical Essays<a class="headerlink" href="#historical-critical-philosophical-essays" title="Link to this heading">¶</a></h3>
         <ul class="simple">
         <li><p><a class="reference internal" href="thomas-aquinas.html#about-thomas-aquinas"><span class="std std-ref">St. Thomas Aquinas (1225–1274) &amp; the Philosophy of Mathematics</span></a></p></li>
         <li><p><a class="reference internal" href="corpus-thomisticum-editions.html#about-editions"><span class="std std-ref">Critical Editions: Leonine, Marietti, Decker &amp; Corpus Thomisticum</span></a></p></li>
@@ -93,6 +134,8 @@
         </ul>
         <div class="toctree-wrapper compound">
         </div>
+        </section>
+        </section>
         </section>
 
       </div>
@@ -166,7 +209,6 @@
   <footer>
     <div class="footer-nav">
       <ul>
-        <li><a href="#" class="is-active" aria-selected="true" aria-current="page">About</a></li>
         <li><a href="../connect.html"  >Connect</a></li>
         <li><a href="../changelog.html"  >Changelog</a></li>
       </ul>
@@ -181,7 +223,7 @@
 
   <script src="../_static/jquery.js?v=5d32c60e"></script>
   <script src="../_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
-  <script src="../_static/documentation_options.js?v=92734c54"></script>
+  <script src="../_static/documentation_options.js?v=360bc84d"></script>
   <script src="../_static/doctools.js?v=fd6eb6e6"></script>
   <script src="../_static/sphinx_highlight.js?v=6ffebe34"></script>
   <script src="../_static/js/collection_controls.js?v=b6b5297a"></script>

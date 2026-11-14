@@ -28,6 +28,7 @@ Assembles in **Five Parts** (37 unabridged sections, 613 synchronized paragraphs
 Historical Context & Documentation
 ----------------------------------
 
+* :doc:`About This Edition & the GEOMETOR Mission <about/index>`
 * :ref:`St. Thomas Aquinas (1225–1274) & the Philosophy of Mathematics <about-thomas-aquinas>`
 * :ref:`Critical Editions: Leonine, Marietti, Decker & Corpus Thomisticum <about-editions>`
 * :ref:`Thomistic Noetics, Peter Hoenen & the GEOMETOR Symbolic Engine <about-thomistic-geometor>`
@@ -39,7 +40,6 @@ Historical Context & Documentation
    scientia_mathematica/index
    scientia_mathematica/persons
    scientia_mathematica/bibliography
-   mission/index
    usage/index
    log/index
    about/index
