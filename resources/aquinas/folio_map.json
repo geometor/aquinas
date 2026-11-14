@@ -1,0 +1,199 @@
+{
+  "title": "Sancti Thomae de Aquino Opera de Scientia Mathematica — Primary Source Folio Map",
+  "edition": "aquinas",
+  "repository": "geometor/aquinas",
+  "branch": "main",
+  "total_folios": 38,
+  "folios": {
+    "De Caelo I, lect. 2": {
+      "la": "resources/aquinas/sources/pars_4_physica_et_de_caelo.la.txt#L116",
+      "en": "resources/aquinas/sources/pars_4_physica_et_de_caelo.la.txt#L116",
+      "default": "resources/aquinas/sources/pars_4_physica_et_de_caelo.la.txt#L116"
+    },
+    "De Caelo II, lect. 2": {
+      "la": "resources/aquinas/sources/pars_4_physica_et_de_caelo.la.txt#L140",
+      "en": "resources/aquinas/sources/pars_4_physica_et_de_caelo.la.txt#L140",
+      "default": "resources/aquinas/sources/pars_4_physica_et_de_caelo.la.txt#L140"
+    },
+    "De Pot. q. 7, a. 2": {
+      "la": "resources/aquinas/sources/pars_5_metaphysica_et_opera_systematica.la.txt#L331",
+      "en": "resources/aquinas/sources/pars_5_metaphysica_et_opera_systematica.la.txt#L331",
+      "default": "resources/aquinas/sources/pars_5_metaphysica_et_opera_systematica.la.txt#L331"
+    },
+    "De Ver. q. 10, a. 6": {
+      "la": "resources/aquinas/sources/pars_5_metaphysica_et_opera_systematica.la.txt#L383",
+      "en": "resources/aquinas/sources/pars_5_metaphysica_et_opera_systematica.la.txt#L383",
+      "default": "resources/aquinas/sources/pars_5_metaphysica_et_opera_systematica.la.txt#L383"
+    },
+    "Lib. I, lect. 1": {
+      "la": "resources/aquinas/sources/pars_2_posteriora_analytica.la.txt#L7",
+      "en": "resources/aquinas/sources/pars_2_posteriora_analytica.la.txt#L7",
+      "default": "resources/aquinas/sources/pars_2_posteriora_analytica.la.txt#L7"
+    },
+    "Lib. I, lect. 11": {
+      "la": "resources/aquinas/sources/pars_3_sentencia_de_anima.la.txt#L7",
+      "en": "resources/aquinas/sources/pars_3_sentencia_de_anima.la.txt#L7",
+      "default": "resources/aquinas/sources/pars_3_sentencia_de_anima.la.txt#L7"
+    },
+    "Lib. I, lect. 17": {
+      "la": "resources/aquinas/sources/pars_2_posteriora_analytica.la.txt#L137",
+      "en": "resources/aquinas/sources/pars_2_posteriora_analytica.la.txt#L137",
+      "default": "resources/aquinas/sources/pars_2_posteriora_analytica.la.txt#L137"
+    },
+    "Lib. I, lect. 18": {
+      "la": "resources/aquinas/sources/pars_2_posteriora_analytica.la.txt#L151",
+      "en": "resources/aquinas/sources/pars_2_posteriora_analytica.la.txt#L151",
+      "default": "resources/aquinas/sources/pars_2_posteriora_analytica.la.txt#L151"
+    },
+    "Lib. I, lect. 19": {
+      "la": "resources/aquinas/sources/pars_2_posteriora_analytica.la.txt#L173",
+      "en": "resources/aquinas/sources/pars_2_posteriora_analytica.la.txt#L173",
+      "default": "resources/aquinas/sources/pars_2_posteriora_analytica.la.txt#L173"
+    },
+    "Lib. I, lect. 2": {
+      "la": "resources/aquinas/sources/pars_2_posteriora_analytica.la.txt#L33",
+      "en": "resources/aquinas/sources/pars_2_posteriora_analytica.la.txt#L33",
+      "default": "resources/aquinas/sources/pars_2_posteriora_analytica.la.txt#L33"
+    },
+    "Lib. I, lect. 3": {
+      "la": "resources/aquinas/sources/pars_2_posteriora_analytica.la.txt#L53",
+      "en": "resources/aquinas/sources/pars_2_posteriora_analytica.la.txt#L53",
+      "default": "resources/aquinas/sources/pars_2_posteriora_analytica.la.txt#L53"
+    },
+    "Lib. I, lect. 4": {
+      "la": "resources/aquinas/sources/pars_2_posteriora_analytica.la.txt#L67",
+      "en": "resources/aquinas/sources/pars_2_posteriora_analytica.la.txt#L67",
+      "default": "resources/aquinas/sources/pars_2_posteriora_analytica.la.txt#L67"
+    },
+    "Lib. I, lect. 42": {
+      "la": "resources/aquinas/sources/pars_2_posteriora_analytica.la.txt#L191",
+      "en": "resources/aquinas/sources/pars_2_posteriora_analytica.la.txt#L191",
+      "default": "resources/aquinas/sources/pars_2_posteriora_analytica.la.txt#L191"
+    },
+    "Lib. I, lect. 5": {
+      "la": "resources/aquinas/sources/pars_2_posteriora_analytica.la.txt#L101",
+      "en": "resources/aquinas/sources/pars_2_posteriora_analytica.la.txt#L101",
+      "default": "resources/aquinas/sources/pars_2_posteriora_analytica.la.txt#L101"
+    },
+    "Lib. I, lect. 6": {
+      "la": "resources/aquinas/sources/pars_2_posteriora_analytica.la.txt#L121",
+      "en": "resources/aquinas/sources/pars_2_posteriora_analytica.la.txt#L121",
+      "default": "resources/aquinas/sources/pars_2_posteriora_analytica.la.txt#L121"
+    },
+    "Lib. II, lect. 16": {
+      "la": "resources/aquinas/sources/pars_3_sentencia_de_anima.la.txt#L29",
+      "en": "resources/aquinas/sources/pars_3_sentencia_de_anima.la.txt#L29",
+      "default": "resources/aquinas/sources/pars_3_sentencia_de_anima.la.txt#L29"
+    },
+    "Lib. II, lect. 20": {
+      "la": "resources/aquinas/sources/pars_2_posteriora_analytica.la.txt#L213",
+      "en": "resources/aquinas/sources/pars_2_posteriora_analytica.la.txt#L213",
+      "default": "resources/aquinas/sources/pars_2_posteriora_analytica.la.txt#L213"
+    },
+    "Lib. III, lect. 12": {
+      "la": "resources/aquinas/sources/pars_3_sentencia_de_anima.la.txt#L97",
+      "en": "resources/aquinas/sources/pars_3_sentencia_de_anima.la.txt#L97",
+      "default": "resources/aquinas/sources/pars_3_sentencia_de_anima.la.txt#L97"
+    },
+    "Lib. III, lect. 13": {
+      "la": "resources/aquinas/sources/pars_3_sentencia_de_anima.la.txt#L143",
+      "en": "resources/aquinas/sources/pars_3_sentencia_de_anima.la.txt#L143",
+      "default": "resources/aquinas/sources/pars_3_sentencia_de_anima.la.txt#L143"
+    },
+    "Lib. III, lect. 8": {
+      "la": "resources/aquinas/sources/pars_3_sentencia_de_anima.la.txt#L55",
+      "en": "resources/aquinas/sources/pars_3_sentencia_de_anima.la.txt#L55",
+      "default": "resources/aquinas/sources/pars_3_sentencia_de_anima.la.txt#L55"
+    },
+    "Metaph. IX, lect. 10": {
+      "la": "resources/aquinas/sources/pars_5_metaphysica_et_opera_systematica.la.txt#L193",
+      "en": "resources/aquinas/sources/pars_5_metaphysica_et_opera_systematica.la.txt#L193",
+      "default": "resources/aquinas/sources/pars_5_metaphysica_et_opera_systematica.la.txt#L193"
+    },
+    "Metaph. IX, lect. 3": {
+      "la": "resources/aquinas/sources/pars_5_metaphysica_et_opera_systematica.la.txt#L151",
+      "en": "resources/aquinas/sources/pars_5_metaphysica_et_opera_systematica.la.txt#L151",
+      "default": "resources/aquinas/sources/pars_5_metaphysica_et_opera_systematica.la.txt#L151"
+    },
+    "Metaph. V, lect. 9": {
+      "la": "resources/aquinas/sources/pars_5_metaphysica_et_opera_systematica.la.txt#L9",
+      "en": "resources/aquinas/sources/pars_5_metaphysica_et_opera_systematica.la.txt#L9",
+      "default": "resources/aquinas/sources/pars_5_metaphysica_et_opera_systematica.la.txt#L9"
+    },
+    "Metaph. VII, lect. 10": {
+      "la": "resources/aquinas/sources/pars_5_metaphysica_et_opera_systematica.la.txt#L37",
+      "en": "resources/aquinas/sources/pars_5_metaphysica_et_opera_systematica.la.txt#L37",
+      "default": "resources/aquinas/sources/pars_5_metaphysica_et_opera_systematica.la.txt#L37"
+    },
+    "Metaph. VII, lect. 11": {
+      "la": "resources/aquinas/sources/pars_5_metaphysica_et_opera_systematica.la.txt#L77",
+      "en": "resources/aquinas/sources/pars_5_metaphysica_et_opera_systematica.la.txt#L77",
+      "default": "resources/aquinas/sources/pars_5_metaphysica_et_opera_systematica.la.txt#L77"
+    },
+    "Phys. II, lect. 3": {
+      "la": "resources/aquinas/sources/pars_4_physica_et_de_caelo.la.txt#L8",
+      "en": "resources/aquinas/sources/pars_4_physica_et_de_caelo.la.txt#L8",
+      "default": "resources/aquinas/sources/pars_4_physica_et_de_caelo.la.txt#L8"
+    },
+    "Phys. III, lect. 5": {
+      "la": "resources/aquinas/sources/pars_4_physica_et_de_caelo.la.txt#L28",
+      "en": "resources/aquinas/sources/pars_4_physica_et_de_caelo.la.txt#L28",
+      "default": "resources/aquinas/sources/pars_4_physica_et_de_caelo.la.txt#L28"
+    },
+    "Phys. IV, lect. 7": {
+      "la": "resources/aquinas/sources/pars_4_physica_et_de_caelo.la.txt#L66",
+      "en": "resources/aquinas/sources/pars_4_physica_et_de_caelo.la.txt#L66",
+      "default": "resources/aquinas/sources/pars_4_physica_et_de_caelo.la.txt#L66"
+    },
+    "Phys. VI, lect. 1": {
+      "la": "resources/aquinas/sources/pars_4_physica_et_de_caelo.la.txt#L98",
+      "en": "resources/aquinas/sources/pars_4_physica_et_de_caelo.la.txt#L98",
+      "default": "resources/aquinas/sources/pars_4_physica_et_de_caelo.la.txt#L98"
+    },
+    "Prooemium": {
+      "la": "resources/aquinas/sources/pars_1_super_boetium_de_trinitate.la.txt#L1",
+      "en": "resources/aquinas/sources/pars_1_super_boetium_de_trinitate.la.txt#L1",
+      "default": "resources/aquinas/sources/pars_1_super_boetium_de_trinitate.la.txt#L1"
+    },
+    "ST I, q. 7, a. 1 & 3; q. 12, a. 4": {
+      "la": "resources/aquinas/sources/pars_5_metaphysica_et_opera_systematica.la.txt#L219",
+      "en": "resources/aquinas/sources/pars_5_metaphysica_et_opera_systematica.la.txt#L219",
+      "default": "resources/aquinas/sources/pars_5_metaphysica_et_opera_systematica.la.txt#L219"
+    },
+    "ST I, q. 84, a. 6–7; q. 85, a. 1": {
+      "la": "resources/aquinas/sources/pars_5_metaphysica_et_opera_systematica.la.txt#L273",
+      "en": "resources/aquinas/sources/pars_5_metaphysica_et_opera_systematica.la.txt#L273",
+      "default": "resources/aquinas/sources/pars_5_metaphysica_et_opera_systematica.la.txt#L273"
+    },
+    "q. 5, a. 1": {
+      "la": "resources/aquinas/sources/pars_1_super_boetium_de_trinitate.la.txt#L7",
+      "en": "resources/aquinas/sources/pars_1_super_boetium_de_trinitate.la.txt#L7",
+      "default": "resources/aquinas/sources/pars_1_super_boetium_de_trinitate.la.txt#L7"
+    },
+    "q. 5, a. 2": {
+      "la": "resources/aquinas/sources/pars_1_super_boetium_de_trinitate.la.txt#L71",
+      "en": "resources/aquinas/sources/pars_1_super_boetium_de_trinitate.la.txt#L71",
+      "default": "resources/aquinas/sources/pars_1_super_boetium_de_trinitate.la.txt#L71"
+    },
+    "q. 5, a. 3": {
+      "la": "resources/aquinas/sources/pars_1_super_boetium_de_trinitate.la.txt#L113",
+      "en": "resources/aquinas/sources/pars_1_super_boetium_de_trinitate.la.txt#L113",
+      "default": "resources/aquinas/sources/pars_1_super_boetium_de_trinitate.la.txt#L113"
+    },
+    "q. 5, a. 4": {
+      "la": "resources/aquinas/sources/pars_1_super_boetium_de_trinitate.la.txt#L163",
+      "en": "resources/aquinas/sources/pars_1_super_boetium_de_trinitate.la.txt#L163",
+      "default": "resources/aquinas/sources/pars_1_super_boetium_de_trinitate.la.txt#L163"
+    },
+    "q. 6, a. 1": {
+      "la": "resources/aquinas/sources/pars_1_super_boetium_de_trinitate.la.txt#L211",
+      "en": "resources/aquinas/sources/pars_1_super_boetium_de_trinitate.la.txt#L211",
+      "default": "resources/aquinas/sources/pars_1_super_boetium_de_trinitate.la.txt#L211"
+    },
+    "q. 6, a. 2": {
+      "la": "resources/aquinas/sources/pars_1_super_boetium_de_trinitate.la.txt#L297",
+      "en": "resources/aquinas/sources/pars_1_super_boetium_de_trinitate.la.txt#L297",
+      "default": "resources/aquinas/sources/pars_1_super_boetium_de_trinitate.la.txt#L297"
+    }
+  }
+}
