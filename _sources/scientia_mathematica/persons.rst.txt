@@ -1,54 +1,118 @@
-:title: Index Nominum — Biographical Register of Persons
+:navigation: header
+:order: 5
+:nav_title: People
+:title: People
 :layout: book
 
 .. _persons:
 .. _index-nominum:
 
-Index Nominum (Biographical Register)
-=====================================
+People
+======
 
-.. rubric:: *Philosophers, Geometers, Commentators, and Critical Editors*
+.. rubric:: Biographical Register of Philosophers, Geometers, Commentators, and Critical Editors
 
 This prosopographical register documents **30 key figures** shaping Thomistic geometric noetics—from :person:`Pythagoras <pythagoras>`, :person:`Plato <plato>`, :person:`Aristotle <aristotle>`, and :person:`Euclid <euclid>` through :person:`Boethius <boethius>`, :person:`Avicenna <avicenna>`, :person:`Averroes <averroes>`, :person:`Albert the Great <albertus>`, :person:`Thomas Aquinas <aquinas>`, :person:`Cajetan <cajetan>`, and :person:`Luca Pacioli <pacioli>` to :person:`David Hilbert <hilbert>`, :person:`Peter Hoenen <hoenen>`, :person:`Étienne Gilson <gilson>`, and :person:`Bernard Lonergan <lonergan>`.
 
-Alphabetical Directory
-----------------------
+Authors, Translators & Editors
+------------------------------
 
-* :ref:`Albert the Great, St., O.P. (c. 1200 – 1280) <person-albertus>` — *Dominican Polymath, Teacher of Aquinas & Doctor Universalis*
-* :ref:`Alexander of Aphrodisias (fl. c. 200 AD) <person-alexander>` — *Peripatetic Commentator*
-* :ref:`Angelo Maria Pirotta, O.P. (1894 – 1956) <person-pirotta>` — *Dominican Editor of Aquinas's De Anima & Ethics Commentaries*
-* :ref:`Anicius Manlius Severinus Boethius (c. 477 – 524 AD) <person-boethius>` — *Roman Statesman, Philosopher & Translator*
-* :ref:`Aristotle of Stagira (384 – 322 BC) <person-aristotle>` — *Greek Philosopher ('The Philosopher')*
-* :ref:`Augustine of Hippo, St. (354 – 430 AD) <person-augustine>` — *Latin Church Father & Christian Neoplatonist*
-* :ref:`Averroes (Ibn Rushd) (1126 – 1198) <person-averroes>` — *Andalusian Philosopher ('The Commentator')*
-* :ref:`Avicenna (Ibn Sīnā) (980 – 1037) <person-avicenna>` — *Persian Philosopher & Physician*
-* :ref:`Bernard J. F. Lonergan, S.J. (1904 – 1984) <person-lonergan>` — *Canadian Jesuit Philosopher & Theologian*
-* :ref:`Bertrand Russell (1872 – 1970) <person-russell>` — *British Logician & Philosopher of Mathematics*
-* :ref:`Bruno Decker (1907 – 1961) <person-decker>` — *Critical Editor of Super Boetium De Trinitate*
-* :ref:`Claudius Ptolemy (c. 100 – c. 170 AD) <person-ptolemy>` — *Greco-Roman Mathematician & Astronomer*
-* :ref:`David Hilbert (1862 – 1943) <person-hilbert>` — *German Mathematician & Axiomatic Formalist*
-* :ref:`Democritus of Abdera (c. 460 – c. 370 BC) <person-democritus>` — *Pre-Socratic Atomist Philosopher*
-* :ref:`Euclid of Alexandria (fl. c. 300 BC) <person-euclid>` — *Alexandrian Geometer*
-* :ref:`Immanuel Kant (1724 – 1804) <person-kant>` — *German Critical Philosopher*
-* :ref:`Luca Pacioli, O.F.M. (c. 1447 – 1517) <person-pacioli>` — *Franciscan Mathematician & Author of De Divina Proportione*
-* :ref:`Marie-Raymond Cathala, O.P. (1868 – 1940) <person-cathala>` — *Dominican Editor of Aquinas's Metaphysics Commentary*
-* :ref:`Pappus of Alexandria (c. 290 – c. 350 AD) <person-pappus>` — *Late Antique Geometer*
-* :ref:`Peter Lombard (c. 1096 – 1160) <person-peter-lombard>` — *Scholastic Theologian ('Magister Sententiarum')*
-* :ref:`Petrus Hubertus Jacobus Hoenen, S.J. (1880 – 1961) <person-hoenen>` — *Dutch Jesuit Physicist, Mathematician & Thomistic Epistemologist*
-* :ref:`Plato of Athens (c. 427 – 347 BC) <person-plato>` — *Greek Philosopher & Founder of the Academy*
-* :ref:`Pythagoras of Samos (c. 570 – c. 495 BC) <person-pythagoras>` — *Pre-Socratic Philosopher & Mathematician*
-* :ref:`Roberto Busa, S.J. (1913 – 2011) <person-busa>` — *Pioneer of Computational Philology & Index Thomisticus*
-* :ref:`Simplicius of Cilicia (c. 490 – c. 560 AD) <person-simplicius>` — *Neoplatonic Commentator on Aristotle*
-* :ref:`Themistius (c. 317 – c. 388 AD) <person-themistius>` — *Late Antique Peripatetic Paraphrast*
-* :ref:`Thomas Aquinas, St., O.P. (1225 – 1274) <person-aquinas>` — *Scholastic Philosopher, Theologian & Doctor Communis*
-* :ref:`Thomas de Vio Cajetan, O.P. (1469 – 1534) <person-cajetan>` — *Dominican Philosopher, Cardinal & Commentator on the Summa*
-* :ref:`William of Moerbeke, O.P. (c. 1215 – 1286) <person-william-of-moerbeke>` — *Dominican Hellenist & Translator*
-* :ref:`Étienne Gilson (1884 – 1978) <person-gilson>` — *French Historian of Medieval Philosophy*
+.. _person-aquinas:
 
-----
+Thomas Aquinas, St., O.P. (1225 – 1274)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Biographical Entries
---------------------
+**Role**: *Scholastic Philosopher, Theologian & Doctor Communis*
+
+Born at Roccasecca near Aquino around 1225, **Thomas Aquinas, O.P.** studied the liberal arts and the *quadrivium* (arithmetic, geometry, music, and astronomy) at the University of Naples before entering the Order of Preachers and studying under **St. Albert the Great** at Paris and Cologne. Across a remarkably concentrated career spanning Paris, Orvieto, Rome, Viterbo, and Naples (1252–1274), Aquinas produced both monumental theological syntheses and twelve penetrating commentaries on Aristotle—working closely with the literal Greek-to-Latin translations and revisions of his Dominican confrere **William of Moerbeke**.
+
+Although Aquinas did not compose a separate mathematical treatise like Euclid's *Elements*, geometry and arithmetic form the indispensable structural middle of his entire epistemology and metaphysics:
+
+1. **Between Physics and Metaphysics (*Super Boetium De Trinitate* qq. 5–6, 1257–1259)**: In his autograph exposition of Boethius's *De Trinitate*, Master Thomas broke decisively with Platonic reification and Avicennian emanationism alike. Distinguishing the intellect's simple apprehension of essence from its existential judgment (*separatio*), he showed why mathematical science abstracts dimensional form (*abstractio formae*) from sensible qualities while preserving continuous spatial extension (*materia intelligibilis*)—and why mathematical judgment terminates neither at mutable external sense nor at pure imageless intellect, but at the constructive imagination (*terminari ad imaginationem*).
+2. **Paradigm of Demonstrative Science (*In Posteriora Analytica*, 1270–1272)**: Throughout his mature *Posterior Analytics* commentary, Euclidean geometry provides Aquinas's primary laboratory for analyzing axioms (*dignitates / communes animi conceptiones*), definitions, hypotheses (*suppositiones*), and postulates (*petitiones*), explaining why mathematics enjoys the *certissimus modus demonstrationis* without mistaking diagrams drawn in dust for the intelligible continuum signified through them.
+3. **Psychological Unity of Intellect and Phantasm (*In De Anima*, 1267–1268 & *ST* I q. 84–85)**: Aquinas insists that even in pure geometry, the human intellect never understands without turning to a concrete *phantasma* (*conversio ad phantasmata*), beholding universal necessary ratios inside a determinate imagined figure.
+4. **Heuristic Discovery by Division in Act (*In IX Metaphysicorum* lect. 10, c. 1270–1272)**: Commenting on Aristotle's *Metaphysics* IX.9 (1051a21–33), Aquinas analyzes Euclid I.32 and III.31 to reveal how geometers discover hidden truths: what lies latent in potency in an undivided figure leaps into immediate intellectual clarity (*statim manifestum est videnti*) the instant auxiliary constructions divide the continuum in act.
+
+**Principal Works**:
+
+* *Super Boetium De Trinitate (qq. 5–6)*
+* *Expositio libri Posteriorum Analyticorum*
+* *Sentencia libri De anima*
+* *Commentaria in octo libros Physicorum*
+* *In libros De caelo et mundo expositio*
+* *Sententia super Metaphysicam*
+* *Summa Theologiae*
+* *Quaestiones disputatae de potentia Dei*
+* *Quaestiones disputatae de veritate*
+
+.. _person-william-of-moerbeke:
+
+William of Moerbeke, O.P. (c. 1215 – 1286)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Role**: *Dominican Hellenist & Translator*
+
+Confrere of Thomas Aquinas who produced crisp, literal Greek-to-Latin translations and revisions of Aristotle (Posterior Analytics, De Anima, Physics, De Caelo, Metaphysics), Archimedes, and Greek commentators (Themistius, Simplicius), providing the exact Latin *littera* expounded in Aquinas's mature commentaries.
+
+**Principal Works**:
+
+* *Recensiones et Translationes Aristotelis, Archimedis et Simplicii*
+
+.. _person-pirotta:
+
+Angelo Maria Pirotta, O.P. (1894 – 1956)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Role**: *Dominican Editor of Aquinas's De Anima & Ethics Commentaries*
+
+Dominican philologist whose critical Marietti edition of Aquinas's In Aristotelis Librum De Anima Commentarium (1925; 1936; 1959) established the sequential paragraph numbering (#1–#846) cited by Hoenen (e.g., Pirotta #170, #770–777, #791) and preserved in Pars III of this Codex.
+
+**Principal Works**:
+
+* *In Aristotelis Librum De Anima Commentarium (Marietti, 1925/1936)*
+
+.. _person-cathala:
+
+Marie-Raymond Cathala, O.P. (1868 – 1940)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Role**: *Dominican Editor of Aquinas's Metaphysics Commentary*
+
+Dominican scholar whose Marietti edition of Aquinas's In duodecim libros Metaphysicorum Aristotelis expositio (revised by R. M. Spiazzi, 1950) established the universal paragraph numbering (#1–#2663) cited throughout Hoenen's De Noetica Geometriae and preserved in this Codex.
+
+**Principal Works**:
+
+* *In duodecim libros Metaphysicorum Aristotelis expositio (Marietti, 1915; rev. Spiazzi 1950)*
+
+.. _person-decker:
+
+Bruno Decker (1907 – 1961)
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Role**: *Critical Editor of Super Boetium De Trinitate*
+
+German textual scholar whose landmark critical edition of Aquinas's Expositio super librum Boethii De Trinitate (Leiden: Brill, 1959, from Vatican autograph Vat. lat. 9850, following P.-M. Gils and L.-B. Geiger) restored Aquinas's exact distinction between *separatio* and *abstractio* prior to the 1992 Leonine Volume L.
+
+**Principal Works**:
+
+* *Sancti Thomae de Aquino Expositio super librum Boethii De Trinitate (1959)*
+
+.. _person-busa:
+
+Roberto Busa, S.J. (1913 – 2011)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Role**: *Pioneer of Computational Philology & Index Thomisticus*
+
+Italian Jesuit scholar who initiated the Index Thomisticus in 1949, encoding the complete Opera Omnia of Thomas Aquinas in machine-readable diplomatic form—the foundation of the Corpus Thomisticum digital text curated by Enrique Alarcón at the University of Navarra.
+
+**Principal Works**:
+
+* *Index Thomisticus (1974–1980)*
+* *Corpus Thomisticum Foundation*
+
+Cited Geometers, Philosophers & Scholars
+----------------------------------------
 
 .. _person-albertus:
 
@@ -77,19 +141,6 @@ Foremost ancient Greek commentator on Aristotle's Metaphysics and Organon, consu
 **Principal Works**:
 
 * *In Aristotelis Metaphysica Commentaria*
-
-.. _person-pirotta:
-
-Angelo Maria Pirotta, O.P. (1894 – 1956)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Role**: *Dominican Editor of Aquinas's De Anima & Ethics Commentaries*
-
-Dominican philologist whose critical Marietti edition of Aquinas's In Aristotelis Librum De Anima Commentarium (1925; 1936; 1959) established the sequential paragraph numbering (#1–#846) cited by Hoenen (e.g., Pirotta #170, #770–777, #791) and preserved in Pars III of this Codex.
-
-**Principal Works**:
-
-* *In Aristotelis Librum De Anima Commentarium (Marietti, 1925/1936)*
 
 .. _person-boethius:
 
@@ -197,19 +248,6 @@ Co-author of Principia Mathematica who sought to reduce pure mathematics to symb
 * *The Principles of Mathematics (1903)*
 * *Principia Mathematica (1910–1913)*
 
-.. _person-decker:
-
-Bruno Decker (1907 – 1961)
-~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Role**: *Critical Editor of Super Boetium De Trinitate*
-
-German textual scholar whose landmark critical edition of Aquinas's Expositio super librum Boethii De Trinitate (Leiden: Brill, 1959, from Vatican autograph Vat. lat. 9850, following P.-M. Gils and L.-B. Geiger) restored Aquinas's exact distinction between *separatio* and *abstractio* prior to the 1992 Leonine Volume L.
-
-**Principal Works**:
-
-* *Sancti Thomae de Aquino Expositio super librum Boethii De Trinitate (1959)*
-
 .. _person-ptolemy:
 
 Claudius Ptolemy (c. 100 – c. 170 AD)
@@ -295,19 +333,6 @@ Renaissance mathematician and collaborator of Leonardo da Vinci whose De Divina 
 * *De Divina Proportione (1509)*
 * *Euclidis Opera (1509)*
 
-.. _person-cathala:
-
-Marie-Raymond Cathala, O.P. (1868 – 1940)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Role**: *Dominican Editor of Aquinas's Metaphysics Commentary*
-
-Dominican scholar whose Marietti edition of Aquinas's In duodecim libros Metaphysicorum Aristotelis expositio (revised by R. M. Spiazzi, 1950) established the universal paragraph numbering (#1–#2663) cited throughout Hoenen's De Noetica Geometriae and preserved in this Codex.
-
-**Principal Works**:
-
-* *In duodecim libros Metaphysicorum Aristotelis expositio (Marietti, 1915; rev. Spiazzi 1950)*
-
 .. _person-pappus:
 
 Pappus of Alexandria (c. 290 – c. 350 AD)
@@ -379,20 +404,6 @@ Founder of the Pythagorean brotherhood who discovered the numerical ratios of mu
 
 * *Pythagorean Mathematical & Harmonic Tradition*
 
-.. _person-busa:
-
-Roberto Busa, S.J. (1913 – 2011)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Role**: *Pioneer of Computational Philology & Index Thomisticus*
-
-Italian Jesuit scholar who initiated the Index Thomisticus in 1949, encoding the complete Opera Omnia of Thomas Aquinas in machine-readable diplomatic form—the foundation of the Corpus Thomisticum digital text curated by Enrique Alarcón at the University of Navarra.
-
-**Principal Works**:
-
-* *Index Thomisticus (1974–1980)*
-* *Corpus Thomisticum Foundation*
-
 .. _person-simplicius:
 
 Simplicius of Cilicia (c. 490 – c. 560 AD)
@@ -420,27 +431,6 @@ Greek commentator whose paraphrases of Aristotle's Posterior Analytics, Physics,
 
 * *Paraphrases of Aristotle's Posterior Analytics, Physics, and De Anima*
 
-.. _person-aquinas:
-
-Thomas Aquinas, St., O.P. (1225 – 1274)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Role**: *Scholastic Philosopher, Theologian & Doctor Communis*
-
-Dominican friar and preeminent medieval synthesizer of Aristotelian science and Christian metaphysics. Across his exposition of Boethius's De Trinitate (qq. 5–6), his Aristotelian commentaries (Posterior Analytics, De Anima, Physics, De Caelo, Metaphysics), the Summa Theologiae, and the Disputed Questions (De Veritate, De Potentia), Aquinas formulated the classic realist epistemology of mathematics grounded in intelligible matter (materia intelligibilis), abstraction of form (abstractio formae), turning to phantasms (conversio ad phantasmata), heuristic division of figures in act (divisio in actu), and judgment terminating at the imagination (terminari ad imaginationem).
-
-**Principal Works**:
-
-* *Super Boetium De Trinitate (qq. 5–6)*
-* *Expositio libri Posteriorum Analyticorum*
-* *Sentencia libri De anima*
-* *Commentaria in octo libros Physicorum*
-* *In libros De caelo et mundo expositio*
-* *Sententia super Metaphysicam*
-* *Summa Theologiae*
-* *Quaestiones disputatae de potentia Dei*
-* *Quaestiones disputatae de veritate*
-
 .. _person-cajetan:
 
 Thomas de Vio Cajetan, O.P. (1469 – 1534)
@@ -455,19 +445,6 @@ Influential Renaissance Thomist who systematized the doctrine of the 'three degr
 * *Commentaria in Summam Theologiae*
 * *In De Ente et Essentia*
 * *De Nominum Analogia*
-
-.. _person-william-of-moerbeke:
-
-William of Moerbeke, O.P. (c. 1215 – 1286)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Role**: *Dominican Hellenist & Translator*
-
-Confrere of Thomas Aquinas who produced crisp, literal Greek-to-Latin translations and revisions of Aristotle (Posterior Analytics, De Anima, Physics, De Caelo, Metaphysics), Archimedes, and Greek commentators (Themistius, Simplicius), providing the exact Latin *littera* expounded in Aquinas's mature commentaries.
-
-**Principal Works**:
-
-* *Recensiones et Translationes Aristotelis, Archimedis et Simplicii*
 
 .. _person-gilson:
 

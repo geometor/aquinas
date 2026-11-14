@@ -1,10 +1,11 @@
 :navigation: header
 :order: 1
+:nav_title: Mathematical Science
 :layout: book
-:title: De Scientia Mathematica
-:book_title: De Scientia Mathematica
+:title: Writings on Mathematical Science
+:book_title: Writings on Mathematical Science
 :book_subtitle: Opera de Scientia Mathematica et Materia Intelligibili
-:author: Sanctus Thomas de Aquino, O.P. (1225–1274)
+:author: St. Thomas Aquinas, O.P. (1225–1274)
 :series: GEOMETOR Classical Canon · Critical Multi-Track Codex
 :publisher: GEOMETOR Scriptorium (ex Editionibus Leonina, Marietti et Decker)
 :location: Pompaelone / Romae / Taurini
@@ -13,75 +14,72 @@
 .. _aquinas-index:
 .. _scientia-mathematica-index:
 
-OPERA DE SCIENTIA MATHEMATICA ET MATERIA INTELLIGIBILI
-======================================================
+Writings on Mathematical Science
+================================
 
-.. rubric:: *Foundational Texts on Mathematical Science, Intelligible Matter, Abstraction, Heuristic Construction, and Judgment*
+.. rubric:: *Opera de Scientia Mathematica et Materia Intelligibili* — St. Thomas Aquinas
 
 .. container:: title-page
 
-   | :person:`SANCTI THOMAE DE AQUINO, O.P. <aquinas>`
-   | *(1225 – 1274 · Doctor Communis)*
+   | :person:`St. Thomas Aquinas, O.P. <aquinas>` (1225–1274 · *Doctor Communis*)
    |
-   | **OPERA SELECTA DE NOETICA ET PHILOSOPHIA MATHEMATICAE**
+   | **Selected Writings on the Philosophy of Mathematics & Intelligible Matter**
    | 5 Parts · 37 Unabridged Lectiones & Articles · 613 Synchronized Paragraphs
    | Diplomatic Latin Texts from the Leonine, Marietti (:person:`Pirotta <pirotta>`, :person:`Cathala <cathala>`), and :person:`Decker <decker>` Editions
    | With Facing English Translation, GEOMETOR Commentary & 100% :person:`Hoenen <hoenen>` Concordance
 
 ----
 
-Conspectus Totius Operis
-------------------------
+Table of Contents
+-----------------
 
-*(Analytical Table of Contents)*
-
-Prooemium — Introduction to Aquinas's Philosophy of Geometry
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Introduction — Aquinas's Philosophy of Geometry
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 :ref:`English <prooemium-en>` · :ref:`Latin <prooemium-la>` · :ref:`Summary <prooemium-summary>` · :ref:`Notes <prooemium-notes>`
 
-PART I — ON BOETHIUS'S DE TRINITATE (QUESTIONS V–VI)
+Part I — On Boethius's De Trinitate (Questions V–VI)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 *(PARS I — SUPER BOETIUM DE TRINITATE (QUAESTIONES V–VI) — Super Boetium De Trinitate, c. 1257–1259 · 6 sections, 158 paragraphs)*
 
 :ref:`English <pars-1-en>` · :ref:`Latin <pars-1-la>` · :ref:`Summary <pars-1-summary>` · :ref:`Notes <pars-1-notes>`
 
-PART II — COMMENTARY ON THE POSTERIOR ANALYTICS
+Part II — Commentary on the Posterior Analytics
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 *(PARS II — EXPOSITIO LIBRI POSTERIORUM ANALYTICORUM — Expositio libri Posteriorum Analyticorum, c. 1270–1272 · 11 sections, 108 paragraphs)*
 
 :ref:`English <pars-2-en>` · :ref:`Latin <pars-2-la>` · :ref:`Summary <pars-2-summary>` · :ref:`Notes <pars-2-notes>`
 
-PART III — COMMENTARY ON ARISTOTLE'S DE ANIMA
+Part III — Commentary on Aristotle's De Anima
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 *(PARS III — SENTENCIA LIBRI DE ANIMA — Sentencia libri De anima, c. 1267–1268 · 5 sections, 72 paragraphs)*
 
 :ref:`English <pars-3-en>` · :ref:`Latin <pars-3-la>` · :ref:`Summary <pars-3-summary>` · :ref:`Notes <pars-3-notes>`
 
-PART IV — COMMENTARIES ON THE PHYSICS AND ON THE HEAVENS
+Part IV — Commentaries on the Physics and on the Heavens
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 *(PARS IV — IN LIBROS PHYSICORUM ET DE CAELO ET MUNDO EXPOSITIO — In octo libros Physicorum & In libros De caelo et mundo expositio, c. 1268–1273 · 6 sections, 74 paragraphs)*
 
 :ref:`English <pars-4-en>` · :ref:`Latin <pars-4-la>` · :ref:`Summary <pars-4-summary>` · :ref:`Notes <pars-4-notes>`
 
-PART V — COMMENTARY ON THE METAPHYSICS AND SYSTEMATIC WORKS
+Part V — Commentary on the Metaphysics and Systematic Works
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 *(PARS V — SENTENTIA SUPER METAPHYSICAM ET OPERA SYSTEMATICA — Sententia super Metaphysicam, Summa Theologiae, Quaestiones Disputatae de Potentia et de Veritate, c. 1256–1273 · 9 sections, 201 paragraphs)*
 
 :ref:`English <pars-5-en>` · :ref:`Latin <pars-5-la>` · :ref:`Summary <pars-5-summary>` · :ref:`Notes <pars-5-notes>`
 
-Apparatus Criticus et Concordantia
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Scholarly Apparatus
+-------------------
 
 * :ref:`Hoenen–Aquinas–Aristotle–Euclid–GEOMETOR Master Concordance (78 Thomistic Loci) <concordance>`
-* :ref:`Bibliographia et Fontes — Critical Editions & Cited Works (113 Entries) <bibliography>`
-* :ref:`Index Nominum — Biographical Register of Philosophers & Geometers (30 Persons) <persons>`
-* :ref:`Glossarium Technicum — Scholastic & Mathematical Lexicon (36 Terms) <glossary>`
+* :ref:`Bibliography — Critical Editions & Cited Works (113 Entries) <bibliography>`
+* :ref:`People — Biographical Register of Philosophers & Geometers (30 Persons) <persons>`
+* :ref:`Technical Glossary — Scholastic & Mathematical Lexicon (36 Terms) <glossary>`
 
 .. toctree::
    :maxdepth: 2
@@ -98,7 +96,7 @@ Apparatus Criticus et Concordantia
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: Editio Latina
+   :caption: Latin Edition
 
    prooemium/prooemium-la
    pars-1/pars-1-la
@@ -128,7 +126,7 @@ Apparatus Criticus et Concordantia
 .. toctree::
    :maxdepth: 1
    :hidden:
-   :caption: Apparatus & Concordance
+   :caption: Scholarly Apparatus
 
    concordance
    bibliography

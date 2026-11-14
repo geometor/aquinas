@@ -1,13 +1,13 @@
-:title: Glossarium Technicum — Scholastic & Geometric Glossary
+:title: Technical Glossary — Scholastic & Geometric Lexicon
 :layout: book
 
 .. _glossary:
 .. _glossarium-technicum:
 
-Glossarium Technicum (Technical Glossary)
-=========================================
+Technical Glossary
+==================
 
-.. rubric:: *Lexicon of Thomistic Epistemology, Metaphysics, and Constructive Geometry*
+.. rubric:: *Glossarium Technicum* — Lexicon of Thomistic Epistemology, Metaphysics, and Constructive Geometry
 
 This lexicon defines **36 foundational Latin and Greek technical terms** governing Aquinas's philosophy of mathematics and its modern reception in :person:`Peter Hoenen <hoenen>` and GEOMETOR. Every inline ``:term:`` tag links directly to its ``#term-<slug>`` anchor below.
 
