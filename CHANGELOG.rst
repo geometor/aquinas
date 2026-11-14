@@ -2,6 +2,11 @@
 changelog
 =========
 
+0.1.1 (2026-11-13)
+------------------
+
+- **added**: Added track-aware primary-source folio map (``resources/aquinas/folio_map.json``) resolving 76/76 folio directives to verified Latin text loci and Oxford/Leonine source files.
+
 0.1.0 (2026-11-11)
 ------------------
 

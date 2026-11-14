@@ -21,7 +21,7 @@ from geometor.aquinas.compile_codex import compile_all
 
 
 def test_version() -> None:
-    assert __version__ == "0.1.0"
+    assert __version__ == "0.1.1"
 
 
 def test_sources_manifest_and_latin_corpus() -> None:
