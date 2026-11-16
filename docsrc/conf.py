@@ -16,7 +16,9 @@ repo_name = "aquinas"
 
 setup_globals(org, org_name, repo, repo_name)  # noqa: F405
 
-project = "GEOMETOR • aquinas"
+site_title = "St. Thomas Aquinas"
+project = site_title
+html_title = f"{site_title} • {org_name}"
 author = "Sanctus Thomas de Aquino, O.P."
 copyright = "Public Domain Latin Editions • Digital Codex & Translations GEOMETOR"
 

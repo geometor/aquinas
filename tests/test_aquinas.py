@@ -126,25 +126,45 @@ def test_full_codex_integrity_and_rst_compilation() -> None:
     compiled_stats = compile_all(repo_root)
     assert compiled_stats == stats
 
-    codex_dir: Path = repo_root / "docsrc" / "scientia_mathematica"
-    assert (codex_dir / "index.rst").is_file()
-    for track in ("en", "la", "summary", "notes"):
-        assert (codex_dir / "prooemium" / f"prooemium-{track}.rst").is_file()
-        for idx in range(1, 6):
-            assert (codex_dir / f"pars-{idx}" / f"pars-{idx}-{track}.rst").is_file()
+    docsrc_dir: Path = repo_root / "docsrc"
+    assert (docsrc_dir / "index.rst").is_file()
 
+    # Prooemium tracks and figure
+    for track in ("index.rst", "la.rst", "summary.rst", "notes.rst", "figure.svg"):
+        assert (docsrc_dir / "prooemium" / track).is_file()
+
+    # 6 Canonical Top-Level Books
+    from geometor.aquinas.compile_codex import BOOKS_CONFIG
+
+    assert len(BOOKS_CONFIG) == 6
+    total_units = 0
+
+    for b_cfg in BOOKS_CONFIG:
+        b_dir = docsrc_dir / b_cfg["slug"]
+        assert (b_dir / "index.rst").is_file()
+        sec_count = len(b_cfg["sec_indices"])
+        total_units += sec_count
+        for u_idx in range(1, sec_count + 1):
+            u_dir = b_dir / f"{b_cfg['unit_prefix']}_{u_idx:02d}"
+            assert u_dir.is_dir()
+            for track in ("index.rst", "la.rst", "summary.rst", "notes.rst", "figure.svg"):
+                assert (u_dir / track).is_file()
+
+    assert total_units == 37
+
+    # Shared Apparatus at docsrc root
     for app_file in ("concordance.rst", "bibliography.rst", "persons.rst", "glossary.rst"):
-        assert (codex_dir / app_file).is_file()
+        assert (docsrc_dir / app_file).is_file()
 
     # Verify anchor presence in apparatus RST files
-    bib_rst = (codex_dir / "bibliography.rst").read_text(encoding="utf-8")
+    bib_rst = (docsrc_dir / "bibliography.rst").read_text(encoding="utf-8")
     for k in load_citations():
         assert f".. _cite-{slugify_apparatus_key(k)}:" in bib_rst
 
-    persons_rst = (codex_dir / "persons.rst").read_text(encoding="utf-8")
+    persons_rst = (docsrc_dir / "persons.rst").read_text(encoding="utf-8")
     for k in load_persons():
         assert f".. _person-{slugify_apparatus_key(k)}:" in persons_rst
 
-    glossary_rst = (codex_dir / "glossary.rst").read_text(encoding="utf-8")
+    glossary_rst = (docsrc_dir / "glossary.rst").read_text(encoding="utf-8")
     for k in load_glossary():
         assert f".. _term-{slugify_apparatus_key(k)}:" in glossary_rst
