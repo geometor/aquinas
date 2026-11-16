@@ -5,13 +5,22 @@ geometor.aquinas.compile_codex
 
 .. autoapi-nested-parse::
 
-   Compile the ``scientia_mathematica`` Multi-Track Book Codex RST tree from ``resources/``.
+   Compile the unbundled, granular Multi-Track Book Codex RST tree for St. Thomas Aquinas.
 
    Generates:
-   - ``docsrc/scientia_mathematica/index.rst`` (``:layout: book`` Conspectus Operis)
-   - ``docsrc/scientia_mathematica/prooemium/prooemium-{en,la,summary,notes}.rst``
-   - ``docsrc/scientia_mathematica/pars-{1..5}/pars-{1..5}-{en,la,summary,notes}.rst``
-   - ``docsrc/scientia_mathematica/{concordance,bibliography,persons,glossary}.rst``
+
+   * ``docsrc/index.rst`` (Author Home Page with ``.. collection:: :type: book``)
+   * ``docsrc/prooemium/{index,la,summary,notes}.rst`` & ``figure.svg``
+   * 6 Top-Level Books with ``:type: book``, ``:navigation: header``:
+
+     * ``docsrc/super_boetium_de_trinitate/`` (6 articles: ``art_01``..``art_06``)
+     * ``docsrc/analytica_posteriora/`` (11 lectiones: ``lect_01``..``lect_11``)
+     * ``docsrc/de_anima/`` (5 lectiones: ``lect_01``..``lect_05``)
+     * ``docsrc/physica/`` (6 lectiones: ``lect_01``..``lect_06``)
+     * ``docsrc/metaphysica/`` (5 lectiones: ``lect_01``..``lect_05``)
+     * ``docsrc/summa_theologiae/`` (4 articles: ``art_01``..``art_04``)
+
+   * ``docsrc/{concordance,bibliography,persons,glossary}.rst`` (Shared Apparatus at docsrc root)
 
 
 
@@ -27,6 +36,7 @@ Attributes
    geometor.aquinas.compile_codex.EN_TAG_RULES
    geometor.aquinas.compile_codex.LA_TAG_RULES
    geometor.aquinas.compile_codex.PROTECTED_SPAN_RE
+   geometor.aquinas.compile_codex.BOOKS_CONFIG
 
 
 Functions
@@ -38,9 +48,10 @@ Functions
    geometor.aquinas.compile_codex.normalize_inline_rst
    geometor.aquinas.compile_codex.enrich_inline_apparatus
    geometor.aquinas.compile_codex.format_para_badge
-   geometor.aquinas.compile_codex.build_book_index
+   geometor.aquinas.compile_codex.build_svg_prooemium
+   geometor.aquinas.compile_codex.build_unit_svg
+   geometor.aquinas.compile_codex.build_author_index
    geometor.aquinas.compile_codex.build_prooemium
-   geometor.aquinas.compile_codex.build_part_tracks
    geometor.aquinas.compile_codex.build_concordance_page
    geometor.aquinas.compile_codex.build_bibliography_page
    geometor.aquinas.compile_codex.build_persons_page
@@ -96,48 +107,55 @@ Module Contents
    Format subtle critical-edition locus badge for synchronized Latin/English paragraphs.
 
 
-.. py:function:: build_book_index(codex_dir: pathlib.Path, manifest: dict[str, object]) -> None
+.. py:data:: BOOKS_CONFIG
 
-   Write ``docsrc/scientia_mathematica/index.rst``.
+.. py:function:: build_svg_prooemium() -> str
 
-
-.. py:function:: build_prooemium(codex_dir: pathlib.Path) -> None
-
-   Write the 4 synchronized tracks of ``docsrc/scientia_mathematica/prooemium/``.
+   Generate master SVG vector diagram for Prooemium.
 
 
-.. py:function:: build_part_tracks(part_num: int, codex_dir: pathlib.Path) -> None
+.. py:function:: build_unit_svg(unit_key: str, title: str, canonical_id: str) -> str
 
-   Compile ``pars-{N}-{en,la,summary,notes}.rst`` for ``part_num`` (1..5).
-
-
-.. py:function:: build_concordance_page(codex_dir: pathlib.Path) -> None
-
-   Write ``docsrc/scientia_mathematica/concordance.rst``.
+   Generate a clean, mathematically thematic SVG diagram for an atomic leaf page.
 
 
-.. py:function:: build_bibliography_page(codex_dir: pathlib.Path) -> None
+.. py:function:: build_author_index(docsrc_dir: pathlib.Path, books: list[dict[str, Any]]) -> None
 
-   Write ``docsrc/scientia_mathematica/bibliography.rst`` with ``cite-<slug>`` anchors.
-
-
-.. py:function:: build_persons_page(codex_dir: pathlib.Path) -> None
-
-   Write ``docsrc/scientia_mathematica/persons.rst`` with ``person-<slug>`` anchors.
+   Write docsrc/index.rst (Author Home Page).
 
 
-.. py:function:: build_glossary_page(codex_dir: pathlib.Path) -> None
+.. py:function:: build_prooemium(docsrc_dir: pathlib.Path) -> None
 
-   Write ``docsrc/scientia_mathematica/glossary.rst`` with ``term-<slug>`` anchors.
+   Write docsrc/prooemium/{index,la,summary,notes}.rst and figure.svg.
+
+
+.. py:function:: build_concordance_page(docsrc_dir: pathlib.Path) -> None
+
+   Write docsrc/concordance.rst.
+
+
+.. py:function:: build_bibliography_page(docsrc_dir: pathlib.Path) -> None
+
+   Write docsrc/bibliography.rst with cite-<slug> anchors.
+
+
+.. py:function:: build_persons_page(docsrc_dir: pathlib.Path) -> None
+
+   Write docsrc/persons.rst with person-<slug> anchors.
+
+
+.. py:function:: build_glossary_page(docsrc_dir: pathlib.Path) -> None
+
+   Write docsrc/glossary.rst with term-<slug> anchors.
 
 
 .. py:function:: compile_all(repo_root: pathlib.Path | None = None) -> dict[str, object]
 
-   Validate all JSON resources and compile the entire ``scientia_mathematica`` RST codex.
+   Compile the entire unbundled multi-book RST codex from resources/.
 
 
 .. py:function:: main() -> None
 
-   CLI entry point for ``geometor-aquinas-compile``.
+   CLI entry point for geometor-aquinas-compile.
 
 

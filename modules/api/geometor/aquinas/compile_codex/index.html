@@ -6,12 +6,32 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>geometor.aquinas.compile_codex &mdash; GEOMETOR • aquinas</title>
+
+  <title>geometor.aquinas.compile_codex — St. Thomas Aquinas • GEOMETOR</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <link rel="canonical" href="https://geometor.github.io/aquinas/modules/api/geometor/aquinas/compile_codex/" />
+  <meta name="description" content="Compile the unbundled, granular Multi-Track Book Codex RST tree for St. Thomas Aquinas." />
+  <meta property="og:site_name" content="GEOMETOR" />
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="geometor.aquinas.compile_codex — St. Thomas Aquinas • GEOMETOR" />
+  <meta property="og:description" content="Compile the unbundled, granular Multi-Track Book Codex RST tree for St. Thomas Aquinas." />
+  <meta property="og:url" content="https://geometor.github.io/aquinas/modules/api/geometor/aquinas/compile_codex/" />
+  <meta property="og:image" content="https://geometor.github.io/aquinas/_static/social/banner.png" />
+  <meta property="og:image:type" content="image/png" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+  <meta property="og:image:alt" content="St. Thomas Aquinas — GEOMETOR" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="geometor.aquinas.compile_codex — St. Thomas Aquinas • GEOMETOR" />
+  <meta name="twitter:description" content="Compile the unbundled, granular Multi-Track Book Codex RST tree for St. Thomas Aquinas." />
+  <meta name="twitter:image" content="https://geometor.github.io/aquinas/_static/social/banner.png" />
+  <meta name="twitter:image:alt" content="St. Thomas Aquinas — GEOMETOR" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..700;1,400..700&family=Fira+Sans+Condensed:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600;1,700&display=swap" rel="stylesheet" />
   <link rel="stylesheet" type="text/css" href="../../../../../_static/pygments.css?v=ea5fcf70" />
-  <link rel="stylesheet" type="text/css" href="../../../../../_static/css/styles.css?v=8713e751" />
+  <link rel="stylesheet" type="text/css" href="../../../../../_static/css/styles.css?v=81e79cc0" />
   <link rel="stylesheet" type="text/css" href="../../../../../_static/graphviz.css?v=4ae1632d" />
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css" />
   <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
@@ -23,27 +43,42 @@
 <body class="book-theme-classical-serif">
   <header>
     <div class="logo">
-      <a href="../../../../../index.html">
-        <img src="../../../../../_static/logo.png" class="logo" alt="Logo"/>
+      <a href="../../../../../index.html" title="Home">
+        <img src="../../../../../_static/logo.png" class="logo" alt="GEOMETOR aquinas"/>
+        <div class="org-repo">
+          <span class="org">GEOMETOR</span>
+          <span class="sep" aria-hidden="true">&bull;</span>
+          <span class="repo">aquinas</span>
+        </div>
       </a>
-      <div class="org-repo">
-        <span class="org">GEOMETOR</span>
-        •
-        <span class="repo">aquinas</span>
-      </div>
     </div>
     <nav aria-label="Header">
       <input type="checkbox" id="nav-Header-toggle" >
       <label for="nav-Header-toggle" >Header</label>
       <ul>
         <li>
-          <a href="../../../../../scientia_mathematica/index.html"  >Mathematical Science</a>
+          <a href="../../../../../super_boetium_de_trinitate/index.html"  >De Trinitate</a>
         </li>
         <li>
-          <a href="../../../../../scientia_mathematica/persons.html"  >People</a>
+          <a href="../../../../../analytica_posteriora/index.html"  >Posterior Analytics</a>
         </li>
         <li>
-          <a href="../../../../../scientia_mathematica/bibliography.html"  >Bibliography</a>
+          <a href="../../../../../de_anima/index.html"  >De Anima</a>
+        </li>
+        <li>
+          <a href="../../../../../physica/index.html"  >Physics & Heavens</a>
+        </li>
+        <li>
+          <a href="../../../../../metaphysica/index.html"  >Metaphysics</a>
+        </li>
+        <li>
+          <a href="../../../../../summa_theologiae/index.html"  >Summa Theologiae</a>
+        </li>
+        <li>
+          <a href="../../../../../persons.html"  >People</a>
+        </li>
+        <li>
+          <a href="../../../../../bibliography.html"  >Bibliography</a>
         </li>
         <li>
           <a href="../../../../../about/index.html"  >About</a>
@@ -65,14 +100,13 @@
     <article class="book-layout book-reading-pane">
       <header class="book-header">
         <div class="book-header-bar">
-          <div class="book-header-identity">
-            <a class="book-portal-link" href="../../../../../index.html" title="Return to Project Portal">&larr; aquinas</a>
-            <span class="book-header-sep">/</span>
-            <a class="book-title-link" href="../../../../../index.html">GEOMETOR • aquinas</a>
-          </div>
-          <div class="book-header-breadcrumbs book-header-badges" role="navigation" aria-label="Breadcrumbs">
-            <a class="book-crumb-link" href="../../../../index.html">Modules</a>
-          </div>
+          <nav class="book-breadcrumbs" aria-label="Breadcrumb">
+            <a class="book-section-home-link" href="../../../../index.html">Modules</a>
+            <span class="book-crumb-sep" aria-hidden="true">/</span>
+            <a class="book-crumb-link" href="../../../index.html">API Reference</a>
+            <span class="book-crumb-sep" aria-hidden="true">/</span>
+            <span class="book-crumb-current" aria-current="page">geometor.aquinas.compile_codex</span>
+          </nav>
         </div>
         <div class="book-header-nav">
           <div class="book-nav-prev">
@@ -88,12 +122,23 @@
       <div class="content body book-content" role="main">
         <section class="level-1" id="module-geometor.aquinas.compile_codex">
         <span id="geometor-aquinas-compile-codex"></span><h1>geometor.aquinas.compile_codex<a class="headerlink" href="#module-geometor.aquinas.compile_codex" title="Link to this heading">¶</a></h1>
-        <p>Compile the <code class="docutils literal notranslate"><span class="pre">scientia_mathematica</span></code> Multi-Track Book Codex RST tree from <code class="docutils literal notranslate"><span class="pre">resources/</span></code>.</p>
-        <p>Generates:
-        - <code class="docutils literal notranslate"><span class="pre">docsrc/scientia_mathematica/index.rst</span></code> (<code class="docutils literal notranslate"><span class="pre">:layout:</span> <span class="pre">book</span></code> Conspectus Operis)
-        - <code class="docutils literal notranslate"><span class="pre">docsrc/scientia_mathematica/prooemium/prooemium-{en,la,summary,notes}.rst</span></code>
-        - <code class="docutils literal notranslate"><span class="pre">docsrc/scientia_mathematica/pars-{1..5}/pars-{1..5}-{en,la,summary,notes}.rst</span></code>
-        - <code class="docutils literal notranslate"><span class="pre">docsrc/scientia_mathematica/{concordance,bibliography,persons,glossary}.rst</span></code></p>
+        <p>Compile the unbundled, granular Multi-Track Book Codex RST tree for St. Thomas Aquinas.</p>
+        <p>Generates:</p>
+        <ul class="simple">
+        <li><p><code class="docutils literal notranslate"><span class="pre">docsrc/index.rst</span></code> (Author Home Page with <code class="docutils literal notranslate"><span class="pre">..</span> <span class="pre">collection::</span> <span class="pre">:type:</span> <span class="pre">book</span></code>)</p></li>
+        <li><p><code class="docutils literal notranslate"><span class="pre">docsrc/prooemium/{index,la,summary,notes}.rst</span></code> &amp; <code class="docutils literal notranslate"><span class="pre">figure.svg</span></code></p></li>
+        <li><p>6 Top-Level Books with <code class="docutils literal notranslate"><span class="pre">:type:</span> <span class="pre">book</span></code>, <code class="docutils literal notranslate"><span class="pre">:navigation:</span> <span class="pre">header</span></code>:</p>
+        <ul>
+        <li><p><code class="docutils literal notranslate"><span class="pre">docsrc/super_boetium_de_trinitate/</span></code> (6 articles: <code class="docutils literal notranslate"><span class="pre">art_01</span></code>..``art_06``)</p></li>
+        <li><p><code class="docutils literal notranslate"><span class="pre">docsrc/analytica_posteriora/</span></code> (11 lectiones: <code class="docutils literal notranslate"><span class="pre">lect_01</span></code>..``lect_11``)</p></li>
+        <li><p><code class="docutils literal notranslate"><span class="pre">docsrc/de_anima/</span></code> (5 lectiones: <code class="docutils literal notranslate"><span class="pre">lect_01</span></code>..``lect_05``)</p></li>
+        <li><p><code class="docutils literal notranslate"><span class="pre">docsrc/physica/</span></code> (6 lectiones: <code class="docutils literal notranslate"><span class="pre">lect_01</span></code>..``lect_06``)</p></li>
+        <li><p><code class="docutils literal notranslate"><span class="pre">docsrc/metaphysica/</span></code> (5 lectiones: <code class="docutils literal notranslate"><span class="pre">lect_01</span></code>..``lect_05``)</p></li>
+        <li><p><code class="docutils literal notranslate"><span class="pre">docsrc/summa_theologiae/</span></code> (4 articles: <code class="docutils literal notranslate"><span class="pre">art_01</span></code>..``art_04``)</p></li>
+        </ul>
+        </li>
+        <li><p><code class="docutils literal notranslate"><span class="pre">docsrc/{concordance,bibliography,persons,glossary}.rst</span></code> (Shared Apparatus at docsrc root)</p></li>
+        </ul>
         <section class="level-2" id="attributes">
         <h2>Attributes<a class="headerlink" href="#attributes" title="Link to this heading">¶</a></h2>
         <table class="autosummary longtable docutils align-default">
@@ -119,6 +164,9 @@
         <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.aquinas.compile_codex.PROTECTED_SPAN_RE" title="geometor.aquinas.compile_codex.PROTECTED_SPAN_RE"><code class="xref py py-obj docutils literal notranslate"><span class="pre">PROTECTED_SPAN_RE</span></code></a></p></td>
         <td><p></p></td>
         </tr>
+        <tr class="row-even"><td><p><a class="reference internal" href="#geometor.aquinas.compile_codex.BOOKS_CONFIG" title="geometor.aquinas.compile_codex.BOOKS_CONFIG"><code class="xref py py-obj docutils literal notranslate"><span class="pre">BOOKS_CONFIG</span></code></a></p></td>
+        <td><p></p></td>
+        </tr>
         </tbody>
         </table>
         </section>
@@ -138,32 +186,35 @@
         <tr class="row-even"><td><p><a class="reference internal" href="#geometor.aquinas.compile_codex.format_para_badge" title="geometor.aquinas.compile_codex.format_para_badge"><code class="xref py py-obj docutils literal notranslate"><span class="pre">format_para_badge</span></code></a>(p) → str</p></td>
         <td><p>Format subtle critical-edition locus badge for synchronized Latin/English paragraphs.</p></td>
         </tr>
-        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.aquinas.compile_codex.build_book_index" title="geometor.aquinas.compile_codex.build_book_index"><code class="xref py py-obj docutils literal notranslate"><span class="pre">build_book_index</span></code></a>(codex_dir, manifest) → None</p></td>
-        <td><p>Write <code class="docutils literal notranslate"><span class="pre">docsrc/scientia_mathematica/index.rst</span></code>.</p></td>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.aquinas.compile_codex.build_svg_prooemium" title="geometor.aquinas.compile_codex.build_svg_prooemium"><code class="xref py py-obj docutils literal notranslate"><span class="pre">build_svg_prooemium</span></code></a>() → str</p></td>
+        <td><p>Generate master SVG vector diagram for Prooemium.</p></td>
         </tr>
-        <tr class="row-even"><td><p><a class="reference internal" href="#geometor.aquinas.compile_codex.build_prooemium" title="geometor.aquinas.compile_codex.build_prooemium"><code class="xref py py-obj docutils literal notranslate"><span class="pre">build_prooemium</span></code></a>(codex_dir) → None</p></td>
-        <td><p>Write the 4 synchronized tracks of <code class="docutils literal notranslate"><span class="pre">docsrc/scientia_mathematica/prooemium/</span></code>.</p></td>
+        <tr class="row-even"><td><p><a class="reference internal" href="#geometor.aquinas.compile_codex.build_unit_svg" title="geometor.aquinas.compile_codex.build_unit_svg"><code class="xref py py-obj docutils literal notranslate"><span class="pre">build_unit_svg</span></code></a>(unit_key, title, canonical_id) → str</p></td>
+        <td><p>Generate a clean, mathematically thematic SVG diagram for an atomic leaf page.</p></td>
         </tr>
-        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.aquinas.compile_codex.build_part_tracks" title="geometor.aquinas.compile_codex.build_part_tracks"><code class="xref py py-obj docutils literal notranslate"><span class="pre">build_part_tracks</span></code></a>(part_num, codex_dir) → None</p></td>
-        <td><p>Compile <code class="docutils literal notranslate"><span class="pre">pars-{N}-{en,la,summary,notes}.rst</span></code> for <code class="docutils literal notranslate"><span class="pre">part_num</span></code> (1..5).</p></td>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.aquinas.compile_codex.build_author_index" title="geometor.aquinas.compile_codex.build_author_index"><code class="xref py py-obj docutils literal notranslate"><span class="pre">build_author_index</span></code></a>(docsrc_dir, books) → None</p></td>
+        <td><p>Write docsrc/index.rst (Author Home Page).</p></td>
         </tr>
-        <tr class="row-even"><td><p><a class="reference internal" href="#geometor.aquinas.compile_codex.build_concordance_page" title="geometor.aquinas.compile_codex.build_concordance_page"><code class="xref py py-obj docutils literal notranslate"><span class="pre">build_concordance_page</span></code></a>(codex_dir) → None</p></td>
-        <td><p>Write <code class="docutils literal notranslate"><span class="pre">docsrc/scientia_mathematica/concordance.rst</span></code>.</p></td>
+        <tr class="row-even"><td><p><a class="reference internal" href="#geometor.aquinas.compile_codex.build_prooemium" title="geometor.aquinas.compile_codex.build_prooemium"><code class="xref py py-obj docutils literal notranslate"><span class="pre">build_prooemium</span></code></a>(docsrc_dir) → None</p></td>
+        <td><p>Write docsrc/prooemium/{index,la,summary,notes}.rst and figure.svg.</p></td>
         </tr>
-        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.aquinas.compile_codex.build_bibliography_page" title="geometor.aquinas.compile_codex.build_bibliography_page"><code class="xref py py-obj docutils literal notranslate"><span class="pre">build_bibliography_page</span></code></a>(codex_dir) → None</p></td>
-        <td><p>Write <code class="docutils literal notranslate"><span class="pre">docsrc/scientia_mathematica/bibliography.rst</span></code> with <code class="docutils literal notranslate"><span class="pre">cite-&lt;slug&gt;</span></code> anchors.</p></td>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.aquinas.compile_codex.build_concordance_page" title="geometor.aquinas.compile_codex.build_concordance_page"><code class="xref py py-obj docutils literal notranslate"><span class="pre">build_concordance_page</span></code></a>(docsrc_dir) → None</p></td>
+        <td><p>Write docsrc/concordance.rst.</p></td>
         </tr>
-        <tr class="row-even"><td><p><a class="reference internal" href="#geometor.aquinas.compile_codex.build_persons_page" title="geometor.aquinas.compile_codex.build_persons_page"><code class="xref py py-obj docutils literal notranslate"><span class="pre">build_persons_page</span></code></a>(codex_dir) → None</p></td>
-        <td><p>Write <code class="docutils literal notranslate"><span class="pre">docsrc/scientia_mathematica/persons.rst</span></code> with <code class="docutils literal notranslate"><span class="pre">person-&lt;slug&gt;</span></code> anchors.</p></td>
+        <tr class="row-even"><td><p><a class="reference internal" href="#geometor.aquinas.compile_codex.build_bibliography_page" title="geometor.aquinas.compile_codex.build_bibliography_page"><code class="xref py py-obj docutils literal notranslate"><span class="pre">build_bibliography_page</span></code></a>(docsrc_dir) → None</p></td>
+        <td><p>Write docsrc/bibliography.rst with cite-&lt;slug&gt; anchors.</p></td>
         </tr>
-        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.aquinas.compile_codex.build_glossary_page" title="geometor.aquinas.compile_codex.build_glossary_page"><code class="xref py py-obj docutils literal notranslate"><span class="pre">build_glossary_page</span></code></a>(codex_dir) → None</p></td>
-        <td><p>Write <code class="docutils literal notranslate"><span class="pre">docsrc/scientia_mathematica/glossary.rst</span></code> with <code class="docutils literal notranslate"><span class="pre">term-&lt;slug&gt;</span></code> anchors.</p></td>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.aquinas.compile_codex.build_persons_page" title="geometor.aquinas.compile_codex.build_persons_page"><code class="xref py py-obj docutils literal notranslate"><span class="pre">build_persons_page</span></code></a>(docsrc_dir) → None</p></td>
+        <td><p>Write docsrc/persons.rst with person-&lt;slug&gt; anchors.</p></td>
         </tr>
-        <tr class="row-even"><td><p><a class="reference internal" href="#geometor.aquinas.compile_codex.compile_all" title="geometor.aquinas.compile_codex.compile_all"><code class="xref py py-obj docutils literal notranslate"><span class="pre">compile_all</span></code></a>([repo_root]) → dict[str, object]</p></td>
-        <td><p>Validate all JSON resources and compile the entire <code class="docutils literal notranslate"><span class="pre">scientia_mathematica</span></code> RST codex.</p></td>
+        <tr class="row-even"><td><p><a class="reference internal" href="#geometor.aquinas.compile_codex.build_glossary_page" title="geometor.aquinas.compile_codex.build_glossary_page"><code class="xref py py-obj docutils literal notranslate"><span class="pre">build_glossary_page</span></code></a>(docsrc_dir) → None</p></td>
+        <td><p>Write docsrc/glossary.rst with term-&lt;slug&gt; anchors.</p></td>
         </tr>
-        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.aquinas.compile_codex.main" title="geometor.aquinas.compile_codex.main"><code class="xref py py-obj docutils literal notranslate"><span class="pre">main</span></code></a>() → None</p></td>
-        <td><p>CLI entry point for <code class="docutils literal notranslate"><span class="pre">geometor-aquinas-compile</span></code>.</p></td>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.aquinas.compile_codex.compile_all" title="geometor.aquinas.compile_codex.compile_all"><code class="xref py py-obj docutils literal notranslate"><span class="pre">compile_all</span></code></a>([repo_root]) → dict[str, object]</p></td>
+        <td><p>Compile the entire unbundled multi-book RST codex from resources/.</p></td>
+        </tr>
+        <tr class="row-even"><td><p><a class="reference internal" href="#geometor.aquinas.compile_codex.main" title="geometor.aquinas.compile_codex.main"><code class="xref py py-obj docutils literal notranslate"><span class="pre">main</span></code></a>() → None</p></td>
+        <td><p>CLI entry point for geometor-aquinas-compile.</p></td>
         </tr>
         </tbody>
         </table>
@@ -229,58 +280,69 @@
         <dd><p>Format subtle critical-edition locus badge for synchronized Latin/English paragraphs.</p>
         </dd></dl>
 
+        <dl class="py data">
+        <dt class="sig sig-object py" id="geometor.aquinas.compile_codex.BOOKS_CONFIG">
+        <span class="sig-prename descclassname"><span class="pre">geometor.aquinas.compile_codex.</span></span><span class="sig-name descname"><span class="pre">BOOKS_CONFIG</span></span><a class="headerlink" href="#geometor.aquinas.compile_codex.BOOKS_CONFIG" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
         <dl class="py function">
-        <dt class="sig sig-object py" id="geometor.aquinas.compile_codex.build_book_index">
-        <span class="sig-prename descclassname"><span class="pre">geometor.aquinas.compile_codex.</span></span><span class="sig-name descname"><span class="pre">build_book_index</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">codex_dir</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">pathlib.Path</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">manifest</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">dict</span><span class="p"><span class="pre">[</span></span><span class="pre">str</span><span class="p"><span class="pre">,</span></span><span class="w"> </span><span class="pre">object</span><span class="p"><span class="pre">]</span></span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><span class="pre">None</span></span></span><a class="headerlink" href="#geometor.aquinas.compile_codex.build_book_index" title="Link to this definition">¶</a></dt>
-        <dd><p>Write <code class="docutils literal notranslate"><span class="pre">docsrc/scientia_mathematica/index.rst</span></code>.</p>
+        <dt class="sig sig-object py" id="geometor.aquinas.compile_codex.build_svg_prooemium">
+        <span class="sig-prename descclassname"><span class="pre">geometor.aquinas.compile_codex.</span></span><span class="sig-name descname"><span class="pre">build_svg_prooemium</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><span class="pre">str</span></span></span><a class="headerlink" href="#geometor.aquinas.compile_codex.build_svg_prooemium" title="Link to this definition">¶</a></dt>
+        <dd><p>Generate master SVG vector diagram for Prooemium.</p>
+        </dd></dl>
+
+        <dl class="py function">
+        <dt class="sig sig-object py" id="geometor.aquinas.compile_codex.build_unit_svg">
+        <span class="sig-prename descclassname"><span class="pre">geometor.aquinas.compile_codex.</span></span><span class="sig-name descname"><span class="pre">build_unit_svg</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">unit_key</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">str</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">title</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">str</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">canonical_id</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">str</span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><span class="pre">str</span></span></span><a class="headerlink" href="#geometor.aquinas.compile_codex.build_unit_svg" title="Link to this definition">¶</a></dt>
+        <dd><p>Generate a clean, mathematically thematic SVG diagram for an atomic leaf page.</p>
+        </dd></dl>
+
+        <dl class="py function">
+        <dt class="sig sig-object py" id="geometor.aquinas.compile_codex.build_author_index">
+        <span class="sig-prename descclassname"><span class="pre">geometor.aquinas.compile_codex.</span></span><span class="sig-name descname"><span class="pre">build_author_index</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">docsrc_dir</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">pathlib.Path</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">books</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">list</span><span class="p"><span class="pre">[</span></span><span class="pre">dict</span><span class="p"><span class="pre">[</span></span><span class="pre">str</span><span class="p"><span class="pre">,</span></span><span class="w"> </span><span class="pre">Any</span><span class="p"><span class="pre">]</span></span><span class="p"><span class="pre">]</span></span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><span class="pre">None</span></span></span><a class="headerlink" href="#geometor.aquinas.compile_codex.build_author_index" title="Link to this definition">¶</a></dt>
+        <dd><p>Write docsrc/index.rst (Author Home Page).</p>
         </dd></dl>
 
         <dl class="py function">
         <dt class="sig sig-object py" id="geometor.aquinas.compile_codex.build_prooemium">
-        <span class="sig-prename descclassname"><span class="pre">geometor.aquinas.compile_codex.</span></span><span class="sig-name descname"><span class="pre">build_prooemium</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">codex_dir</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">pathlib.Path</span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><span class="pre">None</span></span></span><a class="headerlink" href="#geometor.aquinas.compile_codex.build_prooemium" title="Link to this definition">¶</a></dt>
-        <dd><p>Write the 4 synchronized tracks of <code class="docutils literal notranslate"><span class="pre">docsrc/scientia_mathematica/prooemium/</span></code>.</p>
-        </dd></dl>
-
-        <dl class="py function">
-        <dt class="sig sig-object py" id="geometor.aquinas.compile_codex.build_part_tracks">
-        <span class="sig-prename descclassname"><span class="pre">geometor.aquinas.compile_codex.</span></span><span class="sig-name descname"><span class="pre">build_part_tracks</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">part_num</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">int</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">codex_dir</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">pathlib.Path</span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><span class="pre">None</span></span></span><a class="headerlink" href="#geometor.aquinas.compile_codex.build_part_tracks" title="Link to this definition">¶</a></dt>
-        <dd><p>Compile <code class="docutils literal notranslate"><span class="pre">pars-{N}-{en,la,summary,notes}.rst</span></code> for <code class="docutils literal notranslate"><span class="pre">part_num</span></code> (1..5).</p>
+        <span class="sig-prename descclassname"><span class="pre">geometor.aquinas.compile_codex.</span></span><span class="sig-name descname"><span class="pre">build_prooemium</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">docsrc_dir</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">pathlib.Path</span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><span class="pre">None</span></span></span><a class="headerlink" href="#geometor.aquinas.compile_codex.build_prooemium" title="Link to this definition">¶</a></dt>
+        <dd><p>Write docsrc/prooemium/{index,la,summary,notes}.rst and figure.svg.</p>
         </dd></dl>
 
         <dl class="py function">
         <dt class="sig sig-object py" id="geometor.aquinas.compile_codex.build_concordance_page">
-        <span class="sig-prename descclassname"><span class="pre">geometor.aquinas.compile_codex.</span></span><span class="sig-name descname"><span class="pre">build_concordance_page</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">codex_dir</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">pathlib.Path</span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><span class="pre">None</span></span></span><a class="headerlink" href="#geometor.aquinas.compile_codex.build_concordance_page" title="Link to this definition">¶</a></dt>
-        <dd><p>Write <code class="docutils literal notranslate"><span class="pre">docsrc/scientia_mathematica/concordance.rst</span></code>.</p>
+        <span class="sig-prename descclassname"><span class="pre">geometor.aquinas.compile_codex.</span></span><span class="sig-name descname"><span class="pre">build_concordance_page</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">docsrc_dir</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">pathlib.Path</span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><span class="pre">None</span></span></span><a class="headerlink" href="#geometor.aquinas.compile_codex.build_concordance_page" title="Link to this definition">¶</a></dt>
+        <dd><p>Write docsrc/concordance.rst.</p>
         </dd></dl>
 
         <dl class="py function">
         <dt class="sig sig-object py" id="geometor.aquinas.compile_codex.build_bibliography_page">
-        <span class="sig-prename descclassname"><span class="pre">geometor.aquinas.compile_codex.</span></span><span class="sig-name descname"><span class="pre">build_bibliography_page</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">codex_dir</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">pathlib.Path</span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><span class="pre">None</span></span></span><a class="headerlink" href="#geometor.aquinas.compile_codex.build_bibliography_page" title="Link to this definition">¶</a></dt>
-        <dd><p>Write <code class="docutils literal notranslate"><span class="pre">docsrc/scientia_mathematica/bibliography.rst</span></code> with <code class="docutils literal notranslate"><span class="pre">cite-&lt;slug&gt;</span></code> anchors.</p>
+        <span class="sig-prename descclassname"><span class="pre">geometor.aquinas.compile_codex.</span></span><span class="sig-name descname"><span class="pre">build_bibliography_page</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">docsrc_dir</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">pathlib.Path</span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><span class="pre">None</span></span></span><a class="headerlink" href="#geometor.aquinas.compile_codex.build_bibliography_page" title="Link to this definition">¶</a></dt>
+        <dd><p>Write docsrc/bibliography.rst with cite-&lt;slug&gt; anchors.</p>
         </dd></dl>
 
         <dl class="py function">
         <dt class="sig sig-object py" id="geometor.aquinas.compile_codex.build_persons_page">
-        <span class="sig-prename descclassname"><span class="pre">geometor.aquinas.compile_codex.</span></span><span class="sig-name descname"><span class="pre">build_persons_page</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">codex_dir</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">pathlib.Path</span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><span class="pre">None</span></span></span><a class="headerlink" href="#geometor.aquinas.compile_codex.build_persons_page" title="Link to this definition">¶</a></dt>
-        <dd><p>Write <code class="docutils literal notranslate"><span class="pre">docsrc/scientia_mathematica/persons.rst</span></code> with <code class="docutils literal notranslate"><span class="pre">person-&lt;slug&gt;</span></code> anchors.</p>
+        <span class="sig-prename descclassname"><span class="pre">geometor.aquinas.compile_codex.</span></span><span class="sig-name descname"><span class="pre">build_persons_page</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">docsrc_dir</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">pathlib.Path</span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><span class="pre">None</span></span></span><a class="headerlink" href="#geometor.aquinas.compile_codex.build_persons_page" title="Link to this definition">¶</a></dt>
+        <dd><p>Write docsrc/persons.rst with person-&lt;slug&gt; anchors.</p>
         </dd></dl>
 
         <dl class="py function">
         <dt class="sig sig-object py" id="geometor.aquinas.compile_codex.build_glossary_page">
-        <span class="sig-prename descclassname"><span class="pre">geometor.aquinas.compile_codex.</span></span><span class="sig-name descname"><span class="pre">build_glossary_page</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">codex_dir</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">pathlib.Path</span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><span class="pre">None</span></span></span><a class="headerlink" href="#geometor.aquinas.compile_codex.build_glossary_page" title="Link to this definition">¶</a></dt>
-        <dd><p>Write <code class="docutils literal notranslate"><span class="pre">docsrc/scientia_mathematica/glossary.rst</span></code> with <code class="docutils literal notranslate"><span class="pre">term-&lt;slug&gt;</span></code> anchors.</p>
+        <span class="sig-prename descclassname"><span class="pre">geometor.aquinas.compile_codex.</span></span><span class="sig-name descname"><span class="pre">build_glossary_page</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">docsrc_dir</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">pathlib.Path</span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><span class="pre">None</span></span></span><a class="headerlink" href="#geometor.aquinas.compile_codex.build_glossary_page" title="Link to this definition">¶</a></dt>
+        <dd><p>Write docsrc/glossary.rst with term-&lt;slug&gt; anchors.</p>
         </dd></dl>
 
         <dl class="py function">
         <dt class="sig sig-object py" id="geometor.aquinas.compile_codex.compile_all">
         <span class="sig-prename descclassname"><span class="pre">geometor.aquinas.compile_codex.</span></span><span class="sig-name descname"><span class="pre">compile_all</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">repo_root</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">pathlib.Path</span><span class="w"> </span><span class="p"><span class="pre">|</span></span><span class="w"> </span><span class="pre">None</span></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">None</span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><span class="pre">dict</span><span class="p"><span class="pre">[</span></span><span class="pre">str</span><span class="p"><span class="pre">,</span></span><span class="w"> </span><span class="pre">object</span><span class="p"><span class="pre">]</span></span></span></span><a class="headerlink" href="#geometor.aquinas.compile_codex.compile_all" title="Link to this definition">¶</a></dt>
-        <dd><p>Validate all JSON resources and compile the entire <code class="docutils literal notranslate"><span class="pre">scientia_mathematica</span></code> RST codex.</p>
+        <dd><p>Compile the entire unbundled multi-book RST codex from resources/.</p>
         </dd></dl>
 
         <dl class="py function">
         <dt class="sig sig-object py" id="geometor.aquinas.compile_codex.main">
         <span class="sig-prename descclassname"><span class="pre">geometor.aquinas.compile_codex.</span></span><span class="sig-name descname"><span class="pre">main</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><span class="pre">None</span></span></span><a class="headerlink" href="#geometor.aquinas.compile_codex.main" title="Link to this definition">¶</a></dt>
-        <dd><p>CLI entry point for <code class="docutils literal notranslate"><span class="pre">geometor-aquinas-compile</span></code>.</p>
+        <dd><p>CLI entry point for geometor-aquinas-compile.</p>
         </dd></dl>
 
         </section>
@@ -291,13 +353,13 @@
         <div class="book-footer-ornament">&#10086;</div>
         <div class="book-footer-nav">
           <div class="book-nav-prev">
-            <a class="book-nav-btn" href="../../../../index.html" title="Modules">&larr; <span class="nav-label">Modules</span></a>
+            <a class="book-nav-btn" href="../../../../index.html" title="Modules">&larr; <span class="nav-label">Prev</span></a>
           </div>
           <div class="book-nav-center">
-            <a class="book-toc-link" href="../../../../../index.html">GEOMETOR • aquinas</a>
+            <a class="book-toc-link" href="../../../../index.html">Modules</a>
           </div>
           <div class="book-nav-next">
-            <a class="book-nav-btn" href="../concordance/index.html" title="geometor.aquinas.concordance"><span class="nav-label">geometor.aquinas.concordance</span> &rarr;</a>
+            <a class="book-nav-btn" href="../concordance/index.html" title="geometor.aquinas.concordance"><span class="nav-label">Next</span> &rarr;</a>
           </div>
         </div>
       </footer>
@@ -331,12 +393,18 @@
     <aside class="aside-tags">
       <h3>Tags</h3>
       <ul>
+        <li><a href="../../../../../tags/analytica_posteriora.html">analytica_posteriora</a></li>
         <li><a href="../../../../../tags/apparatus.html">apparatus</a></li>
         <li><a href="../../../../../tags/aquinas.html">aquinas</a></li>
+        <li><a href="../../../../../tags/de_anima.html">de_anima</a></li>
         <li><a href="../../../../../tags/hoenen.html">hoenen</a></li>
         <li><a href="../../../../../tags/latin.html">latin</a></li>
         <li><a href="../../../../../tags/materia-intelligibilis.html">materia-intelligibilis</a></li>
+        <li><a href="../../../../../tags/metaphysica.html">metaphysica</a></li>
         <li><a href="../../../../../tags/noetics.html">noetics</a></li>
+        <li><a href="../../../../../tags/physica.html">physica</a></li>
+        <li><a href="../../../../../tags/summa_theologiae.html">summa_theologiae</a></li>
+        <li><a href="../../../../../tags/super_boetium_de_trinitate.html">super_boetium_de_trinitate</a></li>
       </ul>
     </aside>
     <aside class="aside-categories">
@@ -350,6 +418,7 @@
     <aside class="aside-types">
       <h3>Types</h3>
       <ul>
+        <li><a href="../../../../../types/book.html">book</a></li>
         <li><a href="../../../../../types/log.html">log</a></li>
       </ul>
     </aside>

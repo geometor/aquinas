@@ -1,0 +1,54 @@
+:order: 5
+:canonical_id: Metaph. IX, lect. 10
+:folio: Metaph. IX, lect. 10
+:title: On Discovering Geometric Truth by Dividing Figures in Act (Euclid I.32 and III.31)
+:tags: aquinas, metaphysica
+:tracks: English: index | Latin: la | Summary: summary | Notes: notes
+
+.. _metaphysica-lect_05:
+.. _metaphysica-lect_05-en:
+.. _metaphysica-s5-en:
+.. _pars-5-s5-en:
+.. _pars-5-s5:
+
+Metaphysics Book IX, Lecture 10 — On Discovering Geometric Truth by Dividing Figures in Act (Euclid I.32 and III.31)
+====================================================================================================================
+
+.. rubric:: *In IX Metaphysicorum, Lectio 10 — De inventione veritatis geometricae per divisionem figurarum in actu (Euclides I.32 et III.31)*
+
+.. folio:: Metaph. IX, lect. 10
+
+.. figure:: figure.svg
+   :alt: On Discovering Geometric Truth by Dividing Figures in Act (Euclid I.32 and III.31)
+   :align: center
+
+**[lib. 9 l. 10 n. 1 · Marietti #1883]** After the Philosopher has compared act and potency with respect to the prior and the posterior, he here compares them with respect to good and evil; and concerning this he does two things. First, he says that in good things, act is better than potency. And this is manifest from the fact that what is in potency is the selfsame thing existing in potency to contraries: just as that which is able to recover health is able to fall sick, and is simultaneously in potency to both. And this is because there is the selfsame potency for both—for recovering health and for ailing, for resting and for moving, and for other opposites of this sort. And thus it is clear that something is simultaneously capable of contraries, even though contraries cannot exist simultaneously in act. Taken separately, therefore, of the two contraries the one is good, such as the healthy, while the other is evil, such as the sick; for among contraries one always stands as deficient, which pertains to evil.
+
+**[lib. 9 l. 10 n. 2 · Marietti #1884]** Thus, therefore, that which is good in act is solely good. Potency, however, stands similarly related *to both*, namely in a qualified respect (*secundum quid*), which is to be in potency, whereas it possesses neither unqualifiedly, which is to be in act. It remains, therefore, that act is better than potency, because that which is unqualifiedly and purely good is better than that which is good in a qualified respect and conjoined with evil.
+
+**[lib. 9 l. 10 n. 3 · Marietti #1885]** Second, where he says, *It is necessary, however*, he shows that conversely in evil things act is worse than potency; and concerning this he does three things. First, he proves the proposed point from the reasoning adduced above: because that which is unqualifiedly evil, and not related to evil merely in a qualified respect, is worse than that which is evil in a qualified respect and related both to evil and to good. Hence, since the potency to evil does not yet possess evil except in a qualified respect (and is at the same time a potency to good, since it is the selfsame potency that relates to contraries), it remains that an evil act is worse than the potency to evil.
+
+**[lib. 9 l. 10 n. 4 · Marietti #1886]** Second, where he says, *It is plain, therefore*, he concludes from what has been said that evil itself is not a certain nature existing apart from other things, which by nature are good. For evil itself is by nature posterior to potency, because it is worse and further removed from the perfection of nature. Hence, since potency cannot exist apart from things, much less can evil itself.
+
+**[lib. 9 l. 10 n. 5 · Marietti #1887]** Third, where he says, *Therefore not*, he draws another conclusion. For if evil is worse than potency, and potency is not found among eternal things, as was shown above, there will not be in them any evil, nor defect (*peccatum*), nor any other corruption; for corruption is a certain evil. Now this must be understood insofar as they are eternal and incorruptible; for in a qualified respect nothing prevents there being corruption in them, such as with respect to *where* (*ubi*), or with respect to something of this sort.
+
+**[lib. 9 l. 10 n. 6 · Marietti #1888]** Next, when he says, *Now they are discovered*, after he has compared potency and act with respect to the prior and the posterior, and with respect to good and evil, he here compares the same with respect to the understanding of the true and the false. And concerning this he does two things. First, he compares them with respect to understanding; second, with respect to truth and falsity, where he says, *Since, however, being*. First, therefore, he says that *diagrams*, that is, geometrical constructions, *are discovered*, that is, become known by discovery according to the disposition of figures in act. For geometers discover the truth they seek by dividing lines and surfaces. Now division reduces into act what was in potency; for the parts of a :term:`continuum <continuum>` exist potentially in the whole prior to division. If, however, all things were already divided in the manner that the discovery of truth requires, the conclusions sought would be manifest. Yet because in the initial drawing of the figures divisions of this sort exist only in potency, what is sought does not immediately become manifest.
+
+**[lib. 9 l. 10 n. 7 · Marietti #1889]** And he makes this known through two examples, the first of which concerns the question: why *a triangle is two right angles*, that is, why a triangle has its three angles equal to two right angles? And this is demonstrated as follows. (Figure). Let there be a triangle *ABC*, and let the base *AC* be produced continuously in a straight line. This base thus produced will therefore make with the side *BC* of the triangle an angle at the point *C*; and this angle lying outside is equal to the two interior angles opposite to it, namely the angle *ABC* and the angle *BAC*. Now it is manifest that the two angles standing around the point *C*, of which one is outside the triangle and the other inside, are equal to two right angles; for it has been demonstrated that a straight line falling upon another straight line in whatever way will make either two right angles or angles equal to two right angles. It remains, therefore, that the interior angle at the point *C*, taken together with the other two that are equal to the exterior angle—namely all three—are equal to two right angles.
+
+**[lib. 9 l. 10 n. 8 · Marietti #1890]** This, therefore, is what the Philosopher says: that a triangle is proved to have two right angles because the two angles that stand around a single point, say around the point *C*, of which one is interior and the other exterior, are equal to two right angles. And therefore when the angle formed outside is brought forth by producing one side of the triangle, it immediately becomes manifest to one who beholds the disposition of the figure that the triangle has three angles equal to two right angles.
+
+**[lib. 9 l. 10 n. 9 · Marietti #1891]** The second example concerns this question: why every angle inscribed in a semicircle is a right angle. And this is demonstrated as follows. (Figure). Let there be a semicircle *ABC*, and at the point *B*, wherever it may fall, let an angle be constructed, subtended by the base *AC*, which is the diameter of the circle. I say, therefore, that the angle *B* is a right angle. The proof of this is that since the line *AC* is the diameter of the circle, it must pass through the center. Let it therefore be divided in half at the point *D*, and let the line *DB* be drawn. Thus, therefore, the line *DB* is equal to the line *DA*, because both are drawn from the center to the circumference; therefore in the triangle *DBA* the angle *B* is equal to the angle *A*, because in every triangle of which two sides are equal, the angles above the base are equal. The two angles *A* and *B*, therefore, are double the angle *B* alone. Yet the angle *BDC*, since it is exterior, is equal to the two partial angles *A* and *B*; therefore the angle *BDC* is double the partial angle *B*.
+
+**[lib. 9 l. 10 n. 10 · Marietti #1892]** And in like manner it is proved that the angle *C* is equal to the angle *B* of the triangle *BDC*, because the two sides *DB* and *DC* are equal, since they are drawn from the center to the circumference; and the exterior angle, namely *ADB*, is equal to both together, and is therefore double the partial angle *B*. Thus, therefore, the two angles *ADB* and *BDC* are double the whole angle *ABC*. Yet the two angles *ADB* and *BDC* are either right angles or equal to two right angles, because the line *DB* falls upon the line *AC*; therefore the angle *ABC*, which is in the semicircle, is a right angle.
+
+**[lib. 9 l. 10 n. 11 · Marietti #1893]** And this is what the Philosopher says: that the angle in a semicircle is demonstrated to be a right angle because three lines are equal—namely the two into which the base is divided, that is, *DA* and *DC*, and the third which, drawn from the midpoint between those two, stands upon both, namely *BD*. And to one who beholds this disposition, provided he knows the principles of geometry, it is immediately manifest that every angle in a semicircle is a right angle.
+
+**[lib. 9 l. 10 n. 12 · Marietti #1894]** Thus, therefore, the Philosopher concludes that it is manifest that when things are reduced from potency into act, then their truth is discovered. And the cause of this is that understanding is an act; and therefore the things that are understood must exist in act. On account of this, potency is known from act. Hence by making something exist in act men come to know, as is clear in the aforesaid constructions. For in that which is numerically one and the same, act must be posterior to potency according to the order of generation and of time, as was explained above.
+
+.. toctree::
+   :hidden:
+
+   la
+   summary
+   notes
