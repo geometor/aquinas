@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "geometor-aquinas"
 authors = [{ name = "phi ARCHITECT", email = "phi@geometor.com" }]
 description = "Bilingual multi-track Book Codex and critical concordance of St. Thomas Aquinas's foundational texts on mathematical science, intelligible matter, abstraction, and judgment."
-readme = "README.md"
+readme = "README.rst"
 requires-python = ">=3.13"
 license = { text = "MIT" }
 dynamic = ["version"]
