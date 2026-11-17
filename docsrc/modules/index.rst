@@ -1,4 +1,3 @@
-:navigation: header
 :order: 40
 :nav_title: Modules
 

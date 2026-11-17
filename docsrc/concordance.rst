@@ -1,3 +1,6 @@
+:navigation: header
+:order: 14
+:nav_title: Concordance
 :title: Hoenen–Aquinas–Aristotle–Euclid–GEOMETOR Concordance
 :layout: book
 
