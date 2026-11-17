@@ -1,5 +1,5 @@
 :navigation: header
-:order: 7
+:order: 10
 :nav_title: People
 :title: People
 :layout: book

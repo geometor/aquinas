@@ -1,5 +1,5 @@
 :navigation: header
-:order: 8
+:order: 12
 :nav_title: Bibliography
 :title: Bibliography
 :layout: book
