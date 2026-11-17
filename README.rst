@@ -25,6 +25,16 @@ Books in This Archive
 - `Commentary on Aristotle's Metaphysics <https://geometor.github.io/aquinas/metaphysica/>`_ — *Sententia super Metaphysicam*, investigating intelligible matter, actuality, and geometric truth discovered by division in act.
 - `Summa Theologiae and Disputed Questions <https://geometor.github.io/aquinas/summa_theologiae/>`_ — *Summa Theologiae, De Potentia, et De Veritate*, systematic syntheses on *ipsum esse*, the geometer's infinite line, and indemonstrable first principles.
 
+Python Package & Modules
+------------------------
+
+The ``geometor-aquinas`` Python package (``import geometor.aquinas``) provides the executable symbolic geometry, construction, and compilation modules powering this archive:
+
+- ``compile_codex.py`` — Compile the unbundled, granular Multi-Track Book Codex RST tree for St. Thomas Aquinas.
+- ``concordance.py`` — Structured query, validation, and concordance API for ``geometor.aquinas``.
+
+See the `API Reference <https://geometor.github.io/aquinas/modules/>`_ for full module documentation.
+
 Repository Contents
 -------------------
 
