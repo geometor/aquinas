@@ -1,17 +1,18 @@
-:title: Sentencia libri De anima
+:title: Commentary on Aristotle's On the Soul
 :layout: book
 :type: book
 :order: 3
 :navigation: header
-:nav_title: De Anima
-:breadcrumb_title: De Anima
-:book_title: Sentencia libri De anima
-:book_subtitle: Commentary on Aristotle's De Anima — On the Phantasm in Geometry, Continuous Extension, and the Hand as Organ of Organs
+:nav_title: On the Soul
+:breadcrumb_title: On the Soul
+:book_title: Commentary on Aristotle's On the Soul
+:book_subtitle: Sentencia libri De anima (c. 1267–1268)
 :author: St. Thomas Aquinas, O.P. (1225–1274)
 :series: GEOMETOR Classical Canon · Critical Multi-Track Codex
 :publisher: GEOMETOR Scriptorium (ex Editionibus Leonina, Marietti et Decker)
 :location: Pompaelone / Romae / Taurini
 :year: c. 1267–1268
+:tracks: English: index | Latin: title-la
 :excerpt: Aquinas's psychological foundations for mathematics: why the human soul never understands without turning to phantasms (conversio ad phantasmata), the distinction between physical flesh/bone and spatial continuum, and the hand as organ of organs.
 
 .. _de_anima:
@@ -22,10 +23,10 @@
 .. _pars-3-summary:
 .. _pars-3-notes:
 
-Sentencia libri De anima
-========================
+Commentary on Aristotle's On the Soul
+=====================================
 
-.. rubric:: *Commentary on Aristotle's De Anima — On the Phantasm in Geometry, Continuous Extension, and the Hand as Organ of Organs*
+.. rubric:: *Sentencia libri De anima (c. 1267–1268)*
 
 .. container:: title-page
 
@@ -124,3 +125,10 @@ Table of Contents
    lect_03/index
    lect_04/index
    lect_05/index
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+   :caption: Title Pages
+
+   title-la

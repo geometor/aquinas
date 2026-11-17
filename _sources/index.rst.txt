@@ -5,13 +5,12 @@
 
 .. container:: author-overline
 
-   semantic digital archive • the works of
+   the works of
 
-==================
 St. Thomas Aquinas
 ==================
 
-:person:`St. Thomas Aquinas <aquinas>` (1225–1274) articulated the classical realist epistemology of mathematics across his *Expositio super librum Boethii De Trinitate* and Aristotelian commentaries—distinguishing formal abstraction (*abstractio formae*), intelligible matter (*materia intelligibilis*), and deductive judgment (*judicium* in imagination). Within the interconnected `GEOMETOR <https://geometor.com/books/>`_ semantic digital archive, his foundational Latin and English loci are liberated from static print bounds into addressable quaestiones and lectiones cross-referenced directly to Aristotle, Euclid, and Petrus Hoenen.
+The mission of this project is to capture a semantic digital library of the works of :person:`St. Thomas Aquinas <aquinas>` (1225–1274), the Dominican theologian and philosopher whose commentaries on Aristotle and Boethius established the classical doctrine of mathematical abstraction (*abstractio formae*), intelligible matter (*materia intelligibilis*), and the epistemic certitude of geometry.
 
 .. collection::
    :type: book

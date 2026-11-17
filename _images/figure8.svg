@@ -1,23 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 360" width="100%" height="auto">
   <rect width="600" height="360" rx="8" fill="#0c1017" stroke="#1e293b" stroke-width="1.5"/>
-  <defs>
-    <linearGradient id="geomGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#00d2ff"/>
-      <stop offset="50%" stop-color="#38bdf8"/>
-      <stop offset="100%" stop-color="#d4af37"/>
-    </linearGradient>
-  </defs>
-  <line x1="80" y1="180" x2="520" y2="180" stroke="#1e293b" stroke-width="1.2" stroke-dasharray="3,3"/>
-  <line x1="300" y1="50" x2="300" y2="310" stroke="#1e293b" stroke-width="1.2" stroke-dasharray="3,3"/>
-  <circle cx="300" cy="180" r="105" fill="none" stroke="#334155" stroke-width="1.2"/>
-  <circle cx="300" cy="180" r="70" fill="#0284c7" fill-opacity="0.08" stroke="url(#geomGrad)" stroke-width="2"/>
-  <line x1="160" y1="110" x2="440" y2="250" stroke="#f59e0b" stroke-width="1.8"/>
-  <line x1="160" y1="250" x2="440" y2="110" stroke="#00d2ff" stroke-width="1.8"/>
-  <circle cx="300" cy="180" r="4.5" fill="#f8fafc"/>
-  <circle cx="230" cy="145" r="4" fill="#00d2ff"/>
-  <circle cx="370" cy="215" r="4" fill="#00d2ff"/>
-  <circle cx="230" cy="215" r="4" fill="#f59e0b"/>
-  <circle cx="370" cy="145" r="4" fill="#f59e0b"/>
-  <text x="300" y="75" fill="#f8fafc" font-size="13" font-family="system-ui, sans-serif" text-anchor="middle" font-weight="600">Book I, Lecture 4 — What Unqualified Scientif</text>
-  <text x="300" y="325" fill="#94a3b8" font-size="12" font-family="system-ui, sans-serif" text-anchor="middle">Lib. I, lect. 4 · Scientia Mathematica et Materia Intelligibilis</text>
+  <path d="M140 240 A160 160 0 0 1 460 240 Z" fill="#0284c7" fill-opacity="0.08" stroke="#00d2ff" stroke-width="2"/>
+  <line x1="140" y1="240" x2="460" y2="240" stroke="#f59e0b" stroke-width="2"/>
+  <line x1="140" y1="240" x2="260" y2="92" stroke="#f8fafc" stroke-width="2"/>
+  <line x1="460" y1="240" x2="260" y2="92" stroke="#f8fafc" stroke-width="2"/>
+  <path d="M248 107 L263 119 L275 104" fill="none" stroke="#f59e0b" stroke-width="1.5"/>
+  <circle cx="300" cy="240" r="3.5" fill="#00d2ff"/>
+  <line x1="300" y1="240" x2="260" y2="92" stroke="#64748b" stroke-width="1" stroke-dasharray="3,3"/>
+  <circle cx="140" cy="240" r="4.5" fill="#f59e0b"/>
+  <circle cx="460" cy="240" r="4.5" fill="#f59e0b"/>
+  <circle cx="260" cy="92" r="4.5" fill="#f8fafc"/>
+  <text x="120" y="248" fill="#f59e0b" font-size="14" font-family="system-ui, sans-serif" font-weight="600">A</text>
+  <text x="475" y="248" fill="#f59e0b" font-size="14" font-family="system-ui, sans-serif" font-weight="600">B</text>
+  <text x="260" y="75" fill="#f8fafc" font-size="14" font-family="system-ui, sans-serif" text-anchor="middle" font-weight="600">C (Angulus Rectus = 90°)</text>
+  <text x="300" y="260" fill="#94a3b8" font-size="12" font-family="system-ui, sans-serif" text-anchor="middle">O (Centrum)</text>
+  <text x="300" y="325" fill="#94a3b8" font-size="12" font-family="system-ui, sans-serif" text-anchor="middle">Lib. I, lect. 3 · Triangulus in Semicirculo Inscriptus (Euclides III.31)</text>
 </svg>

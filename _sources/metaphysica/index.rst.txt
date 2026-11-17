@@ -1,17 +1,18 @@
-:title: Sententia super Metaphysicam
+:title: Commentary on Aristotle's Metaphysics
 :layout: book
 :type: book
 :order: 5
 :navigation: header
 :nav_title: Metaphysics
 :breadcrumb_title: Metaphysics
-:book_title: Sententia super Metaphysicam
-:book_subtitle: Commentary on Aristotle's Metaphysics — On Intelligible Matter, Actuality, and Discovering Geometric Truth by Division in Act
+:book_title: Commentary on Aristotle's Metaphysics
+:book_subtitle: Sententia super Metaphysicam (c. 1270–1272)
 :author: St. Thomas Aquinas, O.P. (1225–1274)
 :series: GEOMETOR Classical Canon · Critical Multi-Track Codex
 :publisher: GEOMETOR Scriptorium (ex Editionibus Leonina, Marietti et Decker)
 :location: Pompaelone / Romae / Taurini
 :year: c. 1270–1272
+:tracks: English: index | Latin: title-la
 :excerpt: Aquinas's metaphysical pinnacle of geometric epistemology: individual vs common intelligible matter, the derivation of actuality from motion, and the famous revelation of heuristic discovery: geometers discover truth by dividing figures in act (Euclid I.32 and III.31).
 
 .. _metaphysica:
@@ -22,10 +23,10 @@
 .. _pars-5-summary:
 .. _pars-5-notes:
 
-Sententia super Metaphysicam
-============================
+Commentary on Aristotle's Metaphysics
+=====================================
 
-.. rubric:: *Commentary on Aristotle's Metaphysics — On Intelligible Matter, Actuality, and Discovering Geometric Truth by Division in Act*
+.. rubric:: *Sententia super Metaphysicam (c. 1270–1272)*
 
 .. container:: title-page
 
@@ -124,3 +125,10 @@ Table of Contents
    lect_03/index
    lect_04/index
    lect_05/index
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+   :caption: Title Pages
+
+   title-la

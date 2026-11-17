@@ -1,17 +1,18 @@
-:title: Expositio libri Posteriorum Analyticorum
+:title: Commentary on Aristotle's Posterior Analytics
 :layout: book
 :type: book
 :order: 2
 :navigation: header
 :nav_title: Posterior Analytics
 :breadcrumb_title: Posterior Analytics
-:book_title: Expositio libri Posteriorum Analyticorum
-:book_subtitle: Commentary on Aristotle's Posterior Analytics — On Demonstrative Science, Euclidean Principles, and Inductive Nous
+:book_title: Commentary on Aristotle's Posterior Analytics
+:book_subtitle: Expositio libri Posteriorum Analyticorum (c. 1270–1272)
 :author: St. Thomas Aquinas, O.P. (1225–1274)
 :series: GEOMETOR Classical Canon · Critical Multi-Track Codex
 :publisher: GEOMETOR Scriptorium (ex Editionibus Leonina, Marietti et Decker)
 :location: Pompaelone / Romae / Taurini
 :year: c. 1270–1272
+:tracks: English: index | Latin: title-la
 :excerpt: Aquinas's exposition of Aristotle's theory of demonstration: supreme certitude in mathematics, subject-genus vs proper attributes, common conceptions vs postulates, why geometers do not demonstrate of dust diagrams, and the genesis of first principles from experience.
 
 .. _analytica_posteriora:
@@ -22,10 +23,10 @@
 .. _pars-2-summary:
 .. _pars-2-notes:
 
-Expositio libri Posteriorum Analyticorum
-========================================
+Commentary on Aristotle's Posterior Analytics
+=============================================
 
-.. rubric:: *Commentary on Aristotle's Posterior Analytics — On Demonstrative Science, Euclidean Principles, and Inductive Nous*
+.. rubric:: *Expositio libri Posteriorum Analyticorum (c. 1270–1272)*
 
 .. container:: title-page
 
@@ -130,3 +131,10 @@ Table of Contents
    lect_09/index
    lect_10/index
    lect_11/index
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+   :caption: Title Pages
+
+   title-la

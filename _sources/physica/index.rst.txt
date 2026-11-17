@@ -1,17 +1,18 @@
-:title: Commentaria in libros Physicorum et De Caelo
+:title: Commentaries on Physics and On the Heavens
 :layout: book
 :type: book
 :order: 4
 :navigation: header
 :nav_title: Physics & Heavens
 :breadcrumb_title: Physics & Heavens
-:book_title: Commentaria in libros Physicorum et De Caelo
-:book_subtitle: Commentaries on Aristotle's Physics and On the Heavens — On Abstraction Without Falsehood, Immobile Place, and Non-Atomism of the Continuum
+:book_title: Commentaries on Physics and On the Heavens
+:book_subtitle: In octo libros Physicorum et In libros De caelo et mundo expositio (c. 1268–1273)
 :author: St. Thomas Aquinas, O.P. (1225–1274)
 :series: GEOMETOR Classical Canon · Critical Multi-Track Codex
 :publisher: GEOMETOR Scriptorium (ex Editionibus Leonina, Marietti et Decker)
 :location: Pompaelone / Romae / Taurini
 :year: c. 1268–1273
+:tracks: English: index | Latin: title-la
 :excerpt: Aquinas's physical doctrine on mathematical entities: abstrahentium non est mendacium (no falsehood in abstraction), immobile place grounding rigid translation, the impossibility of composing a continuum from indivisible points, and three-dimensional magnitude.
 
 .. _physica:
@@ -22,10 +23,10 @@
 .. _pars-4-summary:
 .. _pars-4-notes:
 
-Commentaria in libros Physicorum et De Caelo
-============================================
+Commentaries on Physics and On the Heavens
+==========================================
 
-.. rubric:: *Commentaries on Aristotle's Physics and On the Heavens — On Abstraction Without Falsehood, Immobile Place, and Non-Atomism of the Continuum*
+.. rubric:: *In octo libros Physicorum et In libros De caelo et mundo expositio (c. 1268–1273)*
 
 .. container:: title-page
 
@@ -129,3 +130,10 @@ Table of Contents
    lect_04/index
    lect_05/index
    lect_06/index
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+   :caption: Title Pages
+
+   title-la

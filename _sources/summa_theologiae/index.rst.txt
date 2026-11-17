@@ -1,26 +1,27 @@
-:title: Summa Theologiae et Quaestiones Disputatae
+:title: Summa Theologiae and Disputed Questions
 :layout: book
 :type: book
 :order: 6
 :navigation: header
 :nav_title: Summa Theologiae
 :breadcrumb_title: Summa Theologiae
-:book_title: Summa Theologiae et Quaestiones Disputatae
-:book_subtitle: Systematic Syntheses — On Ipsum Esse, the Geometer's Infinite Line, Turning to Phantasms, and First Principles
+:book_title: Summa Theologiae and Disputed Questions
+:book_subtitle: Summa Theologiae et Quaestiones Disputatae de Potentia et de Veritate (c. 1256–1273)
 :author: St. Thomas Aquinas, O.P. (1225–1274)
 :series: GEOMETOR Classical Canon · Critical Multi-Track Codex
 :publisher: GEOMETOR Scriptorium (ex Editionibus Leonina, Marietti et Decker)
 :location: Pompaelone / Romae / Taurini
 :year: c. 1256–1273
+:tracks: English: index | Latin: title-la
 :excerpt: Aquinas's mature theological syntheses: Ipsum Esse as the actuality of all acts, the geometer's infinite line, turning to phantasms in the Summa Theologiae, and the origin of indemonstrable principles in De Potentia and De Veritate.
 
 .. _summa_theologiae:
 .. _summa_theologiae-index:
 
-Summa Theologiae et Quaestiones Disputatae
-==========================================
+Summa Theologiae and Disputed Questions
+=======================================
 
-.. rubric:: *Systematic Syntheses — On Ipsum Esse, the Geometer's Infinite Line, Turning to Phantasms, and First Principles*
+.. rubric:: *Summa Theologiae et Quaestiones Disputatae de Potentia et de Veritate (c. 1256–1273)*
 
 .. container:: title-page
 
@@ -118,3 +119,10 @@ Table of Contents
    art_02/index
    art_03/index
    art_04/index
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+   :caption: Title Pages
+
+   title-la
