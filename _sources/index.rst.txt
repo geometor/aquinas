@@ -29,7 +29,7 @@ The mission of this project is to capture a semantic digital library of the work
    prooemium/index
    concordance
    bibliography
-   persons
+   people/index
    glossary
    usage/index
    about/index

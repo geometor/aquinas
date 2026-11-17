@@ -1,14 +1,21 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 360" width="100%" height="auto">
   <rect width="600" height="360" rx="8" fill="#0c1017" stroke="#1e293b" stroke-width="1.5"/>
-  <circle cx="230" cy="200" r="85" fill="#0284c7" fill-opacity="0.12" stroke="#00d2ff" stroke-width="2"/>
-  <circle cx="370" cy="200" r="85" fill="#d97706" fill-opacity="0.12" stroke="#f59e0b" stroke-width="2"/>
-  <circle cx="300" cy="115" r="85" fill="#7c3aed" fill-opacity="0.12" stroke="#a855f7" stroke-width="2"/>
-  <text x="300" y="80" fill="#c084fc" font-size="13" font-family="system-ui, sans-serif" text-anchor="middle" font-weight="600">Metaphysica / Theologia</text>
-  <text x="300" y="98" fill="#94a3b8" font-size="11" font-family="system-ui, sans-serif" text-anchor="middle">(Sine materia et motu)</text>
-  <text x="180" y="215" fill="#38bdf8" font-size="13" font-family="system-ui, sans-serif" text-anchor="middle" font-weight="600">Physica</text>
-  <text x="180" y="233" fill="#94a3b8" font-size="11" font-family="system-ui, sans-serif" text-anchor="middle">(Cum materia sensibili et motu)</text>
-  <text x="420" y="215" fill="#fbbf24" font-size="13" font-family="system-ui, sans-serif" text-anchor="middle" font-weight="600">Mathematica</text>
-  <text x="420" y="233" fill="#94a3b8" font-size="11" font-family="system-ui, sans-serif" text-anchor="middle">(In materia intelligibili sine motu)</text>
-  <circle cx="300" cy="175" r="5" fill="#f8fafc"/>
-  <text x="300" y="325" fill="#94a3b8" font-size="12" font-family="system-ui, sans-serif" text-anchor="middle">q. 5, a. 1 · Triplex Divisio Scientiae Speculativae</text>
+  <defs>
+    <pattern id="brassPattern" width="12" height="12" patternUnits="userSpaceOnUse">
+      <path d="M0 12 L12 0 M6 18 L18 6 M-6 6 L6 -6" stroke="#78350f" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <circle cx="180" cy="170" r="75" fill="url(#brassPattern)" stroke="#b45309" stroke-width="2.5"/>
+  <text x="180" y="275" fill="#f59e0b" font-size="13" font-family="system-ui, sans-serif" text-anchor="middle" font-weight="600">Circulus Aeneus</text>
+  <text x="180" y="295" fill="#94a3b8" font-size="11" font-family="system-ui, sans-serif" text-anchor="middle">(Materia Sensibilis &amp; Mutabilitas)</text>
+  <path d="M280 170 L340 170" stroke="#64748b" stroke-width="2" stroke-dasharray="4,4"/>
+  <polygon points="345,170 335,165 335,175" fill="#64748b"/>
+  <text x="310" y="155" fill="#38bdf8" font-size="11" font-family="system-ui, sans-serif" text-anchor="middle">Abstractio Formae</text>
+  <circle cx="440" cy="170" r="75" fill="none" stroke="#00d2ff" stroke-width="2.5"/>
+  <circle cx="440" cy="170" r="3.5" fill="#00d2ff"/>
+  <line x1="440" y1="170" x2="515" y2="170" stroke="#00d2ff" stroke-width="1.5" stroke-dasharray="3,3"/>
+  <text x="477" y="162" fill="#38bdf8" font-size="12" font-family="system-ui, sans-serif">radius r</text>
+  <text x="440" y="275" fill="#38bdf8" font-size="13" font-family="system-ui, sans-serif" text-anchor="middle" font-weight="600">Circulus Mathematicus</text>
+  <text x="440" y="295" fill="#94a3b8" font-size="11" font-family="system-ui, sans-serif" text-anchor="middle">(In Materia Intelligibili)</text>
+  <text x="300" y="335" fill="#94a3b8" font-size="12" font-family="system-ui, sans-serif" text-anchor="middle">q. 5, a. 3 · Abstractio Formae a Materia Sensibili</text>
 </svg>
