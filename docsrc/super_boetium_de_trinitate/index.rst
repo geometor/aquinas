@@ -1,17 +1,18 @@
-:title: Super Boetium De Trinitate (Quaestiones V–VI)
+:title: Commentary on Boethius's On the Trinity (Questions V–VI)
 :layout: book
 :type: book
 :order: 1
 :navigation: header
-:nav_title: De Trinitate
-:breadcrumb_title: De Trinitate
-:book_title: Super Boetium De Trinitate (Quaestiones V–VI)
-:book_subtitle: Expositio super librum Boethii De Trinitate — De Divisione Scientiae Speculativae et Materia Intelligibili
+:nav_title: On the Trinity
+:breadcrumb_title: On the Trinity
+:book_title: Commentary on Boethius's On the Trinity (Questions V–VI)
+:book_subtitle: Expositio super librum Boethii De Trinitate — De Divisione Scientiae Speculativae et Materia Intelligibili (c. 1257–1259)
 :author: St. Thomas Aquinas, O.P. (1225–1274)
 :series: GEOMETOR Classical Canon · Critical Multi-Track Codex
 :publisher: GEOMETOR Scriptorium (ex Editionibus Leonina, Marietti et Decker)
 :location: Pompaelone / Romae / Taurini
 :year: c. 1257–1259
+:tracks: English: index | Latin: title-la
 :excerpt: Aquinas's foundational treatise on the division of speculative science, distinguishing mathematical abstraction of form (abstractio formae) and intelligible matter from metaphysical separation (separatio), and establishing why mathematical judgment terminates at the imagination.
 
 .. _super_boetium_de_trinitate:
@@ -22,10 +23,10 @@
 .. _pars-1-summary:
 .. _pars-1-notes:
 
-Super Boetium De Trinitate (Quaestiones V–VI)
-=============================================
+Commentary on Boethius's On the Trinity (Questions V–VI)
+========================================================
 
-.. rubric:: *Expositio super librum Boethii De Trinitate — De Divisione Scientiae Speculativae et Materia Intelligibili*
+.. rubric:: *Expositio super librum Boethii De Trinitate — De Divisione Scientiae Speculativae et Materia Intelligibili (c. 1257–1259)*
 
 .. container:: title-page
 
@@ -125,3 +126,10 @@ Table of Contents
    art_04/index
    art_05/index
    art_06/index
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+   :caption: Title Pages
+
+   title-la

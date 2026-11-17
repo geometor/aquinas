@@ -192,10 +192,10 @@ BOOKS_CONFIG = [
     {
         "slug": "super_boetium_de_trinitate",
         "order": 1,
-        "nav_title": "De Trinitate",
-        "breadcrumb_title": "De Trinitate",
-        "title": "Super Boetium De Trinitate (Quaestiones V–VI)",
-        "subtitle": "Expositio super librum Boethii De Trinitate — De Divisione Scientiae Speculativae et Materia Intelligibili",
+        "nav_title": "On the Trinity",
+        "breadcrumb_title": "On the Trinity",
+        "title": "Commentary on Boethius's On the Trinity (Questions V–VI)",
+        "subtitle": "Expositio super librum Boethii De Trinitate — De Divisione Scientiae Speculativae et Materia Intelligibili (c. 1257–1259)",
         "work_title": "Super Boetium De Trinitate",
         "date_composed": "c. 1257–1259",
         "editions": [
@@ -213,8 +213,8 @@ BOOKS_CONFIG = [
         "order": 2,
         "nav_title": "Posterior Analytics",
         "breadcrumb_title": "Posterior Analytics",
-        "title": "Expositio libri Posteriorum Analyticorum",
-        "subtitle": "Commentary on Aristotle's Posterior Analytics — On Demonstrative Science, Euclidean Principles, and Inductive Nous",
+        "title": "Commentary on Aristotle's Posterior Analytics",
+        "subtitle": "Expositio libri Posteriorum Analyticorum (c. 1270–1272)",
         "work_title": "Expositio libri Posteriorum Analyticorum",
         "date_composed": "c. 1270–1272",
         "editions": [
@@ -230,10 +230,10 @@ BOOKS_CONFIG = [
     {
         "slug": "de_anima",
         "order": 3,
-        "nav_title": "De Anima",
-        "breadcrumb_title": "De Anima",
-        "title": "Sentencia libri De anima",
-        "subtitle": "Commentary on Aristotle's De Anima — On the Phantasm in Geometry, Continuous Extension, and the Hand as Organ of Organs",
+        "nav_title": "On the Soul",
+        "breadcrumb_title": "On the Soul",
+        "title": "Commentary on Aristotle's On the Soul",
+        "subtitle": "Sentencia libri De anima (c. 1267–1268)",
         "work_title": "Sentencia libri De anima",
         "date_composed": "c. 1267–1268",
         "editions": [
@@ -251,8 +251,8 @@ BOOKS_CONFIG = [
         "order": 4,
         "nav_title": "Physics & Heavens",
         "breadcrumb_title": "Physics & Heavens",
-        "title": "Commentaria in libros Physicorum et De Caelo",
-        "subtitle": "Commentaries on Aristotle's Physics and On the Heavens — On Abstraction Without Falsehood, Immobile Place, and Non-Atomism of the Continuum",
+        "title": "Commentaries on Physics and On the Heavens",
+        "subtitle": "In octo libros Physicorum et In libros De caelo et mundo expositio (c. 1268–1273)",
         "work_title": "In octo libros Physicorum & In libros De caelo et mundo expositio",
         "date_composed": "c. 1268–1273",
         "editions": [
@@ -271,8 +271,8 @@ BOOKS_CONFIG = [
         "order": 5,
         "nav_title": "Metaphysics",
         "breadcrumb_title": "Metaphysics",
-        "title": "Sententia super Metaphysicam",
-        "subtitle": "Commentary on Aristotle's Metaphysics — On Intelligible Matter, Actuality, and Discovering Geometric Truth by Division in Act",
+        "title": "Commentary on Aristotle's Metaphysics",
+        "subtitle": "Sententia super Metaphysicam (c. 1270–1272)",
         "work_title": "Sententia super Metaphysicam",
         "date_composed": "c. 1270–1272",
         "editions": [
@@ -290,8 +290,8 @@ BOOKS_CONFIG = [
         "order": 6,
         "nav_title": "Summa Theologiae",
         "breadcrumb_title": "Summa Theologiae",
-        "title": "Summa Theologiae et Quaestiones Disputatae",
-        "subtitle": "Systematic Syntheses — On Ipsum Esse, the Geometer's Infinite Line, Turning to Phantasms, and First Principles",
+        "title": "Summa Theologiae and Disputed Questions",
+        "subtitle": "Summa Theologiae et Quaestiones Disputatae de Potentia et de Veritate (c. 1256–1273)",
         "work_title": "Summa Theologiae, Quaestiones Disputatae de Potentia et de Veritate",
         "date_composed": "c. 1256–1273",
         "editions": [
@@ -1072,6 +1072,7 @@ def compile_all(repo_root: Path | None = None) -> dict[str, object]:
             ":publisher: GEOMETOR Scriptorium (ex Editionibus Leonina, Marietti et Decker)",
             ":location: Pompaelone / Romae / Taurini",
             f":year: {b_cfg['date_composed']}",
+            ":tracks: English: index | Latin: title-la",
             f":excerpt: {b_cfg['excerpt']}",
             "",
             f".. _{b_slug}:",
@@ -1151,7 +1152,16 @@ def compile_all(repo_root: Path | None = None) -> dict[str, object]:
         ])
         for u_dir in unit_dirs:
             index_lines.append(f"   {u_dir}/index")
-        index_lines.append("")
+        index_lines.extend([
+            "",
+            ".. toctree::",
+            "   :maxdepth: 1",
+            "   :hidden:",
+            "   :caption: Title Pages",
+            "",
+            "   title-la",
+            "",
+        ])
 
         (b_dir / "index.rst").write_text("\n".join(index_lines), encoding="utf-8")
 
