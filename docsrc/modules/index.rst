@@ -6,3 +6,8 @@ Modules
 =======
 
 .. include:: api/geometor/aquinas/index.rst
+
+.. toctree::
+   :hidden:
+
+   api/index

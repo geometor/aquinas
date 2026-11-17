@@ -968,7 +968,8 @@ def build_persons_page(docsrc_dir: Path) -> None:
                 lines.append(f"* *{w}*")
             lines.append("")
 
-    (docsrc_dir / "persons.rst").write_text("\n".join(lines), encoding="utf-8")
+    if not (docsrc_dir / "people" / "index.rst").is_file():
+        (docsrc_dir / "persons.rst").write_text("\n".join(lines), encoding="utf-8")
 
 
 def build_glossary_page(docsrc_dir: Path) -> None:

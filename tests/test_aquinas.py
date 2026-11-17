@@ -153,7 +153,7 @@ def test_full_codex_integrity_and_rst_compilation() -> None:
     assert total_units == 37
 
     # Shared Apparatus at docsrc root
-    for app_file in ("concordance.rst", "bibliography.rst", "persons.rst", "glossary.rst"):
+    for app_file in ("concordance.rst", "bibliography.rst", "people/index.rst", "glossary.rst"):
         assert (docsrc_dir / app_file).is_file()
 
     # Verify anchor presence in apparatus RST files
@@ -161,7 +161,7 @@ def test_full_codex_integrity_and_rst_compilation() -> None:
     for k in load_citations():
         assert f".. _cite-{slugify_apparatus_key(k)}:" in bib_rst
 
-    persons_rst = (docsrc_dir / "persons.rst").read_text(encoding="utf-8")
+    persons_rst = "\n".join(p.read_text(encoding="utf-8") for p in sorted((docsrc_dir / "people").glob("*.rst")))
     for k in load_persons():
         assert f".. _person-{slugify_apparatus_key(k)}:" in persons_rst
 
