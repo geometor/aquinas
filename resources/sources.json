@@ -1,0 +1,22 @@
+{
+  "repository": "geometor/aquinas",
+  "rights_category": "public-domain",
+  "sources": [
+    {
+      "id": "corpus-thomisticum-latin",
+      "title": "Opera Omnia S. Thomae de Aquino (Corpus Thomisticum)",
+      "author": "St. Thomas Aquinas (ed. Enrique Alarcón)",
+      "year": "2000",
+      "era": "Corpus Thomisticum",
+      "languages": [
+        "Latin"
+      ],
+      "site_url": "https://www.corpusthomisticum.org/",
+      "local_path": "resources/",
+      "pages": null,
+      "publisher": "Universidad de Navarra (Leonine / Marietti / Decker critical bases)",
+      "rights": "Public-domain medieval texts; Corpus Thomisticum electronic edition",
+      "excerpt": "Five Latin source witnesses (pars_1..5_*.la.txt) for Aquinas's mathematical & noetic commentaries."
+    }
+  ]
+}
