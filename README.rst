@@ -1,13 +1,13 @@
+.. image:: docsrc/_static/logo.png
+   :alt: GEOMETOR • aquinas Medallion
+   :target: https://geometor.github.io/aquinas/
+   :width: 150px
+   :align: right
+
 GEOMETOR • aquinas
 ==================
 
 **Visit the Online Archive:** https://geometor.github.io/aquinas/
-
-.. image:: docsrc/_static/logo.png
-   :alt: GEOMETOR • aquinas Medallion
-   :target: https://geometor.github.io/aquinas/
-   :width: 180px
-   :align: center
 
 .. image:: docsrc/analytica_posteriora/lect_01/figure.svg
    :alt: GEOMETOR • aquinas featured geometric construction
