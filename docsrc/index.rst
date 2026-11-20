@@ -10,6 +10,10 @@
 St. Thomas Aquinas
 ==================
 
+.. image:: _static/medallion.svg
+   :alt: St. Thomas Aquinas Medallion
+   :class: repo-medallion-hero
+
 The mission of this project is to capture a semantic digital library of the works of :person:`St. Thomas Aquinas <aquinas>` (1225–1274), the Dominican theologian and philosopher whose commentaries on Aristotle and Boethius established the classical doctrine of mathematical abstraction (*abstractio formae*), intelligible matter (*materia intelligibilis*), and the epistemic certitude of geometry.
 
 .. collection::
