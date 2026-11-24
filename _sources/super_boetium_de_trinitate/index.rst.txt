@@ -11,7 +11,8 @@
 :series: GEOMETOR Classical Canon · Critical Multi-Track Codex
 :publisher: GEOMETOR Scriptorium (ex Editionibus Leonina, Marietti et Decker)
 :location: Pompaelone / Romae / Taurini
-:year: c. 1257–1259
+:year: 1257
+:year_label: ca. 1257–1259
 :tracks: English: index | Latin: title-la
 :excerpt: Aquinas's foundational treatise on the division of speculative science, distinguishing mathematical abstraction of form (abstractio formae) and intelligible matter from metaphysical separation (separatio), and establishing why mathematical judgment terminates at the imagination.
 

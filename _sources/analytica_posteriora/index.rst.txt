@@ -11,7 +11,8 @@
 :series: GEOMETOR Classical Canon · Critical Multi-Track Codex
 :publisher: GEOMETOR Scriptorium (ex Editionibus Leonina, Marietti et Decker)
 :location: Pompaelone / Romae / Taurini
-:year: c. 1270–1272
+:year: 1270
+:year_label: ca. 1270–1272
 :tracks: English: index | Latin: title-la
 :excerpt: Aquinas's exposition of Aristotle's theory of demonstration: supreme certitude in mathematics, subject-genus vs proper attributes, common conceptions vs postulates, why geometers do not demonstrate of dust diagrams, and the genesis of first principles from experience.
 

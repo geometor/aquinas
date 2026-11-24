@@ -11,7 +11,8 @@
 :series: GEOMETOR Classical Canon · Critical Multi-Track Codex
 :publisher: GEOMETOR Scriptorium (ex Editionibus Leonina, Marietti et Decker)
 :location: Pompaelone / Romae / Taurini
-:year: c. 1267–1268
+:year: 1267
+:year_label: ca. 1267–1268
 :tracks: English: index | Latin: title-la
 :excerpt: Aquinas's psychological foundations for mathematics: why the human soul never understands without turning to phantasms (conversio ad phantasmata), the distinction between physical flesh/bone and spatial continuum, and the hand as organ of organs.
 
