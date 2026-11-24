@@ -11,7 +11,8 @@
 :series: GEOMETOR Classical Canon · Critical Multi-Track Codex
 :publisher: GEOMETOR Scriptorium (ex Editionibus Leonina, Marietti et Decker)
 :location: Pompaelone / Romae / Taurini
-:year: c. 1270–1272
+:year: 1270
+:year_label: ca. 1270–1272
 :tracks: English: index | Latin: title-la
 :excerpt: Aquinas's metaphysical pinnacle of geometric epistemology: individual vs common intelligible matter, the derivation of actuality from motion, and the famous revelation of heuristic discovery: geometers discover truth by dividing figures in act (Euclid I.32 and III.31).
 

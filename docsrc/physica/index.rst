@@ -11,7 +11,8 @@
 :series: GEOMETOR Classical Canon · Critical Multi-Track Codex
 :publisher: GEOMETOR Scriptorium (ex Editionibus Leonina, Marietti et Decker)
 :location: Pompaelone / Romae / Taurini
-:year: c. 1268–1273
+:year: 1268
+:year_label: ca. 1268–1273
 :tracks: English: index | Latin: title-la
 :excerpt: Aquinas's physical doctrine on mathematical entities: abstrahentium non est mendacium (no falsehood in abstraction), immobile place grounding rigid translation, the impossibility of composing a continuum from indivisible points, and three-dimensional magnitude.
 

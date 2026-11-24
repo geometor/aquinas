@@ -11,7 +11,8 @@
 :series: GEOMETOR Classical Canon · Critical Multi-Track Codex
 :publisher: GEOMETOR Scriptorium (ex Editionibus Leonina, Marietti et Decker)
 :location: Pompaelone / Romae / Taurini
-:year: c. 1256–1273
+:year: 1256
+:year_label: ca. 1256–1273
 :tracks: English: index | Latin: title-la
 :excerpt: Aquinas's mature theological syntheses: Ipsum Esse as the actuality of all acts, the geometer's infinite line, turning to phantasms in the Summa Theologiae, and the origin of indemonstrable principles in De Potentia and De Veritate.
 
