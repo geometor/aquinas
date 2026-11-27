@@ -118,22 +118,6 @@ Table of Contents
    :sort: order
 
 .. toctree::
-   :hidden:
-   :maxdepth: 2
-
-   lect_01/index
-   lect_02/index
-   lect_03/index
-   lect_04/index
-   lect_05/index
-   lect_06/index
-   lect_07/index
-   lect_08/index
-   lect_09/index
-   lect_10/index
-   lect_11/index
-
-.. toctree::
    :maxdepth: 1
    :hidden:
    :caption: Title Pages

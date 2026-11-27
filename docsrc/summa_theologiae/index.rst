@@ -113,15 +113,6 @@ Table of Contents
    :sort: order
 
 .. toctree::
-   :hidden:
-   :maxdepth: 2
-
-   art_01/index
-   art_02/index
-   art_03/index
-   art_04/index
-
-.. toctree::
    :maxdepth: 1
    :hidden:
    :caption: Title Pages
