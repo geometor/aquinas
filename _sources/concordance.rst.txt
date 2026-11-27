@@ -29,7 +29,7 @@ Cites St. Thomas Aquinas across 78 distinct locus keys to establish that geometr
 geometor-pacioli — Fra Luca Pacioli, O.F.M., De Divina Proportione (Venice: Paganino Paganini, 1509), Pars I, Capp. II–VII
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Echoes the Aristotelian-Thomistic hierarchy of speculative sciences (*Super Boetium De Trinitate* qq. 5–6 and *Posterior Analytics* I.1): mathematical science stands in the *primo grado di certezza* ('first degree of certainty'), abstracting continuous and discrete quantity to contemplate the Divine Proportion ($\phi$) and the five regular Platonic solids.
+Echoes the Aristotelian-Thomistic hierarchy of speculative sciences (*Super Boetium De Trinitate* qq. 5–6 and *Posterior Analytics* I.1): mathematical science stands in the *primo grado di certezza* ('first degree of certainty'), abstracting continuous and discrete quantity to contemplate the Divine Proportion (:math:`\phi`) and the five regular Platonic solids.
 
 geometor-euclid / geometor-elements — Euclid, Elements (Books I–XIII; Byrne 1847 color diagrams & symbolic DAGs)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -940,7 +940,7 @@ aquinas:met:5.9 — 5.9
 * **Codex Edition**: Unabridged in :ref:`English (pars-5) <pars-5-s1-en>` · :ref:`Diplomatic Latin <pars-5-s1-la>`
 * **Cited in Hoenen (1954)**: Appendix p. 284 (``Met. V l. 9``)
 * **Hoenen's Doctrinal Argument**: Distinguishes the fourfold sense of *ens*: *per accidens*, *per se* in the ten categories, *ens ut verum* signified by the judgmental copula (using the diagonal's incommensurability with the side as prime example!), and *actus/potentia*.
-* **GEOMETOR Architectural Significance**: Connects quadratic irrationality ($\sqrt{2}$ in the square diagonal, $\sqrt{5}$ in the golden ratio) directly to Thomistic propositional truth!
+* **GEOMETOR Architectural Significance**: Connects quadratic irrationality (:math:`\sqrt{2}` in the square diagonal, :math:`\sqrt{5}` in the golden ratio) directly to Thomistic propositional truth!
 
 .. _conc-aquinas-met-5-9-890:
 
@@ -1057,7 +1057,7 @@ aquinas:met:X.2.1938 — X.2.1938
 * **Codex Status**: Complementary Metaphysical / Logical Locus
 * **Cited in Hoenen (1954)**: Caput VI p. 216 (``l. 2 n. 1938``)
 * **Hoenen's Doctrinal Argument**: Analyzes the nature of quantitative measure (*mensura*): while arithmetic measures by an absolutely indivisible unit, continuous geometry posits a conventional unit foot and discovers magnitudes (like the diagonal) measurable only across two incommensurable dimensions.
-* **GEOMETOR Architectural Significance**: Directly explains why GEOMETOR begins from two initial points `(0, 0)` and `(1, 0)` establishing the unit segment, from which $\sqrt{2}$, $\sqrt{3}$, and $\phi$ emerge.
+* **GEOMETOR Architectural Significance**: Directly explains why GEOMETOR begins from two initial points `(0, 0)` and `(1, 0)` establishing the unit segment, from which :math:`\sqrt{2}`, :math:`\sqrt{3}`, and :math:`\phi` emerge.
 
 .. _conc-aquinas-met-xi-11-2370:
 
@@ -1206,7 +1206,7 @@ aquinas:phys:V.2.8 — V.2.8
 * **Codex Status**: Complementary Metaphysical / Logical Locus
 * **Cited in Hoenen (1954)**: Appendix p. 251 (``i. h. l. lect. 2 n. 8``)
 * **Hoenen's Doctrinal Argument**: Shows that there is no *per se* motion in the category of Substance or Relation (nor in abstract mathematical forms as such), but only in Quantity, Quality, and *Ubi*.
-* **GEOMETOR Architectural Significance**: Confirms that proportional relations (such as $\phi$) are invariant relational truths rather than mutable processes.
+* **GEOMETOR Architectural Significance**: Confirms that proportional relations (such as :math:`\phi`) are invariant relational truths rather than mutable processes.
 
 .. _conc-aquinas-phys-v-2-9:
 

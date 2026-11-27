@@ -18,7 +18,7 @@ Modern dynamic geometry systems typically split into two disconnected worlds: nu
      - Computational Realization in GEOMETOR
    * - *Materia intelligibilis* (continuous spatial extension free of sensible noise)
      - *Super Boetium De Trinitate* q. 5, a. 3; *In VII Metaph.* lect. 10–11
-     - ``geometor.model``: exact algebraic points, lines, and circles over SymPy polynomial/radical fields ($\sqrt{2}, \sqrt{3}, \phi$)
+     - ``geometor.model``: exact algebraic points, lines, and circles over SymPy polynomial/radical fields (:math:`\sqrt{2}, \sqrt{3}, \phi`)
    * - *Conversio ad phantasmata* & *terminari ad imaginationem*
      - *In III De Anima* lect. 12 (#777); *Super Boetium De Trinitate* q. 6, a. 2
      - ``geometor.explorer``: determinate SVG rendering & interactive visual inspection of exact constructions
